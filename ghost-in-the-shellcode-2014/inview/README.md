@@ -1,0 +1,15 @@
+# Ghost in the Shellcode 2014: inview
+
+**Category:** Trivia
+**Points:** 150
+**Description:**
+
+> The key is in view, what is it? [File](https://2014.ghostintheshellcode.com/inview-324b8fb59c14da0d5ca1fe2c31192d80cec8e155)
+
+## Write-up
+
+(TODO)
+
+## Other write-ups
+
+* <http://digitaloperatives.blogspot.com/2014/01/ghost-in-shellcode-2014-trivia-150.html>
