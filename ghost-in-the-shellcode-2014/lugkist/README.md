@@ -27,3 +27,4 @@ Then, … (TODO)
 
 * <http://commandlinewani.blogspot.com/2014/01/ghostintheshellcode-write-up-lugkist.html>
 * <http://blog.zachorr.com/lugkist/>
+* <https://systemoverlord.com/blog/2014/01/19/ghost-in-the-shellcode-2014-lugkist/>
