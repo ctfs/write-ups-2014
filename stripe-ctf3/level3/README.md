@@ -19,5 +19,6 @@ One solution is to implement a path-sharded in-memory scan.
 ## Other write-ups or solutions
 
 * <http://muehe.org/posts/stripe-ctf-3-writeup/>
+* <http://tullo.ch/articles/stripe-ctf-golfing/>
 * <https://github.com/henrik-muehe/level3>
 * <https://github.com/metcalf/ctf3/tree/master/level3>

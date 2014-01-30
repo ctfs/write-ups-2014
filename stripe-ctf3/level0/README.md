@@ -84,6 +84,7 @@ For more points, you could implement a [trie](http://en.wikipedia.org/wiki/Trie)
 ## Other write-ups or solutions
 
 * <http://abiusx.com/stripe-ctf-v3-writeup/>
+* <http://tullo.ch/articles/stripe-ctf-golfing/>
 * <http://muehe.org/posts/stripe-ctf-3-writeup/>
 * <https://github.com/henrik-muehe/level0>
 * <https://github.com/metcalf/ctf3/tree/master/level0>

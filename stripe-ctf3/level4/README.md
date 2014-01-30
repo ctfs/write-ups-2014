@@ -26,6 +26,7 @@ One solution would be to add [the Go implementation of the Raft distributed cons
 
 ## Other write-ups or solutions
 
+* <http://tullo.ch/articles/stripe-ctf-golfing/>
 * <http://muehe.org/posts/stripe-ctf-3-writeup/>
 * <https://github.com/henrik-muehe/level4>
 * <https://github.com/metcalf/ctf3/tree/master/level4>
