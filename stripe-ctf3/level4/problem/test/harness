@@ -1,0 +1,88 @@
+#!/usr/bin/env python
+
+import os.path
+import subprocess
+
+# From this package
+import lib.error as error
+import lib.http_client as http_client
+import lib.test_framework as test_framework
+import lib.util as util
+
+import runner as runner
+
+# Deprecated in 2.7 in favor of argparse but not yet removed.
+from optparse import OptionParser
+
+class Harness(test_framework.AbstractHarness):
+    LEVEL = 4
+    VERSION = 1
+    DEFAULT_TEST_CASES = [
+        "level4-4aBG47QsMH",
+        "level4-w1wd6vKEdP",
+        "level4-v78vK7yB8r",
+        "level4-xf7r0HtxtI",
+        "level4-wz0tHTWYSr"
+        ]
+    OCTOPUS = "github.com/stripe-ctf/octopus"
+    # TODO: potentially deal with upgrades
+    OCTOPUS_BINARY = "octopus"
+
+    def hook_create_runner(self):
+        return runner.Runner({})
+
+    def execute(self, test_cases_to_execute):
+        if not test_cases_to_execute:
+            msg = ("No test cases to execute! This means that your client "
+                   "failed to download test cases.")
+            raise StandardError(msg)
+        runner = self.hook_create_runner()
+
+        basedir = os.path.dirname(__file__)
+        version_file = os.path.join(basedir, "data/octopus.version")
+        try:
+            f = open(version_file)
+            version = f.read()
+            f.close()
+            if int(version) == self.VERSION:
+                octopus_state = "current"
+            else:
+                octopus_state = "obsolete"
+        except (IOError, ValueError):
+            octopus_state = "absent"
+
+        if octopus_state != "current":
+            if octopus_state == "absent":
+                util.logger.info("Downloading Octopus, your friendly network simulator (https://%s)..." % (self.OCTOPUS, ))
+                subprocess.check_call(["go", "get", "-d", self.OCTOPUS])
+            else:
+                util.logger.info("Your Octopus is out of date. Autoupgrading (also upgrading dependencies, so this might take a while)..." % (self.OCTOPUS, ))
+                subprocess.check_call(["go", "get", "-d", "-u", self.OCTOPUS])
+            subprocess.check_call(["go", "build", "-o", self.OCTOPUS_BINARY, self.OCTOPUS],
+                                  cwd=basedir)
+            f = open(version_file, "w")
+            f.write(str(self.VERSION))
+            f.write("\n")
+            f.close()
+
+        subprocess.check_call(["./build.sh", "-q"], cwd=os.path.join(basedir, ".."))
+
+        for test_case in test_cases_to_execute:
+            runner.run_test_case(test_case.json)
+
+def main():
+    default_options = {"task": "execute"}
+    usage = "usage: %prog [options] [test case URL or id]"
+    parser = OptionParser(usage=usage)
+    (options, args) = parser.parse_args()
+    options_dict = vars(options)
+
+    for key in default_options:
+        options_dict.setdefault(key, default_options[key])
+
+    harness = Harness(args, options_dict)
+    harness.run()
+
+if __name__ == "__main__":
+  main()
+
