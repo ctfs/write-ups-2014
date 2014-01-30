@@ -1,0 +1,10 @@
+#!/bin/sh
+test -f ~/.sbtconfig && . ~/.sbtconfig
+
+JAR_PATH="$(dirname "$0")/sbt-launch.jar"
+
+if [ ! -f $JAR_PATH ]; then
+  echo "Uh oh."
+fi
+
+exec java -Xmx512M ${SBT_OPTS} -Dsbt.log.format=false -jar "$JAR_PATH" "$@"

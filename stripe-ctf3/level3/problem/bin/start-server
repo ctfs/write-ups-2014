@@ -1,0 +1,26 @@
+#!/bin/sh
+
+set -eu
+
+jar_path="$(dirname "$0")/../level3.jar"
+sbt_path="$(dirname "$0")/../dependencies/sbt"
+
+if [ -f "$jar_path" ]; then
+  echo "$0: $jar_path is built; running the jar"
+  set -x
+  exec java -DFile.encoding=UTF8 -DUser.timezone=UTC -Xmx256m -jar "$jar_path" "--server" "$@"
+else
+  echo "$0: $jar_path is not built"
+  echo "$0: starting processes with SBT"
+
+  if [ -f "$sbt_path" ]; then
+    set -x
+    exec "$sbt_path" "run --server $*"
+  else
+    echo >&2 "$0: could not find sbt at $sbt_path"
+    echo >&2 "$0: it looks like you deleted $sbt_path"
+    echo >&2 "$0: you need it for this level"
+
+    exit 1
+  fi
+fi
