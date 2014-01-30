@@ -119,4 +119,6 @@ Success :)
 
 ## Other write-ups or solutions
 
+* <http://muehe.org/posts/stripe-ctf-3-writeup/>
+* <https://github.com/henrik-muehe/level1>
 * [Solution in C/CUDA](https://github.com/metcalf/ctf3/tree/master/level1)

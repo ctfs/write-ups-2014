@@ -18,4 +18,6 @@ One solution is to implement a path-sharded in-memory scan.
 
 ## Other write-ups or solutions
 
+* <http://muehe.org/posts/stripe-ctf-3-writeup/>
+* <https://github.com/henrik-muehe/level3>
 * <https://github.com/metcalf/ctf3/tree/master/level3>
