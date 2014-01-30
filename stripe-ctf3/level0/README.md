@@ -66,7 +66,7 @@ index f320a7d..1333337 100755
      "<#{word}>"
 ```
 
-This solution is already faster than the reference solution:
+[This solution](https://github.com/ctfs/write-ups/blob/master/stripe-ctf3/level0/level0) is already faster than the reference solution:
 
 ```bash
 $ ./test/harness

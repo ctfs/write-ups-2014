@@ -1,0 +1,46 @@
+#!/usr/bin/env python
+
+import subprocess
+
+# From this package
+import runner
+import lib.test_framework
+
+# Deprecated in 2.7 in favor of argparse but not yet removed.
+from optparse import OptionParser
+
+class Harness(lib.test_framework.AbstractHarness):
+    LEVEL = 2
+    VERSION = 1
+    DEFAULT_TEST_CASES = [
+        "level2-aUSeyGpde8",
+        "level2-x9NNVGpudm",
+        "level2-SqSgpc5BeY",
+        "level2-Fi8KAtxHBe",
+        "level2-DsuFanfu0x"
+    ]
+
+    def __init__(self, ids_or_urls=[], options={}):
+        super(Harness, self).__init__(ids_or_urls, options)
+
+    def hook_create_runner(self):
+        return runner.Runner({})
+
+def main():
+    default_options = {"task": "execute", "raw": False}
+    usage = "usage: %prog [options] [test case URL or id]"
+    parser = OptionParser(usage=usage)
+    parser.add_option("-r", "--raw", action="store_true", dest="raw", help="Print the raw output of your solution.")
+    (options, args) = parser.parse_args()
+    options_dict = vars(options)
+
+    for key in default_options:
+        if options_dict.get(key) == None:
+            options_dict[key] = default_options[key]
+
+    harness = Harness(args, options_dict)
+    harness.run()
+
+if __name__ == "__main__":
+  main()
+

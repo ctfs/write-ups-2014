@@ -1,0 +1,19 @@
+{
+  "name": "stripectf3-level2-ddos",
+  "version": "0.1.0",
+  "description": "Stripe CTF-3: Distributed Systems. Balance distributed traffic.",
+  "main": "shield",
+  "scripts": {
+    "test": "echo \"No tests supplied.\" && exit 1"
+  },
+  "author": {
+    "name": "Christian Anderson"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "http-proxy": "*",
+    "nopt": "*",
+    "underscore": "*",
+    "seed-random": "*"
+  }
+}
