@@ -30,3 +30,4 @@ One solution would be to add [the Go implementation of the Raft distributed cons
 * <http://muehe.org/posts/stripe-ctf-3-writeup/>
 * <https://github.com/henrik-muehe/level4>
 * <https://github.com/metcalf/ctf3/tree/master/level4>
+* <https://github.com/rrjamie/stripe-ctf-level4>
