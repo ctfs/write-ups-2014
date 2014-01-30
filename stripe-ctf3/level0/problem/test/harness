@@ -1,0 +1,94 @@
+#!/usr/bin/env python
+
+import hashlib
+import os.path
+import sys
+
+# From this package
+import lib.error as error
+import lib.http_client as http_client
+import lib.test_framework as test_framework
+import lib.util as util
+import runner
+
+# Deprecated in 2.7 in favor of argparse but not yet removed.
+from optparse import OptionParser
+
+class Harness(test_framework.AbstractHarness):
+    LEVEL = 0
+    VERSION = 1
+    DEFAULT_TEST_CASES = [
+          "level0-R5ez7L9mIu",
+          "level0-HhC91MrU7B",
+          "level0-znKqYRKUDB",
+          "level0-ws8xCiPURG",
+          "level0-JjIHof09MH"
+        ]
+    DICTIONARY_SHA1 = '6b898d7c48630be05b72b3ae07c5be6617f90d8e'
+
+    def __init__(self, ids_or_urls=[], options={}):
+        self.dictionary_path = options.get("dictionary_path")
+        super(Harness, self).__init__(ids_or_urls, options)
+
+    def hook_preexecute(self):
+        self.configure_dictionary()
+
+    def hook_create_runner(self):
+        return runner.Runner({'dictionary_path': self.dictionary_path})
+
+    def sha1(self, input):
+        if sys.version_info >= (3,0) and not isinstance(input, bytes):
+            input = input.encode('utf-8')
+        return hashlib.sha1(input).hexdigest()
+
+    def configure_dictionary(self):
+        if self.dictionary_path:
+            return
+
+        default_dictionary_path = '/usr/share/dict/words'
+
+        try:
+            f = open(default_dictionary_path, "rb")
+        except IOError:
+            dictionary_sha1 = None
+        else:
+            dictionary_sha1 = self.sha1(f.read())
+            f.close()
+
+        if dictionary_sha1 == self.DICTIONARY_SHA1:
+            self.dictionary_path = default_dictionary_path
+        else:
+            self.dictionary_path = os.path.join(os.path.dirname(__file__), "data", "words-" + self.DICTIONARY_SHA1)
+            self.download_dictionary(self.dictionary_path)
+
+    def download_dictionary(self, dictionary_path):
+        if os.path.isfile(dictionary_path):
+            util.logger.debug('Not downloading dictionary to already-existing path: %s', dictionary_path)
+            return
+
+        url = "https://s3-us-west-2.amazonaws.com/stripe-ctf-3/level0-statics/words-%s" % self.DICTIONARY_SHA1
+        util.logger.info("Downloading dictionary. (This will happen once. It's 2.4M, so it may take a while...). URL: %s", url)
+        content = self.fetch_s3_resource(url)
+        if self.sha1(content) != self.DICTIONARY_SHA1:
+            raise error.StripeError("We tried to download the dictionary, but we got content with an unexpected hash. If this persists, please contact ctf@stripe.com")
+        f = open(dictionary_path, "w")
+        f.write(content)
+        f.close()
+
+def main():
+    default_options = {"task": "execute", "raw": False, "dictionary_path": None}
+    usage = "usage: %prog [options] [test case URL or id]"
+    parser = OptionParser(usage=usage)
+    parser.add_option("-r", "--raw", action="store_true", dest="raw", help="Print the raw output of your solution.")
+    parser.add_option("-p", "--dictionary-path", action="store", type="string", dest="dictionary_path")
+    (options, args) = parser.parse_args()
+    options_dict = vars(options)
+
+    for key in default_options:
+        options_dict.setdefault(key, default_options[key])
+
+    harness = Harness(args, options_dict)
+    harness.run()
+
+if __name__ == "__main__":
+  main()
