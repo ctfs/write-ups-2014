@@ -125,3 +125,4 @@ Success :)
 * <https://github.com/henrik-muehe/level1>
 * <https://github.com/xthexder/stripe-ctf-3.0>
 * [Solution in C/CUDA](https://github.com/metcalf/ctf3/tree/master/level1)
+* [Original problems including a modified test harness that works locally](https://github.com/janosgyerik/stripe-ctf3)
