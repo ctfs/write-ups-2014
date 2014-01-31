@@ -130,4 +130,5 @@ This netted me [a score of 251](https://stripe-ctf.com/achievements/mathias) for
 * <https://github.com/henrik-muehe/level2>
 * <https://github.com/metcalf/ctf3/tree/master/level2>
 * <https://github.com/xthexder/stripe-ctf-3.0>
+* <https://github.com/kratorius/stripe-ctf3/tree/master/level2>
 * [Original problems including a modified test harness that works locally](https://github.com/janosgyerik/stripe-ctf3)

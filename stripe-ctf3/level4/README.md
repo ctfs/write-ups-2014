@@ -33,4 +33,5 @@ One solution would be to add [the Go implementation of the Raft distributed cons
 * <https://github.com/metcalf/ctf3/tree/master/level4>
 * <https://github.com/rrjamie/stripe-ctf-level4>
 * <https://github.com/vinzenz/stripe-ctf3-solutions/tree/master/level4>
+* <https://github.com/kratorius/stripe-ctf3/tree/master/level4>
 * [Original problems including a modified test harness that works locally](https://github.com/janosgyerik/stripe-ctf3)
