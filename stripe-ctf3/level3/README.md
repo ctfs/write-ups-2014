@@ -23,4 +23,5 @@ One solution is to implement a path-sharded in-memory scan.
 * <https://github.com/henrik-muehe/level3>
 * <https://github.com/metcalf/ctf3/tree/master/level3>
 * <https://github.com/xthexder/stripe-ctf-3.0>
+* <https://github.com/vinzenz/stripe-ctf3-solutions/tree/master/level3>
 * [Original problems including a modified test harness that works locally](https://github.com/janosgyerik/stripe-ctf3)
