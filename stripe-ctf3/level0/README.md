@@ -88,3 +88,4 @@ For more points, you could implement a [trie](http://en.wikipedia.org/wiki/Trie)
 * <http://muehe.org/posts/stripe-ctf-3-writeup/>
 * <https://github.com/henrik-muehe/level0>
 * <https://github.com/metcalf/ctf3/tree/master/level0>
+* <https://github.com/xthexder/stripe-ctf-3.0>

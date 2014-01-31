@@ -22,3 +22,4 @@ One solution is to implement a path-sharded in-memory scan.
 * <http://tullo.ch/articles/stripe-ctf-golfing/>
 * <https://github.com/henrik-muehe/level3>
 * <https://github.com/metcalf/ctf3/tree/master/level3>
+* <https://github.com/xthexder/stripe-ctf-3.0>

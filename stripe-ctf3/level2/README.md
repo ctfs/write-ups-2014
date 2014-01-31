@@ -129,3 +129,4 @@ This netted me [a score of 251](https://stripe-ctf.com/achievements/mathias) for
 * <http://muehe.org/posts/stripe-ctf-3-writeup/>
 * <https://github.com/henrik-muehe/level2>
 * <https://github.com/metcalf/ctf3/tree/master/level2>
+* <https://github.com/xthexder/stripe-ctf-3.0>
