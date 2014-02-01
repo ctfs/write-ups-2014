@@ -25,6 +25,8 @@ Then, … (TODO)
 
 ## Other write-ups
 
-* <http://commandlinewani.blogspot.com/2014/01/ghostintheshellcode-write-up-lugkist.html>
 * <http://blog.zachorr.com/lugkist/>
+* <http://commandlinewani.blogspot.com/2014/01/ghostintheshellcode-write-up-lugkist.html>
+* <http://delogrand.blogspot.com/2014/01/ghost-in-shellcode-2014-trivia.html>
+* <http://tasteless.se/2014/01/gits-2014-lugkist-trivia-150>
 * <https://systemoverlord.com/blog/2014/01/19/ghost-in-the-shellcode-2014-lugkist/>
