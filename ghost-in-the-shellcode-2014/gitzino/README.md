@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `Twister? I hardly knew her`.
+
 ## Other write-ups
 
 * <http://ppp.cylab.cmu.edu/wordpress/?p=1140>

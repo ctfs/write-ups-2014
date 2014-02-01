@@ -18,6 +18,8 @@ So, extract the provided file using [p7zip](http://p7zip.sourceforge.net/):
 
 Then, … (TODO)
 
+The flag is `WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso`.
+
 ## Other write-ups
 
 * <https://systemoverlord.com/blog/2014/01/19/ghost-in-the-shellcode-2014-pillowtalk/>

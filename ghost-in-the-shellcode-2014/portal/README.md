@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `Cave Johnson hates Black Mesa`.
+
 ## Other write-ups/resources
 
 * <http://digitaloperatives.blogspot.com/2014/01/ghost-in-shellcode-2014-choose-your-pwn.html>

@@ -17,6 +17,8 @@ This can be done in several ways:
 
 That way, it’s possible to jump out of bounds on the regular map, which effectively teleports you to the moon.
 
+The flag is `Use a Tab, Space will leave you breathless`.
+
 ## Other write-ups
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>

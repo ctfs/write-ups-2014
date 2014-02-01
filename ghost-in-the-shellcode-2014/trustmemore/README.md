@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `OnlyDDTEKWouldDoSomethingThisEvil`.
+
 ## Other write-ups
 
 * <http://blog.zachorr.com/trustmemore/>

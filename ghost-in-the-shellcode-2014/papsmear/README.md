@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `ThesePrimesAreNotIllegal`.
+
 ## Other write-ups
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-papsmear-writeup.html>

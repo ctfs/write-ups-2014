@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `lol, tagged unions for the WIN!`.
+
 ## Other write-ups
 
 * <http://ppp.cylab.cmu.edu/wordpress/?p=1152>

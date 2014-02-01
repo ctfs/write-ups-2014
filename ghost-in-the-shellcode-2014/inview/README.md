@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `WhitespaceProgrammingIsHard`.
+
 ## Other write-ups
 
 * <http://digitaloperatives.blogspot.com/2014/01/ghost-in-shellcode-2014-trivia-150.html>

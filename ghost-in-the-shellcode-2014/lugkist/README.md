@@ -23,6 +23,8 @@ Alternatively, extract the provided file using [p7zip](http://p7zip.sourceforge.
 
 Then, … (TODO)
 
+The flag is `Power overwhelming? Back in my day cheats did not have spaces.`.
+
 ## Other write-ups
 
 * <http://blog.zachorr.com/lugkist/>

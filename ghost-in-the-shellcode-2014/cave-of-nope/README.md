@@ -14,6 +14,8 @@ Crossing the gap can only be done after hacking the game files and increasing th
 
 To avoid getting killed by the Spider Queen, you could hack the _Wine_ item modifier, so that drinking wine makes you invulnerable (instead of just slightly boosting your damage resistance).
 
+The flag is `At least it wasnt full of Creepers`.
+
 ## Other write-ups
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>

@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `ShibeSuchDictionaryAttacksWow`.
+
 ## Other write-ups
 
 * <http://commandlinewani.blogspot.com/2014/01/ghostintheshellcode-write-up-dogecrypt.html>

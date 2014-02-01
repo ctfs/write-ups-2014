@@ -16,6 +16,8 @@ In the _Choose Your Pwn Adventure 2_ game, the following additional hint is give
 
 (TODO)
 
+The flag is `ASTARISBOARN`.
+
 ## Other write-ups
 
 * <http://nopsrus.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>

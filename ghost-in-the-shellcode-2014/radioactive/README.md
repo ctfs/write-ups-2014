@@ -109,6 +109,8 @@ Waiting for command:
 Welcom3ToTheNewAgeItsARevolutionISuppose
 ```
 
+The flag is `Welcom3ToTheNewAgeItsARevolutionISuppose`.
+
 ## Other write-ups
 
 * <https://systemoverlord.com/blog/2014/01/19/ghost-in-the-shellcode-2014-radioactive/>

@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `ZombieProcessesWillEatYourBrains`.
+
 ## Other write-ups
 
 * <http://tasteless.se/2014/01/gits-2014-a-boaring-quest-pwn-adventure-150/>

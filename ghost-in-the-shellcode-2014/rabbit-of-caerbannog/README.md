@@ -14,6 +14,8 @@ Reading the code reveals that it can only be killed using a _Holy Hand Grenade_,
 
 However, you can get them by triggering an integer overflow. Try to buy 999,999,999 Holy Hand Grenades at once, and this will give you lots of grenades and lots of gears, too.
 
+The flag is `Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it`.
+
 ## Other write-ups
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>

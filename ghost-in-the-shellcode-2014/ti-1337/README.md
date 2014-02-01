@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `WhyDidTheChickenCrossTheMobiusStrip`.
+
 ## Other write-ups
 
 * <http://www.ctf.dk/gits-2014-ti-1337>
