@@ -38,13 +38,13 @@ TODO: add support for "help" and "dump" functions
 */
 ```
 
-When using the `dump` function, the server returns an HTML document containing the syntax-highlighted source code of the PHP script:
+When using the `dump` function, the server returns an HTML document containing the syntax-highlighted source code of [the PHP script](https://github.com/ctfs/write-ups/blob/master/ghost-in-the-shellcode-2014/phpcrypto/source.php):
 
 ```bash
 $ curl http://phpcrypto.2014.ghostintheshellcode.com/crypto.php --data 'function=dump' > source.html
 ```
 
-In some cases the `customCrypto` function ends up in a code path where [`assert()`](http://php.net/assert) is executed:
+In some cases [the `customCrypto` function](https://github.com/ctfs/write-ups/blob/af43d4f482f869c9c3ba5a0c0bd88e57adf0f39e/ghost-in-the-shellcode-2014/phpcrypto/source.php#L68-L130) ends up in a code path where [`assert()`](http://php.net/assert) is executed:
 
 ```php
 assert("\$message = \"ERROR! xorKey is: \".strlen(\$xorKey).\" bytes long and the plaintext is: \".strlen($plaintext).\" bytes long.\";");
