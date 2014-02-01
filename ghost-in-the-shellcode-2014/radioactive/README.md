@@ -88,6 +88,28 @@ else:
 
 It turns out the line `good = False` (and two trailing newlines) are their own 16-byte block. We can append `good = True \n\n` to reset it to the value of `True`, and append it a second time to get our tag to come out correctly. Then we can simply provide `self.request.send(open('key').read())` when we receive our “Send command to `eval`:” prompt, and this got our flag.
 
+Alternatively, because of a bug in the signature checking, we can just send the base64-encoded payload as long as we provide an empty tag:
+
+```bash
+$ base64 <<< "self.request.send(open('key').read())"
+c2VsZi5yZXF1ZXN0LnNlbmQob3Blbigna2V5JykucmVhZCgpKQo=
+
+$ echo ':c2VsZi5yZXF1ZXN0LnNlbmQob3Blbigna2V5JykucmVhZCgpKQo=' | nc -v radioactive.2014.ghostintheshellcode.com 4324
+found 0 associations
+found 1 connections:
+     1: flags=82<CONNECTED,PREFERRED>
+    outif en0
+    src 192.168.107.131 port 59275
+    dst 107.20.236.180 port 4324
+    rank info not available
+    TCP aux info available
+
+Connection to radioactive.2014.ghostintheshellcode.com port 4324 [tcp/*] succeeded!
+Waiting for command:
+Welcom3ToTheNewAgeItsARevolutionISuppose
+```
+
 ## Other write-ups
 
 * <https://systemoverlord.com/blog/2014/01/19/ghost-in-the-shellcode-2014-radioactive/>
+* <http://tasteless.se/2014/01/gits-2014-radioactive-crypto-250/>
