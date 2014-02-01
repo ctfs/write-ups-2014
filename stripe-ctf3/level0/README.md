@@ -1,8 +1,8 @@
 # Stripe CTF3: level0
 
-**Description:**
+## Challenge
 
-> Your challenge is to make this code run much faster, without altering its output. In particular, you need to get it running at least as fast as our reference solution — when you submit a revision, we’ll tell you how our solution compares.
+Your challenge is to make [this code](https://github.com/ctfs/write-ups/blob/master/stripe-ctf3/level0/problem/level0) run much faster, without altering its output. In particular, you need to get it running at least as fast as our reference solution — when you submit a revision, we’ll tell you how our solution compares.
 
 ## Write-up
 
