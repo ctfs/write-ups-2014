@@ -29,9 +29,14 @@ One solution would be to add [the Go implementation of the Raft distributed cons
 * [Top-scoring solution for this challenge (see “`level5`”)](https://github.com/xthexder/stripe-ctf-3.0)
 * <http://tullo.ch/articles/stripe-ctf-golfing/>
 * <http://muehe.org/posts/stripe-ctf-3-writeup/>
+* [Gibybo’s write-up](https://news.ycombinator.com/item?id=7180991)
+* [Jon Eisen’s write-up](http://blog.joneisen.me/post/75008410654)
+* [Evan Priestley’s write-up](http://blog.phacility.com/post/stripe_ctf3/)
 * <https://github.com/henrik-muehe/level4>
 * <https://github.com/metcalf/ctf3/tree/master/level4>
 * <https://github.com/rrjamie/stripe-ctf-level4>
 * <https://github.com/vinzenz/stripe-ctf3-solutions/tree/master/level4>
 * <https://github.com/kratorius/stripe-ctf3/tree/master/level4>
+* <https://github.com/lericson/stripe-ctf3/tree/level4>
+* <https://github.com/yanatan16/stripe-ctf3-level4>
 * [Original problems including a modified test harness that works locally](https://github.com/janosgyerik/stripe-ctf3)

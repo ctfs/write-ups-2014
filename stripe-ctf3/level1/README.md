@@ -122,8 +122,13 @@ Success :)
 * <http://abiusx.com/stripe-ctf-v3-writeup/>
 * <http://tullo.ch/articles/stripe-ctf-golfing/>
 * <http://muehe.org/posts/stripe-ctf-3-writeup/>
+* [Gibybo’s write-up](https://news.ycombinator.com/item?id=7180991)
+* [Jon Eisen’s write-up](http://blog.joneisen.me/post/75008410654)
+* [Evan Priestley’s write-up](http://blog.phacility.com/post/stripe_ctf3/)
 * <https://github.com/henrik-muehe/level1>
 * <https://github.com/xthexder/stripe-ctf-3.0>
 * <https://github.com/kratorius/stripe-ctf3/tree/master/level1>
+* <https://github.com/lericson/stripe-ctf3/tree/level1>
+* [Solution in Haskell](https://gist.github.com/yanatan16/a4517f4804166855c58a)
 * [Solution in C/CUDA](https://github.com/metcalf/ctf3/tree/master/level1)
 * [Original problems including a modified test harness that works locally](https://github.com/janosgyerik/stripe-ctf3)
