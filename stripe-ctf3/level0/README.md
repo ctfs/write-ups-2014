@@ -89,6 +89,7 @@ For more points, you could implement a [trie](http://en.wikipedia.org/wiki/Trie)
 * [Gibybo’s write-up](https://news.ycombinator.com/item?id=7180991)
 * [Jon Eisen’s write-up](http://blog.joneisen.me/post/75008410654)
 * [Evan Priestley’s write-up](http://blog.phacility.com/post/stripe_ctf3/)
+* [Samuel Walker’s write-up](http://www.samuelwalker.me.uk/2014/01/stripe-ctf3-write-up/)
 * [@paraboul’s 3rd place solution](https://gist.github.com/paraboul/8735537)
 * <https://github.com/henrik-muehe/level0>
 * <https://github.com/metcalf/ctf3/tree/master/level0>

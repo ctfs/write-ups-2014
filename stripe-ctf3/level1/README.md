@@ -125,6 +125,7 @@ Success :)
 * [Gibybo’s write-up](https://news.ycombinator.com/item?id=7180991)
 * [Jon Eisen’s write-up](http://blog.joneisen.me/post/75008410654)
 * [Evan Priestley’s write-up](http://blog.phacility.com/post/stripe_ctf3/)
+* [Samuel Walker’s write-up](http://www.samuelwalker.me.uk/2014/01/stripe-ctf3-write-up/)
 * <https://github.com/henrik-muehe/level1>
 * <https://github.com/xthexder/stripe-ctf-3.0>
 * <https://github.com/kratorius/stripe-ctf3/tree/master/level1>
