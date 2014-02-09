@@ -1,6 +1,6 @@
 # Olympic CTF 2014: Echof
 
-**Category:** Nopsleigh
+**Category:** Nopsleigh (Pwn)
 **Points:** 300
 **Author:** hellman
 **Description:**

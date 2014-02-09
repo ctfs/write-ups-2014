@@ -1,6 +1,6 @@
 # Olympic CTF 2014: Welcome to Forensics
 
-**Category:** Freestyle
+**Category:** Freestyle (Misc.)
 **Points:** 500
 **Author:** vos
 **Description:**

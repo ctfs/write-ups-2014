@@ -1,6 +1,6 @@
 # Olympic CTF 2014: GuessGame
 
-**Category:** Figure Crypting
+**Category:** Figure Crypting (Crypto)
 **Points:** 300
 **Author:** hellman
 **Description:**

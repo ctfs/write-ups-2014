@@ -1,6 +1,6 @@
 # Olympic CTF 2014: Illegal Radio
 
-**Category:** Freestyle
+**Category:** Freestyle (Misc.)
 **Points:** 300
 **Author:** psb
 **Description:**
