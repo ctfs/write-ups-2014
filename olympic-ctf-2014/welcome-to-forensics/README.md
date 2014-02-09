@@ -15,4 +15,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://blog.dragonsector.pl/2014/02/olympic-ctf-2014-welcome-to-forensics.html>
