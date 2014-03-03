@@ -1,0 +1,54 @@
+# DEFKTHON CTF: Miscellaneous 300
+
+**Description:**
+
+> [Check This](73168.zip)
+
+## Write-up
+
+The provided [`73168.zip`](73168.zip) file is password-protected. Cracking the password using `fcrackzip` reveals that an all-numeric password was used, and that the zip file contains another password-protected zip file, which in turn contains another password-protected zip file, etc.
+
+Let’s write a script that recursively cracks and extracts the zip files:
+
+```bash
+#!/usr/bin/env bash
+
+while [ -e *.zip ]; do
+  files=*.zip;
+  for file in $files; do
+    echo -n "Cracking ${file}… ";
+    output="$(fcrackzip -u -l 1-6 -c '1' *.zip | tr -d '\n')";
+    password="${output/PASSWORD FOUND\!\!\!\!: pw == /}";
+    if [ -z "${password}" ]; then
+      echo "Failed to find password";
+      break 2;
+    fi;
+    echo "Found password: \`${password}\`";
+    unzip -q -P "${password}" "$file";
+    rm "${file}";
+  done;
+done;
+```
+
+Leave it running for a while, and you’ll end up with `12475.zip`, a zip file with a slightly more complex password. Let’s crack it:
+
+```bash
+$ fcrackzip -u -l 1-6 -c 'a1' 12475.zip
+PASSWORD FOUND!!!!: pw == b0yzz
+```
+
+The password is `b0yzz`. Let’s unzip:
+
+```bash
+$ unzip -q -P b0yzz 12475.zip
+```
+
+We end up a file named [`mess.wav`](mess.wav). Open it in a sound editor like Audacity, and view the sound waves as a spectrogram.
+
+![](flag.jpg)
+
+It reveals the text `BallsRealBolls`, which is the flag.
+
+## Other write-ups
+
+* none yet
