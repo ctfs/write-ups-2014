@@ -20,7 +20,7 @@ Error: Object Not Found - missing (GET /astro_users/test []) (errcode=404)
 
 [This error message format](https://www.google.com/search?q="%22Object%20Not%20Found%20-%20missing%22") is a hint that CouchDB is used.
 
-CouchDB has [an `_all_docs` endpoint](http://couchdb.readthedocs.org/en/latest/api/database/bulk-api.html#get--db-_all_docs)) that returns a list of all available documents in the database, in JSON format. [Let’s take a look](http://54.201.96.212:888/web400/web_search.php?submit=Submit&search=_all_docs):
+CouchDB has [an `_all_docs` endpoint](http://couchdb.readthedocs.org/en/latest/api/database/bulk-api.html#get--db-_all_docs) that returns a list of all available documents in the database, in JSON format. [Let’s take a look](http://54.201.96.212:888/web400/web_search.php?submit=Submit&search=_all_docs):
 
 ```
 stdClass Object
