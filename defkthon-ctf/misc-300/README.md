@@ -49,6 +49,26 @@ We end up a file named [`mess.wav`](mess.wav). Open it in a sound editor like Au
 
 It reveals the text `BallsRealBolls`, which is the flag.
 
-## Other write-ups
+## Alternative approach
 
+An alternative way to come up with the passwords for all the intermediate zips, is by using ```unzip -l``` to list
+the compressed file's filename: 
+
+```bash
+#!/bin/bash
+
+f=$1
+
+while test -e $f; do 
+    mv $f _a.zip
+    p=$(unzip -l _a.zip |grep -v Archive|grep zip | awk '{print $NF}' | sed 's:\.zip::'|head -1)
+    echo "File = '_a.zip', password = '$p'"
+    unzip -P "$p" _a.zip
+
+    f=$p.zip
+    ls -l $f
+done
+```
+
+## Other write-ups
 * none yet
