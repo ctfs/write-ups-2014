@@ -6,37 +6,36 @@
 
 ## Write-up
 
-The given textfile contains tuples of 3 comma-separated values on each line. This looks like an image with given RGB values.
+The provided `flag.txt` file contains tuples of three comma-separated values on each line. This looks like an image with given RGB values.
 
 In total, there are 61366 lines:
 
 ```bash
-$ wc -l flag.txt 
-   61366 flag.txt
+$ wc -l flag.txt
+61366 flag.txt
 ```
 
-The dimensions of the image are dividers of this number, so possibly: 1, 2, 61, 122, 503, 1006, 30683, 61366.
-The most likely image size is 122x503 or 503x112.
+The dimensions of the image are dividers of this number, so possibly: 1, 2, 61, 122, 503, 1006, 30683, 61366. The most likely image size is 122×503px or 503×112px.
 
-The easiest way to convert this textfile into an image, is by converting it to PPM format with the following header:
+The easiest way to convert this text file into an image, is by converting it to the PPM format with the following header:
 
-```bash
+```ppm
 P3
 122 503
 255
 ```
 
-Then followed by the contents of flag.txt, but commas replaced by spaces.
-[flag.ppm](flag.ppm)
+…then followed by the contents of `flag.txt`, with any commas replaced by spaces. The result is [`flag.ppm`](flag.ppm).
 
-Converting to PNG for viewing (and flipping + rotating):
+Let’s convert it to PNG, and flip + rotate it to make it easier to read:
+
 ```bash
-convert -flip -rotate  90 flag.ppm flag.png
+$ convert -flip -rotate 90 flag.ppm flag.png
 ```
 
-results in 
+This results in [the following image](flag.png):
 
-![](flag.png)
+![flag{ youc@n'tseeme }](flag.png)
 
 ## Other write-ups
 

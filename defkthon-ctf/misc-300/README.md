@@ -51,24 +51,23 @@ It reveals the text `BallsRealBolls`, which is the flag.
 
 ## Alternative approach
 
-An alternative way to come up with the passwords for all the intermediate zips, is by using ```unzip -l``` to list
-the compressed file's filename: 
+An alternative way to come up with the passwords for all the intermediate zip files, is by using `unzip -l` to list the compressed file’s file name (which was always the same as the password for the parent zip for this challenge):
 
 ```bash
-#!/bin/bash
+#!/usr/bin/env bash
 
-f=$1
+f="$1";
 
-while test -e $f; do 
-    mv $f _a.zip
-    p=$(unzip -l _a.zip |grep -v Archive|grep zip | awk '{print $NF}' | sed 's:\.zip::'|head -1)
-    echo "File = '_a.zip', password = '$p'"
-    unzip -P "$p" _a.zip
-
-    f=$p.zip
-    ls -l $f
-done
+while test -e "$f"; do
+  mv "$f" _a.zip;
+  p=$(unzip -l _a.zip | grep -v Archive | grep zip | awk '{print $NF}' | sed 's:\.zip::'| head -1);
+  echo "File = '_a.zip', password = '$p'";
+  unzip -P "$p" _a.zip;
+  f="$p.zip";
+  ls -l "$f";
+done;
 ```
 
 ## Other write-ups
+
 * none yet
