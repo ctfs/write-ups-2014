@@ -39,4 +39,33 @@ This results in [the following image](flag.png):
 
 ## Other write-ups
 
-* none yet
+### Using Python and PIL
+
+Using some string parsing and the Python Imaging Library (PIL), an image can be drawn pixel by pixel from the given RGB values.  The dimensions were the tricky part, as using exact multiples overflowed the program, so using one set value for the width and a very high number for the height, the image was drawn well enough.
+
+```
+from PIL import Image
+import numpy
+ 
+flag = open("flag.txt")
+ 
+pixels = flag.read().split("\n")
+del pixels[-1]
+ 
+myPixelsArray = ()
+ 
+for x in pixels:
+    array = x.split(",")
+    array = tuple([int(w) for w in arrayer])
+    myPixelsArray += array
+ 
+myImage = Image.new("RGB", (122, 10000))
+ 
+myImage.putdata(myPixelsArray)
+ 
+myImage.save("image.jpeg")
+```
+
+The image, when cropped and flipped, shows the following:
+
+![flag{ youc@n'tseeme }](image.jpeg)
