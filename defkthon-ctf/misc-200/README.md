@@ -17,6 +17,8 @@ $ wc -l flag.txt
 
 The dimensions of the image are dividers of this number, so possibly: 1, 2, 61, 122, 503, 1006, 30683, 61366. The most likely image size is 122×503px or 503×112px.
 
+### Solution 1: using PPM
+
 The easiest way to convert this text file into an image, is by converting it to the PPM format with the following header:
 
 ```ppm
@@ -37,35 +39,35 @@ This results in [the following image](flag.png):
 
 ![flag{ youc@n'tseeme }](flag.png)
 
-## Other write-ups
-
-### Using Python and PIL
+### Solution 2: using Python and PIL
 
 Using some string parsing and the Python Imaging Library (PIL), an image can be drawn pixel by pixel from the given RGB values.  The dimensions were the tricky part, as using exact multiples overflowed the program, so using one set value for the width and a very high number for the height, the image was drawn well enough.
 
-```
+```python
 from PIL import Image
 import numpy
- 
-flag = open("flag.txt")
- 
-pixels = flag.read().split("\n")
+
+pixels = open("flag.txt").read().split("\n")
 del pixels[-1]
- 
+
 myPixelsArray = ()
- 
+
 for x in pixels:
-    array = x.split(",")
-    array = tuple([int(w) for w in arrayer])
-    myPixelsArray += array
- 
-myImage = Image.new("RGB", (122, 10000))
- 
+  array = x.split(",")
+  array = tuple([int(w) for w in array])
+  myPixelsArray += array
+
+myImage = Image.new("RGB", (122, 503))
+
 myImage.putdata(myPixelsArray)
- 
-myImage.save("image.jpeg")
+
+myImage.save("flag.jpg")
 ```
 
 The image, when cropped and flipped, shows the following:
 
-![flag{ youc@n'tseeme }](image.jpeg)
+![flag{ youc@n'tseeme }](flag.jpg)
+
+## Other write-ups
+
+* none yet
