@@ -70,4 +70,4 @@ The image, when cropped and flipped, shows the following:
 
 ## Other write-ups
 
-* none yet
+* <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-flag-is-here-misc-200.html>

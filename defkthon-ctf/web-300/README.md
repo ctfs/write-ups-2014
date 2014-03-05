@@ -78,4 +78,4 @@ The flag is `w00tkitk@t`.
 
 ## Other write-ups
 
-* none yet
+* <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-we-love-it-web-300.html>
