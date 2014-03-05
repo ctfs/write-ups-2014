@@ -10,4 +10,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://rce4fun.blogspot.com/2014/03/defkthon-ctf-2014-reversing-300-writeup.html>
