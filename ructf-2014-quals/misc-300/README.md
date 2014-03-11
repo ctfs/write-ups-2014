@@ -4,4 +4,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://translate.google.com/translate?sl=ko&tl=en&u=http://blackcon.tistory.com/97>
