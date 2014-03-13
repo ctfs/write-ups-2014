@@ -71,3 +71,4 @@ The image, when cropped and flipped, shows the following:
 ## Other write-ups
 
 * <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-flag-is-here-misc-200.html>
+* <http://www.cravetocode.com/2014/03/defkthon-ctf-misc-200-writeup.html>
