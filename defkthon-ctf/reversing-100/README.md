@@ -6,6 +6,8 @@
 
 ## Write-up
 
+*This write-up is made by the [hacknamstyle](http://www.hacknamstyle.net) CTF team.*
+
 First we want to know the type of file we are dealing with. On Linux `file 100.exe` returns that it's a .NET assembly. If you open it in IDA you will also be told it's a .NET program. For a bit of background, there's also [TrID](http://mark0.net/soft-trid.html) to identify file types, [PROTECTiON iD](http://pid.gamecopyworld.com/) to detect binary packets, the older [PEiD](http://www.aldeid.com/wiki/PEiD), etc.
 
 I used [IDA](https://www.hex-rays.com/products/ida/) to view the .NET intermediate language instructions, and [JetBrains dotPeek](http://www.jetbrains.com/decompiler/) to disassemble the code. After removing all useless code dotPeek shows the following:

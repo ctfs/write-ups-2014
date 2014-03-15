@@ -6,6 +6,8 @@
 
 ## Write-up
 
+*This write-up is made by the [hacknamstyle](http://www.hacknamstyle.net) CTF team.*
+
 So `file 300.exe` says that it's an ordinary PE32 windows executable. When opening it in IDA and viewing all the strings referenced by the program, we see a lot of Python API functions that are dynamically loaded. It turns out the executable is also a valid ZIP file, and this zip file contains the `hashlib` python module. This is an open source module, suggesting that the program somehow uses this module to check the password entered by the user.
 
 We want to extract the embedded python code. One string located close to the python API function names is `_MEIPASS2`. This string is an environment variable used by [PyInstaller](http://www.pyinstaller.org/export/develop/project/doc/Manual.html). Lucky for us, PyInstaller has a tool called ArchiveViewer to extract python code from a created executable. Using ArchiveViewer.py we extract the python file `challenge1`:
