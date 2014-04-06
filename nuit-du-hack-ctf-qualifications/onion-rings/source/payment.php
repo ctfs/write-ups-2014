@@ -1,0 +1,1 @@
+Error in the function stealclientmoney()
