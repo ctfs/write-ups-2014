@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://dem0version.wordpress.com/2012/03/14/hello-world/>

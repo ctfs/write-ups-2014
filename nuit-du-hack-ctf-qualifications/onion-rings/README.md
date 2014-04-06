@@ -10,7 +10,7 @@
 
 ## Write-up
 
-`.onion` URLs can only be visited through the Tor network. After firing up Tor and browsing around for a bit, <http://mq72g4732yorslzf.onion/upload.php> seems vulnerable to file disclosure: entering `file:///etc/passwd` in the URL field results in the following HTML after submitting the form:
+`.onion` URLs can only be visited through the Tor network. After firing up Tor and browsing around for a bit, <http://mq72g4732yorslzf.onion/upload.php> seems vulnerable to file disclosure. Entering `file:///etc/passwd` in the URL field results in the following HTML after submitting the form:
 
 ```html
 …
@@ -48,7 +48,7 @@ debian-tor:x:105:108::/var/lib/tor:/bin/false
 mysql:x:106:109:MySQL Server,,,:/nonexistent:/bin/false
 ```
 
-Entering a non-existant file or directory path results in the following:
+Entering a non-existent file or directory path results in the following:
 
 ```html
 <img src="data:image/gif;base64,">
@@ -160,4 +160,4 @@ Most of the files in `/var/www/onion_rings` could be retrieved; others couldn’
 
 ## Other write-ups
 
-* none yet
+* <http://csrc.tamuc.edu/css/?p=116>

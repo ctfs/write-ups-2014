@@ -12,6 +12,8 @@
 
 (TODO)
 
+The flag is `WhyAreHemorrhoidsNotCalledAssteroids`.
+
 ## Other write-ups
 
-* none yet
+* <http://www.pwntester.com/blog/2014/04/06/nuitduhack-2014-web-write-ups/>

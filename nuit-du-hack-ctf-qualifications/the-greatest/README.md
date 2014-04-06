@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://wiki.yobi.be/wiki/NDH_Writeups#The_greatest>
