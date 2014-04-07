@@ -33,3 +33,4 @@ The correct flag was `5bc925649cb0188f52e617d70929191c` (in lowercase).
 ## Other write-ups
 
 * <http://csrc.tamuc.edu/css/?p=143>
+* <http://sigint.ru/nuitduhack2014/>

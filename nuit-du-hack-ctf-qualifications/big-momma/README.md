@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://sigint.ru/nuitduhack2014/>
