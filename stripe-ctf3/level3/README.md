@@ -30,5 +30,6 @@ One solution is to implement a path-sharded in-memory scan.
 * <https://github.com/vinzenz/stripe-ctf3-solutions/tree/master/level3>
 * <https://github.com/kratorius/stripe-ctf3/tree/master/level3>
 * [Solution in Node.js](https://gist.github.com/yanatan16/9694fc5cae878bbe90d8)
+* [Burst trie implementation in Scala, used as part of the top-scoring solution](https://github.com/nbauernfeind/scala-burst-trie)
 * [2nd place solution](https://github.com/lericson/stripe-ctf3/tree/level3)
 * [Original problems including a modified test harness that works locally](https://github.com/janosgyerik/stripe-ctf3)
