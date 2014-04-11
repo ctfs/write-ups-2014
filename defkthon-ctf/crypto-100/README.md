@@ -27,7 +27,7 @@ UCOIZSBTKXHTADCG
 …
 ```
 
-At this point I guessed that either the encryption key or the deciphered text would contain FLAG” so I searched the result set for that. It turned out that many of the deciphered texts started with `FLAGIS`, so I decided to focus on those first:
+At this point I guessed that either the encryption key or the deciphered text would contain `FLAG` so I searched the result set for that. It turned out that many of the deciphered texts started with `FLAGIS`, so I decided to focus on those first:
 
 ```bash
 $ grep -B3 'FLAGIS' results.txt
