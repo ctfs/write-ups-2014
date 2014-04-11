@@ -18,4 +18,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://blog.dragonsector.pl/2014/04/nuit-du-hack-ctf-quals-2014-nibble.html>
