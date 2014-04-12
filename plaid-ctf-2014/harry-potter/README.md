@@ -1,0 +1,15 @@
+# Plaid CTF 2014: harry_potter
+
+**Category:** Pwnables
+**Points:** 300
+**Description:**
+
+> If only we could get into [this system](harry_potter-2e0391597fb1d20ebf79b7d77c21b06e.tar.bz2), running at 54.198.150.4:666, we might get an idea of where The Plague has been keeping the Prime Factorizer.
+
+## Write-up
+
+(TODO)
+
+## Other write-ups
+
+* none yet
