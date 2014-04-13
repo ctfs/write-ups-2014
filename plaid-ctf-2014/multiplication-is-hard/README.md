@@ -8,7 +8,11 @@
 
 ## Write-up
 
-(TODO)
+Mathematically, `38.55 * 1700 = 65535` but that solution was not accepted.
+
+Years ago (“back in time”), [Excel used to have a bug](http://blogs.office.com/2007/09/25/calculation-issue-update/) where calculations that resulted in a number close to 65,535 would instead show a result of 100,000.
+
+The flag is `100000`.
 
 ## Other write-ups
 

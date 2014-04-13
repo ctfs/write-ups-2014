@@ -10,6 +10,37 @@
 
 ## Write-up
 
+```bash
+$ nc 54.197.195.247 4321
+/------------------------------------------------------------------------------\
+| Welcome to the betting parlor!                                               |
+|                                                                              |
+| We implement State of the Art cryptography to give you the fairest and most  |
+| exciting betting experience!                                                 |
+|                                                                              |
+| Here's how it works: we both pick a nonce, you tell us odds, and you give us |
+| some money.                                                                  |
+| If md5(our number + your number) % odds == 0, you win bet amount*odds.       |
+| UPDATE: IF YOU DIDN'T REALIZE IT, WE DO INCLUDE A NEWLINE AT THE END OF YOUR |
+| NUMBER. SORRY FOR THE INCONVENIENCE. THANK YOU FOR USING PARLOR              |
+| Otherwise, we get your money! We're even so nice, we gave you $1000 to start.|
+|                                                                              |
+| If you don't trust us, we will generate a new nonce, and reveal the old nonce|
+| to you, so you can verify all of our results!                                |
+|                                                                              |
+| (Oh, and if you win a billion dollars, we'll give you a flag.)               |
+\______________________________________________________________________________/
+
+====================
+  1) set your odds
+  2) set your bet
+  3) play a round
+  4) get balance
+  5) reveal nonce
+  6) quit
+====================
+```
+
 (TODO)
 
 ## Other write-ups

@@ -11,6 +11,8 @@
 > UPDATE2: Also, bronies is not intended to be solved via client side (e.g. WebKit) exploits - if you manage to do so though, that's fair game.
 > UPDATE3: Bronies was broken until 2013-04-13 07:26:28 UTC (the admin wasn't logging onto the internal portal properly). Please retry your exploits.
 > UPDATE4: Sorry, once again, please retry your bronies part 1 exploits. We think we fixed a bug at 2013-04-13 08:33:30 UTC that was breaking some attempts.
+>
+> Hint: just to clarify, both flags for bronies are behind the login page - the pony site doesn't have any flags in it.
 
 ## Write-up
 
