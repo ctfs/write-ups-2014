@@ -8,6 +8,8 @@
 
 ## Write-up
 
+Dump the whole memory, then run `strings` on the output.
+
 (TODO)
 
 ## Other write-ups

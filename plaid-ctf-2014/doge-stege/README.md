@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://csrc.tamuc.edu/css/?p=156>

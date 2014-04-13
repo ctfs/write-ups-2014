@@ -10,6 +10,24 @@
 
 (TODO)
 
+```
+23:52:26 <iZsh> tylerni7: you get the sessionID from wireshark, you search for this, and the masterkey is just before that key, then you feed that to wireshark and that's it
+00:02:13 <inter> what was the methods to find the aes key in the corefile?
+00:02:25 <iZsh> inter: you can open it in wireshark, look at the SessionID, search for it in a hex editor in the dump, just before that, you'll have the size of the sessionid, and then before that, the masterkey
+00:02:25 <geobot> and the masterkey is just before
+00:02:38 <inter> open corefile?
+00:02:48 <inter> oh
+00:02:49 <inter> nvm
+00:02:50 <inter> OHH
+00:02:51 <inter> okay
+00:02:52 <iZsh> inter: then you write a file called key.txt which contains the sessionid and the masterkey and you can feed that to wireshark for decryption
+00:02:52 <inter> wow
+00:03:10 <inter> damn
+00:03:28 <inter> it feels like a hammer just slammed my face to the floor
+00:03:40 <inter> thanks iZsh :D
+00:03:42 <iZsh> that one was fast to solve :)
+```
+
 ## Other write-ups
 
 * none yet

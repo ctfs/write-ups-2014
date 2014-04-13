@@ -81,4 +81,4 @@ The flag is `w00t_i_are_mastar_web_hackar`.
 
 ## Other write-ups
 
-* none yet
+* <http://balidani.blogspot.com/2014/04/plaidctf-halphow2js-writeup.html>

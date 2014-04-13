@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* [Tor patch for this challenge](https://gist.github.com/anonymous/21998734ea157023dbae) by @foundation

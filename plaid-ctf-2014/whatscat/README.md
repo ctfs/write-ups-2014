@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Custom DNS server to perform SQL injection through rDNS records by @phiber](https://gist.github.com/anonymous/ea292c8dc60a2d8fba50)

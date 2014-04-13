@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://x86overflow.blogspot.be/2014/04/plaidctf-pwnable-200-ezhp.html>
