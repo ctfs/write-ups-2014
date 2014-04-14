@@ -8,6 +8,7 @@
 
 * [halphow2js](halphow2js)
 * [heartbleed](heartbleed)
+* [kpop](kpop)
 * [mtpox](mtpox)
 * [Multiplication is hard](multiplication-is-hard)
 * [WhatsCat](whatscat)
@@ -27,7 +28,6 @@
 * [hudak](hudak)
 * [jackshit](jackshit)
 * [kappa](kappa)
-* [kpop](kpop)
 * [moscow](moscow)
 * [nightmares](nightmares)
 * [paris](paris)

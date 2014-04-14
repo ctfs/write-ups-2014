@@ -47,7 +47,7 @@ Another option is to hide the SQL injection payload in the username. The downsid
 
 After discovering the table and column name where the flag is hidden (they’re both `flag`), we can repeat this process to figure out what the flag is, one character at a time. For example, the username `foo' and (select ascii(substr(flag,1,1) from flag) between 97 and 122#` can be used to find out if the first character of the flag is a lowercase letter in the `[a-z]` range or not.
 
-@ngocdh wrote [a neat solution in Python](https://gist.github.com/anonymous/f4e884a234ba5d3c9d37)) that uses a clever implementation of this technique: it uses binary search to decrease the time needed to find the correct character.
+@ngocdh wrote [a neat solution in Python](https://gist.github.com/anonymous/f4e884a234ba5d3c9d37) that uses a clever implementation of this technique: it uses binary search to decrease the time needed to find the correct character.
 
 The flag is `20billion_d0llar_1d3a`.
 
