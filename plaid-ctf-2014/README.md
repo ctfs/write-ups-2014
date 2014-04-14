@@ -3,6 +3,7 @@
 * [Main website](http://play.plaidctf.com/)
 * [Scoreboard](http://play.plaidctf.com/scoreboard)
 * [@PlaidCTF on Twitter](https://twitter.com/PlaidCTF)
+* [Plaid CTF 2014 @ CTFTime.org](https://ctftime.org/event/119)
 
 ## Completed write-ups
 
