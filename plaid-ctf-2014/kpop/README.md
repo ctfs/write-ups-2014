@@ -12,4 +12,5 @@
 
 ## Other write-ups and resources
 
+* <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-web-200-kpop-bad-deserialization>
 * [Solution in PHP by @manhluat93](https://gist.github.com/anonymous/31bfc4eea34fb213e4bc)

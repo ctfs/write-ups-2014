@@ -197,3 +197,4 @@ Query failed: Duplicate entry ':gcy:flag{phpPhPphpPPPphpcoin}:vup:1' for key 'gr
 ## Other write-ups
 
 * <http://conceptofproof.wordpress.com/2014/04/13/plaidctf-2014-web-150-mtgox-writeup/>
+* <https://blog.skullsecurity.org/2014/plaidctf-web-150-mtpox-hash-extension-attack>
