@@ -10,6 +10,7 @@
 * [heartbleed](heartbleed)
 * [mtpox](mtpox)
 * [Multiplication is hard](multiplication-is-hard)
+* [WhatsCat](whatscat)
 
 ## Incomplete write-ups
 
@@ -40,6 +41,5 @@
 * [tenement](tenement)
 * [tiffany](tiffany)
 * [twenty](twenty)
-* [whatscat](whatscat)
 * [wheeeee](wheeeee)
 * [zfs](zfs)
