@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://blog.mheistermann.de/2014/04/14/plaidctf-2014-nightmares-pwnables-375-writeup/>
