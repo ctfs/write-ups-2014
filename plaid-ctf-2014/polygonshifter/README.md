@@ -10,6 +10,8 @@
 
 (TODO)
 
+The flag is `n0b0t5_C4n_bYpa5s_p0lYm0rph1Sm`.
+
 ## Other write-ups
 
-* none yet
+* <http://balidani.blogspot.com/2014/04/plaidctf-2014-polygonshifter-writeup.html>
