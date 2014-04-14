@@ -58,7 +58,7 @@ At this point it’s tempting to start bruteforcing by sending all possible sets
 
 Remember the `query.x`, `query.y`, `query.z`, `query.w`, and `query.ww` values that are validated on the server-side? [They’re string values](http://nodejs.org/api/querystring.html#querystring_querystring_parse_str_sep_eq_options), and the script never explicitly casts them into numbers. This means we can pick any string values `x` for the parameters, as long as `x >= 999` evaluates to `false`.
 
-So instead of trying to find the perfect combination of numbers, we can just pick any five strings that can be coerced into numbers, and then format them in different ways until all validation checks are passed. For example, the number `5` can also be written as `5.`, `5.0`, `5.00`, or `5e0` in JavaScript.
+So instead of trying to find the perfect combination of numbers, we can just pick any five strings that can be coerced into numbers, and then format them in different ways until all validation checks are passed. For example, the number `5` can also be written as `5.`, `5.0`, `5.00`, or `5e0` in JavaScript. And because the values are strings that are coerced to numbers (equivalent to `Number(string)`) we can even pad the values with whitespace, e.g. `" 5"` or `"5 "` instead of `"5"`.
 
 After some manual fiddling with various numbers and formats, we found a working set of values:
 

@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Solution in PHP by @manhluat93](https://gist.github.com/anonymous/31bfc4eea34fb213e4bc)

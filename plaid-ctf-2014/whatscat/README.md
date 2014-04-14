@@ -10,6 +10,9 @@
 
 (TODO)
 
+The flag is `20billion_d0llar_1d3a`.
+
 ## Other write-ups and resources
 
-* [Custom DNS server to perform SQL injection through rDNS records by @phiber](https://gist.github.com/anonymous/ea292c8dc60a2d8fba50)
+* [Python solution that figures out the flag character by character, by @ngocdh](https://gist.github.com/anonymous/f4e884a234ba5d3c9d37)
+* [Custom DNS server to perform SQL injection through rDNS records, by @phiber](https://gist.github.com/anonymous/ea292c8dc60a2d8fba50)
