@@ -4,3 +4,14 @@
 * <https://stripe.com/blog/ctf3-launch>
 * <https://stripe.com/blog/ctf3-wrap-up>
 * [Blog post on CTF3’s architecture](https://stripe.com/blog/ctf3-architecture) [(video)](https://www.youtube.com/watch?v=zktac6QKzUk&hd=1)
+
+## Completed write-ups
+
+* [level0](level0)
+* [level1](level1)
+* [level2](level2)
+
+## Incomplete write-ups
+
+* [level3](level3)
+* [level4](level4)

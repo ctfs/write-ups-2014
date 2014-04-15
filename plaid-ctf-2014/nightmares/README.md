@@ -10,6 +10,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* <http://blog.mheistermann.de/2014/04/14/plaidctf-2014-nightmares-pwnables-375-writeup/>
+* [Write-up by Martin Heistermann](http://blog.mheistermann.de/2014/04/14/plaidctf-2014-nightmares-pwnables-375-writeup/)
+* [Solution by the Pwnies team](https://gist.github.com/IdolfHatler/8ba6f93472b3834d00c7)

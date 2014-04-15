@@ -1,6 +1,6 @@
 # Olympic CTF 2014: Crypting
 
-**Category:** Figure Crypting
+**Category:** Figure Crypting (Crypto)
 **Points:** 10
 **Author:** touzoku
 **Description:**

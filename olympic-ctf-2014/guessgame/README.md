@@ -20,3 +20,4 @@
 ## Other write-ups
 
 * <http://mslc.ctf.su/wp/olympic-ctf-2014-guessgame-300/>
+* <http://pastebin.com/1CGaPkTm>
