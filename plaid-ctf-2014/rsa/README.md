@@ -12,4 +12,5 @@
 
 ## Other write-ups and resources
 
+* [Write-up by team Rentjong (auto-translated)](https://translate.google.com/translate?hl=en&sl=id&tl=en&u=http%3A%2F%2Frentjong-team.blogspot.com%2F2014%2F04%2Fplaidctf2014-write-up-rsaforensic450.html)
 * [Reconstructing RSA private keys from random key bits](http://cseweb.ucsd.edu/~hovav/papers/hs09.html)

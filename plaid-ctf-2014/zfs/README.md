@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* <https://ctftime.org/writeup/1083>

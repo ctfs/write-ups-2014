@@ -15,3 +15,4 @@
 ## Other write-ups
 
 * <http://x86overflow.blogspot.com/2014/04/plaidctf-pwnable-200-ezhp.html>
+* <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-pwnage-200-a-simple-overflow-bug>
