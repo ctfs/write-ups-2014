@@ -7,6 +7,7 @@
 
 ## Completed write-ups
 
+* [g++](g)
 * [halphow2js](halphow2js)
 * [heartbleed](heartbleed)
 * [kpop](kpop)
@@ -22,7 +23,6 @@
 * [doge-stege](doge-stege)
 * [ezhp](ezhp)
 * [freya](freya)
-* [g](g)
 * [gcc](gcc)
 * [graphs](graphs)
 * [harry-potter](harry-potter)
