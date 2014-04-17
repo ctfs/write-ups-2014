@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://tasteless.se/2014/04/plaidctf-2014-reeekeeeeee-writeup/>

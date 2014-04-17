@@ -9,10 +9,11 @@
 
 * [g++](g)
 * [halphow2js](halphow2js)
-* [heartbleed](heartbleed)
+* [Heartbleed](heartbleed)
 * [kpop](kpop)
 * [mtpox](mtpox)
 * [Multiplication is hard](multiplication-is-hard)
+* [Sanity check](sanity-check)
 * [WhatsCat](whatscat)
 
 ## Incomplete write-ups
@@ -37,7 +38,6 @@
 * [reeekeeeeee](reeekeeeeee)
 * [rendezvous](rendezvous)
 * [rsa](rsa)
-* [sanity-check](sanity-check)
 * [sass](sass)
 * [tenement](tenement)
 * [tiffany](tiffany)

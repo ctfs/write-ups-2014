@@ -12,4 +12,6 @@
 
 ## Other write-ups
 
+* <https://ucs.fbi.h-da.de/writeup-plaidctf-2014-doge-stege/>
 * <http://csrc.tamuc.edu/css/?p=156>
+* <https://cesena.ing2.unibo.it/2014/04/14/plaidctf-2014-doge_stege-forensic-100/>

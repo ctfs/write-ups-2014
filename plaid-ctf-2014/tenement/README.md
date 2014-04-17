@@ -8,10 +8,11 @@
 
 ## Write-up
 
-Dump the whole memory, then run `strings` on the output.
-
 (TODO)
+
+The flag is `Wub-a-lubba-dub-dub`.
 
 ## Other write-ups
 
-* none yet
+* <https://cesena.ing2.unibo.it/2014/04/15/plaidctf-2014-tene-pwn-100/>
+* <http://nullify-ctf.blogspot.com/2014/04/pwnables-100-tenement-plaidctf-2014.html>

@@ -152,4 +152,5 @@ The flag is `One_of_our_favorite_songs_is_bubble_pop`.
 ## Other write-ups and resources
 
 * <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-web-200-kpop-bad-deserialization>
+* <http://akaminsky.net/plaidctf-quals-2014-web-200-kpop/>
 * [Solution in PHP by @manhluat93](https://gist.github.com/anonymous/31bfc4eea34fb213e4bc)

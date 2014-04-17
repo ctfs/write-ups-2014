@@ -171,4 +171,4 @@ These characters match the solution of our bruteforce attack. Note that the Pyth
 
 ## Other write-ups
 
-* none yet
+* <https://docs.google.com/a/google.com/document/d/1jo_taidfAJsCbWUIpU9dYryhtTQr5YLON7BnIr0WN-k/edit>
