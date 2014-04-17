@@ -7,6 +7,7 @@
 
 ## Completed write-ups
 
+* [curlcore](curlcore)
 * [g++](g)
 * [halphow2js](halphow2js)
 * [Heartbleed](heartbleed)
@@ -20,7 +21,6 @@
 
 * [bbos](bbos)
 * [bronies](bronies)
-* [curlcore](curlcore)
 * [doge-stege](doge-stege)
 * [ezhp](ezhp)
 * [freya](freya)
