@@ -14,6 +14,7 @@
 * [kpop](kpop)
 * [mtpox](mtpox)
 * [Multiplication is hard](multiplication-is-hard)
+* [PolygonShifter](polygonshifter)
 * [Sanity check](sanity-check)
 * [WhatsCat](whatscat)
 
@@ -34,7 +35,6 @@
 * [nightmares](nightmares)
 * [paris](paris)
 * [parlor](parlor)
-* [polygonshifter](polygonshifter)
 * [reeekeeeeee](reeekeeeeee)
 * [rendezvous](rendezvous)
 * [rsa](rsa)
