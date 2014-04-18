@@ -32,4 +32,4 @@ Choose an Option:
 
 ## Other write-ups
 
-* none yet
+* <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-pwn-275-kappa-type-confusion-vuln>
