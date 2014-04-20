@@ -258,4 +258,4 @@ Well, it was missing the last `!` character, but meh. The flag was `V1rTu4L_M4ch
 
 ## Other write-ups
 
-* none yet
+* <http://idabook.com/paris_writeup.txt> by Chris Eagle
