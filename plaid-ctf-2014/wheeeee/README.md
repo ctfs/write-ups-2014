@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://mslc.ctf.su/wp/plaidctf-2014-wheeeee-writeup/>
