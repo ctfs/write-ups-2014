@@ -1,0 +1,9 @@
+# NotSoSecure CTF 2014: Flag 1
+
+## Write-up
+
+(TODO)
+
+## Other write-ups
+
+* <http://blog.justinsteven.com/posts/2014/04/21/notsosecures-2nd-sqlilab-ctf-writeup/>
