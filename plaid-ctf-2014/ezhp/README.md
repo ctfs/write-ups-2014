@@ -12,7 +12,8 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://x86overflow.blogspot.com/2014/04/plaidctf-pwnable-200-ezhp.html>
 * <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-pwnage-200-a-simple-overflow-bug>
+* [Solution in Python](https://github.com/t00sh/ctf/blob/master/plaidctf_2014/ezhp.pl)
