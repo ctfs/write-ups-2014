@@ -14,4 +14,5 @@
 
 * [Write-up by Martin Heistermann](http://blog.mheistermann.de/2014/04/14/plaidctf-2014-nightmares-pwnables-375-writeup/)
 * [Write-up by More Smoked Leet Chicken](http://mslc.ctf.su/wp/plaidctf-2014-__nightmares__-writeup/)
+* [Write-up by fail0verflow](https://fail0verflow.com/blog/2014/plaidctf2014-pwn375-__nightmares__.html)
 * [Solution by the Pwnies team](https://gist.github.com/IdolfHatler/8ba6f93472b3834d00c7)
