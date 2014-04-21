@@ -33,3 +33,4 @@ Choose an Option:
 ## Other write-ups
 
 * <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-pwn-275-kappa-type-confusion-vuln>
+* <http://eindbazen.net/2014/04/plaidctf-2014-kappa-275/>

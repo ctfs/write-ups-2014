@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://eindbazen.net/2014/04/plaidctf-2014-harry_potter-300/>
