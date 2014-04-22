@@ -10,8 +10,11 @@
 
 (TODO)
 
+The flag is `pctf{keep_doge_alive_2014}`.
+
 ## Other write-ups
 
 * <https://ucs.fbi.h-da.de/writeup-plaidctf-2014-doge-stege/>
 * <http://csrc.tamuc.edu/css/?p=156>
 * <https://cesena.ing2.unibo.it/2014/04/14/plaidctf-2014-doge_stege-forensic-100/>
+* <https://fail0verflow.com/blog/2014/plaidctf2014-for100-doge_stege.html>

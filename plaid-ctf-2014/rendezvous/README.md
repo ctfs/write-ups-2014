@@ -10,6 +10,9 @@
 
 (TODO)
 
-## Other write-ups
+The flag is `flag{why_you_so_damn_creepy}`.
 
+## Other write-ups and resources
+
+* <https://fail0verflow.com/blog/2014/plaidctf2014-misc250-rendezvous.html>
 * [Tor patch for this challenge](https://gist.github.com/anonymous/21998734ea157023dbae) by @foundation
