@@ -161,3 +161,4 @@ The flag is `congratz_you_beat_openssl_as_a_whitebox`.
 ## Other write-ups and resources
 
 * <https://cesena.ing2.unibo.it/2014/04/14/plaidctf-2014-curlcore-forensic-250/>
+* <https://fail0verflow.com/blog/2014/plaidctf2014-for250-curlcore.html>

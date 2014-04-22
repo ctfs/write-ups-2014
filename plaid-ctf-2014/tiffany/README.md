@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* none yet
+* <https://fail0verflow.com/blog/2014/plaidctf2014-re300-tiffany.html>
