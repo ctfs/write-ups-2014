@@ -1,0 +1,74 @@
+--- rsabits/rsa.C	2011-11-03 00:35:55.000000000 +0100
++++ rsabits-patched/rsa.C	2014-04-23 09:30:38.000000000 +0200
+@@ -1,3 +1,4 @@
++#include <string.h>
+ /*
+  * Implementation for "Reconstructing RSA Private Keys from Random Key
+  * Bits," in proc. Crypto 2009, vol. 5677 of LNCS, pp. 1--17.
+@@ -149,6 +150,23 @@
+ }
+ 
+ void
++read_mask(char *filename, rsa_mask &mask)
++{
++  ifstream file(filename);
++  if (!file)
++    {
++      cerr << "Error: can't open output file " << filename << endl;
++      exit(1);
++    }
++  
++  file >> mask.p;
++  file >> mask.q;
++  file >> mask.d;
++  file >> mask.dp1;
++  file >> mask.dq1;
++}
++
++void
+ make_rsa_key(rsa_pub &pub, rsa_priv &priv, long bits, ZZ& e)
+ {
+   pub.e = e;
+@@ -627,7 +645,8 @@
+     read_rsa_key(filename, pub, key, MODULUS_BITS);
+   else
+     make_rsa_key(pub, key, MODULUS_BITS, E);
+-  degrade_rsa_key(mask, key, delta);
++  //degrade_rsa_key(mask, key, delta);
++  read_mask("mask.txt", mask);
+ 
+ 
+   double start_time = 0.0, mid_time = 0.0, stop_time = 0.0;
+@@ -824,10 +843,14 @@
+   if (TIMING)
+     stop_time = timenow();
+ 
++
+   int found = 0;
+   while (!Q_gh.empty())
+     {
+       item &soln = Q_gh.front();
++printf("testing gh\n");
++cout << soln.key.p << endl;
++cout << soln.key.q << endl;
+       if (soln.key.p == key.p)
+         {
+           found = 1;
+@@ -839,6 +862,9 @@
+   while (!Q_hg.empty())
+     {
+       item &soln = Q_hg.front();
++printf("testing hg\n");
++cout << soln.key.p << endl;
++cout << soln.key.q << endl;
+       if (soln.key.p == key.p)
+         {
+           found = 1;
+@@ -847,6 +873,7 @@
+       Q_hg.pop();
+     }
+ 
++  
+   if (!found)
+     {
+       cerr << "Finished!  Key not found." << endl;

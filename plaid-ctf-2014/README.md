@@ -8,6 +8,7 @@
 ## Completed write-ups
 
 * [curlcore](curlcore)
+* [doge-stege](doge-stege)
 * [g++](g)
 * [halphow2js](halphow2js)
 * [Heartbleed](heartbleed)
@@ -16,14 +17,15 @@
 * [Multiplication is hard](multiplication-is-hard)
 * [paris](paris)
 * [PolygonShifter](polygonshifter)
+* [rsa](rsa)
 * [Sanity check](sanity-check)
+* [twenty](twenty)
 * [WhatsCat](whatscat)
 
 ## Incomplete write-ups
 
 * [bbos](bbos)
 * [bronies](bronies)
-* [doge-stege](doge-stege)
 * [ezhp](ezhp)
 * [freya](freya)
 * [gcc](gcc)
@@ -37,10 +39,8 @@
 * [parlor](parlor)
 * [reeekeeeeee](reeekeeeeee)
 * [rendezvous](rendezvous)
-* [rsa](rsa)
 * [sass](sass)
 * [tenement](tenement)
 * [tiffany](tiffany)
-* [twenty](twenty)
 * [wheeeee](wheeeee)
 * [zfs](zfs)
