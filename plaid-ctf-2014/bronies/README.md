@@ -18,6 +18,8 @@
 
 (TODO)
 
+The first flag is `xss_problem_is_web_problem`. The second flag is `WEB_you_hacked_the_bigson_WEB`.
+
 ## Other write-ups
 
-* none yet
+* <https://fail0verflow.com/blog/2014/plaidctf2014-web800-bronies.html>
