@@ -47,3 +47,4 @@ $ nc 54.197.195.247 4321
 
 * <http://blog.mheistermann.de/2014/04/14/plaidctf-2014-parlor-crypto-250-writeup/>
 * <http://mslc.ctf.su/wp/plaidctf-2014-parlor-writeup/>
+* <https://fail0verflow.com/blog/2014/plaidctf2014-crypto250-parlor.html>

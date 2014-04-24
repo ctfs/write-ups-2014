@@ -87,35 +87,20 @@ Now that we have the session ID, [we could decrypt the entire session if we also
 
 ![Wireshark → Edit → Preferences → Protocols → SSL](wireshark-ssl-master-secret-log-format.png)
 
-But where could we find this SSL master key? `curl` depends on OpenSSL for TLS support… So [let’s see how OpenSSL stores the SSL master key in memory](https://github.com/openssl/openssl/blob/300b9f0b704048f60776881f1d378c74d9c32fbd/ssl/ssl.h#L558-L559).
+But where could we find this SSL master key? `curl` depends on OpenSSL for TLS support… So [let’s see how OpenSSL stores the SSL master key in memory](https://github.com/openssl/openssl/blob/300b9f0b704048f60776881f1d378c74d9c32fbd/ssl/ssl.h#L586-L590).
 
 ```h
-/* Let's make this into an ASN.1 type structure as follows
- * SSL_SESSION_ID ::= SEQUENCE {
- *    version                           INTEGER,    -- structure version number
- *    SSLversion                        INTEGER,    -- SSL version number
- *    Cipher                            OCTET STRING,    -- the 3 byte cipher ID
- *    Session_ID                        OCTET STRING,    -- the Session ID
- *    Master_key                        OCTET STRING,    -- the master key
- *    KRB5_principal                    OCTET STRING     -- optional Kerberos principal
- *    Key_Arg [ 0 ] IMPLICIT            OCTET STRING,    -- the optional Key argument
- *    Time [ 1 ] EXPLICIT               INTEGER,    -- optional Start Time
- *    Timeout [ 2 ] EXPLICIT            INTEGER,    -- optional Timeout ins seconds
- *    Peer [ 3 ] EXPLICIT               X509,       -- optional Peer Certificate
- *    Session_ID_context [ 4 ]          EXPLICIT OCTET STRING, -- the Session ID context
- *    Verify_result [ 5 ]               EXPLICIT INTEGER,      -- X509_V_... code for `Peer'
- *    HostName [ 6 ]                    EXPLICIT OCTET STRING, -- optional HostName from servername TLS extension
- *    PSK_identity_hint [ 7 ]           EXPLICIT OCTET STRING, -- optional PSK identity hint
- *    PSK_identity [ 8 ]                EXPLICIT OCTET STRING, -- optional PSK identity
- *    Ticket_lifetime_hint [9]          EXPLICIT INTEGER,      -- server's lifetime hint for session ticket
- *    Ticket [10]                       EXPLICIT OCTET STRING, -- session ticket (clients only)
- *    Compression_meth [11]             EXPLICIT OCTET STRING, -- optional compression method
- *    SRP_username [ 12 ]               EXPLICIT OCTET STRING  -- optional SRP username
- *    }
- * Look in ssl/ssl_asn1.c for more details
- * I'm using EXPLICIT tags so I can read the damn things using asn1parse :-).
- */
- ```
+struct ssl_session_st
+  {
+  // […]
+  int master_key_length;
+  unsigned char master_key[SSL_MAX_MASTER_KEY_LENGTH];
+  /* session_id - valid? */
+  unsigned int session_id_length;
+  unsigned char session_id[SSL_MAX_SSL_SESSION_ID_LENGTH];
+  // […]
+}
+```
 
 Turns out the SSL master key is close to the session ID, in the same struct.
 
@@ -162,3 +147,4 @@ The flag is `congratz_you_beat_openssl_as_a_whitebox`.
 
 * <https://cesena.ing2.unibo.it/2014/04/14/plaidctf-2014-curlcore-forensic-250/>
 * <https://fail0verflow.com/blog/2014/plaidctf2014-for250-curlcore.html>
+* <https://docs.google.com/a/google.com/file/d/0B1Q3-q0eaImNSlNJbTNKVzNtV3c/edit>
