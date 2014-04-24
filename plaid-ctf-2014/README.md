@@ -8,7 +8,7 @@
 ## Completed write-ups
 
 * [curlcore](curlcore)
-* [doge-stege](doge-stege)
+* [doge_stege](doge-stege)
 * [g++](g)
 * [halphow2js](halphow2js)
 * [Heartbleed](heartbleed)

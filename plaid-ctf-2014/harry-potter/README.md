@@ -13,3 +13,4 @@
 ## Other write-ups
 
 * <http://eindbazen.net/2014/04/plaidctf-2014-harry_potter-300/>
+* <http://blog.accuvant.com/jdrakeaccuvant/plaid-ctf-2014-harry_potter-challenge/>
