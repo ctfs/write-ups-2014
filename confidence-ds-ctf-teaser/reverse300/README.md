@@ -9,6 +9,8 @@
 > Username: `[_]`
 > Password: `[_]`
 > Token: `[_]`
+>
+> **Update:** New binary on 04/26 16:15 CEST: md5 is `cd1eb7ced07cc6f872537d0618630c0c` - new strings, but offsets stayed the same.
 
 ## Write-up
 
