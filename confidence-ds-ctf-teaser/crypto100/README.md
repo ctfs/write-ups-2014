@@ -9,6 +9,7 @@
 > ```bash
 > nc 23.253.207.179 10001
 > ```
+> Use the [source](lotto.py)
 
 ## Write-up
 
