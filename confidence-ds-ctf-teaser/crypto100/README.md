@@ -100,7 +100,7 @@ For example, if `luckyNumber` is `84`, then `randomExtend(str(luckyNumber) + '#'
 …
 ```
 
-Yep, that first one even has only zeroes! This seemed to happen quite commonly; about 10% of all salts ended in `000000000000`. Looks like `randomExtend` isn’t as random as it should be :)
+Yep, that first one even has only zeroes! This seemed to happen quite commonly; about 10% of all salts ended in `000000000000`. Looks like `randomExtend` isn’t as random as it should be :) (Explanation: any number with a `0` as the last digit (i.e. 10% of numbers) [raised to a high power](lotto.py#L30-38) will have a bunch of zeroes at the end.)
 
 This flaw enables us to write a fairly simple brute-force solution with the following algorithm:
 
@@ -169,4 +169,4 @@ The flag is `DSCTF_939da0eec884d9edddbe97b9f9e348dede7211d821a1b56069816d7bad6c0
 
 ## Other write-ups
 
-* none yet
+* <http://www.pwntester.com/blog/2014/04/27/dragonsector-crypto-100/>

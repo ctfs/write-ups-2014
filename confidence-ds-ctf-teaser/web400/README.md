@@ -149,6 +149,6 @@ The message is garbled because it has been decrypted using the incorrect passwor
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Solution by phiber](https://gist.github.com/anonymous/c40c5e90482eed1151e5)

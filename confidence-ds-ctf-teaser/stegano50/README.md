@@ -85,7 +85,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus odio ut m
 volutpat. Integer nec enim vel arcu porttitor egestas […]
 ```
 
-The same text can be viewed by opening the PDF in [PDF.js](http://mozilla.github.io/pdf.js/web/viewer.html), and then inspecting the generated HTML, or logging `document.documentElement.textContent` to the developer tools console.
+The same text can be viewed by opening the PDF in [PDF.js](http://mozilla.github.io/pdf.js/web/viewer.html), and then inspecting the generated HTML, or logging `document.documentElement.textContent` to the developer tools console. The output for `pdftohtml stegano50.pdf` contained the text too.
 
 Let’s take the `BABA […] AAABB` part and perform the suggested replacements using `tr`:
 
@@ -104,4 +104,4 @@ And indeed, the flag is `1NV151BL3M3554G3`.
 
 ## Other write-ups
 
-* none yet
+* <http://www.pwntester.com/blog/2014/04/27/dragonsector-pdf-stegano-50/>
