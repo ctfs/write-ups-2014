@@ -58,5 +58,5 @@ $ openssl rsautl -decrypt -in ciphertext -out plaintext -inkey recovered.key
 ## Other write-ups and resources
 
 * [Write-up by More Smoked Leet Chicken](http://mslc.ctf.su/wp/plaidctf-2014-rsa-writeup/)
-* [Write-up by team Rentjong (auto-translated)](https://translate.google.com/translate?hl=en&sl=id&tl=en&u=http%3A%2F%2Frentjong-team.blogspot.com%2F2014%2F04%2Fplaidctf2014-write-up-rsaforensic450.html)
+* [Write-up by fail0verflow](https://fail0verflow.com/blog/2014/plaidctf2014-for450-rsa.html)
 * [Reconstructing RSA private keys from random key bits](http://cseweb.ucsd.edu/~hovav/papers/hs09.html)

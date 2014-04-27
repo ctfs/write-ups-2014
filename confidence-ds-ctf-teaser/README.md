@@ -6,12 +6,11 @@
 
 ## Completed write-ups
 
-* none yet
+* [Stegano50](stegano50)
+* [Crypto100](crypto100)
 
 ## Incomplete write-ups
 
-* [Crypto100](crypto100)
 * [Pwnable200](pwnable200)
 * [Reverse300](reverse300)
-* [Stegano50](stegano50)
-* [Web400](web400)
+* [Web400](web400) (partial write-up for now)

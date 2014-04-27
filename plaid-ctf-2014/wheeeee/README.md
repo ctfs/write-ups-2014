@@ -15,3 +15,4 @@
 ## Other write-ups
 
 * <http://mslc.ctf.su/wp/plaidctf-2014-wheeeee-writeup/>
+* <https://fail0verflow.com/blog/2014/plaidctf2014-crypto375-wheeeee.html>
