@@ -145,10 +145,13 @@ $ hexdump -C -s 0x520 message.html | head -n 23
 00000680  64 69 76 3e 0a 20 20 20  20 3c 2f 64 69 76 3e 0a  |div>.    </div>.|
 ```
 
-The message is garbled because it has been decrypted using the incorrect password we provided.
+The message is garbled because it has been decrypted using the incorrect password we provided. Looks like we’re gonna have to reverse [the `printmsg()` function in `message.php`](demo/message.php).
 
 (TODO)
 
+The flag is `DrgnS{2971f86fc7a161d514e7dbdad5dbfa26}`.
+
 ## Other write-ups and resources
 
+* [Write-up by Rentjong (auto-translated)](https://translate.google.com/translate?hl=en&sl=id&tl=en&u=http%3A%2F%2Frentjong-team.blogspot.com%2F2014%2F04%2Fconfidence-dragon-sector-ctf-teaser.html)
 * [Solution by phiber](https://gist.github.com/anonymous/c40c5e90482eed1151e5)
