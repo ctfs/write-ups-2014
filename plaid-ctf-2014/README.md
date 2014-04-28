@@ -4,6 +4,7 @@
 * [Scoreboard](http://play.plaidctf.com/scoreboard)
 * [@PlaidCTF on Twitter](https://twitter.com/PlaidCTF)
 * [Plaid CTF 2014 @ CTFTime.org](https://ctftime.org/event/119)
+* [Source code for some of the challenges](https://github.com/pwning/plaidctf2014) (released after the CTF; not needed to solve the challenges)
 
 ## Completed write-ups
 

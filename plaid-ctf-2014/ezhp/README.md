@@ -18,3 +18,4 @@
 * <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-pwnage-200-a-simple-overflow-bug>
 * <https://fail0verflow.com/blog/2014/plaidctf2014-pwn200-ezhp.html>
 * [Solution in Python](https://github.com/t00sh/ctf/blob/master/plaidctf_2014/ezhp.pl)
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/pwnables/ezhp)

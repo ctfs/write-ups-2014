@@ -12,6 +12,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://fail0verflow.com/blog/2014/plaidctf2014-re300-tiffany.html>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/reversing/tiffany)

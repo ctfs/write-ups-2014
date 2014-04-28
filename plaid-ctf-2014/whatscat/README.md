@@ -58,3 +58,4 @@ The flag is `20billion_d0llar_1d3a`.
 * [Write-up by Ron Bowes](https://blog.skullsecurity.org/2014/plaidctf-writeup-for-web-300-whatscat-sql-injection-via-dns)
 * [Python solution that figures out the flag character by character, by @ngocdh](https://gist.github.com/anonymous/f4e884a234ba5d3c9d37)
 * [Custom DNS server to perform SQL injection through rDNS records, by @phiber](https://gist.github.com/anonymous/ea292c8dc60a2d8fba50)
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/whatscat)

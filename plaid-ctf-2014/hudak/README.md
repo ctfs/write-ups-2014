@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/reversing/hudak)

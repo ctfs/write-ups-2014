@@ -20,6 +20,7 @@
 
 The first flag is `xss_problem_is_web_problem`. The second flag is `WEB_you_hacked_the_bigson_WEB`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://fail0verflow.com/blog/2014/plaidctf2014-web800-bronies.html>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/bronies)

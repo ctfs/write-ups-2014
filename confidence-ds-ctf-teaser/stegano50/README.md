@@ -105,3 +105,4 @@ And indeed, the flag is `1NV151BL3M3554G3`.
 ## Other write-ups
 
 * <http://www.pwntester.com/blog/2014/04/27/dragonsector-pdf-stegano-50/>
+* <http://blog.dul.ac/2014/04/DSCTF14/>

@@ -12,6 +12,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and other resources
 
-* none yet
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/pwnables/jackshit)

@@ -16,3 +16,4 @@
 
 * <http://mslc.ctf.su/wp/plaidctf-2014-wheeeee-writeup/>
 * <https://fail0verflow.com/blog/2014/plaidctf2014-crypto375-wheeeee.html>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/crypto/wheeeeeeeeeeeeeeeeeeeeeee)

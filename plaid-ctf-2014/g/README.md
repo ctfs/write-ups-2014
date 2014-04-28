@@ -169,7 +169,8 @@ True
 
 These characters match the solution of our bruteforce attack. Note that the Python files required to run this have been mirrored in the directory of this write-up.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://fail0verflow.com/blog/2014/plaidctf2014-re200-gxx.html>
 * <https://docs.google.com/a/google.com/document/d/1jo_taidfAJsCbWUIpU9dYryhtTQr5YLON7BnIr0WN-k/edit>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/reversing/g%2B%2B)

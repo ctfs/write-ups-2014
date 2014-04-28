@@ -79,6 +79,7 @@ w00t_i_are_mastar_web_hackar
 
 The flag is `w00t_i_are_mastar_web_hackar`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/04/plaidctf-halphow2js-writeup.html>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/halphow2js)

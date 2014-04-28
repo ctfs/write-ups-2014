@@ -26,8 +26,9 @@ This delivered the correct decoded string which contained the flag.
 
 The flag is `sincenewcryptomighthavensabackdoorsiuseoldcrypto`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://ucs.fbi.h-da.de/writeup-plaidctf-2014-twenty/>
 * <https://docs.google.com/a/google.com/document/d/1WthFuKx3sAtqTVPOklVJt12MMS3lrxITGglskPKNtL8/edit>
 * <http://csrc.tamuc.edu/css/?p=169>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/crypto/twenty)

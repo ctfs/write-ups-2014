@@ -74,6 +74,7 @@ The flag is: 3veryb0dy_poops~
 
 The flag is `3veryb0dy_poops~`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://fail0verflow.com/blog/2014/plaidctf2014-crypto200-graphs.html>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/crypto/graphs)

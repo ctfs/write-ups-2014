@@ -46,6 +46,6 @@ WARNING: server returned more data than it should; server is vulnerable!
 
 The flag is `flag{hey_guise_we_made_a_heartbleed}`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/heartbleed)

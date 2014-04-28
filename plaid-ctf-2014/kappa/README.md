@@ -30,7 +30,8 @@ Choose an Option:
 11:52:26 <Reinhart> saelo: the attack name was a pointer-to-pointer-to-string, we overwrote it with a pointer to within another pokemon's artwork, then we could change that artwork to leak data up to the next null byte by printing the pokemon
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-pwn-275-kappa-type-confusion-vuln>
 * <http://eindbazen.net/2014/04/plaidctf-2014-kappa-275/>
+* [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/pwnables/kappa)
