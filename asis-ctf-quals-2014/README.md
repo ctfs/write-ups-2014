@@ -1,0 +1,46 @@
+# ASIS Cyber Security Contest Quals 2014
+
+* [Main website](http://asis-ctf.ir/)
+* [Scoreboard](http://asis-ctf.ir/scoreboard/)
+* [@asisctf on Twitter](https://twitter.com/asisctf)
+
+## Completed write-ups
+
+* [Trivia 1](trivia-1)
+* [Hidden flag](hidden-flag)
+
+## Incomplete write-ups
+
+* [Archaic](archaic)
+* [Auth](auth)
+* [Blocks](blocks)
+* [Bomb](bomb)
+* [Bonus](bonus)
+* [Censored array](censored-array)
+* [Easy Reading](easy-reading)
+* [ECC](ecc)
+* [forensic](forensic)
+* [Forensic 100](forensic-100)
+* [Forensic 2](forensic-2)
+* [Gas stations](gas-stations)
+* [Hurdling](hurdling)
+* [Image](image)
+* [Impenetrable](impenetrable)
+* [Malware](malware)
+* [MESA system](mesa-system)
+* [Milad Tower](milad-tower)
+* [Plough](plough)
+* [prying ears](prying-ears)
+* [Random Image](random-image)
+* [Serial number](serial-number)
+* [Sound Zoo](sound-zoo)
+* [Spy Paper](spy-paper)
+* [Strange](strange)
+* [Teleport](teleport)
+* [Toq-Toq](toq-toq)
+* [Tortureous sound](tortureous-sound)
+* [Trivia 2](trivia-2)
+* [Undistorted History](undistorted-history)
+* [weak password](weak-password)
+* [White noise](white-noise)
+* [Winner](winner)
