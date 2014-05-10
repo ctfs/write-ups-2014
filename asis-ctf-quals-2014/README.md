@@ -8,6 +8,7 @@
 
 * [Trivia 1](trivia-1)
 * [Hidden flag](hidden-flag)
+* [Undistorted History](undistorted-history)
 
 ## Incomplete write-ups
 
@@ -40,7 +41,6 @@
 * [Toq-Toq](toq-toq)
 * [Tortureous sound](tortureous-sound)
 * [Trivia 2](trivia-2)
-* [Undistorted History](undistorted-history)
 * [weak password](weak-password)
 * [White noise](white-noise)
 * [Winner](winner)
