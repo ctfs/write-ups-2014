@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://blog.dul.ac/2014/05/ASISCTF14/>
