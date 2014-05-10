@@ -36,7 +36,6 @@ host = "87.107.123.4"
 
 def doPortKnocking(ports, weburl):
 	conf.verb = 0
-	# Knock twice on every port
 	for dport in range(0, len(ports)):
 		#print "[*] Knocking on "+host+": " , ports[dport]
 		ip = IP(dst=host)
