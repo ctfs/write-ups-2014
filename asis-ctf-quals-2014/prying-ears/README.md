@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* http://tasteless.se/2014/05/asis2014-forensics-175-prying-ears/
