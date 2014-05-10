@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* none yet
+* http://hexpresso.wordpress.com/2014/05/10/asis-ctf-quals-2014-stego-100-blocks-write-up/
