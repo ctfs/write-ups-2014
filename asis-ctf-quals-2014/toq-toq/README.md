@@ -8,7 +8,69 @@
 
 ## Write-up
 
-(TODO)
+The file contained a pcap file. After a quick packet search with wireshark on the string "flag" in the packet bytes we found some directory listings of a webserver, each serving a part of the flag:
+
+```
+http://87.107.123.4:24931/first_part_of_flag
+http://87.107.123.4:19760/second_part_of_flag
+http://87.107.123.4:3695/third_part_of_flag
+http://87.107.123.4:31054/fourth_part_of_flag
+http://87.107.123.4:8799/last_part_of_flag
+``` 
+Navigating to these pages with a webbrowser just gives a timeout.
+
+Then we tought the "toq toq" challenge name might be a wordplay on knock knock, so port-knocking might be needed to open the ports to the webservers.
+
+Using the wireshark filter "ip.dst==87.107.123.4" a pattern emerges. Everytime right before the webserver is contacted multiple SYN packets are sent to different ports. Feeding these port sequences to a port knocking script indeed opens the ports and results in the flag.
+
+The script that was used:
+```python
+#!/usr/bin/python
+# modifed version of eindbazen port knocking script
+
+# Import scapy
+from scapy.all import *
+import urllib2
+
+host = "87.107.123.4"
+
+def doPortKnocking(ports, weburl):
+	conf.verb = 0
+	# Knock twice on every port
+	for dport in range(0, len(ports)):
+		#print "[*] Knocking on "+host+": " , ports[dport]
+		ip = IP(dst=host)
+		port = 39367
+		SYN = ip/TCP(sport=port, dport=ports[dport], flags="S", window=2048, options=[('MSS',1460)], seq=0)
+		send(SYN)
+
+	response = urllib2.urlopen(weburl)
+	html = response.read()
+	print html
+	response.close()  # best practice to close the file
+
+
+ports = [9264,11780,2059,8334]
+print "First part:"
+doPortKnocking(ports, 'http://87.107.123.4:24931/first_part_of_flag')
+
+ports = [42304,53768,3297,8334]
+print "Second part:"
+doPortKnocking(ports, 'http://87.107.123.4:19760/second_part_of_flag')
+
+ports = [23106,4250,62532,11655,33844]
+print "Third part:"
+doPortKnocking(ports, 'http://87.107.123.4:3695/third_part_of_flag')
+
+ports = [49377,48116,54900,8149]
+print "Fourth part:"
+doPortKnocking(ports, 'http://87.107.123.4:31054/fourth_part_of_flag')
+
+ports = [16340,59991,37429,60012,15397,21864,12923,8799]
+print "Last part:"
+doPortKnocking(ports, 'http://87.107.123.4:8799/last_part_of_flag')
+```
+
 
 ## Other write-ups
 
