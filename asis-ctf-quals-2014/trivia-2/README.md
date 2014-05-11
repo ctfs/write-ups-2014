@@ -9,7 +9,7 @@
 
 ## Write-up
 
-(TODO)
+The flag is [`Slashdot effect`](http://en.wikipedia.org/wiki/Slashdot_effect).
 
 ## Other write-ups
 

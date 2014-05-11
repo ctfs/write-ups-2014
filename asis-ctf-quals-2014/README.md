@@ -6,8 +6,12 @@
 
 ## Completed write-ups
 
-* [Trivia 1](trivia-1)
+* [forensic](forensic)
 * [Hidden flag](hidden-flag)
+* [prying ears](prying-ears)
+* [Sound Zoo](sound-zoo)
+* [Trivia 1](trivia-1)
+* [Trivia 2](trivia-2)
 * [Undistorted History](undistorted-history)
 
 ## Incomplete write-ups
@@ -20,7 +24,6 @@
 * [Censored array](censored-array)
 * [Easy Reading](easy-reading)
 * [ECC](ecc)
-* [forensic](forensic)
 * [Forensic 100](forensic-100)
 * [Forensic 2](forensic-2)
 * [Gas stations](gas-stations)
@@ -31,16 +34,13 @@
 * [MESA system](mesa-system)
 * [Milad Tower](milad-tower)
 * [Plough](plough)
-* [prying ears](prying-ears)
 * [Random Image](random-image)
 * [Serial number](serial-number)
-* [Sound Zoo](sound-zoo)
 * [Spy Paper](spy-paper)
 * [Strange](strange)
 * [Teleport](teleport)
 * [Toq-Toq](toq-toq)
 * [Tortureous sound](tortureous-sound)
-* [Trivia 2](trivia-2)
 * [weak password](weak-password)
 * [White noise](white-noise)
 * [Winner](winner)

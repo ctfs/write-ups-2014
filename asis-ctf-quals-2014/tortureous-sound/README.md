@@ -52,7 +52,6 @@ Opening the file in Audacity reveals that it is indeed an audio file with 6 chan
 
 (TODO)
 
-
 ## Other write-ups
 
 * none yet
