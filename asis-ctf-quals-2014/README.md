@@ -14,6 +14,7 @@
 * [Trivia 1](trivia-1)
 * [Trivia 2](trivia-2)
 * [Undistorted History](undistorted-history)
+* [Winner](winner)
 
 ## Incomplete write-ups
 
@@ -43,4 +44,3 @@
 * [Tortureous sound](tortureous-sound)
 * [weak password](weak-password)
 * [White noise](white-noise)
-* [Winner](winner)
