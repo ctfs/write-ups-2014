@@ -8,6 +8,7 @@
 
 * [forensic](forensic)
 * [Hidden flag](hidden-flag)
+* [Image](image)
 * [prying ears](prying-ears)
 * [Sound Zoo](sound-zoo)
 * [Trivia 1](trivia-1)
@@ -28,7 +29,6 @@
 * [Forensic 2](forensic-2)
 * [Gas stations](gas-stations)
 * [Hurdling](hurdling)
-* [Image](image)
 * [Impenetrable](impenetrable)
 * [Malware](malware)
 * [MESA system](mesa-system)
