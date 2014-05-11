@@ -57,16 +57,16 @@ In ```get_color``` we can see that the value is calculated by XORing the sum of 
 
 
 We don't have the random key ```r```, but we can bruteforce it because only the least significant 8 bits are used.
-For the correct version of ```r```, ```get_color(x,y,r)``` will generate a value that is identical to the one in [enc.png][].
+For the correct version of ```r```, ```get_color(x,y,r)``` will generate a value that is identical to the one in [enc.png](enc.png).
 Unfortunately, some pixels will contain random information instead (those which have values 250 and higher in the original flag image).
 
 We give each of these 2 cases a different color. Pixels matching their ```get_pixel``` value will be colored black, the rest is colored white.
 For each of the 256 possible values of ```r```, we generate a "decoded" image.
-By going through the image, we find that [decoded_38.png][] (for r = 38) contains the flag:
+By going through the image, we find that [decoded_38.png](decoded_38.png) (for r = 38) contains the flag:
 
 ![](decoded_38.png)
 
-[color_decrypto.py][] contains the code for the solution.
+[color_decrypto.py](color_decrypto.py) contains the code for the solution.
 
 ## Other write-ups
 
