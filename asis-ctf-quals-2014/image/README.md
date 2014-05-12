@@ -57,4 +57,4 @@ We do not need to play the game to get to second (or in that matter to any) leve
 
 ## Other write-ups
 
-* none yet
+* http://nickthefrost.com/2014/05/10/asis-ctf-quals-2014-image/

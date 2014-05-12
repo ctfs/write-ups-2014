@@ -85,4 +85,4 @@ The flag is `ASIS_b6be244608c27c2e869cb56167b649b1`.
 
 ## Other write-ups
 
-* none yet
+* http://nickthefrost.com/2014/05/10/asis-ctf-quals-2014-hidden-flag/
