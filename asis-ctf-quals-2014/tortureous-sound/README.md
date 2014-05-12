@@ -54,4 +54,4 @@ Opening the file in Audacity reveals that it is indeed an audio file with 6 chan
 
 ## Other write-ups
 
-* none yet
+* http://blog.squareroots.de/en/2014/05/asis-ctf-2014-tortureous-sound/
