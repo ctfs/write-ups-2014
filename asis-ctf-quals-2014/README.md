@@ -18,7 +18,6 @@
 * [White noise](white-noise)
 * [Winner](winner)
 
-
 ## Incomplete write-ups
 
 * [Archaic](archaic)

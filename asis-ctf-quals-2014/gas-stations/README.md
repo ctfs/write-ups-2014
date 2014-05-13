@@ -16,4 +16,4 @@
 
 ## Other write-ups
 
-* none yet
+* <https://translate.google.com/translate?sl=in&tl=en&hl=en&u=http%3A%2F%2Frentjong-team.blogspot.com%2F2014%2F05%2Fasis-quals-2014-write-up-gas-stations.html>
