@@ -51,4 +51,4 @@ This is a pcap file. Let’s open it in Wireshark and fire up a packet search fo
 
 ## Other write-ups
 
-* none yet
+* http://blog.squareroots.de/en/2014/05/asis-ctf-2014-forensic/
