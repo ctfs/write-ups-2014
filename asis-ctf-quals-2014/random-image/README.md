@@ -67,4 +67,4 @@ We give each of these 2 cases a different color. Pixels matching their `get_pixe
 
 ## Other write-ups
 
-* none yet
+* http://blog.squareroots.de/en/2014/05/asis-ctf-2014-color-crypto/
