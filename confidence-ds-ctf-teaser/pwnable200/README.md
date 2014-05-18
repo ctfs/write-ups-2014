@@ -18,3 +18,4 @@
 * [Solution by Daniel Bali](https://gist.github.com/balidani/ab8429bc7b59af7bed8c)
 * [Solution by mak`](http://lokalhost.pl/x/pwn200.py)
 * [Solution by Gynvael Coldwind](https://gist.github.com/anonymous/53e6811a7c9e6f8bcf4f)
+* [Solution by Bartol](https://gist.github.com/Bartol0/283564a864e270b554ef)
