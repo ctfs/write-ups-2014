@@ -16,4 +16,4 @@
 
 ## Other write-ups
 
-* (none yet)
+* <http://sigint.ru/writeups/2014/05/18/defcon-ctf-2014-writeups/>

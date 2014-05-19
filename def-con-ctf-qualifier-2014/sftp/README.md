@@ -16,4 +16,4 @@
 
 ## Other write-ups
 
-* (none yet)
+* <http://thejh.net/written-stuff/defcon-quals-2014-sftp-writeup>
