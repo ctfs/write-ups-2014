@@ -16,4 +16,4 @@
 
 ## Other write-ups
 
-* (none yet)
+* [Matir's writeup](https://systemoverlord.com/blog/2014/05/19/def-con-22-ctf-quals-hackertool/)
