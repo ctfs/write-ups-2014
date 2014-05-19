@@ -9,8 +9,27 @@
 
 ## Completed write-ups
 
-* none yet
+* [routarded](routarded)
 
 ## Incomplete write-ups
 
-* none yet
+* [100lines](100lines)
+* [3dttt](3dttt)
+* [bbgp](bbgp)
+* [blackbox](blackbox)
+* [byhd](byhd)
+* [choripan](choripan)
+* [dosfun4u](dosfun4u)
+* [dosfun4u round 2](dosfun4u-round-2)
+* [fritas](fritas)
+* [hackertool](hackertool)
+* [heap](heap)
+* [medianoche](medianoche)
+* [nonameyet](nonameyet)
+* [polyglot](polyglot)
+* [rebaby](rebaby)
+* [sftp](sftp)
+* [shitsco](shitsco)
+* [sick](sick)
+* [turdedo](turdedo)
+* [zombies](zombies)
