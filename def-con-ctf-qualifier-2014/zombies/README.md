@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* (none yet)
+* <http://sigint.ru/writeups/2014/05/19/defcon-2014-quals---zombies/>
