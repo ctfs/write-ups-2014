@@ -12,6 +12,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* (none yet)
+* <https://privatepaste.com/6afd54f16c>

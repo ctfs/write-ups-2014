@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* (none yet)
+* <http://zepvn.com/blog/defcon-ctf-quals-2014-byhd.php>

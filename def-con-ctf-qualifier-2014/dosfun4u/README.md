@@ -14,6 +14,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* (none yet)
+* <https://github.com/nopple/ctf/tree/master/dosfun4u>

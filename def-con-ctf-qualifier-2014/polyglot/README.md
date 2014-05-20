@@ -14,6 +14,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* <http://sigint.ru/writeups/2014/05/18/defcon-ctf-2014-writeups/>
+* <http://sigint.ru/writeups/2014/05/18/defcon-2014-quals--polyglot/>
+* <https://gist.github.com/IdolfHatler/d952bf797a4d71cddbba>
