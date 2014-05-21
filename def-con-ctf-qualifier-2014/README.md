@@ -9,12 +9,13 @@
 
 ## Completed write-ups
 
+* [3dttt](3dttt)
 * [routarded](routarded)
+* [zombies](zombies)
 
 ## Incomplete write-ups
 
 * [100lines](100lines)
-* [3dttt](3dttt)
 * [bbgp](bbgp)
 * [blackbox](blackbox)
 * [byhd](byhd)
@@ -32,4 +33,3 @@
 * [shitsco](shitsco)
 * [sick](sick)
 * [turdedo](turdedo)
-* [zombies](zombies)
