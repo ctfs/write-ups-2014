@@ -12,7 +12,9 @@
 
 ## Write-up
 
-Shitsco is a small router emulator. It allows you to ping, to tracert, to use the shell (Yhea, right! :D) and to set and view variables. As we smell something in the variable handling we look into it.
+Shitsco is a small router emulator. It allows you to ping, to tracert, to use the shell (Yhea, right! :D) and to set and view variables. 
+
+As we smell a rat in the variable handling we look into it.
 
 Variables get stored dynamically in a double linked list as shown next.
 
@@ -31,7 +33,7 @@ The key is to set variable name and value the same size as a node internally has
 So that when adding nodes, the strings and the node itself consume the same amount of memory. 
 
 
-The following is the memory layout with 3 nodes added(= 3 variables set). Note that there is no first node. The first node is in static memory. Also, every node has the same length(size).
+The following is the memory layout with 3 nodes added(= 3 variables set). Note that there is no first node. The first node is in static memory. Also, every allocated heap block has the same length(size).
 
 ```
 --------------------------------------------------------------
@@ -66,7 +68,7 @@ first.next ------/
 
 The linked list is still intact because the *next pointers never gets set to NULL when deleting the fist node in the list.
 
-When we now create a new node, the system will use the first static node again and just looks to allocate memory for the name and value. As we created uni-sized blocks, the malloc algorithm would use simply the first two freed blocks again. Better would have been, if we had set the first block to a smaller size, let's say 11bytes, so the allocations would be like below.
+When we now create a new node, the system will use the first static node again and just looks to allocate memory for the name and value. As we created uni-sized blocks, the malloc algorithm would use simply the first two free blocks again. Better would have been, if we had set the first block to a smaller size, let's say 11bytes, so the allocations would be like below.
 
 
 ```
