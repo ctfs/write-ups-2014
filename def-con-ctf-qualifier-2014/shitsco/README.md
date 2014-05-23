@@ -193,4 +193,4 @@ disconnect(s)
 
 ## Other write-ups
 
-* (none yet)
+* [Skull Security](https://blog.skullsecurity.org/2014/defcon-quals-writeup-for-shitsco-use-after-free-vuln)
