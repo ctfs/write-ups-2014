@@ -7,10 +7,6 @@
 > Play well and play fast.
 > `3dttt_87277cd86e7cc53d2671888c417f62aa.2014.shallweplayaga.me:1234`
 
-## Other write-ups
-
-* https://vanned.info/3dttt.html
-
 ## Write-up
 
 In this challenge you had to beat LegitBS’s bot in a game of 3D Tic-Tac-Toe. You had to get to a balance of +50 games.
@@ -213,3 +209,7 @@ while True:
     print "exception im very out"
     break
 ```
+
+## Other write-ups
+
+* <https://vanned.info/3dttt.html>

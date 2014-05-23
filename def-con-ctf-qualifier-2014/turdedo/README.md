@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* http://acez.re/ctf-writeup-defcon-quals-2014-turdedo/
+* <http://acez.re/ctf-writeup-defcon-quals-2014-turdedo/>
