@@ -213,3 +213,4 @@ while True:
 ## Other write-ups
 
 * <https://vanned.info/3dttt.html>
+* [Matir's write up](https://systemoverlord.com/blog/2014/05/21/def-con-22-ctf-quals-3dttt/)
