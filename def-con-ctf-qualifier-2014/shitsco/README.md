@@ -12,7 +12,7 @@
 
 ## Write-up
 
-Shitsco is a small router emulator. It allows you to ping, to tracert, to use the shell (Yhea, right! :D) and to set and view variables. 
+Shitsco is a small router emulator. It allows you to ping, to tracert, to use the shell (Yhea, right! :D) and to set and view variables.
 
 As we smell a rat in the variable handling we look into it.
 
@@ -30,7 +30,7 @@ struct node {
 If you create a couple of nodes and delete the first, its strings get freed, their pointers set to NULL but not the link to the next node. Further, commands like show will always start the traversal by the first node, which will succeed until the corresponding memory gets overwritten. Thats what we gonna exploit.
 
 The key is to set variable name and value the same size as a node internally has -> 4 * 4bytes = 16bytes.
-So that when adding nodes, the strings and the node itself consume the same amount of memory. 
+So that when adding nodes, the strings and the node itself consume the same amount of memory.
 
 
 The following is the memory layout with 3 nodes added(= 3 variables set). Note that there is no first node. The first node is in static memory. Also, every allocated heap block has the same length(size).
@@ -193,4 +193,5 @@ disconnect(s)
 
 ## Other write-ups
 
-* [Skull Security](https://blog.skullsecurity.org/2014/defcon-quals-writeup-for-shitsco-use-after-free-vuln)
+* <https://blog.skullsecurity.org/2014/defcon-quals-writeup-for-shitsco-use-after-free-vuln>
+* <http://www.endgame.com/blog/defcon-capture-the-flag-qualification-challenge-1.html>

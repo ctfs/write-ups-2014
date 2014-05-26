@@ -38,7 +38,6 @@ rgb_im = im.convert('RGB')
 #size is 256 by 256
 for x in xrange(0,255):
   for y in xrange(0,255):
-
     r, g, b = rgb_im.getpixel((x, y))
     print str(r) + " " + str(g) + " " + str(b)
 ```
