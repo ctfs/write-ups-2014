@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://github.com/nopple/ctf/tree/master/dosfun4u>
+* <http://www.synacktiv.com/ressources/defcon-ctf-2014-quals-dosfun4u-writeup.pdf>

@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* (none yet)
+* http://www.synacktiv.com/ressources/defcon-ctf-2014-quals-dosfun4u-writeup.pdf
