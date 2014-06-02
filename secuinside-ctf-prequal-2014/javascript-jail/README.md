@@ -2,7 +2,7 @@
 
 **Category:** Misc
 **Points:** 200
-**Description:** 
+**Description:**
 
 > 54.178.218.50 6789
 

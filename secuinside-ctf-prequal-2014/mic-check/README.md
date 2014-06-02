@@ -2,9 +2,9 @@
 
 **Category:** Speed Game
 **Points:** 7
-**Description:** 
+**Description:**
 
-> Q2QnT29oUNW0wtWqySDbw2UhvRIkTRrby2Qdx2g0UOjbwCHoTRrpw3Ei
+> `Q2QnT29oUNW0wtWqySDbw2UhvRIkTRrby2Qdx2g0UOjbwCHoTRrpw3Ei`
 
 ## Write-up
 

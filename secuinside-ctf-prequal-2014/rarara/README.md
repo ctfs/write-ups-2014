@@ -2,10 +2,9 @@
 
 **Category:** Reversing
 **Points:** 300
-**Description:** 
+**Description:**
 
-> [Down](rarara.7z) 
-
+> [Down](rarara.7z)
 > 7z Password: tnpfkxhstnpfkxhs
 
 ## Write-up

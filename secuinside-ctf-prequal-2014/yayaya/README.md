@@ -2,11 +2,10 @@
 
 **Category:** Reversing
 **Points:** 100
-**Description:** 
+**Description:**
 
-> [](Down)
-
-> Zip Password: aaaaaaaaaa
+> [Down](yayaya.zip)
+> Zip Password: `aaaaaaaaaa`
 
 ## Write-up
 

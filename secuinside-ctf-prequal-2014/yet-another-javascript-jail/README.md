@@ -2,10 +2,9 @@
 
 **Category:** Pwn
 **Points:** 300
-**Description:** 
+**Description:**
 
 > server1: 54.178.138.53 9876
-
 > server2: 54.178.225.123 9876
 
 ## Write-up
