@@ -13,4 +13,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://h4des.org/blog/index.php?/archives/344-Secuinside-CTF-Prequal-2014-Simple-login-web200-write-up.html>
