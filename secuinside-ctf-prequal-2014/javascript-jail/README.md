@@ -8,8 +8,22 @@
 
 ## Write-up
 
-(TODO)
+Provide replacement functions for `Math.random`, `Array.apply`, and `.map`
+on the Array:
+
+    Math.random = function(){return 1;};
+    f = function(l) {
+      print(l);
+      var foo = Array(l);
+      for (i=0;i<foo.length;i++) {
+        foo[i] = Math.random() * 0x10000;
+      }
+      foo.map = function(){return foo};
+      return foo;
+    };
+    Array.apply = function() { return f(30); };
+    check(f);
 
 ## Other write-ups
 
-* none yet
+- [Matir's write-up](https://systemoverlord.com/blog/2014/06/02/secuinside-quals-2014-javascript-jail/)
