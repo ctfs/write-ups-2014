@@ -27,3 +27,4 @@ on the Array:
 ## Other write-ups
 
 - [Matir's write-up](https://systemoverlord.com/blog/2014/06/02/secuinside-quals-2014-javascript-jail/)
+- [Cugu's write-up](http://blog.cugu.eu/write-up-secuinside-ctf-2014-javascript-jail/)
