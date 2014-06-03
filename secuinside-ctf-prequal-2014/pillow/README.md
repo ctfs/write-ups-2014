@@ -29,3 +29,4 @@
 ## Other write-ups
 
 * <https://rdot.org/forum/showpost.php?s=1bb8b7aca198dbee39104f19a8fc1090&p=35847>
+* <http://atdog.logdown.com/posts/2014/06/02/secuinside-2014-ctf-crypto-200>
