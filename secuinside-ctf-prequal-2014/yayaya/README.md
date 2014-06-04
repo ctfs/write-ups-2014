@@ -13,4 +13,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://ctfcrew.org/writeup/60>

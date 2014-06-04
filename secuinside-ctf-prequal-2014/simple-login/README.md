@@ -15,3 +15,4 @@
 
 * <http://h4des.org/blog/index.php?/archives/344-Secuinside-CTF-Prequal-2014-Simple-login-web200-write-up.html>
 * <https://rdot.org/forum/showpost.php?s=1bb8b7aca198dbee39104f19a8fc1090&p=35847>
+* <http://ctfcrew.org/writeup/61>
