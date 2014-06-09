@@ -18,3 +18,4 @@
 ## Other write-ups
 
 * <https://rdot.org/forum/showpost.php?s=1bb8b7aca198dbee39104f19a8fc1090&p=35851>
+* <https://www.dropbox.com/sh/ytfak01xhkjkiwp/AABOANajMia9WSMxbPmHil0da/writeup-thegreatestphysicists.pdf>

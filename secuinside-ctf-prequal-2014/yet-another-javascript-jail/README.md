@@ -13,4 +13,4 @@
 
 ## Other write-ups
 
-* none yet
+* <https://www.dropbox.com/s/2obg5ev1y9mrvvx/writeup-YetanotherJavascriptjail.pdf>
