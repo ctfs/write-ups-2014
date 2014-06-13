@@ -13,4 +13,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://jgeralnik.github.io/writeups/2014/06/12/rarara/>
