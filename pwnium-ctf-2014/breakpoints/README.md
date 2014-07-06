@@ -10,4 +10,5 @@
 
 ## Other write-ups
 
-
+SkUaTeR wrote for Amnesia:
+https://infotomb.com/fg0c5.pdf
