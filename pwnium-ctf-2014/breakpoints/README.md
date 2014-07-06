@@ -12,3 +12,6 @@
 
 SkUaTeR wrote for Amnesia:
 https://infotomb.com/fg0c5.pdf
+
+s0beit wrote: 
+http://s0beit.me/reverse-engineering/pwnium-write-up-2-breakpoints/
