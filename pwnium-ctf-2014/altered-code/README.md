@@ -10,4 +10,4 @@
 
 ## Other write-ups
 
-
+* http://pastebin.com/kr6uDrN3
