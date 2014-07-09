@@ -7,6 +7,16 @@
 
 ## Write-up
 
+Written by Tasteless for ctftime.org
+```
+We got a C source code. If we look carefully at it we will notice that some 
+lines are indented with tabs while others are indented with spaces.The solution 
+is just to comment or delete the lines indented with tabs and execute the code 
+to get the flag.
+
+Flag: D0nT_e4t_Sushi
+```
+Source: https://ctftime.org/writeup/1177
 
 ## Other write-ups
 
