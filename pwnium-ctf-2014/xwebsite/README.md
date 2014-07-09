@@ -10,4 +10,4 @@
 
 ## Other write-ups
 
-
+Written by *OpenToAll* : https://ctftime.org/writeup/1160
