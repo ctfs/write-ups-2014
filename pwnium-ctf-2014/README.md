@@ -4,8 +4,9 @@
 * [Scoreboard](http://41.231.53.44:8282/scoreboard)
 
 ## Completed write-ups
-* [main()](main)
 * [BreakMe](break_me)
+* [Look Closer](look-closer)
+* [main()](main)
 
 ## Incomplete write-ups
 
@@ -19,7 +20,7 @@
 * [Guest Book](guest-book)
 * [is_empty ?](is_empty)
 * [Kernel Land](kernel-land)
-* [Look Closer](look-closer)
+
 * [Matter of combination](matter-of-combination)
 * [NoDebug](nodebug)
 * [Numbers and sh*t](numbers-and-sh*t)
