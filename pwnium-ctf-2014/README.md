@@ -4,7 +4,8 @@
 * [Scoreboard](http://41.231.53.44:8282/scoreboard)
 
 ## Completed write-ups
-
+* [main()](main)
+* [BreakMe](break_me)
 
 ## Incomplete write-ups
 
@@ -12,7 +13,6 @@
 * [Altered Code](altered-code)
 * [Baybe Cracme](baybe-crackme)
 * [Be a robot](be-a-robot)
-* [BreakMe](break_me)
 * [Breakpoints](breakpoints)
 * [Crackme Fast](crackme-fast)
 * [Find the owner](find-the-owner)
@@ -20,7 +20,6 @@
 * [is_empty ?](is_empty)
 * [Kernel Land](kernel-land)
 * [Look Closer](look-closer)
-* [main()](main)
 * [Matter of combination](matter-of-combination)
 * [NoDebug](nodebug)
 * [Numbers and sh*t](numbers-and-sh*t)

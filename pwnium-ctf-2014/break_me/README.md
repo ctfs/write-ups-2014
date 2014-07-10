@@ -7,6 +7,19 @@
 
 ## Write-up
 
+We are give with the string that clearly indicates base64 encoding ('=' at the end).
+After processing the string with the `base64` command and `file`
+
+    echo 'QlpoOTFBWSZTWTxSmOAAAAsJAF/gOwAgADEAAAiZMNT0JbKzhCQcyQtA2gNbvXgSvxdyRThQkDxSmOA=' | base64 -D > output
+    file output
+    
+we get:
+> output: bzip2 compressed data, block size = 900k
+
+After we `unbzip2` it we get the output:
+> 9afa828748387b6ac0a393c00e542079
+
+which is the flag.
 
 ## Other write-ups
 
