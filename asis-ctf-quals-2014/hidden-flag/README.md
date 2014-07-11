@@ -86,3 +86,6 @@ The flag is `ASIS_b6be244608c27c2e869cb56167b649b1`.
 ## Other write-ups
 
 * http://nickthefrost.com/2014/05/10/asis-ctf-quals-2014-hidden-flag/
+* http://www.incertia.net/blog/asis-2014-quals-hidden-flag/
+* http://blogs.univ-poitiers.fr/e-laize/2014/05/11/asis-2014-hiddenflag/
+* http://tasteless.se/2014/05/asis-ctf-quals-2014-hidden-flag-writeup/

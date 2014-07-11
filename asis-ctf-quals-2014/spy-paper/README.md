@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* none yet
+* http://tasteless.se/2014/05/asis2014-stego-100-spy-paper/

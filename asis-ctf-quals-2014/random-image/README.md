@@ -68,3 +68,5 @@ We give each of these 2 cases a different color. Pixels matching their `get_pixe
 ## Other write-ups
 
 * http://blog.squareroots.de/en/2014/05/asis-ctf-2014-color-crypto/
+* http://www.incertia.net/blog/asis-2014-quals-random-image/
+* http://blogs.univ-poitiers.fr/e-laize/2014/05/10/asis-2014-randomimage/
