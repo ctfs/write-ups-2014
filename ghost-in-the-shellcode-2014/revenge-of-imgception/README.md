@@ -52,4 +52,4 @@ The final image contains a congratulatory message and the key: `K00pas@llth3w@yd
 
 ## Other write-ups
 
-* <http://pastebin.com/FXXzZqEg>
+* <http://pastebin.com/q8Lf8M0w>
