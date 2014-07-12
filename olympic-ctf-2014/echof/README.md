@@ -20,3 +20,4 @@
 ## Other write-ups
 
 * <http://balidani.blogspot.hu/2014/02/olympic-ctf-pwn300-echof-writeup.html>
+* <http://j00ru.vexillium.org/dump/ctf/echof.py>
