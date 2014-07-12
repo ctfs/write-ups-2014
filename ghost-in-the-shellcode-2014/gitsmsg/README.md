@@ -16,3 +16,4 @@ The flag is `lol, tagged unions for the WIN!`.
 
 * <http://ppp.cylab.cmu.edu/wordpress/?p=1152>
 * <https://blog.skullsecurity.org/2014/ghost-in-the-shellcode-gitsmsg-pwnage-299>
+* <http://j00ru.vexillium.org/dump/ctf/gitsmsg.py>
