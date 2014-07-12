@@ -6,6 +6,7 @@
 ## Completed write-ups
 * [Altered Code](altered-code)
 * [BreakMe](break_me)
+* [Kernel Land](kernel-land)
 * [Look Closer](look-closer)
 * [main()](main)
 * [problem ?](problem)
@@ -20,7 +21,6 @@
 * [Find the owner](find-the-owner)
 * [Guest Book](guest-book)
 * [is_empty ?](is_empty)
-* [Kernel Land](kernel-land) `Has external write-ups`
 * [Matter of combination](matter-of-combination)
 * [NoDebug](nodebug)
 * [Numbers and sh*t](numbers-and-sh*t)
