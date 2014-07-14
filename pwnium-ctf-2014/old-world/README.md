@@ -9,5 +9,5 @@
 
 
 ## Other write-ups
-
+* https://in3o.wordpress.com/2014/07/06/pwnium-ctf-2014-reverse-100-old-school/
 

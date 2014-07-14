@@ -24,7 +24,7 @@
 * [Matter of combination](matter-of-combination)
 * [NoDebug](nodebug)
 * [Numbers and sh*t](numbers-and-sh*t)
-* [Old World](old-world)
+* [Old World](old-world) `Has external write-ups`
 * [pwn100](pwn100)
 * [Remote KG](remote-kg)
 * [ROT](rot)
