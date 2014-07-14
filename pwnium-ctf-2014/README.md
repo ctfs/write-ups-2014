@@ -28,6 +28,6 @@
 * [pwn100](pwn100)
 * [Remote KG](remote-kg)
 * [ROT](rot)
-* [So basic](so-basic)
+* [So basic](so-basic) `Has external write-ups`
 * [USB is fun](usb-is-fun) `Has external write-ups`
 * [XWebSite](xwebsite) `Has external write-ups`
