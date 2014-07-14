@@ -29,5 +29,5 @@
 * [Remote KG](remote-kg)
 * [ROT](rot)
 * [So basic](so-basic)
-* [USB is fun](usb-is-fun)
+* [USB is fun](usb-is-fun) `Has external write-ups`
 * [XWebSite](xwebsite) `Has external write-ups`

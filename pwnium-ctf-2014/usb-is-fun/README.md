@@ -10,4 +10,4 @@
 
 ## Other write-ups
 
-
+* https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-usb-so-fun/
