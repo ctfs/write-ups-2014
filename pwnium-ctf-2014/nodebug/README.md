@@ -11,3 +11,4 @@
 ## Other write-ups
 
 
+Spanish write-up by Amn3s1a team : https://infotomb.com/z0xp5
