@@ -22,7 +22,7 @@
 * [Guest Book](guest-book)
 * [is_empty ?](is_empty)
 * [Matter of combination](matter-of-combination)
-* [NoDebug](nodebug)
+* [NoDebug](nodebug) `Has spanish external write-up`
 * [Numbers and sh*t](numbers-and-sh*t)
 * [Old World](old-world) `Has external write-ups`
 * [pwn100](pwn100)
