@@ -13,5 +13,5 @@
 
 ## Other write-ups and resources
 
-* <http://www.pwntester.com/blog/2014/02/09/olympicctf-curling-tasks/>
+* <http://www.pwntester.com/blog/2014/02/09/olympic-ctf-curling-tasks/>
 * [Source (released after the CTF)](source.php)
