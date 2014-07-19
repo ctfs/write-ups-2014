@@ -13,13 +13,13 @@
 
 ## Incomplete write-ups
 
-* [2048](2048)
+* [2048](2048) `Has external write-ups`
 * [Baybe Cracme](baybe-crackme)
 * [Be a robot](be-a-robot)
 * [Breakpoints](breakpoints) `Has external write-ups`
 * [Crackme Fast](crackme-fast) `Has external write-ups`
 * [Find the owner](find-the-owner)
-* [Guest Book](guest-book)
+* [Guest Book](guest-book) `Has external write-ups`
 * [is_empty ?](is_empty)
 * [Matter of combination](matter-of-combination)
 * [NoDebug](nodebug) `Has spanish external write-up`
