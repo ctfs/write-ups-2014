@@ -9,5 +9,4 @@
 
 
 ## Other write-ups
-
-
+* <http://0xawes0me.github.io/writeups/2014/07/19/2048/>
