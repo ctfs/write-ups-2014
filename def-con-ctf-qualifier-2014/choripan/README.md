@@ -12,4 +12,4 @@
 
 ## Other write-ups
 
-* (none yet)
+* [Challenge source code (released after the CTF)](https://github.com/legitbs/choripan)
