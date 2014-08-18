@@ -7,6 +7,7 @@
 ## Completed write-ups
 
 * [DIAGCGI](diagcgi)
+* [maze](maze)
 
 ## Incomplete write-ups
 
@@ -23,7 +24,6 @@
 * [girby](girby)
 * [hop](hop)
 * [LEENODE](leenode)
-* [maze](maze)
 * [mid](mid)
 * [overthere](overthere)
 * [Pneumotoulthamicrescopicfilicoloaganiconissis](pneumotoulthamicrescopicfilicoloaganiconissis)
