@@ -6,7 +6,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [DIAGCGI](diagcgi)
 
 ## Incomplete write-ups
 
@@ -15,7 +15,6 @@
 * [breath](breath)
 * [callme](callme)
 * [de](de)
-* [DIAGCGI](diagcgi)
 * [ducky](ducky)
 * [EASYINJ](easyinj)
 * [finger](finger)
