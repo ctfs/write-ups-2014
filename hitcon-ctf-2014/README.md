@@ -9,6 +9,7 @@
 * [24](24)
 * [DIAGCGI](diagcgi)
 * [maze](maze)
+* [PUSHIN CAT](pushin-cat)
 
 ## Incomplete write-ups
 
@@ -28,7 +29,6 @@
 * [overthere](overthere)
 * [Pneumotoulthamicrescopicfilicoloaganiconissis](pneumotoulthamicrescopicfilicoloaganiconissis)
 * [polyglot](polyglot)
-* [pushin-cat](pushin-cat)
 * [puzzle](puzzle)
 * [PY4H4SHER](py4h4sher)
 * [pycmd](pycmd)
