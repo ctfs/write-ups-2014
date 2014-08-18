@@ -1,0 +1,22 @@
+# HITCON CTF 2014: sha1lcode
+
+**Category:** Shellcode
+**Points:** 300
+**Description:**
+
+> Pwn this and cat the flag.
+>
+> ```bash
+> nc 210.61.2.51 5566
+> ```
+>
+> [https://raw.githubusercontent.com/hitcon2014ctf/ctf/master/sha1lcode-5b43cc13b0fb249726e0ae175dbef3fe](sha1lcode-5b43cc13b0fb249726e0ae175dbef3fe)
+> [https://dl.dropbox.com/s/gkng3jqe94sdrxy/sha1lcode-5b43cc13b0fb249726e0ae175dbef3fe](sha1lcode-5b43cc13b0fb249726e0ae175dbef3fe)
+
+## Write-up
+
+(TODO)
+
+## Other write-ups
+
+* none yet
