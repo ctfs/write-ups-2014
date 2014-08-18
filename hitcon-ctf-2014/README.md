@@ -6,12 +6,12 @@
 
 ## Completed write-ups
 
+* [24](24)
 * [DIAGCGI](diagcgi)
 * [maze](maze)
 
 ## Incomplete write-ups
 
-* [24](24)
 * [badger](badger)
 * [breath](breath)
 * [callme](callme)
