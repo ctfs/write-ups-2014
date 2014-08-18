@@ -14,11 +14,15 @@
 
 ## Write-up
 
-This one was fairly easy to do but that's because of a programming error, the challenge was supposed to be ginger (which was added later during the ctf-event)? Nevertheless let's get started:
-If we study the ruby code which was given to us we can see that we have to play some kind of rock-paper-scissors against the "boss". Of course to make it more difficult, the boss hits for 10-50 dmg while you do only 1-3 dmg. You both have a hp pool of 100. The program expects a magic input which will be compared to the MD5 hash of your secret (the hand you'll be playing) so you just choose a hand and send the MD5 hash of it as the magic word. After you say the magic word, the program says which hand the boss will play so you can compare it to your own hand. Now because of a programming error you can give the program a secret (your hand) which wasn't the one you choose in the beginning. The program will say you're a cheater but you'll only receive 1 dmg (much better than the 10-50 dmg from the boss in the case you would loose). Thus it is only a matter of writing a little script which formats the input and decides to either cheat or win/draw the rock-paper-scissor. 
-The netto win rate of this method is something of a 1 dmg per turn so you'll eventually win.
-The flag is `HITCON{you are super lucky OAQ!}`.
+This one was fairly easy to solve because of a programming error in the challenge. An updated harder version of the challenge was released during the CTF under the name of [ginger](https://github.com/ctfs/write-ups/tree/master/hitcon-ctf-2014/ginger).
 
+Studying [the provided Ruby code](finger-9312e72601ff37116dd1e201e9508dbb.rb), we learn that we have to play some kind of rock-paper-scissors against the ‘boss’. To make it more difficult, the boss hits for 10-50 dmg while you do only 1-3 dmg. You both have a HP pool of 100.
+
+The program expects a magic input which will be compared to the MD5 hash of your secret (the hand you’ll be playing). All you have to do is just choose a hand, and send the MD5 hash of it as the magic word. After you send the magic word, the program says which hand the boss plays so you can compare it to your own hand.
+
+Because of a programming error, you can give the program a secret (your hand) which wasn’t the one you choose in the beginning. The program will say you’re a cheater but you’ll only receive 1 dmg, which is much better than the 10-50 dmg from the boss in the case you would loose. Thus it is only a matter of writing [a little script which formats the input and decides to either cheat or win/draw the rock-paper-scissor](solution.rb). The netto win rate of this method is something of a 1 dmg per turn so you’ll eventually win if you run the script for long enough.
+
+The flag is `HITCON{you are super lucky OAQ!}`.
 
 ## Other write-ups
 
