@@ -12,6 +12,7 @@
 * [maze](maze)
 * [PUSHIN CAT](pushin-cat)
 * [rsaha](rsaha)
+* [Pneumotoulthamicrescopicfilicoloaganiconissis](pneumotoulthamicrescopicfilicoloaganiconissis)
 
 ## Incomplete write-ups
 
@@ -28,7 +29,6 @@
 * [LEENODE](leenode)
 * [mid](mid)
 * [overthere](overthere)
-* [Pneumotoulthamicrescopicfilicoloaganiconissis](pneumotoulthamicrescopicfilicoloaganiconissis)
 * [polyglot](polyglot)
 * [puzzle](puzzle)
 * [PY4H4SHER](py4h4sher)
