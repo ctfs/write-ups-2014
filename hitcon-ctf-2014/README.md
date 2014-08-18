@@ -8,6 +8,7 @@
 
 * [24](24)
 * [DIAGCGI](diagcgi)
+* [EASYINJ](easyinj)
 * [finger](finger)
 * [maze](maze)
 * [overthere](overthere)
@@ -22,7 +23,6 @@
 * [callme](callme)
 * [de](de)
 * [ducky](ducky)
-* [EASYINJ](easyinj)
 * [G8LA](g8la)
 * [ginger](ginger)
 * [girby](girby)
