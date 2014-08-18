@@ -27,4 +27,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://tasteless.se/2014/08/hitcon2014-polyglot-crazy500/>
