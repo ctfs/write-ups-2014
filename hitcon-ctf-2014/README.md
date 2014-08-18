@@ -8,8 +8,10 @@
 
 * [24](24)
 * [DIAGCGI](diagcgi)
+* [finger](finger)
 * [maze](maze)
 * [PUSHIN CAT](pushin-cat)
+* [rsaha](rsaha)
 
 ## Incomplete write-ups
 
@@ -19,7 +21,6 @@
 * [de](de)
 * [ducky](ducky)
 * [EASYINJ](easyinj)
-* [finger](finger)
 * [G8LA](g8la)
 * [ginger](ginger)
 * [girby](girby)
@@ -33,7 +34,6 @@
 * [PY4H4SHER](py4h4sher)
 * [pycmd](pycmd)
 * [PYFMT](pyfmt)
-* [rsaha](rsaha)
 * [rsbo](rsbo)
 * [sha1lcode](sha1lcode)
 * [stkof](stkof)
