@@ -24,4 +24,4 @@
 
 ## Other write-ups
 
-* none yet
+* http://acez.re/ctf-writeup-hitcon-ctf-2014-stkof-or-modern-heap-overflow/
