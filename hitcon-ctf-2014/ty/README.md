@@ -17,4 +17,4 @@
 
 ## Other write-ups
 
-* none yet
+* http://acez.re/ctf-writeup-hitcon-ctf-2014-callme-rsbo-ty-sh41lcode/
