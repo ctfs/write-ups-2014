@@ -15,6 +15,7 @@
 * [overthere](overthere)
 * [Pneumotoulthamicrescopicfilicoloaganiconissis](pneumotoulthamicrescopicfilicoloaganiconissis)
 * [PUSHIN CAT](pushin-cat)
+* [puzzle](puzzle)
 * [rsaha](rsaha)
 
 ## Incomplete write-ups
@@ -30,7 +31,6 @@
 * [hop](hop)
 * [mid](mid)
 * [polyglot](polyglot)
-* [puzzle](puzzle)
 * [PY4H4SHER](py4h4sher)
 * [pycmd](pycmd)
 * [PYFMT](pyfmt)
