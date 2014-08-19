@@ -26,9 +26,9 @@ Let's start this challenge by taking a closer look to the image in a hex editor.
 * There is JFIF and EXIF header
 * There are multiple JFXX thumbnails
 
-If we take the EXIF data from the image and put that in a new one we get [the following image](https://raw.githubusercontent.com/hitcon2014ctf/ctf/master/ExifImage.jpg). So there must be something hidden in the first part of the image. Since there are multiple thumbnails and the tittle of the challenge is puzzle I figured we had to extract those thumbnails. A little bit [research on JPEG headers](http://blog.bfitz.us/?p=289) was usefull. This enabled me to write [a script for extracting the thumbnails](https://raw.githubusercontent.com/hitcon2014ctf/ctf/master/puzzlesolver.py). This scripts extracted and created 100 images.
+If we take the EXIF data from the image and put that in a new one we get [the following image](https://raw.githubusercontent.com/hitcon2014ctf/ctf/master/hitcon-ctf-2014/puzzle/ExifImage.jpg). So there must be something hidden in the first part of the image. Since there are multiple thumbnails and the tittle of the challenge is puzzle I figured we had to extract those thumbnails. A little bit [research on JPEG headers](http://blog.bfitz.us/?p=289) was usefull. This enabled me to write [a script for extracting the thumbnails](https://raw.githubusercontent.com/hitcon2014ctf/ctf/master/hitcon-ctf-2014/puzzle/puzzlesolver.py). This scripts extracted and created 100 images.
 
-The second stage of the challenge is literally a puzzle. You got 100 images and you have to puzzle them together. I also wrote [a script to puzzle them together](https://raw.githubusercontent.com/hitcon2014ctf/ctf/master/puzzlesolver_part2.py) however this script does not bruteforce the solution. Since there are 5050 different possibilities and I didn't want to end up with 5050 images in my folder. 
+The second stage of the challenge is literally a puzzle. You got 100 images and you have to puzzle them together. I also wrote [a script to puzzle them together](https://raw.githubusercontent.com/hitcon2014ctf/ctf/master/hitcon-ctf-2014/puzzle/puzzlesolver_part2.py) however this script does not bruteforce the solution. Since there are 5050 different possibilities and I didn't want to end up with 5050 images in my folder. 
 
 ```py
 # put all the images in the new image
