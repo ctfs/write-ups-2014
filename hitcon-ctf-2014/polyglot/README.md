@@ -84,6 +84,80 @@ p("cat flag");
 #define x // -}();main = do x <- readFile "flag"; putStr x
 ```
 
+Showing the same code with syntax highlighting for each programming language clearly shows what gets executed:
+
+**Python:**
+
+```python
+x = {-
+#if 0
+0 + """".to_i => 0}
+print `cat flag`
+__END__
+""".find('x')}
+import os
+p = os.system;{
+#endif
+1};
+#define p(s) main(){system(s);}
+p("cat flag");
+#define x // -}();main = do x <- readFile "flag"; putStr x
+```
+
+**Ruby:**
+
+```ruby
+x = {-
+#if 0
+0 + """".to_i => 0}
+print `cat flag`
+__END__
+""".find('x')}
+import os
+p = os.system;{
+#endif
+1};
+#define p(s) main(){system(s);}
+p("cat flag");
+#define x // -}();main = do x <- readFile "flag"; putStr x
+```
+
+**C:**
+
+```c
+x = {-
+#if 0
+0 + """".to_i => 0}
+print `cat flag`
+__END__
+""".find('x')}
+import os
+p = os.system;{
+#endif
+1};
+#define p(s) main(){system(s);}
+p("cat flag");
+#define x // -}();main = do x <- readFile "flag"; putStr x
+```
+
+**Haskell**
+
+```haskell
+x = {-
+#if 0
+0 + """".to_i => 0}
+print `cat flag`
+__END__
+""".find('x')}
+import os
+p = os.system;{
+#endif
+1};
+#define p(s) main(){system(s);}
+p("cat flag");
+#define x // -}();main = do x <- readFile "flag"; putStr x
+```
+
 ## Other write-ups
 
 * <http://tasteless.se/2014/08/hitcon2014-polyglot-crazy500/>
