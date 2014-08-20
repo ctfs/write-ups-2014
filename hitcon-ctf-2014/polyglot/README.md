@@ -51,14 +51,14 @@ Ruby seems more complicated at first sight, because it's harder to only comment 
 print `cat flag`
 __END__
 """
-#endif
 import os
 p = os.system
+#endif
 #define p(s) main(){system(s);}
 p("cat flag");
 ```
 
-The hardest part comes when we are trying to have Haskell. Haskell has a rigid syntax that makes it hard to construct our polyglot. Intuition tells us that code if all other languages should be wrapped into a Haskell block comment like this:
+The hardest part comes when we are trying to have Haskell. Haskell has a rigid syntax that makes it hard to construct our polyglot. Intuition tells us that code in all other languages should be wrapped into a Haskell block comment like this:
 
 ```haskell
 {-
@@ -66,7 +66,7 @@ The hardest part comes when we are trying to have Haskell. Haskell has a rigid s
 -}main = do x <- readFile "flag"; putStr x
 ```
 
-Unfortunately it won't work because it is illegal in all other languages. To make it play nice with C, we can write something like `x = {-0}; //-}` and despite gcc's warning it is an array literal. To make it a legal Python program we further extend it to be `x = {-0}; #define x //-}`, and it is interpreted as a set literal in Python. Ruby does not have set literal, but it has hash syntax `{key => value}`. Since all other languages does not recognize hash rocket token `=>`, we use the old Python docstring trick to make the program roughly looks like: `x = {-0 + """".to_i => 0} ... __END__ """.find('x')} ... #define x //-} ...`. After a few tries, we finally got a working polyglot that looks like this:
+Unfortunately it won't work because it is illegal in all other languages. To make it play nice with C, we can write something like `x = {-0}; //-}` and despite gcc's warning it is an array literal. To make it a legal Python program we further extend it to be `x = {-0}; ... #define x //-}`, and it is interpreted as a set literal in Python. Ruby does not have set literal, but it has hash syntax `{key => value}`. Since all other languages does not recognize hash rocket token `=>`, we use the old Python docstring trick to make the program roughly looks like: `x = {-0 + """".to_i => 0} ... __END__ """.find('x')} ... #define x //-} ...`. After a few tries, we finally got a working polyglot that looks like this:
 
 ```
 x = {-
@@ -140,7 +140,7 @@ p("cat flag");
 #define x // -}();main = do x <- readFile "flag"; putStr x
 ```
 
-**Haskell**
+**Haskell:**
 
 ```haskell
 x = {-
