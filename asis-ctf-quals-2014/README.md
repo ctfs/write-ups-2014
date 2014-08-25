@@ -6,6 +6,7 @@
 
 ## Completed write-ups
 
+* [Archaic](archaic)
 * [forensic](forensic)
 * [Hidden flag](hidden-flag)
 * [Image](image)
@@ -20,7 +21,6 @@
 
 ## Incomplete write-ups
 
-* [Archaic](archaic)
 * [Auth](auth)
 * [Blocks](blocks)
 * [Bomb](bomb)
