@@ -12,4 +12,5 @@
 
 ## Other write-ups and resources
 
+* <https://isisblogs.poly.edu/2014/05/19/babys-first-heap-exploit-defcon-quals-2014/>
 * <http://pastebin.com/iM6wCRqa>
