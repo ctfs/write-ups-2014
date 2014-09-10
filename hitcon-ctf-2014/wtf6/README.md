@@ -22,6 +22,8 @@
 
 (TODO)
 
-## Other write-ups
+The flag is `HITCON{What The Fucking Secure Hash, called wtfsh?}`.
 
-* none yet
+## Other write-ups and resources
+
+* <https://gist.github.com/ShikChen/a8bfbb4f5f025fe87617>
