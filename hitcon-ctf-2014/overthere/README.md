@@ -152,3 +152,4 @@ The flag is `HITCON{0ld_7rick5_alw4y5_workS!!}`.
 ## Other write-ups and resources
 
 * [Unix Wildcards Gone Wild](http://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt)
+http://givemesecurity.info/2014/08/18/overthere-writeup-hitcon-2014/
