@@ -11,6 +11,7 @@
 * [geohot pls](geohot-pls)
 * [hashes](hashes)
 * [Julian Cohen](julian-cohen)
+* [Kevin Chung](kevin-chung)
 * [Obscurity](obscurity)
 
 ## Incomplete write-ups
@@ -24,7 +25,6 @@
 * [Fuzyll](fuzyll)
 * [greenhornd](greenhornd)
 * [ish](ish)
-* [Kevin Chung](kevin-chung)
 * [Not NYSEC](not-nysec)
 * [pop pop](pop-pop)
 * [psifer school](psifer-school)

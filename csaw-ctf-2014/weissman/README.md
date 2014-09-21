@@ -37,4 +37,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://balidani.blogspot.com/2014/09/csaw14-weissman-writeup.html>

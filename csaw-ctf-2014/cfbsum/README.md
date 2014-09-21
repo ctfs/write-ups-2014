@@ -12,6 +12,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/anonymous/cbcf6c963ff6bc5655b3>

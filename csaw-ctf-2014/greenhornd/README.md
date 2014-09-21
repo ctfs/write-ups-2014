@@ -25,6 +25,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/g05u/221b61d13804c5fd87d0>

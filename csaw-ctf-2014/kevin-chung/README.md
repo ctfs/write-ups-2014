@@ -12,7 +12,7 @@
 
 ## Write-up
 
-(TODO)
+One possible solution was <http://www.siths.org/album/48915/23451.jpg> (taken from [the _2007-Freshman Orientation_ album](http://www.siths.org/apps/album/#albumREC_ID=24884&s=0)).
 
 ## Other write-ups
 
