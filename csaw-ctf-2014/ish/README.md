@@ -6,6 +6,10 @@
 
 > This shell sucks
 >
+> HINT: get the contents of `key`
+>
+> HINT: The `cat` command is useless
+>
 > ```bash
 > nc 54.208.86.14 9988
 > ```

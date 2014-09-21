@@ -8,7 +8,7 @@
 
 ## Write-up
 
-(TODO)
+The answer is `livectf`.
 
 ## Other write-ups
 

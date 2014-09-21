@@ -12,7 +12,14 @@
 
 ## Write-up
 
-(TODO)
+```bash
+$ pdftotext pdf.pdf
+
+$ strings pdf.txt
+flag{security_through_obscurity}
+```
+
+The flag is `security_through_obscurity`.
 
 ## Other write-ups
 

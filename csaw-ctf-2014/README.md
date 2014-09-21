@@ -1,31 +1,31 @@
 # CSAW CTF 2014 write-ups
 
 * <https://csawctf.poly.edu/>
+* [Scoreboard](https://ctf.isis.poly.edu/scoreboard)
 
 ## Completed write-ups
 
-* none yet
+* [Big Data](big-data)
+* [bo](bo)
+* [dumpster diving](dumpster-diving)
+* [geohot pls](geohot-pls)
+* [hashes](hashes)
+* [Julian Cohen](julian-cohen)
+* [Obscurity](obscurity)
 
 ## Incomplete write-ups
 
 * [aerosol can](aerosol-can)
-* [Big Data](big-data)
-* [bo](bo)
 * [cfbsum](cfbsum)
 * [csaw2013reversing2.exe](csaw2013reversing2.exe)
-* [dumpster diving](dumpster-diving)
 * [eggshells](eggshells)
 * [Feal](feal)
 * [Fluffy No More](fluffy-no-more)
 * [Fuzyll](fuzyll)
-* [geohot pls](geohot-pls)
 * [greenhornd](greenhornd)
-* [hashes](hashes)
 * [ish](ish)
-* [Julian Cohen](julian-cohen)
 * [Kevin Chung](kevin-chung)
 * [Not NYSEC](not-nysec)
-* [Obscurity](obscurity)
 * [pop pop](pop-pop)
 * [psifer school](psifer-school)
 * [pybabbies](pybabbies)
