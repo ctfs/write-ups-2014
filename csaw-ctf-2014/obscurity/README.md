@@ -12,6 +12,12 @@
 
 ## Write-up
 
+[The provided PDF file](pdf.pdf) contains some hidden text.
+
+One way to get to it is by opening the PDF in your viewer of choice, selecting all of its contents (using `Ctrl` + `A` or `⌘` + `A`), copying it, and then pasting it into your text editor of choice.
+
+Another possible solution is to use the `pdftotext` command-line utility:
+
 ```bash
 $ pdftotext pdf.pdf
 
