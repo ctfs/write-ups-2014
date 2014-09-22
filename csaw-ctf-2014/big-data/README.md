@@ -38,4 +38,4 @@ The flag is `bigdataisaproblemnotasolution`.
 
 ## Other write-ups
 
-* none yet
+* <http://evandrix.github.io/ctf/2014-csaw-networking-100-bigdata.html>

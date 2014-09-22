@@ -23,3 +23,4 @@
 * <http://balidani.blogspot.com/2014/09/csaw14-saturn-writeup.html>
 * <http://choppers.pw/posts/2014/09/21/csaw-quals-2014-saturn/>
 * [Exploit written in Python by @ebeip90](https://gist.github.com/ebeip90/7594329043e911e3b2f9)
+* <http://digitaloperatives.com/2014/09/22/csaw-ctf-2014-qualification-round-write-up-exploitation-400-saturn/>
