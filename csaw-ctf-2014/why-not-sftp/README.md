@@ -14,11 +14,13 @@
 
 Open [the provided `traffic-5.pcap` file](traffic-5.pcap) in Wireshark.
 
-There are two ways to look for interesting packets:
+There are various ways to look for interesting packets:
 
-1. Filter the packet captures over the FTP-DATA protocol by typing `ftp-data` into the filter box. Click the capture labeled number `413`. Or, alternatively…
+1. Go to _Statistics_ → _Conversations_ and look for interesting traffic patterns. Or, alternatively…
 
-2. Go to _Edit_ → _Find Packet_ → _String_ → _Search in packet bytes_, and enter `flag`.
+2. Go to _Edit_ → _Find Packet_ → _String_ → _Search in packet bytes_, and enter `flag`. Or, alternatively…
+
+3. The challenge name hints at FTP usage, so let’s filter the packet captures over the FTP-DATA protocol by typing `ftp-data` into the filter box. Click the capture labeled number `413`.
 
 Right-click the capture and select _Follow TCP Stream_. Notice how the first few bytes match the file header for ZIP files (`PK\x03\x04`).
 
