@@ -13,6 +13,7 @@
 * [Julian Cohen](julian-cohen)
 * [Kevin Chung](kevin-chung)
 * [Obscurity](obscurity)
+* [weissman](weissman)
 
 ## Incomplete write-ups
 
@@ -35,7 +36,6 @@
 * [Silk Goat](silk-goat)
 * [Twitter will you give me @kchung?](twitter-will-you-give-me-kchung)
 * [We don’t know either](we-dont-know-either)
-* [weissman](weissman)
 * [why not sftp?](why-not-sftp)
 * [wololo](wololo)
 * [xorcise](xorcise)
