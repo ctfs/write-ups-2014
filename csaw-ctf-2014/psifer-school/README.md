@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * [Exploit written in Perl by @dz-coder](https://gist.github.com/anonymous/b16f705b728cbfd8b413)
+* [Exploit written in PHP by @stypr](https://www.irccloud.com/pastebin/eZAoqsNy)

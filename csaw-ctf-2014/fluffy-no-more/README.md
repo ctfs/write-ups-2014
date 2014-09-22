@@ -32,6 +32,6 @@ This [is equivalent to](https://mothereff.in/js-escapes#1var%20%5f0xee0b%3D%5B%2
 
 The flag is `Those Fluffy Bunnies Make Tummy Bumpy`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://balidani.blogspot.com/2014/09/csaw14-fluffy-no-more-writeup.html>

@@ -12,15 +12,13 @@
 
 ## Write-up
 
-(TODO)
+The intended solution was to find [this OkCupid profile](http://www.okcupid.com/profile/TheJulianCohen), which displays the flag `julian_will_not_date_you_sorry`.
 
-The challenge author [set up an OkCupid profile](http://www.okcupid.com/profile/hockeyinjune) whose ‘self-summary’ is as follows:
+During the CTF, a troll [set up another OkCupid profile that was much easier to find](http://www.okcupid.com/profile/hockeyinjune) whose ‘self-summary’ is as follows:
 
 > `flag{flowers_and_wine_will_get_me}`
 
-The flag is `flowers_and_wine_will_get_me`.
-
-[This profile](http://www.okcupid.com/profile/TheJulianCohen) works too. The flag is `julian_will_not_date_you_sorry`.
+The CTF organisers counter-trolled by accepting that flag (`flowers_and_wine_will_get_me`) as well.
 
 ## Other write-ups
 
