@@ -16,6 +16,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Exploit written in Perl by @dz-coder](https://gist.github.com/anonymous/b16f705b728cbfd8b413)
