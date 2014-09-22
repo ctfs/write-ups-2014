@@ -16,6 +16,9 @@
 
 (TODO)
 
-## Other write-ups
+The flag is `SimplyStupidStorage`.
 
-* none yet
+## Other write-ups and resources
+
+* <http://choppers.pw/posts/2014/09/21/csaw-quals-2014-s3/>
+* [Exploit written in Python by @ebeip90](https://gist.github.com/ebeip90/c6cb842b66fcc1680ea7)

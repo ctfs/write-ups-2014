@@ -81,6 +81,6 @@ The challenge server says:  Sorry, your file did not pass all the checks.
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Exploit written in Python by @ebeip90](https://gist.github.com/ebeip90/d167b9a52cb55fbffeb2#file-wololo-py)

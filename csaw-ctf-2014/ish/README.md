@@ -22,6 +22,9 @@
 
 (TODO)
 
-## Other write-ups
+The flag is `AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKLLLLMMMMOOOOXX`.
 
-* none yet
+## Other write-ups and resources
+
+* <http://choppers.pw/posts/2014/09/21/csaw-quals-2014-ish/>
+* [Exploit written in Python](https://gist.github.com/zachriggle/3670a74f7f6fd74fdaa5)

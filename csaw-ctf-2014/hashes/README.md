@@ -14,7 +14,7 @@
 
 ## Write-up
 
-The linked page uses an old version of the jQuery library (v1.6.1), [which enables an XSS vulnerability when e.g. `$('#' + userContent)` is called](http://bugs.jquery.com/ticket/9521). The page also contains this script:
+The linked page uses an old version of the jQuery library (v1.6.1), [which enables an XSS vulnerability when e.g. `$('#' + userContent)` is called](http://bugs.jquery.com/ticket/9521) ([CVE-2011-4969](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2011-4969)). The page also contains this script:
 
 ```js
 $(window).bind( 'hashchange', function(e) {
@@ -46,4 +46,4 @@ The flag is `these_browser_bots_are_annoying`.
 
 ## Other write-ups
 
-* none yet
+* <http://zoczus.blogspot.com/2014/09/csaw-ctf-web300-writeup.html>
