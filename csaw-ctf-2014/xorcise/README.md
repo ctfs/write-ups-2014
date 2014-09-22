@@ -44,4 +44,4 @@ Now we can start entering input in the `nc` window…
 
 ## Other write-ups
 
-* none yet
+* <http://solution-36.blogspot.com/2014/09/csaw-2014-exploit-500-writeup-xorcise.html>

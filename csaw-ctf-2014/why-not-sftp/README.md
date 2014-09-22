@@ -32,4 +32,4 @@ The flag is `91e02cd2b8621d0c05197f645668c5c4` (which, by the way, happens to be
 
 ## Other write-ups
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---why-not-sftp-200pts-writeup>

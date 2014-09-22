@@ -47,4 +47,4 @@ The flag is `trust_is_risky`.
 
 ## Other write-ups
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---eggshells-100pts-writeup>

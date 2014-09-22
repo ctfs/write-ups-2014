@@ -36,4 +36,4 @@ The flag is `exploitation_is_easy!`.
 
 ## Other write-ups
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---bo-100pts-writeup>
