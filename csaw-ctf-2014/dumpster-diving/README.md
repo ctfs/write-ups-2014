@@ -32,3 +32,4 @@ The flag is `cd69b4957f06cd818d7bf3d61980e291` (which, by the way, happens to be
 ## Other write-ups
 
 * <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---dumpster-diving-100pts-writeup>
+* <https://hackucf.org/blog/csaw-2014-forensics-100-dumpster-diving/>
