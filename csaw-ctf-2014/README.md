@@ -20,6 +20,7 @@
 * [We don’t know either](we-dont-know-either)
 * [weissman](weissman)
 * [why not sftp?](why-not-sftp)
+* [xorcise](xorcise)
 
 ## Incomplete write-ups
 
@@ -38,4 +39,3 @@
 * [Silk Goat](silk-goat)
 * [Twitter will you give me @kchung?](twitter-will-you-give-me-kchung)
 * [wololo](wololo)
-* [xorcise](xorcise)
