@@ -35,3 +35,4 @@ The flag is `Those Fluffy Bunnies Make Tummy Bumpy`.
 ## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/09/csaw14-fluffy-no-more-writeup.html>
+* <http://sugarstack.io/csaw2014-fluffy-no-more/>
