@@ -29,4 +29,4 @@ The flag is `security_through_obscurity`.
 
 ## Other write-ups
 
-* none yet
+* https://hackucf.org/blog/csaw-2014-forensics-200-obscurity/
