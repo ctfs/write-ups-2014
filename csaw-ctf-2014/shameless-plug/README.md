@@ -8,7 +8,9 @@
 
 ## Write-up
 
-(TODO)
+Googling for “new USENIX workshop for education” gives `3GSE'14`.
+
+The flag is `3GSE`.
 
 ## Other write-ups
 
