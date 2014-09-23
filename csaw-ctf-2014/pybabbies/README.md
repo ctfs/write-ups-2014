@@ -51,7 +51,7 @@ The flag is `definitely_not_intro_python`.
 ## Other write-ups and resources
 
 * <http://rotlogix.com/2014/09/22/csaw-exploitation-200-pybabies/>
-* [_Escaping Python sandboxes_](https://isisblogs.poly.edu/2012/10/26/escaping-python-sandboxes/)
 * <http://evandrix.github.io/ctf/2014-csaw-exploitation-200-pybabbies.html>
 * <https://hexplo.it/escaping-the-csawctf-python-sandbox/>
 * <http://sugarstack.io/csaw2014-pybabbies/>
+* [_Escaping Python sandboxes_](https://isisblogs.poly.edu/2012/10/26/escaping-python-sandboxes/)
