@@ -51,7 +51,7 @@ auth=b%3A0%3B
 hsh=ef16c2bffbcf0b7567217f292f9c2a9a50885e01e002fa34db34c0bb916ed5c3
 ```
 
-The value for `auth` makes sense, because in PHP, `false` serializes to 'b:0;`, and `true` serializes to `b:1;`:
+The value for `auth` makes sense, because in PHP, `false` serializes to `'b:0;`, and `true` serializes to `b:1;`:
 
 ```bash
 $ php -r 'echo serialize(false);'

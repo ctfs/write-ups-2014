@@ -3,14 +3,14 @@
 **Category:** Reverse
 **Points:** 150
 **Description:**
+
 > The third Tick gives you the answer ;) [http://41.231.53.40/kernel](kernel)
 
 ## Write-up
 
-The algorithm is described in timer_tick and the data is in the global variable flag.
+The algorithm is described in `timer_tick` and the data is in the global variable `flag`.
 
-
-Calculate the flag by:
+Calculate the flag as follows:
 
 ```python
 flag_data =[
@@ -28,4 +28,4 @@ print "".join(map(chr, flag_data))
 
 ## Other write-ups
 
-
+* none yet

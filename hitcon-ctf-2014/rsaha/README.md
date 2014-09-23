@@ -27,16 +27,16 @@ def encrypt(bits, m):
     print (m + 1) ** 3 % n
 ```
 
-The program gives us `n`, `m**3 %n` and `(m+1)**3 %n` and asks us `m` in return. After some research on RSA encryption we notice that this encryption can be broken because we are given two encrypted messages. We know those message are encrypted using the same key and related to each other. This is also known as a [Franklin-Reiter Related Message Attack](http://en.wikipedia.org/wiki/Coppersmith%27s_Attack#Franklin-Reiter_Related_Message_Attack). This lead us to the next formula:
+The program gives us `n`, `m ** 3 % n` and `(m + 1) ** 3 % n` and asks us `m` in return. After some research on RSA encryption we notice that this encryption can be broken because we are given two encrypted messages. We know those messages are encrypted using the same key and related to each other. This is also known as a [Franklin-Reiter Related Message Attack](http://en.wikipedia.org/wiki/Coppersmith%27s_Attack#Franklin-Reiter_Related_Message_Attack). This leads us to the next formula:
 
 ```
-((m + 1)**3 +  2*m**3 - 1)/((m + 1)**3 - m**3 + 2) = m mod n
+((m + 1) ** 3 +  2 * m ** 3 - 1) / ((m + 1) ** 3 - m ** 3 + 2) = m mod n
 ```
 
-After a while I figured out we can use the [extended Euclidean algorithm](http://en.wikipedia.org/wiki/Extended_Euclidean_algorithm) to calculate `m` from this formula. Here is a snippet of the Python code I wrote:
+We can use the [extended Euclidean algorithm](http://en.wikipedia.org/wiki/Extended_Euclidean_algorithm) to calculate `m` from this formula. Here is a snippet of the Python code I wrote:
 
 ```py
-# return a triple (g, x, y), such that ax + by = g = gcd(a, b).
+# Return a triple `(g, x, y)` such that `ax + by = g = gcd(a, b)`.
 def egcd(a, b):
   if a == 0:
     return (b, 0, 1)

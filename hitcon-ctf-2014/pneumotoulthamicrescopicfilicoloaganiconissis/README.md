@@ -13,9 +13,9 @@
 
 ## Write-up
 
-By searching for the string (just part of it) in the google we find out that it's the [http://en.wikipedia.org/wiki/Longest_word_in_English](longest word) that contains 189 819 characters and apparenty (by reading the hint) it was modified. We need to obtain the original one. By using google more, we encounter the page where the word is in its full form: [http://www.digitalspy.co.uk/fun/news/a444700/longest-word-has-189819-letters-takes-three-hours-to-pronounce.html](http://www.digitalspy.co.uk/fun/news/a444700/longest-word-has-189819-letters-takes-three-hours-to-pronounce.html)
+By searching for the string (just part of it) in the google we find out that it's the [http://en.wikipedia.org/wiki/Longest_word_in_English](longest word) that contains 189 819 characters and apparenty (by reading the hint) it was modified. We need to obtain the original one. Some more Googling reveals the word in its full form: <http://www.digitalspy.co.uk/fun/news/a444700/longest-word-has-189819-letters-takes-three-hours-to-pronounce.html>.
 
-Having the original we can write a short python script:
+Now that we have the original, we can write a short Python script:
 
 ```python
 longest = '' #put the longest word here
@@ -34,11 +34,14 @@ for j in range(0, plLen):
 
 print password
 ```
-Running the script will produce:
 
-```HITCON{This flag is longestestestestestestestestestestestestestestestestestestestestestestestestestest!!!}```
+Running the script produces:
 
-which is the flag.
+```
+HITCON{This flag is longestestestestestestestestestestestestestestestestestestestestestestestestestest!!!}
+```
+
+…which is the flag.
 
 ## Other write-ups
 

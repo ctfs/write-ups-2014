@@ -22,7 +22,7 @@ INSERT INTO [something...] VALUES ([some fields], 'INJECTION IN PW', 'IP')
 
 This is great news, since the IP value is shown to us when clicking the “Get flag” button. We can further try to obtain the amount of parameters in the query with a multi-INSERT technique: `foo','IP'),(1,2)-- -`. This will insert 2 records into the database. We can continously increase the amount of parameters in the second query until there is no error anymore. This is the case with 4 parameters: `foo','IP'),(1,2,3,4)-- -`.
 
-In order to dump the database schema and content, we can make use of subqueries: The injection syntax is `foo',(select 1))-- -`, where 1 could be any query returning only one row. Additionally, we can use group_concat to group multiple rows together and read out `information_schema.tables` and `information_schema.columns`. From there on we can easily see that the original query roughly looks like this:
+In order to dump the database schema and content, we can make use of subqueries: The injection syntax is `foo',(select 1))-- -`, where 1 could be any query returning only one row. Additionally, we can use `group_concat` to group multiple rows together and read out `information_schema.tables` and `information_schema.columns`. From there on we can easily see that the original query roughly looks like this:
 
 ```sql
 INSERT INTO users (role, username, password, ip) VALUES ('user', $username, $pw (INJECTION HERE), $ip)
