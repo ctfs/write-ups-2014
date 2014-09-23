@@ -18,4 +18,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://uncomputable.blogspot.com/2014/09/csaw-ctf-2014-quals-crypto-300-feal.html>
