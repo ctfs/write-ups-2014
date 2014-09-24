@@ -10,7 +10,15 @@
 
 ## Write-up
 
-(TODO)
+One possible solution is:
+
+1. Go to [dotabuff.com](http://www.dotabuff.com/).
+2. Search for ‘fuzyll’ and click ‘matches’ which takes you to <http://www.dotabuff.com/players/80484382/matches>.
+3. Click the seventh match (at the time of CSAW CTF) where it says “Won Match”.
+4. The URL is <http://www.dotabuff.com/matches/903461176>, so the match ID is `903461176`.
+5. Go to [dotabank.com](http://dotabank.com/)
+6. Enter the match ID `903461176`, which takes you to <http://dotabank.com/replays/903461176/>.
+7. Get the replay and get the flag.
 
 ## Other write-ups
 
