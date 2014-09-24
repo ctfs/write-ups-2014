@@ -40,3 +40,4 @@ The flag is `bigdataisaproblemnotasolution`.
 
 * <http://evandrix.github.io/ctf/2014-csaw-networking-100-bigdata.html>
 * <http://shankaraman.wordpress.com/2014/09/22/csaw-ctf-2014-networking-100-bigdata-writeup/>
+* <https://gist.github.com/bt3gl/98fa614d19c849131b6d>

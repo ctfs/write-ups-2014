@@ -36,3 +36,4 @@ The flag is `91e02cd2b8621d0c05197f645668c5c4` (which, by the way, happens to be
 
 * <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---why-not-sftp-200pts-writeup>
 * <http://shankaraman.wordpress.com/2014/09/22/csaw-ctf-2014-forensics-200-why-not-sftp-writeup>
+* <https://gist.github.com/bt3gl/996d178dee7be56991db>

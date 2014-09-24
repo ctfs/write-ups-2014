@@ -48,3 +48,4 @@ The flag is `trust_is_risky`.
 ## Other write-ups
 
 * <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---eggshells-100pts-writeup>
+* [Write-up by @bt3gl](https://gist.github.com/bt3gl/0247f84ced4fb7d7bf72)
