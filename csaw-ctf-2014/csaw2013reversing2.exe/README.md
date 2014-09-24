@@ -12,7 +12,30 @@
 
 ## Write-up
 
-(TODO)
+The description to the write-up hints that the challenge is just a modified version of the CSAW reversing challenge of last year.
+Googling for some write-ups I found out that the previous version contained an encrypted flag which got decrypted inside a debugger trap.
+
+Running the file gives us a dialog box with ‘Flag’ as caption and then some random bytes. So the challenge probably still has an encrypted flag which needs to be decrypted.
+
+![](flag-encrypted.png)
+
+Opening the file in IDA we indeed see two flows. One creates a dialog box (on the left), the other creates a debugger trap and decrypts the flag (on the right).
+
+![](two-flows.png)
+
+We want to patch the file so it runs the decryption and then the dialog box.
+
+This can be done as follows:
+
+1. Replace `jz short loc_4010B9` with `jmp short loc_401096`.
+2. Replace `jmp short loc_4010EF` with `jmp short loc_4010B9`.
+3. Replace the `inc ECX` and `int 3` instructions in the debugger trap with `NOP`.
+
+After doing this we get the patched file [`csaw2013reversing2-patched.exe`](csaw2013reversing2-patched.exe).
+
+Running this patched executable gives us a dialog box with the flag:
+
+![](flag-decrypted.png)
 
 ## Other write-ups
 
