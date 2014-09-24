@@ -42,14 +42,14 @@ The second vulnerability is in `decipher(data, output)`. This function decrypts 
 
 	uint32_t decipher(cipher_data *data, uint8_t *output)
 	{
-	    uint8_t buf[MAX_BLOCKS * BLOCK_SIZE];    
+	    uint8_t buf[MAX_BLOCKS * BLOCK_SIZE];
 	    uint32_t loop, block_index;
-	
+
 	    memcpy(buf, data->bytes, sizeof(buf));
 
 	    if ((data->length / BLOCK_SIZE) > MAX_BLOCKS)
 	        data->length = BLOCK_SIZE * MAX_BLOCKS;
-	
+
 		// Block-decryption loop
 	    for (loop = 0; loop < data->length; loop += 8)
 	        for (block_index = 0; block_index < 8; ++block_index)
@@ -94,7 +94,7 @@ Remark: the problem we encountered when directly calling `system(cmd)` was that 
 
 ## Other write-ups
 
-* [Write-up by ekse](http://solution-36.blogspot.ca/2014/09/csaw-2014-exploit-500-writeup-xorcise.html)
+* [Mirror of the above write-up by Mathy](http://www.mathyvanhoef.com/2014/09/csaw-2014-xorcise-challenge.html)
+* [Write-up by ekse](http://solution-36.blogspot.com/2014/09/csaw-2014-exploit-500-writeup-xorcise.html)
 * [Write-up by tasteless](http://tasteless.se/2014/09/xorcise-csaw-2014-exploiting-500/)
 * [Excellent PoC by Henry Sanchez](https://gist.github.com/g05u/9e1ae04ad1252f709bb7)
-
