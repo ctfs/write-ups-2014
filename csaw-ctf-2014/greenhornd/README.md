@@ -27,4 +27,5 @@
 
 ## Other write-ups and resources
 
+* <https://hackucf.org/blog/csaw-2014-exploitation-400-greenhornd-exe/>
 * <https://gist.github.com/g05u/221b61d13804c5fd87d0>
