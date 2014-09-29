@@ -18,6 +18,7 @@
 * [Obscurity](obscurity)
 * [pybabbies](pybabbies)
 * [Shameless plug](shameless-plug)
+* [Twitter will you give me @kchung?](twitter-will-you-give-me-kchung)
 * [We don’t know either](we-dont-know-either)
 * [weissman](weissman)
 * [why not sftp?](why-not-sftp)
@@ -37,5 +38,4 @@
 * [s3](s3)
 * [saturn](saturn)
 * [Silk Goat](silk-goat)
-* [Twitter will you give me @kchung?](twitter-will-you-give-me-kchung)
 * [wololo](wololo)

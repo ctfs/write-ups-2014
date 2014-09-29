@@ -8,7 +8,7 @@
 
 ## Write-up
 
-(TODO)
+At the judges page, under Kevin Chung’s bio it mentioned his Twitter handle. The answer is `poopsec`.
 
 ## Other write-ups
 
