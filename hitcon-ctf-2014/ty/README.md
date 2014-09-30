@@ -18,3 +18,4 @@
 ## Other write-ups
 
 * http://acez.re/ctf-writeup-hitcon-ctf-2014-callme-rsbo-ty-sh41lcode/
+* [PoC by g05u](https://gist.github.com/g05u/9c934e367c309d002d65)
