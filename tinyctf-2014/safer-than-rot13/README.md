@@ -8,7 +8,46 @@
 
 ## Write-up
 
-(TODO)
+Let’s extract [the provided `cry100.zip` file](cry100.zip):
+
+```bash
+$ unzip cry100.zip
+Archive:  cry100.zip
+  inflating: cry100
+```
+
+The extracted `cry100` file is a text document:
+
+```bash
+$ file cry100
+cry100: ASCII text, with CRLF line terminators
+```
+
+It contains the following ciphertext:
+
+```
+XMVZGC RGC AMG RVMG HGFGMQYCD VT VWM BYNO, NSVWDS NSGO RAO XG UWFN AF
+HACDGMVWF. AIRVFN AII AMG JVRRVC-XVMC, FYRBIG TVIZ ESV SAH CGQGM XGGC
+RVMG NSAC A RYIG TMVR NSG SVWFG ESGMG NSGO EGMG XVMC WCNYI NSG HAO
+FVRG IVMH JARG MVWCH NV NAZG NSGR VTT NV EAM. OVWM TIAD YF "CV NSYF
+YF CVN JMOBNV RO HGAM", YC IVEGMJAFG, EYNS WCHGMFJVMGF YCFNGAH VT
+FBAJGF, FWMMVWCHGH XO NSG WFWAI "TIAD" NAD ACH JWMIO XMAJGF. GCUVO.
+```
+
+This string is encoded using a Vigenère cipher: each letter of the alphabet represents a number from 0 to 25. The key is added to the original message to form the decoded message. Since the message is usually longer than the key it is necessary to duplicate the key until it reaches the length of the original message. To decode the message, the key is subtracted from the decoded message to obtain the original message.
+
+Using a Vigenère cipher solver (and assuming that the cleartext is in English) reveals that the key is `AXJHGTDSYUZIRCVBPMFNWQEKOL`. The cleartext is:
+
+```
+BROKEN MEN ARE MORE DESERVING OF OUR PITY, THOUGH THEY MAY BE JUST AS
+DANGEROUS. ALMOST ALL ARE COMMON-BORN, SIMPLE FOLK WHO HAD NEVER BEEN
+MORE THAN A MILE FROM THE HOUSE WHERE THEY WERE BORN UNTIL THE DAY
+SOME LORD CAME ROUND TO TAKE THEM OFF TO WAR. YOUR FLAG IS "NO THIS
+IS NOT CRYPTO MY DEAR", IN LOWERCASE, WITH UNDERSCORES INSTEAD OF
+SPACES, SURROUNDED BY THE USUAL "FLAG" TAG AND CURLY BRACES. ENJOY.
+```
+
+The flag is `flag{no_this_is_not_crypto_my_dear}`.
 
 ## Other write-ups
 
