@@ -34,9 +34,9 @@ YF CVN JMOBNV RO HGAM", YC IVEGMJAFG, EYNS WCHGMFJVMGF YCFNGAH VT
 FBAJGF, FWMMVWCHGH XO NSG WFWAI "TIAD" NAD ACH JWMIO XMAJGF. GCUVO.
 ```
 
-This string is encoded using a Vigenère cipher: each letter of the alphabet represents a number from 0 to 25. The key is added to the original message to form the decoded message. Since the message is usually longer than the key it is necessary to duplicate the key until it reaches the length of the original message. To decode the message, the key is subtracted from the decoded message to obtain the original message.
+This string is encoded using a substitution cipher. Specifically, it is a [cryptogram](http://en.wikipedia.org/wiki/Cryptogram), a cipher in which each letter is replaced by some other letter. One way to identify a substitution cipher is to run [character frequency analysis](http://en.wikipedia.org/wiki/Letter_frequency) on the ciphertext.
 
-Using a Vigenère cipher solver like [quipqiup.com](http://quipqiup.com/) (and assuming that the cleartext is in English) reveals that the key is `AXJHGTDSYUZIRCVBPMFNWQEKOL`. The cleartext is:
+Using a cryptogram solver like [quipqiup.com](http://quipqiup.com/) (and assuming that the cleartext is in English) reveals that the key is `AXJHGTDSYUZIRCVBPMFNWQEKOL`. The cleartext is:
 
 ```
 BROKEN MEN ARE MORE DESERVING OF OUR PITY, THOUGH THEY MAY BE JUST AS
