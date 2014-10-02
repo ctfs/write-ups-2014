@@ -13,6 +13,7 @@ All flags have a format of `flag{%s} % (funny_key_here)`.
 ## Completed write-ups
 
 * [CAN HAS STDIO?](can-has-stdio)
+* [ECB, it’s easy as 123](ecb-its-easy-as-123)
 * [Erik, Baleog and Olaf](erik-baleog-and-olaf)
 * [János the Ripper](janos-the-ripper)
 * [NaNNaNNaNNaN…, Batman!](nannannannan-batman)
@@ -25,7 +26,6 @@ All flags have a format of `flag{%s} % (funny_key_here)`.
 
 ## Incomplete write-ups
 
-* [ECB, it’s easy as 123](ecb-its-easy-as-123)
 * [Elrond32](elrond32)
 * [Valet!](valet)
 * [WTC RSA BBQ](wtc-rsa-bbq)
