@@ -54,10 +54,36 @@ $ jar xf classes-dex2jar.jar
 
 In this case, the resulting source files aren’t easily readable, so let’s use a decompiler. Open `classes-dex2jar.jar` in [JD-GUI](http://jd.benow.ca/). Now we can view all the source code, or go to _File_ → _Save All Sources_ to save the sources so we can view them in our preferred text editor.
 
-The `ctf/crackme` directory looks interesting.
+The `ctf/crackme` directory looks interesting. The `FlagActivity.java` file contains:
 
-(TODO)
+```java
+protected void onCreate(Bundle paramBundle)
+{
+  super.onCreate(paramBundle);
+  setContentView(2130903040);
+  String str = "";
+  int[] arrayOfInt = { 102, 108, 97, 103, 123, 119, 52, 110, 110, 52, 95, 106, 52, 114, 95, 109, 121, 95, 100, 51, 120, 125 };
+  for (int i = 0; ; i++)
+  {
+    if (i >= 22)
+    {
+      ((TextView)findViewById(2131230721)).setText(str);
+      return;
+    }
+    str = str.concat(String.valueOf((char)arrayOfInt[i]));
+  }
+}
+```
+
+The above snippet builds a string based on an array of Unicode code points. Let’s see what string it creates:
+
+```js
+$ node -e 'console.log(String.fromCharCode(102, 108, 97, 103, 123, 119, 52, 110, 110, 52, 95, 106, 52, 114, 95, 109, 121, 95, 100, 51, 120, 125));'
+flag{w4nn4_j4r_my_d3x}
+```
+
+The flag is `flag{w4nn4_j4r_my_d3x}`.
 
 ## Other write-ups
 
-* none yet
+* <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#ooooooh-what-does-this-button-do>

@@ -17,6 +17,7 @@ All flags have a format of `flag{%s} % (funny_key_here)`.
 * [János the Ripper](janos-the-ripper)
 * [NaNNaNNaNNaN…, Batman!](nannannannan-batman)
 * [Not exactly Alcatraz](not-exactly-alcatraz)
+* [Ooooooh! What does this button do?](ooooooh-what-does-this-button-do)
 * [Safer than rot13](safer-than-rot13)
 * [Test flag, please ignore](test-flag-please-ignore)
 
@@ -24,7 +25,6 @@ All flags have a format of `flag{%s} % (funny_key_here)`.
 
 * [ECB, it’s easy as 123](ecb-its-easy-as-123)
 * [Elrond32](elrond32)
-* [Ooooooh! What does this button do?](ooooooh-what-does-this-button-do)
 * [tt3441810](tt3441810)
 * [Valet!](valet)
 * [What is Loopy landscapes?](what-is-loopy-landscapes)
