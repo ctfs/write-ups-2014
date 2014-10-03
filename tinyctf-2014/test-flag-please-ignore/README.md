@@ -25,4 +25,4 @@ The flag is `flag{hello_world}`.
 
 ## Other write-ups
 
-* none yet
+* <http://sugarstack.io/tinyctf-misc10/>

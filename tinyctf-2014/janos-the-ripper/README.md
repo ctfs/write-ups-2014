@@ -64,4 +64,4 @@ flag{ev3n::y0u::bru7us?!}
 
 ## Other write-ups
 
-* none yet
+* <http://sugarstack.io/tinyctf-misc100/>

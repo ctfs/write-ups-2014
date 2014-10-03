@@ -51,4 +51,4 @@ The flag is `flag{no_this_is_not_crypto_my_dear}`.
 
 ## Other write-ups
 
-* none yet
+* <http://sugarstack.io/tinyctf-cry100/>

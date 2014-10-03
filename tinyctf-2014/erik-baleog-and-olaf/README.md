@@ -56,4 +56,4 @@ Decoding the QR code gives `flag{#justdiffit}`, which is the flag.
 
 ## Other write-ups
 
-* none yet
+* <http://sugarstack.io/tinyctf-steg100/>
