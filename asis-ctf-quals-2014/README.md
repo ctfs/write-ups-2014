@@ -1,4 +1,4 @@
-# ASIS Cyber Security Contest Quals 2014
+# ASIS Cyber Security Contest Quals 2014 write-ups
 
 * [Main website](http://asis-ctf.ir/)
 * [Scoreboard](http://asis-ctf.ir/scoreboard/)
