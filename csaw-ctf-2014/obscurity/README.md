@@ -31,4 +31,5 @@ The flag is `security_through_obscurity`.
 
 * <https://hackucf.org/blog/csaw-2014-forensics-200-obscurity/>
 * <http://shankaraman.wordpress.com/2014/09/22/csaw-ctf-2014-forensics-200-obscurity-writeup/>
+* <http://hackitta.net/csaw-2014-forensics-200-obscurity/>
 * <https://gist.github.com/bt3gl/4574e99fe0f0dbdb56a9>
