@@ -1,7 +1,7 @@
 # ASIS Cyber Security Contest Finals 2014: Echo
 
 **Category:** PPC
-**Points:** 100
+**Points:** 200
 **Description:**
 
 > Connect there:
