@@ -13,4 +13,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://tasteless.se/2014/10/asis-ctf-finals-2014-voting/>
