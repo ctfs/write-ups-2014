@@ -182,6 +182,215 @@ private static String OneWayFunction(String paramString)
 
 (TODO)
 
-## Other write-ups
+## Alternatives
+The app is looking for a 7 digit password, consisting of only numbers. This can be solved using brute force directly on a fairly recent smartphone. In order to do so, the APK has to be modified to test every combination, instead of only the one entered in the textfield.
 
+The easiest way to modify an APK is with [APK studio](http://forum.xda-developers.com/showthread.php?t=2493107). A quick scan through the files reveals calls to the `DebugTools.log()` method. However, logcat does not display any logs from the apk. A quick look into the DebugTools class shows the following:
+
+```
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    .prologue
+    .line 6
+    const-string v0, "Numdroid"
+
+    sput-object v0, Lio/asis/ctf2014/numdriod/tools/DebugTools;->DBG_TAG:Ljava/lang/String;
+
+    .line 7
+    const/4 v0, 0x0
+
+    sput-boolean v0, Lio/asis/ctf2014/numdriod/tools/DebugTools;->DBG:Z
+
+    return-void
+```
+By changing the DBG flag to `0x1` in the constructor (line 23 in DebugTools.smali), all debug calls are forwarded to logcat.
+
+The code that is executed when the "go" button is pressed can be found in MainActivity.smali (line 339).
+```
+  .line 77
+    iget-object v3, p0, Lio/asis/ctf2014/numdriod/MainActivity;->mScreen:Landroid/widget/EditText;
+
+    invoke-virtual {v3}, Landroid/widget/EditText;->getText()Landroid/text/Editable;
+
+    move-result-object v3
+
+    invoke-interface {v3}, Landroid/text/Editable;->toString()Ljava/lang/String;
+
+    move-result-object v3
+
+    invoke-static {p0, v3}, Lio/asis/ctf2014/numdriod/Verify;->isOk(Landroid/content/Context;Ljava/lang/String;)Z
+
+    move-result v2
+```
+A single string is sent to the Verify.isOk method. The easiest (laziest?) way to modify this to a bruteforce is coding a bruteforce in java and copying the resulting dalvik codes. I made the Java code similar to the numdroid code to minimize the required modifications:
+
+```java
+@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+
+		if (savedInstanceState == null) {
+			getSupportFragmentManager().beginTransaction()
+					.add(R.id.container, new PlaceholderFragment()).commit();
+		}
+		
+		for(int i = 0; i<9999999; i++)
+		{
+			boolean ok = MainActivity.isOk(Integer.toString(i));
+			if(i%100000 == 0)
+			{
+				log(Integer.toString(i));
+			}
+			if(ok)
+			{
+				log(Integer.toString(i));
+			}
+		}
+	}
+	
+	public void log(String str)
+	{
+		
+		//do something
+	}
+	
+	public static boolean isOk(String str)
+	{
+		return true;
+	
+	}
+```
+Which translates to
+```
+.line 26
+    :cond_0
+    const/4 v0, 0x0
+
+    .local v0, "i":I
+    :goto_0
+    const v2, 0x98967f
+
+    if-lt v0, v2, :cond_1
+
+    .line 38
+    return-void
+
+    .line 28
+    :cond_1
+    invoke-static {v0}, Ljava/lang/Integer;->toString(I)Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-static {v2}, Lcom/example/forloop/MainActivity;->isOk(Ljava/lang/String;)Z
+
+    move-result v1
+
+    .line 29
+    .local v1, "ok":Z
+    const v2, 0x186a0
+
+    rem-int v2, v0, v2
+
+    if-nez v2, :cond_2
+
+    .line 31
+    invoke-static {v0}, Ljava/lang/Integer;->toString(I)Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-virtual {p0, v2}, Lcom/example/forloop/MainActivity;->log(Ljava/lang/String;)V
+
+    .line 33
+    :cond_2
+    if-eqz v1, :cond_3
+
+    .line 35
+    invoke-static {v0}, Ljava/lang/Integer;->toString(I)Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-virtual {p0, v2}, Lcom/example/forloop/MainActivity;->log(Ljava/lang/String;)V
+
+    .line 26
+    :cond_3
+    add-int/lit8 v0, v0, 0x1
+
+    goto :goto_0
+```
+
+In order to paste this into the Numdroid.apk, some changes have to be made. The Numdroid code already contains a cond_0 and a goto_0 so our code has to be changed to use `:goto_1` and `:cond_4`. Then, the method names have to be changed, resulting in the following:
+```
+
+    const/4 v0, 0x0
+
+    .local v0, "i":I
+    :goto_3
+    const v2, 0x98967f
+
+    if-lt v0, v2, :cond_3
+    return-void
+
+    .line 28
+    :cond_3
+    invoke-static {v0}, Ljava/lang/Integer;->toString(I)Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-static {p0, v2}, Lio/asis/ctf2014/numdriod/Verify;->isOk(Landroid/content/Context;Ljava/lang/String;)Z
+    
+    move-result v1
+
+    .line 29
+    .local v1, "ok":Z
+
+     const v4, 0x186a0
+
+    rem-int v4, v0, v4
+
+    if-nez v4, :cond_6
+
+    .line 31
+    invoke-static {v0}, Ljava/lang/Integer;->toString(I)Ljava/lang/String;
+
+    move-result-object v2
+    invoke-static {v2}, Lio/asis/ctf2014/numdriod/tools/DebugTools;->log(Ljava/lang/String;)V
+
+    :cond_6
+
+    if-eqz v1, :cond_2
+
+    goto :goto_4
+    .line 31
+    invoke-static {v0}, Ljava/lang/Integer;->toString(I)Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-static {v2}, Lio/asis/ctf2014/numdriod/tools/DebugTools;->log(Ljava/lang/String;)V
+
+    .line 26
+    :cond_2
+    add-int/lit8 v0, v0, 0x1
+
+    goto :goto_3
+```
+One last thing: Since it was unclear what would happen when a correct code was entered, I needed a way to write a correct code to the logs. Seeing as the app already gave a toast message when it was wrong, I added a call to DebugTools.log() to that part of the code (Verify.smali line 328):
+```
+ if-eqz v3, :cond_1
+    invoke-static {p1}, Lio/asis/ctf2014/numdriod/tools/DebugTools;->log(Ljava/lang/String;)V
+    .line 23
+    const/4 v2, 0x1
+```
+Apkstudio can then recompile the apk and you can install it using `adb install numdroid.apk`. Be aware that the certificate of the modified apk is different from the original one, so you have to uninstall the original one first.
+
+My Galaxy S4 smartphone tried about 100 000 combinations per minute, so it could take 1.5 hours to try all the combinations. That's a lot slower than my computer would do it, but it's still fast enough. 
+
+After some time, the correct code was found (3130110) and the solution was displayed.
+
+That was a lot more fun than just running the java code on my computer ;).
+
+
+## Other write-ups
 * <http://tasteless.se/2014/10/asis-ctf-finals-2014-numdroid/>
