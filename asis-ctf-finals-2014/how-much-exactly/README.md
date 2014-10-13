@@ -23,4 +23,4 @@ The flag is `ASIS_d947bf06a885db0d477d707121934ff8`.
 
 ## Other write-ups
 
-* none yet
+* <https://hackucf.org/blog/asis-2014-trivia-25-how-much-exactly/>
