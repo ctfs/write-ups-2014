@@ -7,6 +7,7 @@
 
 * [CapLow](caplow)
 * [Capsule](capsule)
+* [Echo](echo)
 * [Fact or Real?](fact-or-real)
 * [How much exactly?](how-much-exactly)
 * [Lottery](lottery)
@@ -17,7 +18,6 @@
 * [A familiar system](a-familiar-system)
 * [Antenna](antenna)
 * [ASIS calc](asis-calc)
-* [Echo](echo)
 * [Important day!](important-day)
 * [Lion Cub](lion-cub)
 * [Mask](mask)
