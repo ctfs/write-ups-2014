@@ -55,7 +55,11 @@ pcapfix 1.1.0 (c) 2012-2014 Robert Krause
 [+] SUCCESS: 5 Corruption(s) fixed!
 ```
 
-Now we can open `fixed_capsule` in Wireshark. _Statistics_ → _Protocol Hierarchy_ reveals heavy usage of [AFP](https://nl.wikipedia.org/wiki/Apple_Filing_Protocol). After looking through the traffic for a while, we note that one particular frame contains a response that consists of ASCII art (`frame.number == 9624`). Right-click and select _Copy_ → _Bytes_ → _Printable Text Only_ to get the response:
+Now we can open `fixed_capsule` in Wireshark. _Statistics_ → _Protocol Hierarchy_ reveals heavy usage of [AFP](https://nl.wikipedia.org/wiki/Apple_Filing_Protocol). After looking through the traffic for a while, we note that one particular frame contains a response that consists of ASCII art (`frame.number == 9624`).
+
+![](frame.png)
+
+Right-click and select _Copy_ → _Bytes_ → _Printable Text Only_ to get the response:
 
 ```
 @    _    ____ ___ ____     _____ _  ___   __       ___  _     _       ___      _     _ _  _    __        ___         ___      _           _  _  _____          _                 ___  _    ____   ___

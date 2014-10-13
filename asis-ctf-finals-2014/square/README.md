@@ -1,4 +1,4 @@
-# ASIS Cyber Security Contest Finals 2014: Fact or Real?
+# ASIS Cyber Security Contest Finals 2014: Square
 
 **Category:** Crypto, PPC
 **Points:** 150
@@ -9,6 +9,31 @@
 > `42598113503607816275290739917038018215431555012399274191982894`
 
 ## Write-up
+
+Let’s see what [the provided file](square_244cb89b17a1105d7f2756c917af196e) could be:
+
+```bash
+$ file square_244cb89b17a1105d7f2756c917af196e
+square_244cb89b17a1105d7f2756c917af196e: xz compressed data
+```
+
+So, we extract the file using the built-in `xz` or `unxz` commands:
+
+* `xz -dc < square_244cb89b17a1105d7f2756c917af196e > square`
+* `unxz < square_244cb89b17a1105d7f2756c917af196e > square`
+
+Alternatively, extract the provided file using [p7zip](http://p7zip.sourceforge.net/):
+
+```bash
+7z x square_244cb89b17a1105d7f2756c917af196e
+```
+
+Let’s find out what the extracted file is:
+
+```bash
+$ file square
+square: a python script text executable
+```
 
 (TODO)
 
