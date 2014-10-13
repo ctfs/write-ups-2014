@@ -13,6 +13,7 @@
 * [Lottery](lottery)
 * [Natural algorithm](natural-algorithm)
 * [RSA in real world!](rsa-in-real-world)
+* [XORQR](xorqr)
 
 ## Incomplete write-ups
 
@@ -34,4 +35,3 @@
 * [Ultra Secure](ultra-secure)
 * [Voting](voting)
 * [What you see?](what-you-see)
-* [XORQR](xorqr)
