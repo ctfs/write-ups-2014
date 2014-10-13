@@ -35,4 +35,4 @@ The flag is `ASIS_526b914da809482881f6cf6b9f36c671`.
 
 ## Other write-ups
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---caplow-75pts-writeup>

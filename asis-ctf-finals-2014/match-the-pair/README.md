@@ -14,4 +14,4 @@
 
 ## Other write-ups
 
-* none yet
+* <http://blog.squareroots.de/en/2014/10/asis-finals-2014-match-the-pair-webppc-200/>

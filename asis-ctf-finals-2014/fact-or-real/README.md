@@ -19,4 +19,4 @@ The flag is `ASIS_d25b9c2f1c29e49e81e8fdfaf4d16fc6`.
 
 ## Other write-ups
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---fact-or-real-75pts-writeup>

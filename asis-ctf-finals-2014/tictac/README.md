@@ -39,4 +39,4 @@ However, `tictac` seems to be a packet capture file.
 
 ## Other write-ups
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---tictac-200pts-writeup>
