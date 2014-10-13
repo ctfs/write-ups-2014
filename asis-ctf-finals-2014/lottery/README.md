@@ -32,10 +32,16 @@ $ md5 -s '1234567890'
 MD5 ("1234567890") = e807f1fcf82d132f9bb018ca6738a19f
 ```
 
-So, let’s set the cookie value to:
+So, let’s set the cookie value to the base-64 encoded string of:
 
 ```
 1234567890:e807f1fcf82d132f9bb018ca6738a19f
+```
+
+which is 
+
+```
+MTIzNDU2Nzg5MDplODA3ZjFmY2Y4MmQxMzJmOWJiMDE4Y2E2NzM4YTE5Zg==
 ```
 
 Refreshing the page now reveals the following message:
