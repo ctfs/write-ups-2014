@@ -12,6 +12,7 @@
 * [How much exactly?](how-much-exactly)
 * [Lottery](lottery)
 * [Natural algorithm](natural-algorithm)
+* [PTOT](ptot)
 * [RSA in real world!](rsa-in-real-world)
 * [XORQR](xorqr)
 
@@ -25,7 +26,6 @@
 * [Mask](mask)
 * [Match the pair](match-the-pair)
 * [Numdroid](numdroid)
-* [PTOT](ptot)
 * [Satellite reloaded](satellite-reloaded)
 * [Satellite](satellite)
 * [Secure hobby](secure-hobby)
