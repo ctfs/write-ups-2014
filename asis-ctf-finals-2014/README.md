@@ -12,6 +12,7 @@
 * [How much exactly?](how-much-exactly)
 * [Lottery](lottery)
 * [Natural algorithm](natural-algorithm)
+* [RSA in real world!](rsa-in-real-world)
 
 ## Incomplete write-ups
 
@@ -24,7 +25,6 @@
 * [Match the pair](match-the-pair)
 * [Numdroid](numdroid)
 * [PTOT](ptot)
-* [RSA in real world!](rsa-in-real-world)
 * [Satellite reloaded](satellite-reloaded)
 * [Satellite](satellite)
 * [Secure hobby](secure-hobby)
