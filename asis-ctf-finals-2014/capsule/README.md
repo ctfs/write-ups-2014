@@ -89,4 +89,4 @@ $ strings -n 100 fixed_capsule
 
 ## Other write-ups
 
-* none yet
+* <http://shankaraman.wordpress.com/2014/10/13/asis-ctf-2014-finals-capsule-writeup/>
