@@ -6,6 +6,6 @@ The easiest way to approach this is to go old-school and do it by hand. After a 
 
 The flag is `RUCTF_TO_SHRED_IS_NOT_ENOUGH`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

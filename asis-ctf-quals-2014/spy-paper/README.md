@@ -12,6 +12,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * http://tasteless.se/2014/05/asis2014-stego-100-spy-paper/

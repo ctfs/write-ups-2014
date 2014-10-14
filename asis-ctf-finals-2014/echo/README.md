@@ -105,6 +105,6 @@ We wrote a script that sends every possible combination of two printable ASCII c
 
 This gave us the flag except for the last digit. But since we know it’s a hex digit, we can try all options and see which one gets accepted. The flag turned out to be `ASIS_717ef53de3a7c9080efd2bc2ba5d0d05`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

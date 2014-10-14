@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://dem0version.wordpress.com/2012/03/14/hello-world/>

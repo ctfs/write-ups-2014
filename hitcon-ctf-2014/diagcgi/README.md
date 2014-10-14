@@ -310,6 +310,6 @@ Then we simply `curl` that into our session file, reload the page to have our se
 
 The flag is `HITCON{a755be06b165ed8fc4710d3544fce942}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 http://givemesecurity.info/2014/08/18/diagcgi-writeup-hitcon-2014/

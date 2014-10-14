@@ -14,7 +14,7 @@ See [`exploit.py`](https://github.com/ctfs/write-ups/blob/master/ghost-in-the-sh
 
 The flag is `You really should not mix execution modes`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * [Source code for this challenge (released by the author after the CTF)](https://github.com/LightningTH/GiTS/blob/master/byte_sexual/lightning.py)
 * <http://j00ru.vexillium.org/dump/ctf/byte_sexual.py>

@@ -192,6 +192,6 @@ So the URL is `2ekrevuoueus267z.onion` which gives the flag:
 
 I hate RECON challenges so much.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

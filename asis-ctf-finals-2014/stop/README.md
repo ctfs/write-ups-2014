@@ -37,6 +37,6 @@ Renaming the file to `stop.mpeg` allows us to open it in our video player of cho
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

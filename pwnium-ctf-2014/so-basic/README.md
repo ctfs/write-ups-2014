@@ -8,7 +8,7 @@
 ## Write-up
 
 
-## Other write-ups
+## Other write-ups and resources
 
 * https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-so-basic/
 * http://scrubsec.com/2014/07/06/pwnium-ctf-so-basic-75-pts/

@@ -93,6 +93,6 @@ When rotating this picture the flag becomes visible: `ASIS_329afbd5ba6fc8b1df15e
 
 Only 4 teams managed to solve this challenge.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

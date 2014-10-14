@@ -183,7 +183,7 @@ Accept: */*
 
 The IP address is clearly `212.83.153.197`. Visiting `http://212.83.153.197/` shows [the blog we’ve discussed before](blog.html), which contains the flag.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://csrc.tamuc.edu/css/?p=116>
 * <http://sigint.ru/nuitduhack2014/>

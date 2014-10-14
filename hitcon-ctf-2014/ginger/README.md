@@ -130,6 +130,6 @@ significantly better way.  Also the server doesn't require all the hashes to
 have the same prefix, though it's not clear to me that you can use this in
 any way.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

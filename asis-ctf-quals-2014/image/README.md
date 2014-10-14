@@ -55,6 +55,6 @@ The flag is `8BIT_RULES`.
 
 We do not need to play the game to get to second (or in that matter to any) level. On the level selection screen we can press `X` (bind to `A` button on SNES pad) to change level to 2.
 
-## Other write-ups
+## Other write-ups and resources
 
 * http://nickthefrost.com/2014/05/10/asis-ctf-quals-2014-image/

@@ -10,7 +10,7 @@
 
 The flag is: `h4ck_Th3_Pl@n3T`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet
 

@@ -94,6 +94,6 @@ ASIS_c9a1cd21db5d38923562fccabbca808c
 
 The flag is `ASIS_c9a1cd21db5d38923562fccabbca808c`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

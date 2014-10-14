@@ -8,7 +8,7 @@
 ## Write-up
 
 
-## Other write-ups
+## Other write-ups and resources
 
 SkUaTeR wrote for Amnesia:
 https://infotomb.com/fg0c5.pdf

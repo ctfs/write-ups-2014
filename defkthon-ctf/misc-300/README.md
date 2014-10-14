@@ -68,6 +68,6 @@ while test -e "$f"; do
 done;
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -20,6 +20,6 @@ $ dscacheutil -flushcache && killall -HUP mDNSResponder
 
 After restarting the game, the ads are now transparent/invisible. This reveals the underlying text: `AdBlockedHaveASillyMooseAnyway`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://tasteless.se/2014/01/gits-2014-ad-substract-pwn-adventure-75>

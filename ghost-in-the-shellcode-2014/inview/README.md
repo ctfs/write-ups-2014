@@ -12,7 +12,7 @@
 
 The flag is `WhitespaceProgrammingIsHard`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://digitaloperatives.blogspot.com/2014/01/ghost-in-shellcode-2014-trivia-150.html>
 * <http://delogrand.blogspot.com/2014/01/ghost-in-shellcode-2014-trivia.html>

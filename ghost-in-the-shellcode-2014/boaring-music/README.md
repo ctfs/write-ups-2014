@@ -18,6 +18,6 @@ In the _Choose Your Pwn Adventure 2_ game, the following additional hint is give
 
 The flag is `ASTARISBOARN`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://nopsrus.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>

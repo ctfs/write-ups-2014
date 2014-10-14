@@ -18,6 +18,6 @@ to get the flag.
 
 Source: https://ctftime.org/writeup/1177
 
-## Other write-ups
+## Other write-ups and resources
 
 * http://pastebin.com/kr6uDrN3

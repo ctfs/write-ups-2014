@@ -45,6 +45,6 @@ tar: Error exit delayed from previous errors.
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

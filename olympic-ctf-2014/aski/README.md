@@ -19,6 +19,6 @@
 
 The flag is `CTF+WINT3R+S3A50N`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://ctfcrew.org/writeup/25>

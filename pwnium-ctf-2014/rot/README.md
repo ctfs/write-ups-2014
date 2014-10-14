@@ -8,6 +8,6 @@
 ## Write-up
 
 
-## Other write-ups
+## Other write-ups and resources
 
 Am3s1a Writeup: https://infotomb.com/1e6d4.pdf

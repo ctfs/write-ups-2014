@@ -35,6 +35,6 @@ calc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked (u
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

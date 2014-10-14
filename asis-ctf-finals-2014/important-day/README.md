@@ -37,6 +37,6 @@ impday: tcpdump capture file (little-endian) - version 2.4 (Ethernet, capture le
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

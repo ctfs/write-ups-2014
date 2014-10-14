@@ -191,7 +191,7 @@ if found:
 disconnect(s)
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://blog.skullsecurity.org/2014/defcon-quals-writeup-for-shitsco-use-after-free-vuln>
 * <http://www.endgame.com/blog/defcon-capture-the-flag-qualification-challenge-1.html>

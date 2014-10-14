@@ -16,6 +16,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blog.botbie.com/2014/04/06/nuit-du-hack-pscrypto-crypto250/>

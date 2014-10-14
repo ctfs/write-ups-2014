@@ -8,7 +8,7 @@
 ## Write-up
 
 
-## Other write-ups
+## Other write-ups and resources
 
 
 Spanish write-up by Amn3s1a team : https://infotomb.com/z0xp5

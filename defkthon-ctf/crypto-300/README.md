@@ -8,6 +8,6 @@
 
 This is a photo of Emma Stone. (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -12,7 +12,7 @@
 
 The flag is `ShibeSuchDictionaryAttacksWow`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://commandlinewani.blogspot.com/2014/01/ghostintheshellcode-write-up-dogecrypt.html>
 * <http://digitaloperatives.blogspot.com/2014/01/ghost-in-shellcode-2014-crypto-75.html>

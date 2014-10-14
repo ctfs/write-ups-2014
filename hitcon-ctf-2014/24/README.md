@@ -99,6 +99,6 @@ Good job! Here's your flag: HITCON{24_GAme_15_FUN}
 
 The flag is `HITCON{24_GAme_15_FUN}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

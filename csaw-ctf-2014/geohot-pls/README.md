@@ -10,6 +10,6 @@
 
 The answer is `livectf`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

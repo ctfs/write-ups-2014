@@ -57,6 +57,6 @@ Congratulations! The flag is ASIS_68d47fab03368ff94025a4f4a1dabf0f
 The script to solve this challenge is in ```solve-xorqr.py```, and 15 QR codes
 received and restored from the server are in ```example-qrs```.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -21,7 +21,7 @@
 
 The flag is `CTF{684eed23a11fd416bb56b809d491eef4}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blog.lse.epita.fr/articles/64-olympic-ctf-2014-zpwn-200-points.html>
 * <http://blog.dragonsector.pl/2014/02/olympic-ctf-2014-zpwn-200.html>

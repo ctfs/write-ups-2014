@@ -12,6 +12,6 @@ MD5 the flag and sumbit in the format sqrts{MD5}
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

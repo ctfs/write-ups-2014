@@ -16,7 +16,7 @@ However, you can get them by triggering an integer overflow. Try to buy 999,999,
 
 The flag is `Thy_foe_b31ng_n4ughty_1n_My_s1ght_shall_snuff_it`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>
 * <http://tasteless.se/2014/01/gits-2014-rabbit-of-caerbannog-pwn-adventure-75/>

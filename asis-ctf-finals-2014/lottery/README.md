@@ -53,6 +53,6 @@ Refreshing the page now reveals the following message:
 
 And indeed, `ASIS_9f1af649f25108144fc38a01f8767c0c` is the flag.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---lottery-100pts-writeup>

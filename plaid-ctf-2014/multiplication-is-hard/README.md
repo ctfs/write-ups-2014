@@ -14,6 +14,6 @@ Years ago (“back in time”), [Excel used to have a bug](http://blogs.office.c
 
 The flag is `100000`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

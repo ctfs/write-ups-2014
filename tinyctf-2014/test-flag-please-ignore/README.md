@@ -23,7 +23,7 @@ flag{hello_world}
 
 The flag is `flag{hello_world}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://sugarstack.io/tinyctf-misc10/>
 * <https://poerhiza.github.io/ctf/2014/10/05/tinyCTF-write_ups-test_flag_please_ignore/>

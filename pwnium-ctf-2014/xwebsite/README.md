@@ -8,6 +8,6 @@
 ## Write-up
 
 
-## Other write-ups
+## Other write-ups and resources
 
 Written by *OpenToAll* : https://ctftime.org/writeup/1160

@@ -12,6 +12,6 @@
 
 The flag is `Twister? I hardly knew her`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://ppp.cylab.cmu.edu/wordpress/?p=1140>

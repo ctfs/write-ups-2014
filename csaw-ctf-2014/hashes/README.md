@@ -44,7 +44,7 @@ win="flag{these_browser_bots_are_annoying}"
 
 The flag is `these_browser_bots_are_annoying`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://zoczus.blogspot.com/2014/09/csaw-ctf-web300-writeup.html>
 * <http://tasteless.se/2014/09/csaw-2014-quals-hashes-web300/>

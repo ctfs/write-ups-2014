@@ -20,6 +20,6 @@ One possible solution is:
 6. Enter the match ID `903461176`, which takes you to <http://dotabank.com/replays/903461176/>.
 7. Get the replay and get the flag.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

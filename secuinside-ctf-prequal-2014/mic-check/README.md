@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://atdog.logdown.com/posts/2014/06/02/secuinside-2014-ctf-misc-7>

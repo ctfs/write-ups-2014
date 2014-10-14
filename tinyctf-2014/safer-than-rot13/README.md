@@ -49,6 +49,6 @@ SPACES, SURROUNDED BY THE USUAL "FLAG" TAG AND CURLY BRACES. ENJOY.
 
 The flag is `flag{no_this_is_not_crypto_my_dear}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://sugarstack.io/tinyctf-cry100/>

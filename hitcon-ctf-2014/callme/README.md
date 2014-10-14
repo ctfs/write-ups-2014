@@ -15,6 +15,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * http://acez.re/ctf-writeup-hitcon-ctf-2014-callme-rsbo-ty-sh41lcode/

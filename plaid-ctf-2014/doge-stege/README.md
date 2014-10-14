@@ -41,7 +41,7 @@ All these images can be found in [`range.tar.gz`](range.tar.gz). In e.g. `range-
 
 The flag is `pctf{keep_doge_alive_2014}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://ucs.fbi.h-da.de/writeup-plaidctf-2014-doge-stege/>
 * <http://csrc.tamuc.edu/css/?p=156>

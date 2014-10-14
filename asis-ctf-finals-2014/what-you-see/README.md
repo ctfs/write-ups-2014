@@ -35,6 +35,6 @@ milad: PNG image data, 1200 x 800, 8-bit/color RGB, non-interlaced
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -86,6 +86,6 @@ Then you need to search the correct vector in the created text file. It is impor
 
 The flag is `ASIS_9bd3d5fd2422682c19568806a07061ce`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

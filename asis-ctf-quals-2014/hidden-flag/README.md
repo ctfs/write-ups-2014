@@ -83,7 +83,7 @@ Flag found: ASIS_b6be244608c27c2e869cb56167b649b1
 
 The flag is `ASIS_b6be244608c27c2e869cb56167b649b1`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * http://nickthefrost.com/2014/05/10/asis-ctf-quals-2014-hidden-flag/
 * http://www.incertia.net/blog/asis-2014-quals-hidden-flag/

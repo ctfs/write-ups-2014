@@ -84,7 +84,7 @@ flag{w4nn4_j4r_my_d3x}
 
 The flag is `flag{w4nn4_j4r_my_d3x}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#ooooooh-what-does-this-button-do>
 * <http://sugarstack.io/tinyctf-rev200/>

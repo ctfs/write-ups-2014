@@ -19,6 +19,6 @@
 
 The flag is `CTF{bf7475cb1733885d35b60e13bc2d7b8f}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://tasteless.se/2014/02/olympic-ctf-sochi-2014-elf-quest-2-writeup/>

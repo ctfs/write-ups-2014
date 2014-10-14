@@ -83,6 +83,6 @@ $ cat extracted-hex.txt | uniq | xxd -r -ps | sed 's/pick me: //g'
 ASIS_6d54a67659e45edbe63bbf909e6b183a
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---tictac-200pts-writeup>

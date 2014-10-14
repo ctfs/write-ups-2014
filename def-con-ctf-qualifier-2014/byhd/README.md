@@ -12,7 +12,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://zepvn.com/blog/defcon-ctf-quals-2014-byhd.php>
 * [SkullSecurity](https://blog.skullsecurity.org/2014/defcon-quals-writeup-for-byhd-reversing-a-huffman-tree)

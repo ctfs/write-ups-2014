@@ -67,6 +67,6 @@ Finally the program gave us a final message holding the key. Of course we had to
 
 The flag is `HITCON{RSA is a really secure algorithm, right?}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

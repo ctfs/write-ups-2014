@@ -76,6 +76,6 @@ Flag is: w00tkitk@t
 
 The flag is `w00tkitk@t`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-we-love-it-web-300.html>
