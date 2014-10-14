@@ -183,6 +183,11 @@ private static String OneWayFunction(String paramString)
 (TODO)
 
 ## Alternatives
+After unzipping the file, it appears to be an android application. The first step is renaming it to an .apk file and installing it onto Android:
+```
+adb install numdroid.apk
+```
+
 The app is looking for a 7 digit password, consisting of only numbers. This can be solved using brute force directly on a fairly recent smartphone. In order to do so, the APK has to be modified to test every combination, instead of only the one entered in the textfield.
 
 The easiest way to modify an APK is with [APK studio](http://forum.xda-developers.com/showthread.php?t=2493107). A quick scan through the files reveals calls to the `DebugTools.log()` method. However, logcat does not display any logs from the apk. A quick look into the DebugTools class shows the following:
@@ -321,7 +326,7 @@ Which translates to
     goto :goto_0
 ```
 
-In order to paste this into the Numdroid.apk, some changes have to be made. The Numdroid code already contains a cond_0 and a goto_0 so our code has to be changed to use `:goto_1` and `:cond_4`. Then, the method names have to be changed, resulting in the following:
+In order to paste this into the Numdroid.apk, some changes have to be made. The Numdroid code already contains a `cond_0` and a `goto_0` so our code has to be changed to use `:goto_1` and `:cond_4`. Lastly, the method names have to be changed, resulting in the following:
 ```
 
     const/4 v0, 0x0
@@ -376,16 +381,10 @@ In order to paste this into the Numdroid.apk, some changes have to be made. The 
 
     goto :goto_3
 ```
-One last thing: Since it was unclear what would happen when a correct code was entered, I needed a way to write a correct code to the logs. Seeing as the app already gave a toast message when it was wrong, I added a call to DebugTools.log() to that part of the code (Verify.smali line 328):
-```
- if-eqz v3, :cond_1
-    invoke-static {p1}, Lio/asis/ctf2014/numdriod/tools/DebugTools;->log(Ljava/lang/String;)V
-    .line 23
-    const/4 v2, 0x1
-```
-Apkstudio can then recompile the apk and you can install it using `adb install numdroid.apk`. Be aware that the certificate of the modified apk is different from the original one, so you have to uninstall the original one first.
 
-My Galaxy S4 smartphone tried about 100 000 combinations per minute, so it could take 1.5 hours to try all the combinations. That's a lot slower than my computer would do it, but it's still fast enough. 
+Apkstudio can then recompile the apk and you can install it using `adb install numdroid.apk`. Be aware that the certificate used to sign the modified apk is different from the original one, so you have to uninstall the original application first.
+
+My Galaxy S4 smartphone tries about 100 000 combinations per minute, so it could take 1.5 hours to try all the combinations. That's a lot slower than my computer would do it, but it's still fast enough. 
 
 After some time, the correct code was found (3130110) and the solution was displayed.
 
