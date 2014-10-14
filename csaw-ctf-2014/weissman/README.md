@@ -71,6 +71,6 @@ As stated, this is a very rough outline of what is actually going on — check o
 
 Thanks to RyanWithZombies for an interesting challenge!
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/09/csaw14-weissman-writeup.html>

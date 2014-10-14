@@ -50,6 +50,6 @@ The files are two apparently identical greyscale BMP images. The images are not,
 
 The final image contains a congratulatory message and the key: `K00pas@llth3w@yd0wn`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://pastebin.com/q8Lf8M0w>

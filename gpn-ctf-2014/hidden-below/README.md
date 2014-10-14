@@ -13,6 +13,6 @@ Hash it with MD5 to obtain the flag and sumbit in the format sqrts{hash}
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

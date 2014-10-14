@@ -100,6 +100,6 @@ After the surgery, the resulting bitmap is more-or-less readable (converted to P
 
 The flag is `flag{no_penguin_here}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -21,6 +21,6 @@ After we `unbzip2` it we get the output:
 
 which is the flag.
 
-## Other write-ups
+## Other write-ups and resources
 
 

@@ -11,6 +11,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * http://blogs.univ-poitiers.fr/e-laize/2014/05/11/asis-2014-plough/

@@ -32,6 +32,6 @@ root@kali:~# python ip.py | md5sum
 1a97f624cc74e4944350c04f5ae1fe8d
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * [Matir’s writeup](https://systemoverlord.com/blog/2014/05/19/def-con-22-ctf-quals-hackertool/)

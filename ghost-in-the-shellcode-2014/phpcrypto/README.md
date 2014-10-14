@@ -90,6 +90,6 @@ $ curl http://phpcrypto.2014.ghostintheshellcode.com/key
 ThisWasAStupidTestKeyThatBecameARealBoy
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://tasteless.se/2014/01/gits-2014-phpcrypto-recon-100/>

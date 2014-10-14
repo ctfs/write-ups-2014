@@ -18,7 +18,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://sigint.ru/nuitduhack2014/>
 * <http://www.pwntester.com/blog/2014/04/06/nuitduhack-2014-crypto-write-ups/>

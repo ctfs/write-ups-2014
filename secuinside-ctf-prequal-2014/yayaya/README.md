@@ -11,6 +11,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://ctfcrew.org/writeup/60>

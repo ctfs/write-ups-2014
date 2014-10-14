@@ -65,7 +65,7 @@ We give each of these 2 cases a different color. Pixels matching their `get_pixe
 
 [`color_decrypto.py`](color_decrypto.py) contains the code for the solution.
 
-## Other write-ups
+## Other write-ups and resources
 
 * http://blog.squareroots.de/en/2014/05/asis-ctf-2014-color-crypto/
 * http://www.incertia.net/blog/asis-2014-quals-random-image/

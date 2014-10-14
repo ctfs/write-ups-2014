@@ -22,6 +22,6 @@ The extracted `misc50` file is a [brainfuck](https://en.wikipedia.org/wiki/Brain
 flag{esolangs_for_fun_and_profit}
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

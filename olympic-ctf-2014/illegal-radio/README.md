@@ -17,6 +17,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blog.dragonsector.pl/2014/02/olympic-ctf-2014-illegal-radio.html>

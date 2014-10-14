@@ -391,5 +391,5 @@ After some time, the correct code was found (3130110) and the solution was displ
 That was a lot more fun than just running the java code on my computer ;).
 
 
-## Other write-ups
+## Other write-ups and resources
 * <http://tasteless.se/2014/10/asis-ctf-finals-2014-numdroid/>

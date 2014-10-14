@@ -62,6 +62,6 @@ The extracted `flag.txt` file contains the flag:
 flag{ev3n::y0u::bru7us?!}
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://sugarstack.io/tinyctf-misc100/>

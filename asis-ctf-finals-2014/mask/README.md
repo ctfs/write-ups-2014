@@ -69,6 +69,6 @@ Those look like [the fractional-part digits of `π`](http://www.wolframalpha.com
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

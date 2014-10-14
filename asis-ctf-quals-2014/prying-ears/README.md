@@ -58,6 +58,6 @@ $ xxd -r -p hex.txt out.png
 
 The PNG file contained the flag.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://tasteless.se/2014/05/asis2014-forensics-175-prying-ears/>

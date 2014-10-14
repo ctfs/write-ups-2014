@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://hexpresso.wordpress.com/2014/05/10/asis-ctf-quals-2014-stego-100-blocks-write-up/>

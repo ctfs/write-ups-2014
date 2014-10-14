@@ -8,5 +8,5 @@
 ## Write-up
 
 
-## Other write-ups
+## Other write-ups and resources
 * <http://0xawes0me.github.io/writeups/2014/07/19/2048/>

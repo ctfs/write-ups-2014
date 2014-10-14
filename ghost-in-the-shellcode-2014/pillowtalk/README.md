@@ -20,7 +20,7 @@ Then, … (TODO)
 
 The flag is `WhyDoFartsSmell?SoTheDeafCanEnjoyThemAlso`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://systemoverlord.com/blog/2014/01/19/ghost-in-the-shellcode-2014-pillowtalk/>
 * <http://broot.ca/gitsctf-pillowtalk-crypto-200>

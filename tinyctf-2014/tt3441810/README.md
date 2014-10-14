@@ -64,6 +64,6 @@ flag{poppopret}
 
 The flag is `flag{poppopret}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://poerhiza.github.io/ctf/2014/10/05/tinyCTF-write_ups-tt3441810/>

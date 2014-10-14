@@ -12,7 +12,7 @@
 
 The flag is `fuzzingIsFun2`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://ppp.cylab.cmu.edu/wordpress/?p=1146>
 * <https://blog.skullsecurity.org/2014/ghost-in-the-shellcode-fuzzy-pwnage-301>

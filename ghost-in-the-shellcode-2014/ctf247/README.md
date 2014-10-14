@@ -29,7 +29,7 @@ Aha! There’s a file named `key.php`. Let’s see what it says by visiting [`/e
 ?>
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blogs.tunelko.com/2014/01/19/ghost-in-the-shellcode-2014-write-up-ctf247/>
 * <http://insertco.in/2014/01/19/ctf247-gits-2014/>

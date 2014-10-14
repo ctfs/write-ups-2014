@@ -370,6 +370,6 @@ Nightlysploit $> " or 1=1 or "
 
 Boom. The flag is `D34RG0DILUVC00KIEZ`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

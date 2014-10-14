@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blog.ztrix.me/blog/2014/05/10/asis-quals-2014-serial-number-writeup/>

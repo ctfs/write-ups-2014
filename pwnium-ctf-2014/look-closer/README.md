@@ -31,6 +31,6 @@ The flag is:
 Pwnium{361a8212dda49824b8fdb70ce48f2f60}
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

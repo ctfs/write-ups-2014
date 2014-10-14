@@ -43,6 +43,6 @@ HITCON{This flag is longestestestestestestestestestestestestestestestestestestes
 
 …which is the flag.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

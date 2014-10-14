@@ -65,6 +65,6 @@ $ curl --data "value=x&column=park%20%3D%200%20AND%201%3D0%20UNION%20ALL%20SELEC
 
 The flag is `flag{unroll_those_loops}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

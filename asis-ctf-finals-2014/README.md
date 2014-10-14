@@ -12,7 +12,11 @@
 * [How much exactly?](how-much-exactly)
 * [Lottery](lottery)
 * [Natural algorithm](natural-algorithm)
+* [PTOT](ptot)
 * [RSA in real world!](rsa-in-real-world)
+* [Ultra Secure](ultra-secure)
+* [TicTac](tictac)
+* [XORQR](xorqr)
 
 ## Incomplete write-ups
 
@@ -24,14 +28,10 @@
 * [Mask](mask)
 * [Match the pair](match-the-pair)
 * [Numdroid](numdroid)
-* [PTOT](ptot)
 * [Satellite reloaded](satellite-reloaded)
 * [Satellite](satellite)
 * [Secure hobby](secure-hobby)
 * [Square](square)
 * [Stop!](stop)
-* [TicTac](tictac)
-* [Ultra Secure](ultra-secure)
 * [Voting](voting)
 * [What you see?](what-you-see)
-* [XORQR](xorqr)

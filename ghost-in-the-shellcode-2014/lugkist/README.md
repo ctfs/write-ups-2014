@@ -25,7 +25,7 @@ Then, … (TODO)
 
 The flag is `Power overwhelming? Back in my day cheats did not have spaces.`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blog.zachorr.com/lugkist/>
 * <http://commandlinewani.blogspot.com/2014/01/ghostintheshellcode-write-up-lugkist.html>

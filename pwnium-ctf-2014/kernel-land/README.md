@@ -26,6 +26,6 @@ for i in range(1, 4):
 print "".join(map(chr, flag_data))
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -210,7 +210,7 @@ while True:
     break
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://vanned.info/3dttt.html>
 * [Matir's write up](https://systemoverlord.com/blog/2014/05/21/def-con-22-ctf-quals-3dttt/)

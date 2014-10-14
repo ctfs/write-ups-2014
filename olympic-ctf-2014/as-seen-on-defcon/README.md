@@ -39,6 +39,6 @@ So the 32-bit instruction word for `b` is `0x14000000`. Since ARM64 is little-en
 
 The answer is `00000014`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

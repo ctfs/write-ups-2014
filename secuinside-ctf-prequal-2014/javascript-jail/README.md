@@ -24,7 +24,7 @@ on the Array:
     Array.apply = function() { return f(30); };
     check(f);
 
-## Other write-ups
+## Other write-ups and resources
 
 - [Matir's write-up](https://systemoverlord.com/blog/2014/06/02/secuinside-quals-2014-javascript-jail/)
 - [Cugu's write-up](http://blog.cugu.eu/write-up-secuinside-ctf-2014-javascript-jail/)

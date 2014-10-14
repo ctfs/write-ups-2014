@@ -200,6 +200,6 @@ Connection from 133.7.101.256:49245
 The flag is: l0l, can't believe they still do this shit
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * (none yet)

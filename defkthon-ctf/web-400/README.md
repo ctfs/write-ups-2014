@@ -80,6 +80,6 @@ stdClass Object
 
 The flag is `here_you_go_nice_solving_webChalLenges`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

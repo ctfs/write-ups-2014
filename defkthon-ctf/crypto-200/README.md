@@ -30,6 +30,6 @@ aesKey = keyczar.keys.AesKey.Read(rsaDecrypted)
 print aesKey.Decrypt(enc[261:]) # use AES to decrypt the rest of enc
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

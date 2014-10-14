@@ -10,7 +10,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://fail0verflow.com/blog/2014/plaidctf2014-for350-bbos.html>
 * <https://ctftime.org/writeup/1107>

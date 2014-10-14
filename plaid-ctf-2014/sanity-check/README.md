@@ -10,6 +10,6 @@
 
 They aren’t kidding. The flag is literally `poop`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

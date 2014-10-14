@@ -32,10 +32,17 @@ $ md5 -s '1234567890'
 MD5 ("1234567890") = e807f1fcf82d132f9bb018ca6738a19f
 ```
 
-So, let’s set the cookie value to:
+So, let’s set the cookie value to the base64-encoded version of:
 
 ```
 1234567890:e807f1fcf82d132f9bb018ca6738a19f
+```
+
+…which is:
+
+```bash
+$ base64 <<< '1234567890:e807f1fcf82d132f9bb018ca6738a19f'
+MTIzNDU2Nzg5MDplODA3ZjFmY2Y4MmQxMzJmOWJiMDE4Y2E2NzM4YTE5Zgo=
 ```
 
 Refreshing the page now reveals the following message:
@@ -46,6 +53,6 @@ Refreshing the page now reveals the following message:
 
 And indeed, `ASIS_9f1af649f25108144fc38a01f8767c0c` is the flag.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---lottery-100pts-writeup>

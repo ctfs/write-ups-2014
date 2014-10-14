@@ -16,6 +16,6 @@ To avoid getting killed by the Spider Queen, you could hack the _Wine_ item modi
 
 The flag is `At least it wasnt full of Creepers`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>

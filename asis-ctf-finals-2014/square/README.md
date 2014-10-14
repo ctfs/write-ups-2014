@@ -37,6 +37,6 @@ square: a python script text executable
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

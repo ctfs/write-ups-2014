@@ -19,6 +19,6 @@ Flag is djangounchained
 
 The flag is `djangounchained`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

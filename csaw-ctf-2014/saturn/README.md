@@ -18,7 +18,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/09/csaw14-saturn-writeup.html>
 * <http://choppers.pw/posts/2014/09/21/csaw-quals-2014-saturn/>

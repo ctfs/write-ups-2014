@@ -12,6 +12,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://acez.re/ctf-writeup-defcon-quals-2014-turdedo/>

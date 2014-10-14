@@ -25,6 +25,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

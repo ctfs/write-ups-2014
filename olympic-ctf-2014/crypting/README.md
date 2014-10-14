@@ -19,6 +19,6 @@ The given ciphertext is a keyboard map. The shape of each group of characters on
 
 The flag is ‘sochi’.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -16,6 +16,6 @@ This challenge was simply to decompress the 1024 .zip,.tar.gz,and .tar.bz2 archi
 
 Flag is: HITCON{SO0O0OO_MaNy_7Ar_Le\/eLs}
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

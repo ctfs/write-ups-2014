@@ -15,7 +15,7 @@
 
 The flag is `CTF{7a0dd6d4556a7ed60e6f7686eae0590d}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://maroueneboubakri.blogspot.com/2014/02/olympic-ctf-sochi-2014-curling100.html>
 * <https://ctftime.org/writeup/928>

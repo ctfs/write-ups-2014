@@ -68,6 +68,6 @@ Copying the number from there and removing all line breaks should result in [a v
 
 The flag is `ASIS_e73d27576c4f40d414d9f666c3c79554`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

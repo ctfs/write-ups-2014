@@ -35,6 +35,6 @@ sat: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked (us
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

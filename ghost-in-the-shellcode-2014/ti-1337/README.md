@@ -12,7 +12,7 @@
 
 The flag is `WhyDidTheChickenCrossTheMobiusStrip`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://www.ctf.dk/gits-2014-ti-1337>
 * <https://blog.skullsecurity.org/2014/ghost-in-the-shellcode-ti-1337-pwnable-100>

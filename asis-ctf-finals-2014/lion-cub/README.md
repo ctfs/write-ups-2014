@@ -49,6 +49,6 @@ x simple/flag.enc
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

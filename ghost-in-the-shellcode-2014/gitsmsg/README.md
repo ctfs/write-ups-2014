@@ -12,7 +12,7 @@
 
 The flag is `lol, tagged unions for the WIN!`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://ppp.cylab.cmu.edu/wordpress/?p=1152>
 * <https://blog.skullsecurity.org/2014/ghost-in-the-shellcode-gitsmsg-pwnage-299>

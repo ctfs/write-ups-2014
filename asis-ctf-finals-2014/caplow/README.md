@@ -17,7 +17,7 @@ $ base64 --decode <<< 'qvnju181mjziote0zge4mdk0odi4odfmnmnmnmi5zjm2yzy3mq=='
 ���_5�<�״����4�ظ���i�h��9��<��
 ```
 
-It’s a little uncommon for a base54-encoded string to be completely in lowercase like that. Let’s try uppercasing the first few characters:
+It’s a little uncommon for a base64-encoded string to be completely in lowercase like that. Let’s try uppercasing the first few characters:
 
 ```bash
 $ base64 --decode <<< 'QVNJU181mjziote0zge4mdk0odi4odfmnmnmnmi5zjm2yzy3mq=='
@@ -33,6 +33,6 @@ ASIS_526b914da809482881f6cf6b9f36c671
 
 The flag is `ASIS_526b914da809482881f6cf6b9f36c671`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---caplow-75pts-writeup>

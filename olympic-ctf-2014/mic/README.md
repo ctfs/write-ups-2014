@@ -21,6 +21,6 @@
 
 The flag is `CTF{cf5246e06b13432b9e1116ddef226455}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://ctfcrew.org/writeup/22>

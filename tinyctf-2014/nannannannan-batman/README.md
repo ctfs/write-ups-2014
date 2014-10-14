@@ -95,6 +95,6 @@ for (var o = 0; o < 13; ++o) {
 
 This prints the flag.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

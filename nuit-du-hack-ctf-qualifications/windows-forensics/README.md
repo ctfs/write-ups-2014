@@ -12,6 +12,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://sigint.ru/nuitduhack2014/>

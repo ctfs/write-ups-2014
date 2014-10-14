@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * [Challenge source code (released after the CTF)](https://github.com/legitbs/choripan)

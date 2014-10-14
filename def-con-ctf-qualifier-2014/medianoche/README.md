@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * [Solution in Python by IdolfHatler](https://gist.github.com/IdolfHatler/d952bf797a4d71cddbba)

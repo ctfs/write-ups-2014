@@ -13,6 +13,6 @@ This sounds like [the robustness principle](http://en.wikipedia.org/wiki/Robustn
 
 The flag is `Postel's law`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

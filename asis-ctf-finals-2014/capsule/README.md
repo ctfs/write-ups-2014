@@ -87,6 +87,7 @@ $ strings -n 100 fixed_capsule
 …
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://shankaraman.wordpress.com/2014/10/13/asis-ctf-2014-finals-capsule-writeup/>
+* <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---capsule-125pts-writeup>
