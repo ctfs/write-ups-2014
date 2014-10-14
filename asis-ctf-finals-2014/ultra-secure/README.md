@@ -17,4 +17,5 @@
 ## Other write-ups
 
 * <http://tasteless.se/2014/10/asis-ctf-finals-2014-ultra-secure-crypto-400/>
-* [Write-up by @bt3gl](http://bt3gl.github.io/on-paillier-binary-search-and-the-asis-ctf-2014.html)
+* <http://bt3gl.github.io/on-paillier-binary-search-and-the-asis-ctf-2014.html>
+* <http://blog.dragonsector.pl/2014/10/asis-ctf-finals-2014-ultra-secure.html>
