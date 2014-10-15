@@ -65,9 +65,44 @@ Those look like [the fractional-part digits of `π`](http://www.wolframalpha.com
 
 [This page](http://www.exploratorium.edu/pi/pi_archive/Pi10-6.html) lists the first million digits of `π`, which is more than enough for our experiment (we only need 674,209 fractional-part digits). After removing the leading `3.` and whitespace we end up with [this file named `pi.txt`](https://gist.githubusercontent.com/anonymous/c2f71add67dd9a7943ad/raw/f1afa4da5012e93921a0c681419427466494a37e/pi-1000000.txt).
 
+Let’s write a Python script `diff.py` to get the digits from the real `π` that are different in the `big-ass-int.txt` file, and format the resulting number in hex.
 
+```python
+#!/usr/bin/env python
+# coding=utf-8
 
-(TODO)
+real_pi = open('pi.txt', 'r').read()
+big_ass_int = open('big-ass-int.txt', 'r').read()
+
+result = ''
+for i in range(0, len(big_ass_int)):
+  if big_ass_int[i] != real_pi[i]:
+    result += real_pi[i]
+
+print '%x' % int(result)
+```
+
+Let’s treat the hexadecimal output of the script as a byte stream and save the result as a file named `diff.bin`.
+
+```bash
+$ python diff.py > diff
+
+$ xxd -r -p diff > diff.bin
+
+$ file diff.bin
+diff.bin: xz compressed data
+```
+
+Aha, apparently this is another `xz` archive! Let’s extract it using any of the abovementioned techniques:
+
+```bash
+$ unxz < diff.bin > extracted
+
+$ file extracted
+extracted: PDF document, version 1.5
+```
+
+Opening the extracted file in a PDF viewer reveals the flag: `ASIS_d45491d1ad0b63ae05b0f0238d0c48e8`.
 
 ## Other write-ups and resources
 
