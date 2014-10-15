@@ -71,15 +71,17 @@ Running `strings` on this file reveals a number of hex-encoded strings:
 ```
 
 The first decoded to `pick me: AS`, indicating it probably contains the flag:
+
 ```bash
-$ head -1 extracted-hex.txt  | xxd -r -ps
+$ head -1 extracted-hex.txt | xxd -r -ps
 pick me: AS
 ```
 
 Some hex-strings are duplicates, so we only take the unique ones and decode
 all of them to form the flag:
+
 ```bash
-$ cat extracted-hex.txt | uniq | xxd -r -ps | sed 's/pick me: //g'
+$ uniq extracted-hex.txt | xxd -r -ps | sed 's/pick me: //g'
 ASIS_6d54a67659e45edbe63bbf909e6b183a
 ```
 
