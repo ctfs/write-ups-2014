@@ -14,8 +14,9 @@
 * [Natural algorithm](natural-algorithm)
 * [PTOT](ptot)
 * [RSA in real world!](rsa-in-real-world)
-* [Ultra Secure](ultra-secure)
 * [TicTac](tictac)
+* [Ultra Secure](ultra-secure)
+* [Voting](voting)
 * [XORQR](xorqr)
 
 ## Incomplete write-ups
@@ -33,5 +34,4 @@
 * [Secure hobby](secure-hobby)
 * [Square](square)
 * [Stop!](stop)
-* [Voting](voting)
 * [What you see?](what-you-see)
