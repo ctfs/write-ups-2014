@@ -69,10 +69,10 @@ terminate called after throwing an instance of 'std::bad_alloc'
 Aborted
 ```
 
-Let's use `ltrace` to see what goes wrong (with the `-C` option to decode (demangle) C++ function names):
+Let’s use `ltrace` to see what goes wrong (with the `-C` option to decode/demangle C++ function names):
 
 ```bash
-$ ltrace -C ./simple_2
+$ ltrace -C ./simple
 __libc_start_main(0x400bfc, 1, 0x7fff31dab668, 0x400e50, 0x400e40 <unfinished ...>
 std::basic_ifstream<char, std::char_traits<char> >::basic_ifstream(char const*, std::_Ios_Openmode)(0x7fff31dab340, 0x400eec, 14, 4, 0x7f4cabb36320) = 0x7f4cac2c1a98
 std::basic_ofstream<char, std::char_traits<char> >::basic_ofstream()(0x7fff31dab140, 4, 0x1872000, 134592, 0x7f4cac4e0720) = 0
@@ -87,31 +87,34 @@ __gxx_personality_v0(1, 6, 0x474e5543432b2b00, 0x7f4ca4000910, 0x7fff31daaba0)  
   what():  std::bad_alloc
 --- SIGABRT (Aborted) ---
 +++ killed by SIGABRT +++
-
 ```
 
-It's trying to open a file. Let's use `strace` to monitor system calls and see which file that is:
+It’s trying to open a file. Let’s use `strace` to monitor system calls and see which file that is:
 
 ```bash
- % strace ./simple_2
+$ strace ./simple
 ...
 open("flag", O_RDONLY)                  = -1 ENOENT (No such file or directory)
 ...
 ```
 
-Aha! So it's reading the `flag` and then doing stuff with it. We create a `flag` file ourselves with random content. When now running the file, no error message shows up, and the file `flag.enc` is created. Good. Let's reverse how the binary is encrypting the flag. Opening the file in IDA shows that the code is not too overly complicated. We can spot the encryption algorithm by seeing where it writes to file:
+Aha! So it’s reading the `flag` file and then doing stuff with it. We create a `flag` file ourselves with random content. When now running the file, no error message shows up, and the file `flag.enc` is created. Good. Let’s reverse-engineer how the binary is encrypting the flag. Opening the file in IDA shows that the code is not too complicated. We can spot the encryption algorithm by seeing where it writes to file:
 
 ![Reversed encryption algorithm](encryption.png)
 
 So encryption can be summarized as:
 
-	encrypted[counter] = plaintext[counter] ^ plaintext[counter + 1]
+```
+encrypted[counter] = plaintext[counter] ^ plaintext[counter + 1]
+```
 
 This means the last byte will not be encrypted, because otherwise an overflow would occur when accessing the element at `counter +  1`. Hence the last byte in `flag.enc` is not encrypted. With this in mind we can easily reverse decryption:
 
-    plaintext[counter] = encrypted[counter] ^ plaintext[counter + 1]
+```
+plaintext[counter] = encrypted[counter] ^ plaintext[counter + 1]
+```
 
-Eventually we end up with this Python script that decrypts anything encrypted by the `simple` file.
+Eventually we end up with this Python script that decrypts anything encrypted by the `simple` file:
 
 ```python
 #!/usr/bin/env python
