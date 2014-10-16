@@ -37,14 +37,14 @@ $ file hobby
 hobby: ELF 64-bit LSB executable, x86-64, version 1 (GNU/Linux), statically linked, stripped
 ```
 
-(TODO)
+## The Challenge
 
-All we have to do to get the flag is register with username `\0admin`.
+Let's connect to the service to see what we're dealing with
 
 ```bash
-$ python lol.py
+$ nc asis-ctf.ir 12439
 -------------------------------------------------
-|   Welcome to Super Secure Auth Engine |
+| 	Welcome to Super Secure Auth Engine	|
 -------------------------------------------------
 
 1) Register
@@ -52,15 +52,65 @@ $ python lol.py
 3) Show my secret
 
 Enjoy ;)
-
 1
-Enter username:
-admin
+Enter username: admin
+Kidding Me? :(
+```
 
-Your key for login is:
-4147466b62576c7503812bbd45e23c059a0eab18e936b7ed
+So we cannot register the username `admin`. Registering other usernames does work, in which case we are given a key.
+
+```bash
+Enter username: hacknamstyle
+Your key for login is: 6147466a6132356862584e306557786c95a6d58cd2be3f87ff4a27e51afaff87
+```
+
+This key can then be given as input to option two or three:
+
+```bash
+2
+Enter key: 6147466a6132356862584e306557786c95a6d58cd2be3f87ff4a27e51afaff87
+OK
+User hacknamstyle authenticated
+
+[..]
+
+3
+Enter key: 6147466a6132356862584e306557786c95a6d58cd2be3f87ff4a27e51afaff87
+You don't have any secret! :(
+```
+
+From the output of option two we notice that the key somehow encodes the username (and probably some secret authentication code). It's likely that the secret associated with the `admin` username contains the flag. Let's load the binary in IDA to see whether we can calculate the key for `admin` ourselves.
+
+After some reversing, we have that the program reads the file `namak` on start-up, and saves the content to a global variable. When calculating the key for a user, this secret data appears to be used. Hence, since we don't know the content of the file, it appears we cannot calculate a valid key ourselves. However, while reversing the key generation algorithm, we notice that `strstr` is being used to check whether the username contains the string `admin`. Is it possible to bypass this check by including a leading NULL byte in the username? The answer is yes! Hence we get the key of the admin by using the username `\x00admin`. This key can then be used to read the secret of the admin (which is of course the flag):
+
+```python
+from netcatlib import *
+
+# Get the key for admin
+nc = Netcat('asis-ctf.ir', 12439)
+nc.write("1\n")
+nc.read_until("Enter username: ")
+nc.write("\x00admin")
+nc.read_until("Your key for login is: ")
+key = nc.read_until("\n")
+print "[+] Key for admin is", key,
+
+# Get the secret of admin
+nc = Netcat('asis-ctf.ir', 12439)
+nc.write("3\n")
+nc.read_until("Enter key: ")
+nc.write(key)
+nc.read_until("The flag is: ")
+print "[+] Secret of admin:", nc.read_all()
+```
+
+The output of the script is:
+
+```python
+[+] Key for admin is 4147466b62576c7503812bbd45e23c059a0eab18e936b7ed
+[+] Secret of admin: ASIS_65cc76f02093977bfd7629086e813666
 ```
 
 ## Other write-ups and resources
 
-* [Exploit in Python](http://pastebin.com/b2QVFK2U)
+* [Alternative Exploit in Python](http://pastebin.com/b2QVFK2U)
