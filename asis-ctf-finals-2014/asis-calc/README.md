@@ -33,11 +33,11 @@ $ file calc
 calc: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Linux 2.6.32, stripped
 ```
 
-We were able to get this executable running on a debian 8 installation. Let's explore it:
+We were able to get this executable running on a Debian 8 installation. Let’s explore it:
 
 ```bash
-mathy@debian:~/asisfinal2012/revcalc$ ./ASIScalc 
-(1+3)*10       
+$ ./calc
+(1+3)*10
 40
 floor(33.333)
 syntax error
@@ -61,21 +61,21 @@ Unrecognized character: '
 Unrecognized character: .
 ```
 
-So it's a real calculator that properly parses input. These things are usually made with flex/bison. Is this calculator also made with these tools?
+So it’s a real calculator that properly parses input. These things are usually made with Flex/Bison. Is this calculator also made with these tools?
 
 ```bash
-$ strings ASIScalc | grep -i lex
+$ strings calc | grep -i lex
 fatal flex scanner internal error--no action found
 fatal flex scanner internal error--end of buffer missed
 input in flex scanner failed
 flex scanner push-back overflow
 ```
 
-It indeed uses flex. Let's load it in IDA and locate where each token is handled. Remember that [flex](http://flex.sourceforge.net/) converts an input stream (raw ascii characters) to a token stream (think of them as classes like NUMBER, SUM, VARIABLE, etc). In the screenshot below, the black circle is a switch statement on all possible tokens (each token is represented by a numeric ID):
+It indeed uses Flex. Let’s load it in IDA and locate where each token is handled. Remember that [Flex](http://flex.sourceforge.net/) converts an input stream (raw ASCII characters) to a token stream (think of them as classes like `NUMBER`, `SUM`, `VARIABLE`, etc). In the screenshot below, the black circle is a switch statement on all possible tokens (each token is represented by a numeric ID):
 
-![Handling Tokens](handletokens.png)
+![Handling Tokens](handle-tokens.png)
 
-After some reversing, it becomes clear what all the tokens in the green circle do. However, the code in the red circle is suspicious: it doesn't seem to correspond to normal "calculator functionality". Additionally we also don't know what kind of token is need to execute this code.
+After some reversing, it becomes clear what all the tokens in the green circle do. However, the code in the red circle is suspicious: it doesn’t seem to correspond to normal “calculator functionality”. Additionally we also don’t know what kind of token is need to execute this code.
 
 We reverse the code of the unknown token (circled in red). We notice that it loads one _unknown byte value_, and uses this unknown byte to decrypt a buffer on the stack. Once decrypted, this buffer is interpreted as ASCII data and printed to the console.
 
