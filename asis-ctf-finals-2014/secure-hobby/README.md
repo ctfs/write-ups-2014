@@ -79,7 +79,19 @@ Enter key: 6147466a6132356862584e306557786c95a6d58cd2be3f87ff4a27e51afaff87
 You don't have any secret! :(
 ```
 
-From the output of option two we notice that the key somehow encodes the username (and probably some secret authentication code). It's likely that the secret associated with the `admin` username contains the flag. Let's load the binary in IDA to see whether we can calculate the key for `admin` ourselves.
+From the output of option two we notice that the key somehow encodes the username (and probably some secret authentication code). It's likely that the secret associated with the `admin` username contains the flag. Let's load the binary in IDA to see whether we can calculate the key for `admin` ourselves. We notice that the code appears obfuscated and/or that the executable is packed (IDA detected few functions and the executable is not importing many API functions). Running `strings` on the executable reveals that it's packed with UPX.
+
+```bash
+$ strings hobby | grep -i upx
+UPX!
+$Info: This file is packed with the UPX executable packer http://upx.sf.net $
+$Id: UPX 3.08 Copyright (C) 1996-2011 the UPX Team. All Rights Reserved. $
+UPX!u
+UPX!
+UPX!
+```
+
+We can easily unpack this using [public UPX tools](http://upx.sourceforge.net/). Now we get a normal looking executable in IDA.
 
 After some reversing, we have that the program reads the file `namak` on start-up, and saves the content to a global variable. When calculating the key for a user, this secret data appears to be used. Hence, since we don't know the content of the file, it appears we cannot calculate a valid key ourselves. However, while reversing the key generation algorithm, we notice that `strstr` is being used to check whether the username contains the string `admin`. Is it possible to bypass this check by including a leading NULL byte in the username? The answer is yes! Hence we get the key of the admin by using the username `\x00admin`. This key can then be used to read the secret of the admin (which is of course the flag):
 
