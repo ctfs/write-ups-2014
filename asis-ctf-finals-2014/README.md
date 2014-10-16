@@ -26,6 +26,7 @@
 * [TicTac](tictac)
 * [Ultra Secure](ultra-secure)
 * [Voting](voting)
+* [What you see?](what-you-see)
 * [XORQR](xorqr)
 
 ## Incomplete write-ups
@@ -34,4 +35,3 @@
 * [Satellite](satellite)
 * [Square](square)
 * [Stop!](stop)
-* [What you see?](what-you-see)

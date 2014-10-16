@@ -33,7 +33,10 @@ $ file milad
 milad: PNG image data, 1200 x 800, 8-bit/color RGB, non-interlaced
 ```
 
-(TODO)
+The PNG file did not contain any apparent stego elements. Searching for the photography studio which made the image (Behrouz Jafarnezhad Photography), quickly lead us to the page where the original image *should* be. Unfortunately, the image displayed there had different dimensions (1024x682 vs 1200x800). If you could somehow find the original image, it was possible to diff it with the given image, and a penguin would appear. However, since we didn't manage to find the original image, we took a different approach...
+
+Before submitting a potential flag was submitted to the ASIS servers, it was first checked for validity on the client-side. More concretely: the flag was `sha256()`'d twice, and compared with a certain value. Since we knew the format of the flag (`ASIS_md5()`), we decided to see if they included frequently used words/passwords. We quickly fired up a Python script, which would go through [the list of leaked Rockyou passwords](https://wiki.skullsecurity.org/index.php?title=Passwords), compute the hashes, and compare them with the sha256 value provided by ASIS. Seconds later, we found the correct answer for the "What you see?"" challenge was `ASIS_md5(penguin)`. Without having to jump through too many hoops to find and diff the original image, we happily submitted the flag: `ASIS_24f7ca5f6ff1a5afb9032aa5e533ad95`.
+
 
 ## Other write-ups and resources
 
