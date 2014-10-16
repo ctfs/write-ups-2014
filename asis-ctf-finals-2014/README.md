@@ -22,6 +22,7 @@
 * [PTOT](ptot)
 * [RSA in real world!](rsa-in-real-world)
 * [Satellite reloaded](satellite-reloaded)
+* [Satellite](satellite)
 * [Secure hobby](secure-hobby)
 * [TicTac](tictac)
 * [Ultra Secure](ultra-secure)
@@ -32,6 +33,5 @@
 ## Incomplete write-ups
 
 * [Antenna](antenna)
-* [Satellite](satellite)
 * [Square](square)
 * [Stop!](stop)
