@@ -12,6 +12,7 @@
 * [Fact or Real?](fact-or-real)
 * [How much exactly?](how-much-exactly)
 * [Important day!](important-day)
+* [Lion Cub](lion-cub)
 * [Lottery](lottery)
 * [Mask](mask)
 * [Match the pair](match-the-pair)
@@ -30,7 +31,6 @@
 
 * [Antenna](antenna)
 * [ASIS calc](asis-calc)
-* [Lion Cub](lion-cub)
 * [Satellite](satellite)
 * [Square](square)
 * [Stop!](stop)

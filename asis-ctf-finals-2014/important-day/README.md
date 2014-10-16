@@ -43,12 +43,12 @@ Let’s open this up with Wireshark. This capture file contains a lot of TCP `SY
 
 Most `SYN`s are denied, except for a few (`tcp.stream eq 2007`). These packets contain extra information, namely the `TSval` and `TSecr` properties.
 
-According to [RFC 1323](http://tools.ietf.org/html/rfc1323), the TSval should be “at least approximately proportional to real time”. That means if we can find the scaling value, we can calculate when the `TSval` was `0`. Although `TSval` can be chosen at random at startup, it would make sense that it was set to `0` when the server was started. (How else could we solve this puzzle?)
+According to [RFC 1323](http://tools.ietf.org/html/rfc1323), the `TSval` should be “at least approximately proportional to real time”. That means if we can find the scaling value, we can calculate when the `TSval` was `0`. Although `TSval` can be chosen at random at startup, it would make sense that it was set to `0` when the server was started. (How else could we solve this puzzle?)
 
-| number | `TSval`    | Time(s)    | Diff(s) Time | Diff (`TSval`) |
-|--------|------------|------------|--------------|----------------|
-| 1      | 2400803286 | 178.174412 | 0            |  0             |
-| 2      | 2400803326 | 178.335906 | 0.161494     |  40            |
+| ID     | `TSval`      | Time(s)      | Diff(s) Time | Diff (`TSval`) |
+|--------|--------------|--------------|--------------|----------------|
+| 1      | `2400803286` | `178.174412` | `0`          |  `0`           |
+| 2      | `2400803326` | `178.335906` | `0.161494`   |  `40`          |
 
 From this, we can calculate how many `TSval` ticks there are per second. The `TSval` increases with `40` over a time period of `0.167494` seconds, so there is an increase of about `250` ticks per second. (Using the real value creates an error that doesn’t lead to the solution. This is only one sample and a value of `250` ticks per second seems logical.) The `TSval` value for the first packet is `2400803286`. That means that the server started `2400803286 / 250 ~= 9603213.144` seconds ago.
 
