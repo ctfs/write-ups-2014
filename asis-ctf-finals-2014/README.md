@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [A familiar system](a-familiar-system)
+* [ASIS calc](asis-calc)
 * [CapLow](caplow)
 * [Capsule](capsule)
 * [Echo](echo)
@@ -30,7 +31,6 @@
 ## Incomplete write-ups
 
 * [Antenna](antenna)
-* [ASIS calc](asis-calc)
 * [Satellite](satellite)
 * [Square](square)
 * [Stop!](stop)
