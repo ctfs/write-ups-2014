@@ -79,7 +79,7 @@ After some reversing, it becomes clear what all the tokens in the green circle d
 
 We reverse the code of the unknown token (circled in red). We notice that it loads one _unknown byte value_, and uses this unknown byte to decrypt a buffer on the stack. Once decrypted, this buffer is interpreted as ASCII data and printed to the console.
 
-The solution is the force the execution to the unknown token, try all 256 bytes, let it decrypt and output the buffer, and see whether it contains a flag. We can script this using gdb:
+The solution is to force the execution to the unknown token, try all 256 bytes, let it decrypt and output the buffer, and see whether it contains a flag. We can script this using gdb:
 
 ```python
 $ cat .gdbinit
