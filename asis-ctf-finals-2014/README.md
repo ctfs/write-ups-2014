@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [A familiar system](a-familiar-system)
 * [CapLow](caplow)
 * [Capsule](capsule)
 * [Echo](echo)
@@ -25,7 +26,6 @@
 
 ## Incomplete write-ups
 
-* [A familiar system](a-familiar-system)
 * [Antenna](antenna)
 * [ASIS calc](asis-calc)
 * [Lion Cub](lion-cub)
