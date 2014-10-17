@@ -2,6 +2,7 @@
 
 * <https://csawctf.poly.edu/>
 * [Scoreboard](https://ctf.isis.poly.edu/scoreboard)
+* [CTF VM](https://isisblogs.poly.edu/2014/10/14/csaw-ctf-2014-vm/)
 
 ## Completed write-ups
 
