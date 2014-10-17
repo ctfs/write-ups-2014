@@ -35,6 +35,25 @@ stop: MPEG sequence, v2, program multiplex
 
 Renaming the file to `stop.mpeg` allows us to open it in our video player of choice.
 
+The movie features a stop sign (an octagon) that rotates to 8 different positions:
+
+![](example-frame.jpg)
+
+Some frames have a dot in the corner to the upper left of the ‘STOP’ text (like in the above example), others don’t.
+
+So, in total there are 16 different kinds of images used as as frame.
+
+Let’s extract all frames:
+
+```bash
+$ ffmpeg -i stop.mpeg -ss 00:00:00 -t 60 -qscale 0 -f image2 frame-%04d.png
+```
+
+Now we go through each of the frames, starting at `frame-0000.png`, and assign a hexadecimal digit every time the image changes to another one of the 16 variations, like so:
+
+* STOP with no rotation and no dot: `0`
+* STOP with 135° rotation and no dot: `1`
+
 (TODO)
 
 ## Other write-ups and resources
