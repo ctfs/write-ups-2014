@@ -20,5 +20,6 @@
 ## Other write-ups and resources
 
 * [Write-up by @bt3gl](http://bt3gl.github.io/csaw-ctf-2014-cryptography-200.html)
+* <https://ucs.fbi.h-da.de/writeup-csaw-psifer-school/>
 * [Exploit written in Perl by @dz-coder](https://gist.github.com/anonymous/b16f705b728cbfd8b413)
 * [Exploit written in PHP by @stypr](https://www.irccloud.com/pastebin/eZAoqsNy)

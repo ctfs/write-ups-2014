@@ -22,4 +22,4 @@ The CTF organisers counter-trolled by accepting that flag (`flowers_and_wine_wil
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ucs.fbi.h-da.de/writeup-csaw-julian-cohen/>
