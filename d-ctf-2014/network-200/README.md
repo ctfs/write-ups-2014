@@ -59,7 +59,18 @@ This means that the `password` value that was recorded in the packet capture fil
 '3ecd6317a873b18e7dde351ac094ee3b' == myxor(md5(password), '7413734ab666ce02cf27c9862c96a8e7')
 ```
 
-All we need to do is find out what the original value of `password` was. Actually, it would be sufficient to find out what `md5(password)` was – then we could just XOR it with the nonce the page presented, and submit that as `POST` data.
+However, some quick testing reveals that the `myxor` function is not actually a XOR implementation:
+
+```js
+myxor('a', 'a');
+// → '4'
+myxor('b', 'b');
+// → '6'
+```
+
+A true XOR function would return `0` in both cases (since `A ⊕ A = 0` for XOR ciphers).
+
+All we need to do is find out what the original value of `password` was. Actually, it would be sufficient to find out what `md5(password)` was – then we could just `myxor()` it with the nonce the page presented, and submit that as `POST` data.
 
 To do either of these things, we have to reverse the `myxor()` function as found in <http://10.13.37.22/js/scripts.js>. Here’s what the original code looks like:
 
