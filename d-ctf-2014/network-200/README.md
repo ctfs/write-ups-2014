@@ -190,6 +190,16 @@ A quick Google search reveals that `bb00403ebcbfa0748bcbee426acfdb5b` is the MD5
 
 The flag is `youtoo`.
 
+### Alternate solution
+
+Similar to how the Network 100 challenge was solved by SSHing into the box, we successfully SSHed into Network 200’s box using `ssh guest@10.13.37.22` and `guest` as the password.
+
+Navigating and listing the directory of `/var/www` gave up a `html` folder, and `ls /var/www/html` reveals some folders and an `index.php` file. Running `cat /var/www/html/index.php` reveals some interesting PHP code at the top of the file. One line reads:
+
+> The secret is behind bb00403ebcbfa0748bcbee426acfdb5b :)
+
+Googling `bb00403ebcbfa0748bcbee426acfdb5b` reveals that it is the MD5 hash of the string `youtoo`, which is the flag.
+
 ## Other write-ups and resources
 
 * none yet
