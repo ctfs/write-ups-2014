@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [Exploit 100](exploit-100)
 * [Exploit 300](exploit-300)
 * [Misc 100](misc-100)
 * [Misc 200](misc-200)
@@ -20,7 +21,6 @@
 
 * [Bonus 100](bonus-100)
 * [Bonus 200](bonus-200)
-* [Exploit 100](exploit-100)
 * [Exploit 200](exploit-200)
 * [Exploit 400](exploit-400)
 * [Misc 400](misc-400)
