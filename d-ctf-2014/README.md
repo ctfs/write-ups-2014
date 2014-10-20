@@ -5,8 +5,29 @@
 
 ## Completed write-ups
 
-* none yet
+* [Exploit 300](exploit-300)
+* [Misc 100](misc-100)
+* [Misc 200](misc-200)
+* [Misc 300](misc-300)
+* [Network 200](network-200)
+* [Quest 400](quest-400)
+* [Web 100](web-100)
+* [Web 200](web-200)
+* [Web 400](web-400)
 
 ## Incomplete write-ups
 
-* none yet
+* [Bonus 100](bonus-100)
+* [Bonus 200](bonus-200)
+* [Exploit 100](exploit-100)
+* [Exploit 200](exploit-200)
+* [Exploit 400](exploit-400)
+* [Misc 400](misc-400)
+* [Network 100](network-100)
+* [Network 300](network-300)
+* [Network 400](network-400)
+* [Quest 100](quest-100)
+* [Quest 200](quest-200)
+* [Quest 300](quest-300)
+* [Web 300](web-300)
+

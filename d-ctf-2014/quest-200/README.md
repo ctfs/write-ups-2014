@@ -8,7 +8,7 @@
 
 ## Write-up
 
-(TODO)
+The flag is `netcat`.
 
 ## Other write-ups and resources
 

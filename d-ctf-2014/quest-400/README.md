@@ -8,7 +8,9 @@
 
 ## Write-up
 
-(TODO)
+“The only winning move is not to play” is a quote from [the 1983 movie WarGames](https://en.wikipedia.org/wiki/WarGames)
+
+Throughout the movie, [several launch codes are used](http://mike.passwall.com/uselesstrivia/wargames.html). One of them is `cpe1704tks`, which turned out to be the flag.
 
 ## Other write-ups and resources
 

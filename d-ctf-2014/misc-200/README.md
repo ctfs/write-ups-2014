@@ -8,7 +8,7 @@
 
 ## Write-up
 
-(TODO)
+The flag is `unsolved problem`.
 
 ## Other write-ups and resources
 
