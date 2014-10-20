@@ -8,7 +8,7 @@
 
 ## Write-up
 
-(TODO)
+The flag is `netsh firewall set opmode mode=DISABLE`.
 
 ## Other write-ups and resources
 
