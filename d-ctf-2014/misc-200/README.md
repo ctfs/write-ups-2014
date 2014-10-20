@@ -8,7 +8,7 @@
 
 ## Write-up
 
-The flag is `unsolved problem`.
+[Barnette’s conjecture](https://en.wikipedia.org/wiki/Barnette's_conjecture) is an unsolved problem. The flag is `unsolved problem`.
 
 ## Other write-ups and resources
 

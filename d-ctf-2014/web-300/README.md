@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://dragosgaftoneanu.com/d-ctf-2014-prequals-writeups/>
