@@ -12,10 +12,10 @@
 
 ## Write-up
 
-This challenge was simply to decompress the 1024 .zip,.tar.gz,and .tar.bz2 archives which were nested within each other. Read the tarmfulsolver.py file for an automated tool to handle this in no time flat.
+This challenge was simply to decompress the 1024 `.zip`, `.tar.gz`, and `.tar.bz2` archives which were nested within each other. See the `tarmfulsolver.py` file for an automated tool to handle this in no time flat.
 
-Flag is: HITCON{SO0O0OO_MaNy_7Ar_Le\/eLs}
+Flag is: `HITCON{SO0O0OO_MaNy_7Ar_Le\/eLs}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ucs.fbi.h-da.de/writeup-hitcon-tarmful/>

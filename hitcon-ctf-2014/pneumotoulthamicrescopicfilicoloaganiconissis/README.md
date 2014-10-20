@@ -18,7 +18,7 @@ By searching for the string (just part of it) in the google we find out that it'
 Now that we have the original, we can write a short Python script:
 
 ```python
-longest = '' #put the longest word here
+longest = '' # put the longest word here
 longest_modified = '' # put the modified longest word here
 i = 0
 password = ''
@@ -45,4 +45,4 @@ HITCON{This flag is longestestestestestestestestestestestestestestestestestestes
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ucs.fbi.h-da.de/writeup-hitcon-pneumo/>
