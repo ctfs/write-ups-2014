@@ -202,4 +202,4 @@ Googling `bb00403ebcbfa0748bcbee426acfdb5b` reveals that it is the MD5 hash of t
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/10/defcamp-ctf-quals-2014---network-200--the-manager-is-back-200pts-writeup/>

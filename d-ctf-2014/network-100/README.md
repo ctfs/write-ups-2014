@@ -24,4 +24,4 @@ Googling `0f388689dc4728cfde0de9a1ee47c8d3` reveals that it is the MD5 hash of t
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.mrt-prodz.com/blog/view/2014/10/defcamp-ctf-quals-2014---network-100--pct-100pts-writeup/>
