@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://hackucf.org/blog/d-ctf-2014-bonus-200/>
