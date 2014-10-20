@@ -64,6 +64,18 @@ flag{s0me7hing_S0me7hinG_t0lki3n}
 
 [1] Here I decided to explain how to reverse this calculation, since I think this is useful to know. Another approach is to simply step through the execution using a debugger, and dynamically observe which characters are compared to what. This can even be scripted in `gdb`.
 
+### Alternate solution
+
+Using the hint of Elrond, @MajorD4m4ge downloaded a Tolkien dictionary from <http://packetstorm.igor.onlinedirect.bg/Crackers/wordlists/literature/tolkien.gz> and ran:
+
+```bash
+$ zcat tolkien.gz | while read line; do ./rev300 "$line"; done | grep -v denied
+Access granted
+flag{s0me7hing_S0me7hinG_t0lki3n}
+```
+
+Running it on `rockyou.txt.gz` eventually revealed the flag as well.
+
 ## Other write-ups and resources
 
 * none yet
