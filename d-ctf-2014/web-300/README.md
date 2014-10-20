@@ -13,3 +13,4 @@
 ## Other write-ups and resources
 
 * <http://dragosgaftoneanu.com/d-ctf-2014-prequals-writeups/>
+* <http://www.mrt-prodz.com/blog/view/2014/10/defcamp-ctf-quals-2014---web-300--pigeon-300pts-writeup/>
