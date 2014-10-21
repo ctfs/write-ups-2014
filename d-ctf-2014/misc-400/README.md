@@ -8,29 +8,21 @@
 
 ## Write-up
 
-This server kept going down (the exploit is a once-off), so we were eventually provided with a image.
-Since everyone had the image, there would be two ways of solving this.
+This server kept going down (the exploit is a once-off), so we were eventually provided with a VirtualBox image. Since everyone had the image, there would be two ways of solving this.
 
-Way 1) Connect to the FTP server as intended
+### Intended solution: connect to the FTP server
 
-It turns out you can log in as anonymous/anonymous, and also that the FTP server is Cesar FTP server 0.99g.
+It turns out you can log in with username `anonymous` and password `anonymous`, and also that the FTP server software is Cesar FTP server 0.99g. That version has [a buffer overflow vulnerability in the `MKD` command](http://secunia.com/advisories/20574/), and there is even [a Metasploit module](http://www.exploit-db.com/exploits/16713/) for it! Exploiting that vulnerability gets you access.
 
-That version has a buffer overflow vulnerability in the MKD command (http://secunia.com/advisories/20574/), and there is even a metasploit module! http://www.exploit-db.com/exploits/16713/
+There is a hidden file on the desktop named `ThisIsit.txt`, and inside that the string `you deserve a very nice Caesar Salad!`.
 
-Exploiting that vulnerability gets you access.
-
-There is a hidden file on the desktop named 'ThisIsit.txt', and inside that the string "<insert the string here>... Caesar Salad!"
-
-We tried using the entire string as well as 'Caesar Salad!' as a key, but eventually we used just 'Caesar Salad' and that worked as a flag.
+We tried using the entire string as well as `Caesar Salad!` as a key, but eventually we used just `Caesar Salad` and that worked as a flag.
 
 Fun challenge, too bad it was down.
 
-Way 2)
-We have the machine VM! Just boot it into single user mode, reset the admin password, look on the machine.
-We found the file called 'ThisIsIt.txt' and it was done.
-This would not be the way to solve the challenge because it is it now how the challenge was intended to be solved.
+### Alternate solution
 
-
+We have the machine VM! Just boot it into single user mode, reset the password for the `FTP` Windows user account, and look on the machine. We found the file called `ThisIsIt.txt` and it was done. This was not the intended way to solve the challenge.
 
 ## Other write-ups and resources
 
