@@ -24,6 +24,10 @@ Fun challenge, too bad it was down.
 
 We have the machine VM! Just boot it into single user mode, reset the password for the `FTP` Windows user account, and look on the machine. We found the file called `ThisIsIt.txt` and it was done. This was not the intended way to solve the challenge.
 
+### Alternate alternate solution
+
+Even easier, after they handed out the VM image: Simply mount the .vdi and have a look at the file directly.
+
 ## Other write-ups and resources
 
 * none yet
