@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://s0beit.me/ctf/hack-lu-writeup-dalton-security/>
