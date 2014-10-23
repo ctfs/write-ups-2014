@@ -48,6 +48,113 @@
 > - Keep in mind that opcodes are encrypted and decryption keys are reset on branches! You will need to emulate opcode decryption.
 >
 > Flag has a length of 48 bytes.
+>
+> #### Update
+>
+> The challenge text gave a different VA for the beginning of the bytecode, actually, it’s `0x4d945d`.
+>
+> There are 37 unique VM handlers — which does not mean all of them are actually used. Others are duplicates, match characteristics to find them.
+>
+> Obfuscation for Garrettling’s VM is pattern-based. Remove it by searching for patterns listed below and simplifying them repeatedly.
+>
+> Only some instructions are obfuscated, iteratively:
+>
+> ```
+> * push arg:
+> -------------------------------------------------------
+> call _off_1_to_7
+> db junk_bytes ; ...
+>
+> _off_1_to_7:
+> mov dword ptr [esp], arg
+>
+> * push arg:
+> -------------------------------------------------------
+> push imm ; or: push random_reg
+> mov size ptr [esp], arg
+>
+> * push arg:
+> -------------------------------------------------------
+> lea esp, dword ptr [esp - 4]
+> mov size ptr [esp], arg
+>
+> * pop arg:
+> -------------------------------------------------------
+> lea esp, dword ptr [esp + 4]
+> mov arg, size ptr [esp - 4]
+>
+> * cmp dst, src:
+> -------------------------------------------------------
+> push dst
+> add dst, -src_imm
+> pop dst
+>
+> * cmp dst, src:
+> -------------------------------------------------------
+> push dst
+> not src
+> add dst, src
+> not src
+> pop dst
+>
+> * add dst, src
+> -------------------------------------------------------
+> sub dst, -src_imm
+>
+> * add dst, src
+> -------------------------------------------------------
+> lea dst, dword ptr [dst + src_imm]
+>
+> * pushf:
+> -------------------------------------------------------
+> push eax
+> lahf
+> and eax, 0xff00
+> shr eax, 8
+> push eax
+> push dword ptr [esp + 4]
+> pop eax
+> pop dword ptr [esp]
+>
+> * popf:
+> -------------------------------------------------------
+> push eax
+> mov eax, dword ptr [esp + 4]
+> shl eax, 8
+> sahf
+> pop eax
+> lea esp, dword ptr [esp + 4]
+>
+> * mov dst, src:
+> -------------------------------------------------------
+> push src
+> pop dst
+>
+> * xor dst, src:
+> -------------------------------------------------------
+> push dst
+> not dst
+> and dst, src_imm
+> push dst
+> mov dst, size ptr [esp + size]
+> and dst, (~src_imm)
+> or dst, size ptr [esp]
+> lea esp, dword ptr [esp + 8]
+>
+> * xor dst, src:
+> -------------------------------------------------------
+> push src
+> push dst
+> not dst
+> push src
+> and dst, src
+> pop src
+> not src
+> and src, size ptr [esp]
+> lea esp, dword ptr [esp + size]
+> or dst, src
+> pop src
+> ```
 
 ## Write-up
 

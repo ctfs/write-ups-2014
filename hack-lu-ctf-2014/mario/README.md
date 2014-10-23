@@ -8,8 +8,9 @@
 > Cowboy Mario jumps because Cowboy Mario jumps. Make sure that you're testing with the right libc version!
 >
 > [Download](mario_7e584c20736c828037d15303870cebe5.tgz)
-> Connect to wildwildweb.fluxfingers.net:1407. Run ./getflag on the server to get the flag.
-
+> Connect to wildwildweb.fluxfingers.net:1407. Run `./getflag` on the server to get the flag.
+>
+> **Hint:** the big vuln is not in `profile_viewer.c`.
 
 ## Write-up
 

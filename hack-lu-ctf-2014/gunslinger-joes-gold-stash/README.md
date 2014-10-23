@@ -10,6 +10,8 @@
 > SSH: joes_gold@wildwildweb.fluxfingers.net
 > PORT: 1415
 > PASSWORD: 1gs67uendsx71xmma8
+>
+> **Note:** If your username/password combination is not getting accepted, then the challenge is working as expected.
 
 ## Write-up
 
