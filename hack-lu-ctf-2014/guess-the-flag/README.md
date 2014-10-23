@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Exploit in Python by @TheJH](thejh_exploit.py)

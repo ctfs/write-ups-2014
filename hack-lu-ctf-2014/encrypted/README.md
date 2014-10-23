@@ -71,4 +71,4 @@ The flag is `flag{nobody_needs_server_side_validation}`.
 
 ## Other write-ups and resources
 
-* none yet
+* [Exploit in Bash by @TheJH](thejh_exploit.sh)

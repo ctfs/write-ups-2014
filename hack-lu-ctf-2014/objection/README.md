@@ -82,4 +82,4 @@ The flag is `flag{real_cowboys_dont_use_object_create_null}`.
 
 ## Other write-ups and resources
 
-* none yet
+* [Exploit in Python by @TheJH](thejh_exploit.py)

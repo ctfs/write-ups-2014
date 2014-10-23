@@ -27,4 +27,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Exploit in Perl by @_cutz](exploit-by-cutz.pl)

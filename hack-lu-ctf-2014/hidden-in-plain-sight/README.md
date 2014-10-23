@@ -60,4 +60,4 @@ The flag is `flag{unicode_stego_is_best_stego}`.
 
 ## Other write-ups and resources
 
-* none yet
+* [Exploit in Bash by @TheJH](thejh_exploit.sh)
