@@ -119,4 +119,18 @@ The flag is `flag{joe_thought_youd_suck_at_bash}`.
 
 ## Other write-ups and resources
 
-* none yet
+# A shorter solution
+
+A shorter solution than the one depicted above, is the following.
+Entering the character `.` displayed the error
+
+    $ .
+    : line 0: .: filename argument required
+    .: usage: . filename [arguments]
+
+That looks like `.` is interpreted as a command. Earlier having figured out that `*` was a working way to iterate all files in the current directory, the following command yielded the right result.
+
+    $ . *
+    ./FLAG: line 1: flag{joe_thought_youd_suck_at_bash}: command not found
+
+It's still an error, but at least it delivered.
