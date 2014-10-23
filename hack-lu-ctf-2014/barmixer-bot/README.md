@@ -11,15 +11,15 @@
 
 ## Write-up
 
-In the `#hacklu-saloon` channel on Freenode is a bot with operator privileges named `barmixer-bot` (later `barmixing-bot`).
+In the `#hacklu-saloon` channel on Freenode is a bot with operator privileges named `barmixer-bot` (later `barmixing-bot`). Let’s send him a private message:
 
 ```
-22:32:57 <mathiasbynens> !help
-22:32:58 <barmixing-bot> Send messages to the bot or the channel starting with an exclamation mark. Known commands are list, status, karma, math, base64, base64d, rot13, ping, hack, request, list
-22:33:32 <mathiasbynens> !list
-22:33:33 <barmixing-bot> Not implemented ;-)
-22:33:34 <mathiasbynens> !status
-22:33:35 <barmixing-bot> My name is barmixing-bot, my uptime is 3 hours 7 minutes and 18 seconds. I am on the following channels: #hacklu-saloon, #hacklu-secret-channel
+13:36 <mathiasbynens> !help
+13:36 <barmixing-bot> Send messages to the bot or the channel starting with an exclamation mark. Known commands are list, status, karma, math, base64, base64d, rot13, ping, hack, request, list
+13:36 <mathiasbynens> !list
+13:36 <barmixing-bot> Not implemented ;-)
+13:36 <mathiasbynens> !status
+13:36 <barmixing-bot> My name is barmixing-bot, my uptime is 3 hours 7 minutes and 18 seconds. I am on the following channels: #hacklu-saloon, #hacklu-secret-channel
 ```
 
 That `#hacklu-secret-channel` sure looks interesting. Sadly it’s not possible to just `/join` it, as it’s an invite-only channel.
@@ -34,9 +34,9 @@ aGkNCklOVklURSBtYXRoaWFzYnluZW5zICNoYWNrbHUtc2VjcmV0LWNoYW5uZWw=
 Let’s feed this message to the bot for decoding:
 
 ```
-22:38:44 <mathiasbynens> !base64d aGkNCklOVklURSBtYXRoaWFzYnluZW5zICNoYWNrbHUtc2VjcmV0LWNoYW5uZWw=
-22:38:44 <barmixing-bot> hi
-22:38:44 <barmixing-bot> Invite to join #hacklu-secret-channel
+13:37 <mathiasbynens> !base64d aGkNCklOVklURSBtYXRoaWFzYnluZW5zICNoYWNrbHUtc2VjcmV0LWNoYW5uZWw=
+13:37 <barmixing-bot> hi
+13:37 ** You have been invited to #hacklu-secret-channel by barmixing-bot
 ```
 
 Joining `#hacklu-secret-channel` reveals the flag in the topic:
