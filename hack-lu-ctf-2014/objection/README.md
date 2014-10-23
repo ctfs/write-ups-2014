@@ -13,7 +13,11 @@
 
 ## Write-up
 
-[The provided `objection_4966674d17ff296939c0e3dfccfe87ed.co` file](objection_4966674d17ff296939c0e3dfccfe87ed.co) resembles a Node.js app, except it’s written in “a weird dialect” instead of in JavaScript. This is [Coco](https://github.com/satyr/coco#readme), which is in turn a dialect of [CoffeeScript](http://coffeescript.org/). We [compile the Coco code to JavaScript](objection.js), since we’re more familiar with that language.
+[The provided `objection_4966674d17ff296939c0e3dfccfe87ed.co` file](objection_4966674d17ff296939c0e3dfccfe87ed.co) resembles a Node.js app, except it’s written in “a weird dialect” instead of in JavaScript. This is [Coco](https://github.com/satyr/coco#readme), which is in turn a dialect of [CoffeeScript](http://coffeescript.org/). Let’s [compile the Coco code to JavaScript](objection.js), since we’re more familiar with that language:
+
+```bash
+$ coco -c -p objection_4966674d17ff296939c0e3dfccfe87ed.co > objection.js
+```
 
 [The source code](objection.js) reveals that the program accepts commands as input:
 
@@ -82,4 +86,5 @@ The flag is `flag{real_cowboys_dont_use_object_create_null}`.
 
 ## Other write-ups and resources
 
+* <http://akaminsky.net/hack-lu-ctf-2014-web-150-objection/>
 * [Exploit in Python by @TheJH](thejh_exploit.py)
