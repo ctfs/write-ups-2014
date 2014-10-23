@@ -23,11 +23,48 @@ In general, these challenges could be solved by connecting to wildwildweb.fluxfi
 
 ### SMTP
 
-(TODO)
+```bash
+$ telnet wildwildweb.fluxfingers.net 25
+T: Trying 149.13.33.84...
+T: Connected to wildwildweb.fluxfingers.net.
+T: Escape character is '^]'.
+S: 220 protocols FluxSMTPd (send a mail to our team's mail address)
+C: HELO fluxmail
+S: 250 protocols
+C: MAIL FROM: <my-name@example.com>
+S: 250 OK
+C: RCPT TO:<fluxfingers@ruhr-uni-bochum.de>
+S: 250 OK
+C: DATA
+S: 354 End data with <CR><LF>.<CR><LF>
+C: from: my-name@example.com
+C: subject: Can haz flag?
+C:
+C: Can haz flag?
+C: .
+S: 200 flag{deliver_that_yourself_:-P}
+```
 
 ### GOPHER
 
-(TODO)
+```bash
+$ telnet wildwildweb.fluxfingers.net 70
+Trying 149.13.33.84...
+Connected to wildwildweb.fluxfingers.net.
+Escape character is '^]'.
+
+0flag.txt 0 wildwildweb.fluxfingers.net 70
+.
+Connection closed by foreign host.
+
+$ telnet wildwildweb.fluxfingers.net 70
+Trying 149.13.33.84...
+Connected to wildwildweb.fluxfingers.net.
+Escape character is '^]'.
+0
+flag{ever_heard_of_g0pher?}
+Connection closed by foreign host.
+```
 
 ### POP3
 
@@ -158,4 +195,4 @@ Ta na á née see. flag{Not_aNother_sTupid_Protocol}
 
 ## Other write-ups and resources
 
-* none yet
+* <http://akaminsky.net/hack-lu-ctf-2014-misc-35-wanted-translator/>

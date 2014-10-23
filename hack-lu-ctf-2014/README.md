@@ -12,10 +12,10 @@
 * [HotCows Dating](hotcows-dating)
 * [ImageUpload](imageupload)
 * [Objection](objection)
+* [Wanted: Translator](wanted-translator)
 
 ## Incomplete write-ups
 
-* [Wanted: Translator](wanted-translator) (5/7 completed)
 * [At Gunpoint](at-gunpoint)
 * [Big Jim’s Map](big-jims-map)
 * [breakout](breakout)
