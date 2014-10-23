@@ -13,6 +13,7 @@
 * [ImageUpload](imageupload)
 * [Objection](objection)
 * [Wanted: Translator](wanted-translator)
+* [Wiener](wiener)
 
 ## Incomplete write-ups
 
@@ -37,4 +38,3 @@
 * [Peace Pipe](peace-pipe)
 * [Personnel Database](personnel-database)
 * [The Union](the-union)
-* [Wiener](wiener)
