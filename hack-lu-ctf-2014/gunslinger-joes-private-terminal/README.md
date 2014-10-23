@@ -119,7 +119,7 @@ The flag is `flag{joe_thought_youd_suck_at_bash}`.
 
 ## Other write-ups and resources
 
-# A shorter solution
+### A shorter solution
 
 A shorter solution than the one depicted above, is the following.
 Entering the character `.` displayed the error
