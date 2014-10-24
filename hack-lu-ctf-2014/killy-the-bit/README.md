@@ -21,4 +21,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ctfwriteups.wordpress.com/2014/10/24/hack-lu-ctf-2014-web-200-killy-the-bit/>
