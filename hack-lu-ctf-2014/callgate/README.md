@@ -5,14 +5,13 @@
 **Author:** TheJH
 **Description:**
 
-> Here in the Wild West, we don't need no kernel code for privilege separation! A real man can do privsep in userspace!
+> Here in the Wild West, we don’t need no kernel code for privilege separation! A real man can do privsep in userspace!
 >
 > [Download](callgate_67eeae9035af9e1ce66a973a7d8184fd)
 >
 > `nc wildwildweb.fluxfingers.net 1413`
 >
-> Note: Read the file "flag". A file that you're allowed to access is "#hello", protected with the password "passw0rd".
-
+> Note: Read the file `flag`. A file that you’re allowed to access is `#hello`, protected with the password `passw0rd`.
 
 ## Write-up
 

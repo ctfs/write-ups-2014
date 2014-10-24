@@ -5,7 +5,7 @@
 **Author:** qll
 **Description:**
 
-> If you want to take a break from all the hard work, you've come to the right place. Many things have been said about this dating service. Some say it holds your greatest desires, some say it is merely disgusting. All of it is probably true, but see yourself… https://wildwildweb.fluxfingers.net:1401
+> If you want to take a break from all the hard work, you’ve come to the right place. Many things have been said about this dating service. Some say it holds your greatest desires, some say it is merely disgusting. All of it is probably true, but see for yourself… <https://wildwildweb.fluxfingers.net:1401/>
 >
 > **Hint:** Let’s start with an obvious hint: What do we tell search engines about cow love? “No no”.
 >

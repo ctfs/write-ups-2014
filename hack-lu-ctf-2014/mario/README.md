@@ -5,7 +5,7 @@
 **Author:** 500
 **Description:**
 
-> Cowboy Mario jumps because Cowboy Mario jumps. Make sure that you're testing with the right libc version!
+> Cowboy Mario jumps because Cowboy Mario jumps. Make sure that you’re testing with the right `libc` version!
 >
 > [Download](mario_7e584c20736c828037d15303870cebe5.tgz)
 > Connect to wildwildweb.fluxfingers.net:1407. Run `./getflag` on the server to get the flag.

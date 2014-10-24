@@ -5,13 +5,13 @@
 **Author:** javex
 **Description:**
 
-> It's gold rush time! The New York Herald just reported about the Californian gold rush. We know a sheriff there is hiring guys to help him fill his own pockets. We know he already has a deadful amount of gold in his secret vault. However, it is protected by a secret only he knows. When new deputies apply for the job, they get their own secret, but that only provies entry to a vault of all deputy sheriffs. No idiot would store their stuff in this vault. But maybe we can find a way to gain access to the sheriff's vault? Have a go at it: `nc wildwildweb.fluxfingers.net 1426`
+> It’s gold rush time! The New York Herald just reported about the Californian gold rush. We know a sheriff there is hiring guys to help him fill his own pockets. We know he already has a deadful amount of gold in his secret vault. However, it is protected by a secret only he knows. When new deputies apply for the job, they get their own secret, but that only provides entry to a vault of all deputy sheriffs. No idiot would store their stuff in this vault. But maybe we can find a way to gain access to the sheriff’s vault? Have a go at it: `nc wildwildweb.fluxfingers.net 1426`
 >
 > You might also need [this](wiener_38ff175d336b9c75fbf1b77290978015.py).
 
 ## Write-up
 
-The challenge name gives a hint about Wiener, and the Python code shows that RSA is involved. After reading the [Wiener attack details](http://en.wikipedia.org/wiki/Wiener%27s_attack), we are able to retrieve the private exponent `d` from the pair `(e, n)` if `d` is small enough. The challenge code gives us:
+The challenge name gives a hint about Wiener, and the Python code shows that RSA is involved (see `asn1_encode_priv_key`). After reading the [Wiener attack details](http://en.wikipedia.org/wiki/Wiener%27s_attack), we are able to retrieve the private exponent `d` from the pair `(e, n)` if `d` is small enough. The challenge code (around line 220) gives us:
 
 ```python
 d = prng.getrandbits(2048 // 5)
@@ -42,7 +42,7 @@ The format of the base64 blob is a set of `(len[4], item[len])` for the identifi
 
 We then recover `d` and the `phi` [totient](http://en.wikipedia.org/wiki/Euler%27s_totient_function) thanks to the Wiener attack, calculate `p` (or `q`) and reuse the `asn1_encode_priv_key` Python function from the original challenge to generate the private key.
 
-The [attack is implemented in Python](https://github.com/pablocelayes/rsa-wiener-attack) (you need to clone the git repo of the attack to get the correct import) and we eventually end up with the following code:
+The [attack is implemented in Python](https://github.com/pablocelayes/rsa-wiener-attack) (you need to clone the Git repo of the attack to get the correct `import) and we eventually end up with the following code:
 
 ```python
 import ContinuedFractions, Arithmetic, RSAvulnerableKeyGenerator
@@ -170,7 +170,7 @@ if __name__ == "__main__":
 Running the script reveals the private key:
 
 ```bash
-$ python RSAwienerHacker.py AAAAB3NzaC1yc2EAAAEAAoX41P4pzhFgXt8iGGiTfBtwrjduNNZ/m7eMKaLXnKRqYOoCpw/bQOgFtdhUJVlosrHwQ5Y9zWFxTOT8XHDsxNdWrRaF1mHbOdFagB0cOC7ZegSPD4XZCcgRaR0//iYutwzNH6fboap5E58hwUs9/pU0BJHP86WmrpYEMpV4259bzBkuFqpi9oeoA45gwBUY+MyqC+/ladra6OSTEKejw73c9jf8guU0C+9BBbUztqUxiVZQsu+jN9lMenZEd2e1EpoEvPPNlbtg9r/RoSZYUwEkrYxv1xZSuODrSC/MR1BDtBDfxP5fvGvaCMphJEKEpKtbMRvGad8MdTUmp5waVwAAAQACrrY39hUq/U+zot0WWuydW0XnDSuC54o1P3oXUYWdGW9Wy20RcAGV8Qaac9nlcQlQuBQimrTFVJODwsh+DNl/kEdIoTAkANx2tCWR2hfauvlGqq8WQPEyevFr5FuIMGA5R6nDMJyk1syfGivP2s8oX7wvcw5RWuHZNZHM2Y9cRnTsSlhZJkcA9wCk9Nz3w8NbvFefbr+A2jPGwR9oZVCSu+Zw1SJbjlcdWW/kJttZpqBar3ezkXRIss+8s71ke0Z3KxMTP8aP+ryzdSNyuUmjcEuFlt9KRPCFOT7iv4D485NxntlKs0iFL2peDEk++jLaW/YBBjoDO+r3O6R9ggXb
+$ python RSAwienerHacker.py 'AAAAB3NzaC1yc2EAAAEAAoX41P4pzhFgXt8iGGiTfBtwrjduNNZ/m7eMKaLXnKRqYOoCpw/bQOgFtdhUJVlosrHwQ5Y9zWFxTOT8XHDsxNdWrRaF1mHbOdFagB0cOC7ZegSPD4XZCcgRaR0//iYutwzNH6fboap5E58hwUs9/pU0BJHP86WmrpYEMpV4259bzBkuFqpi9oeoA45gwBUY+MyqC+/ladra6OSTEKejw73c9jf8guU0C+9BBbUztqUxiVZQsu+jN9lMenZEd2e1EpoEvPPNlbtg9r/RoSZYUwEkrYxv1xZSuODrSC/MR1BDtBDfxP5fvGvaCMphJEKEpKtbMRvGad8MdTUmp5waVwAAAQACrrY39hUq/U+zot0WWuydW0XnDSuC54o1P3oXUYWdGW9Wy20RcAGV8Qaac9nlcQlQuBQimrTFVJODwsh+DNl/kEdIoTAkANx2tCWR2hfauvlGqq8WQPEyevFr5FuIMGA5R6nDMJyk1syfGivP2s8oX7wvcw5RWuHZNZHM2Y9cRnTsSlhZJkcA9wCk9Nz3w8NbvFefbr+A2jPGwR9oZVCSu+Zw1SJbjlcdWW/kJttZpqBar3ezkXRIss+8s71ke0Z3KxMTP8aP+ryzdSNyuUmjcEuFlt9KRPCFOT7iv4D485NxntlKs0iFL2peDEk++jLaW/YBBjoDO+r3O6R9ggXb'
 0x285f8d4fe29ce11605edf221868937c1b70ae376e34d67f9bb78c29a2d79ca46a60ea02a70fdb40e805b5d854255968b2b1f043963dcd61714ce4fc5c70ecc4d756ad1685d661db39d15a801d1c382ed97a048f0f85d909c811691d3ffe262eb70ccd1fa7dba1aa79139f21c14b3dfe95340491cff3a5a6ae9604329578db9f5bcc192e16aa62f687a8038e60c01518f8ccaa0befe569dadae8e49310a7a3c3bddcf637fc82e5340bef4105b533b6a531895650b2efa337d94c7a76447767b5129a04bcf3cd95bb60f6bfd1a12658530124ad8c6fd71652b8e0eb482fcc475043b410dfc4fe5fbc6bda08ca61244284a4ab5b311bc669df0c753526a79c1a57L
 n:338630205260455689413627911306068443537112802550361922213620660503310212139001530156458392949653034244789612680980241965923780722889133495349537107789761426092510299239678696031652780059016898519278860185536978111680123402473365833456785718098200501968322228116681190425490850863660038143310790555506293106653050174262471649179173093656763946257235681980586392230447218179278964626176124426615857733950102117938674282636936094069075258237416065546593509302494726576026227551920883962084579635168761189995794814926094510046419165007371450799003658587100556051088147493947712592469412133312536422828670173807709914587
 
@@ -214,17 +214,17 @@ q7YgGrkMcwMYDOYZxsIq59S/slZPkl59i30=
 -----END RSA PRIVATE KEY-----
 ```
 
-Let’s verify that the public key generated from the private key is the same:
+Let’s copy the private key to the file `private.key` and verify that the public key generated from the private key is the same:
 
 ```bash
-$ ssh-keygen -y -f bla
+$ ssh-keygen -y -f private.key
 ssh-rsa AAAAB3NzaC1yc2EAAAEAAoX41P4pzhFgXt8iGGiTfBtwrjduNNZ/m7eMKaLXnKRqYOoCpw/bQOgFtdhUJVlosrHwQ5Y9zWFxTOT8XHDsxNdWrRaF1mHbOdFagB0cOC7ZegSPD4XZCcgRaR0//iYutwzNH6fboap5E58hwUs9/pU0BJHP86WmrpYEMpV4259bzBkuFqpi9oeoA45gwBUY+MyqC+/ladra6OSTEKejw73c9jf8guU0C+9BBbUztqUxiVZQsu+jN9lMenZEd2e1EpoEvPPNlbtg9r/RoSZYUwEkrYxv1xZSuODrSC/MR1BDtBDfxP5fvGvaCMphJEKEpKtbMRvGad8MdTUmp5waVwAAAQACrrY39hUq/U+zot0WWuydW0XnDSuC54o1P3oXUYWdGW9Wy20RcAGV8Qaac9nlcQlQuBQimrTFVJODwsh+DNl/kEdIoTAkANx2tCWR2hfauvlGqq8WQPEyevFr5FuIMGA5R6nDMJyk1syfGivP2s8oX7wvcw5RWuHZNZHM2Y9cRnTsSlhZJkcA9wCk9Nz3w8NbvFefbr+A2jPGwR9oZVCSu+Zw1SJbjlcdWW/kJttZpqBar3ezkXRIss+8s71ke0Z3KxMTP8aP+ryzdSNyuUmjcEuFlt9KRPCFOT7iv4D485NxntlKs0iFL2peDEk++jLaW/YBBjoDO+r3O6R9ggXb
 ```
 
-Let’s copy the private key to the file `bla` and log in to the sheriff’s vault:
+Now let’s log in to the sheriff’s vault:
 
 ```bash
-$ ssh -p 1427 -i bla sheriff@wildwildweb.fluxfingers.net
+$ ssh -p 1427 -i private.key sheriff@wildwildweb.fluxfingers.net
 Woah look how much gold that old croaker has: flag{TONS_OF_GOLD_SUCH_WOW_MUCH_GLOW}
 Connection to wildwildweb.fluxfingers.net closed.
 ```

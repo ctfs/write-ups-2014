@@ -10,7 +10,7 @@
 > We managed to retrieve a copy of the service binary, as well as a copy of the original one.
 > Your job is to reverse the binary, find the backdoor and gain access to system to retreive the map (flag). Good luck.
 >
-> Service running at: nc wildwildweb.fluxfingers.net 1406
+> Service running at: `nc wildwildweb.fluxfingers.net 1406`
 >
 > kernel:
 > - Linux bigjim 3.13.0-37-generic #64-Ubuntu SMP Mon Sep 22 21:28:38 UTC 2014 x86_64 GNU/Linux

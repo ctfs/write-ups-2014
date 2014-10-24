@@ -5,7 +5,7 @@
 **Author:** dwuid
 **Description:**
 
-> That's how we promote... well, used to promote our fine, handcrafted gatlings. Proven quality, make you survive every duel (*).
+> That’s how we promote… well, used to promote our fine, handcrafted gatlings. Proven quality, make you survive every duel (*).
 >
 > The business flourished, up to the point where someone decided to murder our eponymous company owner, Pat Garrett. Too sad, since we just started delivering our newest product, the Behemot gatling.
 >
@@ -15,11 +15,11 @@
 >
 > Task B: Oh, my sweet revenge.
 >
-> Let's talk about revenge. I know our sheriff would not support it, but hey, Mr Garret was one of my closest friends and I demand revenge! To add a bit of symbolism - after all, we're in a Western - I want to pay the f*cker back using the very same weapon.
+> Let’s talk about revenge. I know our sheriff would not support it, but hey, Mr Garret was one of my closest friends and I demand revenge! To add a bit of symbolism — after all, we’re in a Western — I want to pay the f*cker back using the very same weapon.
 >
-> Unfortunately, every Behemot is tied to a certain processing unit. In absence of the corresponding unit, the weapon won't fire at all. We do not have said unit. Can you make the weapon fire regardless?
+> Unfortunately, every Behemot is tied to a certain processing unit. In absence of the corresponding unit, the weapon won’t fire at all. We do not have said unit. Can you make the weapon fire regardless?
 >
-> [The flag corresponds to the trait the weapon expects from the correct processing unit and starts with "FLG_" (+ASCII) and is 32 bytes in size in total.]
+> [The flag corresponds to the trait the weapon expects from the correct processing unit and starts with `FLG_` (+ASCII) and is 32 bytes in size in total.]
 >
 > (*): Given you start to shoot about 30 seconds early.
 >

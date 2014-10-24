@@ -71,7 +71,7 @@ client_context.__defineGetter__(['is_admin'], function(it) {
 });
 ```
 
-After that, every time `client_context.is_admin` is accessed, it results in the return value of `con.write(it + "\n")` instead of its initial value `false`. This means we can call `get_token` afterwards. Bingo!
+After that, every time `client_context.is_admin` is accessed, it results in [the return value of `con.write(it + "\n")`](https://nodejs.org/api/net.html#net_socket_write_data_encoding_callback) instead of its initial value `false`. This means we can call `get_token` afterwards. Bingo!
 
 ```bash
 $ nc wildwildweb.fluxfingers.net 1408

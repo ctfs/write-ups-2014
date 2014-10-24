@@ -5,7 +5,7 @@
 **Author:** dwuid
 **Description:**
 
-> That's how we promote... well, used to promote our fine, handcrafted gatlings. Proven quality, make you survive every duel (*).
+> That’s how we promote… well, used to promote our fine, handcrafted gatlings. Proven quality, make you survive every duel (*).
 >
 > The business flourished, up to the point where someone decided to murder our eponymous company owner, Pat Garrett. Too sad, since we just started delivering our newest product, the Behemot gatling.
 >
@@ -19,7 +19,7 @@
 >
 > Mr Garrett kept notes on the way he designed the Behemots. Maybe you can decipher them and tell us who bought the weapon?
 >
-> [The flag corresponds to the embedded fingerprint value and starts with "FLG_" (+ASCII).]
+> [The flag corresponds to the embedded fingerprint value and starts with `FLG_` (+ASCII).]
 >
 > (*): Given you start to shoot about 30 seconds early.
 >
@@ -30,7 +30,7 @@
 >   * assign bits to them.
 > - Every handler corresponds to an opcode value (the index of said handler in the handler table).
 > - Bits are assigned to each handler that encode a part of the fingerprint value.
-> - Ex.: If there are four handlers implementing the same semantics ("equivalent" handlers), each virtual instruction encodes log_2(4) = 2 bits depending on the handler it is encoded with.
+> - Ex.: If there are four handlers implementing the same semantics (“equivalent” handlers), each virtual instruction encodes `log_2(4)` = `2` bits depending on the handler it is encoded with.
 >
 > The two bit values are assigned in ascending order, starting with the _lowest_ opcode:
 >
