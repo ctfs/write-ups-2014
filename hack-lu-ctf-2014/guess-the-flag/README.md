@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
+* [Write up by Rogdham](http://r.rogdham.net/24)
 * [Exploit in Python by @TheJH](thejh_exploit.py)
