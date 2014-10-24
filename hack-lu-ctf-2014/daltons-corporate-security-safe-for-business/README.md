@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://s0beit.me/ctf/hack-lu-writeup-dalton-security/>
+* <http://www.mrt-prodz.com/blog/view/2014/10/hacklu-ctf-2014---dalton-corporate-security-safe-for-business-200pts-writeup/>
