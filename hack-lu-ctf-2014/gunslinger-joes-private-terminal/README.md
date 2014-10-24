@@ -117,7 +117,7 @@ flag{joe_thought_youd_suck_at_bash}
 
 The flag is `flag{joe_thought_youd_suck_at_bash}`.
 
-### Shorter solution
+### Alternate solution #1
 
 A shorter solution than the one depicted above, is the following.
 Entering the character `.` displayed the error
@@ -136,6 +136,15 @@ $ . *
 ```
 
 It’s still an error, but at least it delivers.
+
+### Alternate solution #2
+
+Encode `cat` in octal and pass the `FLAG` file to stdin:
+
+```bash
+$ $'\143'$'\141'$'\164' <????
+flag{joe_thought_youd_suck_at_bash}
+```
 
 ## Other write-ups and resources
 
