@@ -27,4 +27,5 @@
 
 ## Other write-ups and resources
 
+* [Write-up and exploit by @jhector](https://github.com/jhector/breakout)
 * [Exploit in Perl by @_cutz](exploit-by-cutz.pl)
