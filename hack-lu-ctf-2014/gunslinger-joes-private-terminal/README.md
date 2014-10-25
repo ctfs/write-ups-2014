@@ -139,6 +139,15 @@ It’s still an error, but at least it delivers.
 
 ### Alternate solution #2
 
+Encode the file name `FLAG` in octal and pass it as an argument to `.`:
+
+```bash
+. $'\106\114\101\107'
+./FLAG: line 1: flag{joe_thought_youd_suck_at_bash}: command not found
+```
+
+### Alternate solution #3
+
 Encode `cat` in octal and pass the `FLAG` file to stdin:
 
 ```bash
