@@ -17,3 +17,4 @@
 
 * [Write-up by tasteless](http://tasteless.se/2014/10/hack-lu-ctf-2014-at-gunpoint/)
 * [Write-up by @bernardomr](http://w00tsec.blogspot.com/2014/10/hacklu-2014-ctf-write-up-at-gunpoint.html)
+* <http://radare.today/solving-at-gunpoint-from-hack-lu-2014-with-radare2/>
