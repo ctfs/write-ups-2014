@@ -148,12 +148,14 @@ Encode the file name `FLAG` in octal and pass it as an argument to `.`:
 
 ### Alternate solution #3
 
-Encode `cat` in octal and pass the `FLAG` file to stdin:
+[Encode `cat` in octal](https://www.gnu.org/software/bash/manual/bashref.html#ANSI_002dC-Quoting) and pass the [`????`](https://www.gnu.org/software/bash/manual/bashref.html#Pattern-Matching) wildcard pattern as the argument:
 
 ```bash
-$ $'\143'$'\141'$'\164' <????
+$ $'\143\141\164' ????
 flag{joe_thought_youd_suck_at_bash}
 ```
+
+This works because `FLAG` is the first (and only) file with a name that is four characters long, within the current working directory.
 
 ## Other write-ups and resources
 
