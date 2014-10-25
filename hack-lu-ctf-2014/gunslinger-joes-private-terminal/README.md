@@ -142,7 +142,7 @@ It’s still an error, but at least it delivers.
 Encode the file name `FLAG` in octal and pass it as an argument to `.`:
 
 ```bash
-. $'\106\114\101\107'
+$ . $'\106\114\101\107'
 ./FLAG: line 1: flag{joe_thought_youd_suck_at_bash}: command not found
 ```
 
