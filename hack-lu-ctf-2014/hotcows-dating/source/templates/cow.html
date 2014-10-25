@@ -1,0 +1,25 @@
+<header>
+    <h1>HotCows</h1> - Chatting with {{ cow }} right now.
+    <button id="btn-logout">logout</button>
+    <button id="btn-overview">cowerview</button>
+</header>
+<h2>For a premium account send your bank details and account name to premium@hotcows.xxx</h2>
+<section class="moo" data-cow="{{ cow }}">
+    <h4>{{ cow }}</h4>
+    <div class="cow {{ cow }}">
+        <p class="blink">&bullet; Live</p>
+    </div>
+    <div class="cowdesc">
+        <button class="premium">GET PREMIUM</button>
+        <button id="btn-report">report a problem</button>
+        <button class="premium">GET PREMIUM</button>
+    </div>
+</section>
+<section class="moo" data-cow="abbie">
+    <h4>Chat</h4>
+    <div id="mainchat" class="chatbox">
+    </div>
+    <form action="chat" id="chatform" method="post">
+        <input name="msg" type="text" autocomplete="off" placeholder="Reply here"><input type="submit" value="send">
+    </form>
+</section>
