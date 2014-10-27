@@ -55,3 +55,4 @@ Logging in using `sheriff` as the username and `AO7eikkOCucCFJOyyaaQ` as the pas
 
 * <http://akaminsky.net/hack-lu-ctf-2014-web-200-imageupload/>
 * <http://www.mrt-prodz.com/blog/view/2014/10/hacklu-ctf-2014---imageupload-200pts-writeup/>
+* [Writeup by captchaflag](http://www.captchaflag.com/blog/2014/10/24/hack-dot-lu-2014-imageupload/)
