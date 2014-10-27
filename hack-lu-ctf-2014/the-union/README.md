@@ -193,4 +193,4 @@ The flag is `FLAG{d1aM0nd>G0lD}`.
 
 ## Other write-ups and resources
 
-* none yet
+* [ELF obfuscation: how to let analysis tools show incorrect external symbol calls](http://h4des.org/blog/index.php?/archives/346-ELF-obfuscation-let-analysis-tools-show-wrong-external-symbol-calls.html)
