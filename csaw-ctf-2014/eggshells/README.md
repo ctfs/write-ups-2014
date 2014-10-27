@@ -49,3 +49,4 @@ The flag is `trust_is_risky`.
 
 * <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---eggshells-100pts-writeup>
 * <http://bt3gl.github.io/csaw-ctf-2014-reverse-engineering-100-eggshells.html>
+* <http://dhanvi1.wordpress.com/2014/10/07/csaw-ctf-quals-2014-eggshells-100-writeup/>
