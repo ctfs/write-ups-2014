@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [Pixel Princess](pixel-princess)
 
 ## Incomplete write-ups
 
@@ -21,7 +21,6 @@
 * [Low Key](low-key)
 * [Meet the Team](meet-the-team)
 * [NRUG](nrug)
-* [Pixel Princess](pixel-princess)
 * [Potter](potter)
 * [Python](python)
 * [Seddit](seddit)
