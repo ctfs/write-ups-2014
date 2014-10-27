@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://shankaraman.wordpress.com/2014/10/19/ectf-2014-forensics-100-h4cker-message/>

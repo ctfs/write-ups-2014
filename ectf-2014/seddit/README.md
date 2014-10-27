@@ -12,11 +12,10 @@
 >
 > `nc 212.71.235.214 6000`
 
-
 ## Write-up
 
 (TODO)
 
 ## Other write-ups and resources
 
-* none yet
+* <http://v0ids3curity.blogspot.in/2014/10/ectf-2014-seddit-exploit-400.html>
