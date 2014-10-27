@@ -233,4 +233,4 @@ The flag is `flag{TONS_OF_GOLD_SUCH_WOW_MUCH_GLOW}`.
 
 ## Other write-ups and resources
 
-* none yet
+* [Writeup by captchaflag](http://www.captchaflag.com/blog/2014/10/23/hack-dot-lu-2014-wiener/)
