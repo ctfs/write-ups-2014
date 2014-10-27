@@ -13,7 +13,7 @@
 
 ## Write-up
 
-(TODO)
+* [Holy Moses exploit and write-up using pwntools](https://github.com/zachriggle/pwntools-write-ups/blob/570b468/2014/hacklu/holy-moses/expl.py)
 
 ## Other write-ups and resources
 
