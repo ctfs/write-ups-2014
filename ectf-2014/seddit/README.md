@@ -1,0 +1,22 @@
+# ECTF 2014: Seddit
+
+**Category:** Exploit
+**Points:** 400
+**Description:**
+
+> Seddit has opened a new service to share posts and links through command line. Check it out here.
+>
+> [`seddit.tar.gz`](seddit.tar.gz)
+>
+> **Hint:** A pinch of ____
+>
+> `nc 212.71.235.214 6000`
+
+
+## Write-up
+
+(TODO)
+
+## Other write-ups and resources
+
+* none yet

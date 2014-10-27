@@ -14,6 +14,7 @@ All flags have a format of `flag{%s} % (funny_key_here)`.
 
 * [CAN HAS STDIO?](can-has-stdio)
 * [ECB, it’s easy as 123](ecb-its-easy-as-123)
+* [Elrond32](elrond32)
 * [Erik, Baleog and Olaf](erik-baleog-and-olaf)
 * [János the Ripper](janos-the-ripper)
 * [NaNNaNNaNNaN…, Batman!](nannannannan-batman)
@@ -23,9 +24,8 @@ All flags have a format of `flag{%s} % (funny_key_here)`.
 * [Test flag, please ignore](test-flag-please-ignore)
 * [tt3441810](tt3441810)
 * [What is Loopy landscapes?](what-is-loopy-landscapes)
-* [Elrond32](elrond32)
+* [WTC RSA BBQ](wtc-rsa-bbq)
 
 ## Incomplete write-ups
 
 * [Valet!](valet)
-* [WTC RSA BBQ](wtc-rsa-bbq)
