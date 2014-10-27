@@ -61,3 +61,4 @@ The flag is `flag{unicode_stego_is_best_stego}`.
 ## Other write-ups and resources
 
 * [Exploit in Bash by @TheJH](thejh_exploit.sh)
+* <https://hackucf.org/blog/hack-lu-2014-web-150-hidden-in-plain-sight/>
