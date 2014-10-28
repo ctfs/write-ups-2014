@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://securimag.org/wp/challenges/hack-lu-cryptochief/>
+* <https://www.zybuluo.com/romangol/note/40559>
