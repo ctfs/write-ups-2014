@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://v0ids3curity.blogspot.in/2014/10/ectf-2014-seddit-exploit-400.html>
+* <http://itszn.com/blog/?p=13/>

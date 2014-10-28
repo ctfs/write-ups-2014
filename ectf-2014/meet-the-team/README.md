@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://dhanvi1.wordpress.com/2014/10/23/meet-the-team-ectf-2014-recon-80/>
