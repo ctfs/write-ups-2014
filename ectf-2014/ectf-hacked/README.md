@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://shankaraman.wordpress.com/2014/10/19/ectf-2014-forensics-500-ectf-hacked-writeup/>
+* <http://blog.rkravi.com/ectf-forensics500/>
