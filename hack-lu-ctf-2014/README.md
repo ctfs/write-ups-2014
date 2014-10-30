@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [At Gunpoint](at-gunpoint)
 * [Barmixer Bot](barmixer-bot)
 * [Encrypted](encrypted)
 * [Gunslinger Joe’s private Terminal](gunslinger-joes-private-terminal)
@@ -19,7 +20,6 @@
 
 ## Incomplete write-ups
 
-* [At Gunpoint](at-gunpoint)
 * [Big Jim’s Map](big-jims-map)
 * [breakout](breakout)
 * [Callgate](callgate)
