@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [Meet the Team](meet-the-team)
 * [Pixel Princess](pixel-princess)
 
 ## Incomplete write-ups
@@ -19,7 +20,6 @@
 * [I’m the Batman](im-the-batman)
 * [Login Please](login-please)
 * [Low Key](low-key)
-* [Meet the Team](meet-the-team)
 * [NRUG](nrug)
 * [Potter](potter)
 * [Python](python)

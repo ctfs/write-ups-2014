@@ -10,7 +10,7 @@
 
 ## Write-up
 
-(TODO)
+By Googling a bit about the CTF we find the name of the organizing team: _NIA_ (_No Internet Access_). So that’s what that hint was all about! Googling for the team name reveals their CTFTime page: <https://ctftime.org/team/8096>. That page has a link to their blog which is located at <http://nia-ctf.github.io/>.
 
 ## Other write-ups and resources
 
