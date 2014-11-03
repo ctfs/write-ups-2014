@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [Eight Cats Hid the Flag](eight-cats-hid-the-flag)
 * [Meet the Team](meet-the-team)
 * [Pixel Princess](pixel-princess)
 
@@ -13,7 +14,6 @@
 * [A knotty problem](a-knotty-problem)
 * [Can You Be the Admin](can-you-be-the-admin)
 * [ECTF Hacked?](ectf-hacked)
-* [Eight Cats Hid the Flag](eight-cats-hid-the-flag)
 * [Friends of Crime](friends-of-crime)
 * [H4cker Message](h4cker-message)
 * [Help Bob!](help-bob)
