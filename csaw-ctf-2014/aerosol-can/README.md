@@ -16,5 +16,4 @@
 
 ## Other write-ups and resources
 
-* <http://in3o.wordpress.com/2014/10/09/csaw-ctf-2014-reverse-500-aerosol-can/
->
+* <http://in3o.wordpress.com/2014/10/09/csaw-ctf-2014-reverse-500-aerosol-can/>
