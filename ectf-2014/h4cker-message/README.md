@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <https://shankaraman.wordpress.com/2014/10/19/ectf-2014-forensics-100-h4cker-message/>
+* <https://github.com/ectf/write-ups/tree/master/ectf-2014/H4ckerMessage>

@@ -17,4 +17,4 @@ Can you still bypass the system?
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/ectf/write-ups/tree/master/ectf-2014/Potter>

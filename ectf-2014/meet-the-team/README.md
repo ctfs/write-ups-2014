@@ -15,3 +15,4 @@ By Googling a bit about the CTF we find the name of the organizing team: _NIA_ (
 ## Other write-ups and resources
 
 * <http://dhanvi1.wordpress.com/2014/10/23/meet-the-team-ectf-2014-recon-80/>
+* <https://github.com/ectf/write-ups/tree/master/ectf-2014/MeetTheTeam>
