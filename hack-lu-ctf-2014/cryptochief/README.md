@@ -16,5 +16,6 @@
 
 ## Other write-ups and resources
 
+* [Challenge source](cryptochief-source.tar.gz) (released after the CTF)
 * <https://securimag.org/wp/challenges/hack-lu-cryptochief/>
 * <https://www.zybuluo.com/romangol/note/40559>
