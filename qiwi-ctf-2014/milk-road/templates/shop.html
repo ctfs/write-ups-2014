@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+<br/>
+<a href="#"><img src="/static/logo.jpg" border="0"></a>
+<br/>
+
+{% if error %}
+Something goes wrong. <a href="/help/">Please, contact support.</a>
+{% else %}
+
+<div class="alert">Your balance: $0</div>
+<table class="table">
+<tr>
+
+<th>
+Item
+</th>
+<th>
+Price
+</th>
+<th>
+Action
+</th>
+
+
+</tr>
+<tr>
+<form method="post" action="">
+<td>
+<input type="hidden" name="item_id" value="1">
+<img src="/static/ODP3wED1_hE.jpg" width="200px">
+</td>
+<td>$30</td>
+<td><input type="submit" value="Buy"></td>
+</form>
+</tr>
+
+<tr>
+<form method="post" action="">
+<td>
+<input type="hidden" name="item_id" value="3">
+<img src="/static/d86aa1848293a0cbb1a10aa22b4086fe.jpg" width="120px">
+</td>
+<td>$10</td>
+<td><input type="submit" value="Buy"></td>
+</form>
+</tr>
+
+<tr>
+<form method="post" action="">
+<td>
+<input type="hidden" name="item_id" value="2">
+<img src="/static/bear-yoga-006.jpg" width="300px">
+</td>
+<td>$70</td>
+<td><input type="submit" value="Buy"></td>
+</form>
+</tr>
+
+
+{% if flag %}
+<h1>{{ flag }}</h1>
+{% else %}
+<tr>
+<form method="post" action="">
+<td>
+<input type="hidden" name="item_id" value="31337">
+<img src="/static/WMHlogoweb.gif" width="300px">
+</td>
+<td>$2048</td>
+<td><input type="submit" value="Buy"></td>
+</form>
+</tr>
+{% endif %}
+
+</table>
+{% endif %}
+</div>
+{% endblock %}

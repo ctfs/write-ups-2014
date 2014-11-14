@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+
+<img src="/static/logo.jpg">
+
+<h2>Welcome to Milk Road!</h2>
+<form method="post" action="">
+ <fieldset>
+<label>Login</label> <input type="text" name="username" value="">
+<label>Password</label> <input type="password" name="password" value=""><br/>
+<button class="btn btn-large btn-primary">Login</button>
+ </fieldset>
+</form>
+
+<p><a href="/register/">Register</a></p>
+
+
+</div>
+{% endblock %}

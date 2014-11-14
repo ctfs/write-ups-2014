@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="#">Piwi Shopping Portal</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="/">Home</a></li>
+              <li><a href="/helpdesk/">Support</a></li>
+              <li><a href="/api/">API</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+{% if comment %}
+<script>
+if (typeof window.callPhantom === 'function') {
+  var help = window.callPhantom('/help');
+}
+</script>
+<script>
+var dirty = '{{ comment|safe }}';
+var clean = DOMPurify.sanitize(dirty);
+document.write(clean);
+</script>
+{% else %}
+<h2>Last comments</h2>
+<ul>
+{% for comment in comments %}
+<li><a href="/helpdesk/?id={{ comment }}">{{ comment }}</a></li>
+{% endfor %}
+</ul>
+{% endif %}
+</div>
+{% endblock %}

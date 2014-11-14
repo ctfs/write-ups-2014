@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+
+<a href="/shop/"><img src="/static/logo.jpg" border="0"></a>
+<br/>
+
+{% if error %}
+<div class="alert alert-error">{{ error }}</div>
+{% endif %}
+
+{% if ok %}
+<div class="alert alert-success">Sent</div>
+{% endif %}
+
+<h2>Contact Form</h2>
+
+<form method="post" action="">
+<fieldset>
+<label>Your Message</label>
+<textarea name="comment"></textarea>
+
+<script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k={{ public_key }}"></script>
+
+<button class="btn btn-large btn-primary">Send</button>
+</fieldset>
+</form>
+</div>
+{% endblock %}
