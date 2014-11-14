@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://nandynarwhals.org/2014/11/15/qiwictf-2014-bajutsu-pwn100/>

@@ -115,4 +115,4 @@ The flag is `ZN2014_3db056df7036e11c823707f5adf923e9`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://nandynarwhals.org/2014/11/14/qiwictf2014-stolen-prototype-misc100/>
