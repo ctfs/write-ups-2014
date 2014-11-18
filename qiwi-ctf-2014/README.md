@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [Stolen prototype](stolen-prototype)
+* [Hidden](hidden)
 
 ## Incomplete write-ups
 
@@ -14,7 +15,6 @@
 * [Easydroid](easydroid)
 * [GOREX](gorex)
 * [Guessing Game](guessing-game)
-* [Hidden](hidden)
 * [Milk Road Mystery](milk-road-mystery)
 * [Milk Road](milk-road)
 * [monitord 1](monitord-1)
