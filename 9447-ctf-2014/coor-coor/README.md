@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Write-up by @bernardomr](http://w00tsec.blogspot.com/2014/11/9447-2014-ctf-write-up-coor-coor.html)
