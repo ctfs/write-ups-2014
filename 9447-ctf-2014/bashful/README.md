@@ -43,6 +43,55 @@ $ cat token
 
 The flag is `9447{I_JUST_THINK_BITCOIN_WILL_DIE_OUT_SOON}`.
 
+### Alternate solution
+
+[`.git/logs/HEAD`](http://bashful.9447.plumbing/.git/logs/HEAD) contains:
+
+````
+0000000000000000000000000000000000000000 3c4992205aba2077cbf87fc7cde900fabecd1140 root <root@ip-172-31-10-205.ap-southeast-2.compute.internal> 1412673432 +0000commit (initial): Hurr durr
+3c4992205aba2077cbf87fc7cde900fabecd1140 ec972f9af79a09129021a30e7f08099aa2b8a81d John Doe <fsck@you.me> 1412673456 +0000	commit (amend): Hurr durr
+ec972f9af79a09129021a30e7f08099aa2b8a81d 0b4d6fe0adf809c4e7b7a0d47132600b68f79fda root <root@ip-172-31-10-205.ap-southeast-2.compute.internal> 1417230572 +0000commit: My precious flag now exists
+````
+
+So, someone committed the flag, but they’ve probably deleted it in a later commit. Let’s look at the `.git/objects` directory to see if any commit objects can be found. There don’t seem to be any. The CTF organizers might have [packed](http://git-scm.com/book/en/v2/Git-Internals-Packfiles) the commit objects. Let’s look at `.git/objects/info/packs`:
+
+```
+I banish thee, evil mind readers from planet Zblaargh.
+```
+
+In the initial version of the challenge we were supposed to find the pack file name on our own by directly entering its URL. Pack file names are of the format `pack-${SHA1}.{pack,idx}` where `${SHA1}` is a hash of the sorted object names to make the resulting filename based on the pack content.
+
+Unfortunately there was no (?) way to find out the object name of the token file without knowing the token itself. Anyhow, no team could solve this challenge at that difficulty level. And that’s why the organizers reduced the complexity from 310 to 101 points and made the directories browseable.
+
+Okay, maybe we can just fetch the pack file from the packs directory. Let’s browse to `.git/objects/pack/`:
+
+````
+pack-deff83d57714493c6d317394f3542da8e396f887.idx
+pack-deff83d57714493c6d317394f3542da8e396f887.pack
+````
+
+Fine, let’s download these files and unpack them. An easy way to do this is explained in [this Stack Overflow answer](http://stackoverflow.com/a/3333428/96656).
+
+After unpacking, `git status` shows:
+
+````
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    index.html
+	deleted:    token
+````
+
+The next part is simple:
+
+````
+$ git checkout token
+
+$ cat token
+9447{I_JUST_THINK_BITCOIN_WILL_DIE_OUT_SOON}
+````
+
 ## Other write-ups and resources
 
 * none yet
