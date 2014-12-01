@@ -91,3 +91,4 @@ This means we can bypass the “valid language” filter, and set the language t
 
 * [Exploit by Ymgve that leaks `/flag` piece by piece](https://gist.github.com/anonymous/fa48e7657ddf9d4f9d6d)
 * [Exploit by HoLyVieR using a timing attack + blind Shellshock injection](https://gist.github.com/jghkdgha/0a40941cdb072bfe269f)
+* [Exploit by cyberguru - execute command with one query](http://pastebin.com/nGGTNt6K)
