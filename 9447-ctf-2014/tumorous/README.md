@@ -181,6 +181,17 @@ $ cat token
 
 The flag is `9447{IM_SITTING_ON_A_PILE_OF_GOLD}`.
 
+### Alternate solution
+
+This challenge is trivial to solve using [rip-git](https://github.com/kost/dvcs-ripper/blob/master/rip-git.pl):
+
+```bash
+$ perl ./rip-git.pl -v -u http://tumorous.9447.plumbing/.git/
+
+$ cat token
+9447{IM_SITTING_ON_A_PILE_OF_GOLD}
+```
+
 ## Other write-ups and resources
 
 * [Write-up by Hypnosec](https://github.com/hypnosec/writeups/blob/master/2014/9447-ctf/web/tumorous.md)
