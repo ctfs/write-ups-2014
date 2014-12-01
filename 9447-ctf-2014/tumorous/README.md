@@ -183,4 +183,4 @@ The flag is `9447{IM_SITTING_ON_A_PILE_OF_GOLD}`.
 
 ## Other write-ups and resources
 
-* none yet
+* [Write-up by Hypnosec](https://github.com/hypnosec/writeups/blob/master/2014/9447-ctf/web/tumorous.md)
