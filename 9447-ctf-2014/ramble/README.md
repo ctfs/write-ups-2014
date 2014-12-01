@@ -85,10 +85,11 @@ This means we can bypass the “valid language” filter, and set the language t
 
 [The `getPosts` function](https://github.com/ctfs/write-ups/blob/master/9447-ctf-2014/ramble/server.js#L85-L118) assigns the language (which we can now control) to the `LC_ALL` environment variable, and spawns a shell that executes `ls -l $some_hardcoded_directory_value_we_cannot_control`. Could this be a case of [Shellshock](https://en.wikipedia.org/wiki/Shellshock_%28software_bug%29#Initial_report_.28CVE-2014-6271.29)?
 
-(TODO)
+Below are some possible ways to successfully exploit this challenge.
 
 ## Other write-ups and resources
 
+* <http://tasteless.se/2014/12/9447-security-society-ctf-2014-ramble-writeup/>
 * [Exploit by Ymgve that leaks `/flag` piece by piece](https://gist.github.com/anonymous/fa48e7657ddf9d4f9d6d)
 * [Exploit by HoLyVieR using a timing attack + blind Shellshock injection](https://gist.github.com/jghkdgha/0a40941cdb072bfe269f)
 * [Exploit by cyberguru - execute command with one query](http://pastebin.com/nGGTNt6K)

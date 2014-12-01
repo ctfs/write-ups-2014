@@ -94,4 +94,5 @@ $ cat token
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/hypnosec/writeups/blob/master/2014/9447-ctf/web/bashful.md>
+* <http://tasteless.se/2014/12/9447-security-society-ctf-2014-bashful-and-coffee-writeup/>

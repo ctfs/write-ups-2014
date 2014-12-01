@@ -27,4 +27,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Write-up + exploit by Ricky Zhou](https://rzhou.org/~ricky/9447_2014/europe/exp2.py)

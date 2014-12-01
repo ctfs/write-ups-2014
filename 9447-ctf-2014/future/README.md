@@ -20,4 +20,5 @@
 
 ## Other write-ups and resources
 
+* <http://tasteless.se/2014/12/9447-security-society-ctf-2014-future-and-shmap-writeup/>
 * [Solution by @auscompgeek](https://gist.github.com/auscompgeek/a4390fb82a31ce69256b)

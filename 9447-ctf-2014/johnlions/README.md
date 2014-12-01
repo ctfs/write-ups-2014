@@ -38,3 +38,4 @@ total 134
 ## Other write-ups and resources
 
 * [Write-up by hypnosec](https://github.com/hypnosec/writeups/blob/master/2014/9447-ctf/exploitation/johnlions.md)
+* [Write-up + exploit by Ricky Zhou](https://rzhou.org/~ricky/9447_2014/johnlions/)
