@@ -10,11 +10,12 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 
 ## Completed write-ups
 
-* none yet
+* [bashful](bashful)
+* [insanity_check](insanity_check)
+* [tumorous](tumorous)
 
 ## Incomplete write-ups
 
-* [bashful](bashful)
 * [blockchain](blockchain)
 * [booty](booty)
 * [classy](classy)
@@ -28,7 +29,6 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 * [future](future)
 * [geocap](geocap)
 * [hellomike](hellomike)
-* [insanity_check](insanity_check)
 * [johnlions](johnlions)
 * [no strings attached](no-strings-attached)
 * [nosql](nosql)
@@ -37,4 +37,3 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 * [rolling](rolling)
 * [securestone](securestone)
 * [shmap](shmap)
-* [tumorous](tumorous)

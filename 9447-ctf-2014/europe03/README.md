@@ -4,7 +4,7 @@
 **Points:** 380
 **Description:**
 
-> Submit flag03 here. It is in `/home/europe/``
+> Submit flag03 here. It is in `/home/ctf/`
 >
 > IP: europe.9447.plumbing
 > Port: 9447

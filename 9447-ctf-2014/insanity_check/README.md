@@ -10,7 +10,12 @@
 
 ## Write-up
 
-(TODO)
+```bash
+$ strings insanity | grep 9447
+9447{This_is_a_flag}
+```
+
+The flag is `9447{This_is_a_flag}`.
 
 ## Other write-ups and resources
 

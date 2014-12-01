@@ -12,6 +12,15 @@
 > Port: 9447
 >
 > [`europe`](europe)
+>
+> ```bash
+> $ ls
+> europe flag01 flag02 passwd salt
+> ```
+>
+> **Hint!** If you’re getting crashes running europe, it’s trying to open some files you don’t have.
+> Also, concurrent logins seem to cause some problems
+
 
 ## Write-up
 

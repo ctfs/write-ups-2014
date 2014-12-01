@@ -7,6 +7,8 @@
 > [travels of a lonely cloud](http://ramble.9447.plumbing:8888/)
 >
 > [`server.js`](server.js)
+>
+> **Hint!** JS has interesting scoping properties…
 
 ## Write-up
 
