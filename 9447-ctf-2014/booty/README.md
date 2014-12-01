@@ -8,6 +8,8 @@
 >
 > ip: booty.9447.plumbing
 > port: 9447
+>
+> [`booty`](booty)
 
 ## Write-up
 
