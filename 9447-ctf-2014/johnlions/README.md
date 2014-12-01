@@ -37,4 +37,4 @@ total 134
 
 ## Other write-ups and resources
 
-* none yet
+* [Write-up by hypnosec](https://github.com/hypnosec/writeups/blob/master/2014/9447-ctf/exploitation/johnlions.md)
