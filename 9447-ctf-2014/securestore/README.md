@@ -1,4 +1,4 @@
-# 9447 CTF 2014: securestone
+# 9447 CTF 2014: securestore
 
 **Category:** Exploitation
 **Points:** 500

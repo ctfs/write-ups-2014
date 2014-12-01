@@ -35,5 +35,5 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 * [nosql](nosql)
 * [polydata](polydata)
 * [rolling](rolling)
-* [securestone](securestone)
+* [securestore](securestore)
 * [shmap](shmap)
