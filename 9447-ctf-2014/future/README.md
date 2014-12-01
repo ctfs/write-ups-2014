@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Solution by @auscompgeek](https://gist.github.com/auscompgeek/a4390fb82a31ce69256b)
