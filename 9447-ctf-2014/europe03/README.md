@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * [Write-up + exploit by Ricky Zhou](https://rzhou.org/~ricky/9447_2014/europe/exp3.py)
+* [Write-up + exploit by saelo](http://kitctf.de/writeups/9447ctf2014/2014/12/01/europe-writeup/)
