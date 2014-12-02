@@ -60,3 +60,4 @@ $ xxd -r -p <<< '23212f7573722f62696e2f656e7620707974686f6e0a696d706f72742073797
 ## Other write-ups and resources
 
 * <https://ucs.fbi.h-da.de/writeup-9447-fuckpyjails/>
+* <http://blog.germano.io/2014/fuckpyjails-writeup-9447-ctf/>
