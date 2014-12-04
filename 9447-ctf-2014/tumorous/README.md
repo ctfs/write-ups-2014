@@ -195,3 +195,4 @@ $ cat token
 ## Other write-ups and resources
 
 * [Write-up by Hypnosec](https://github.com/hypnosec/writeups/blob/master/2014/9447-ctf/web/tumorous.md)
+* <http://wiremask.eu/9447-ctf-2014-web-100-tumorous/>
