@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
+* <http://lovelydream.gitcafe.com/2014/11/26/mario/>
 * [Exploit in Python by @TheJH](thejh_exploit.py)

@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
+* <http://lovelydream.gitcafe.com/2014/12/02/classy/>
 * [Write-up + exploit by Ricky Zhou](https://rzhou.org/~ricky/9447_2014/classy/exploit.py)
