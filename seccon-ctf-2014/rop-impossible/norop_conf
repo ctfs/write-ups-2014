@@ -1,0 +1,16 @@
+service norop
+{
+    disable     = no
+    type        = UNLISTED
+    protocol    = tcp
+    port        = 10000
+    socket_type = stream
+    wait        = no
+    user        = root
+    group       = root
+    server      = /usr/sbin/chroot
+    server_args = --userspec=1001:1001 /home/norop/root_dir /pin/pin -logfile "" -t /pin/norop.so -logfile "" -- /bin/vuln
+    per_source  = 5
+    rlimit_cpu	= 1
+    only_from   = localhost
+}

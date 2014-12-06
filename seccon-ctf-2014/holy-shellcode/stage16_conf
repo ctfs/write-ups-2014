@@ -1,0 +1,14 @@
+service stage16
+{
+	disable     = no
+	type        = UNLISTED
+	protocol    = tcp
+	port        = 10016
+	socket_type = stream
+	wait        = no
+	user        = root
+	group		= stage16group
+	server      = /home/stage16/stage16
+	server_args	= /home/stage16
+	per_source	= 1
+}
