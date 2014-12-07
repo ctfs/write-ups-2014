@@ -44,7 +44,7 @@ drwxr-xr-x    2 0        107          4096 Nov 29 04:43 ..
 ^C
 ```
 
-The `STAT` command can be used with a parameter in which case it’s similar to the `LIST` command. Now that we know the file name, let’s request it:
+The `STAT` command can be used with a parameter [in which case it’s similar to the `LIST` command](http://www.nsftools.com/tips/RawFTP.htm#STAT). Now that we know the file name, let’s request it:
 
 ```bash
 $ curl 'ftp://ftpsv.quals.seccon.jp/key_is_in_this_file_afjoirefjort94dv7u.txt'

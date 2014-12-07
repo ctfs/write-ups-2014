@@ -31,4 +31,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/tyage/e813031d14b39bfe3133>
