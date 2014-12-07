@@ -2,6 +2,7 @@
 
 * <http://ctf.seccon.jp/>
 * [Scoreboard](http://ctf.seccon.jp/rank/)
+* [Number of solves per challenge](http://pastebin.com/raw.php?i=0aKPTrsY)
 * [@secconctf on Twitter](https://twitter.com/secconctf)
 
 ## Completed write-ups
@@ -9,6 +10,7 @@
 * [Bleeding “Heartbleed” Test Web](bleeding-heartbleed-test-web)
 * [Choose the number](choose-the-number)
 * [Easy Cipher](easy-cipher)
+* [Get from curious “FTP” server](get-from-curious-ftp-server)
 * [Get the key.txt](get-the-key-txt)
 * [Get the key](get-the-key)
 * [jspuzzle](jspuzzle)
@@ -21,7 +23,6 @@
 * [Advanced RISC Machine](advanced-risc-machine)
 * [Binary Karuta](binary-karuta)
 * [Decrypt it (Easy)](decrypt-it)
-* [Get from curious “FTP” server](get-from-curious-ftp-server)
 * [Holy shellcode](holy-shellcode)
 * [Impossible](rop-impossible)
 * [Japanese super micro-controller](japanese-super-micro-controller)

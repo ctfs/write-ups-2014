@@ -31,4 +31,4 @@ The corresponding SHA hash is `SECCON{3678cbe0171c8517abeab9d20786a7390ffb602d}`
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/12/seccon-ctf-2014-online-qualifications-jspuzzle/>

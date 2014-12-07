@@ -25,4 +25,4 @@ The flag is `SECCON{6in_tex7}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/12/seccon-ctf-2014-online-qualifications-reverseit-writeup/>
