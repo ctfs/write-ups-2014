@@ -10,6 +10,12 @@
 
 ## Write-up
 
+The website displays:
+
+> Advanced RISC Machine
+>
+> Running [this program](passcheck-arm) on port 10001.
+
 (TODO)
 
 ## Other write-ups and resources

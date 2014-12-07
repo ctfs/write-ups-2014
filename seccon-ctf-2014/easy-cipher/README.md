@@ -10,7 +10,15 @@
 
 ## Write-up
 
-(TODO)
+The cipher is a list of numbers. Some of them are formatted as plain decimal numbers; others start with a leading `0` and are formatted as octals; some contain letters and are in fact hexadecimal digits; and others consist of 5 digits or more that are either `1` or `0`, in which case the number is formatted using binary notation.
+
+By interpreting each number as described, you end up with a list of numbers, each of which represents a character by its Unicode code point. Turning the list of numbers into a string reveals the following plain text:
+
+```
+Welcome to the SECCON 2014 online CTF.The SECCON is the biggest hacker contest in Japan.Oops, you want to know the flag, don't you?Here you are.SECCON{W31C0M 70 7H3 53CC0N ZOIA}Have fun!
+```
+
+The flag is `SECCON{W31C0M 70 7H3 53CC0N ZOIA}`.
 
 ## Other write-ups and resources
 

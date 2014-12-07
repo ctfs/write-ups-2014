@@ -10,6 +10,11 @@
 
 (TODO)
 
+```bash
+$ file Readit
+Readit: (Corel/WP)
+```
+
 ## Other write-ups and resources
 
 * none yet
