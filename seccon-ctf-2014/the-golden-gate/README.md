@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/libmaru/b9bf5926aed97084b111>
