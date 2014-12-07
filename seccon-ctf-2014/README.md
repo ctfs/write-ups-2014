@@ -15,6 +15,7 @@
 * [Get the key](get-the-key)
 * [jspuzzle](jspuzzle)
 * [Reverse it](reverse-it)
+* [SECCON Wars: The Flag Awakens](seccon-wars-the-flag-awakens)
 * [Shuffle](shuffle)
 * [Welcome to SECCON](welcome-to-seccon)
 
@@ -30,7 +31,6 @@
 * [QR (Easy)](qr-easy)
 * [REA-JUU WATCH](rea-juu-watch)
 * [Read it](read-it)
-* [The Flag Awakens](seccon-wars-the-flag-awakens)
 * [The Golden Gate](the-golden-gate)
 * [UnknownFS](unknownfs)
 * [XSS Bonsai (aka. Hakoniwa XSS Reloaded)](xss-bonsai-aka-hakoniwa-xss-reloaded)
