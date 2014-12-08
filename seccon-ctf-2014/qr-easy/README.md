@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* https://yous.be/2014/12/07/seccon-ctf-2014-qr-easy-write-up/
+* http://yous.be/2014/12/07/seccon-ctf-2014-qr-easy-write-up/
