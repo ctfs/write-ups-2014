@@ -16,3 +16,4 @@ The flag is `WhitespaceProgrammingIsHard`.
 
 * <http://digitaloperatives.blogspot.com/2014/01/ghost-in-shellcode-2014-trivia-150.html>
 * <http://delogrand.blogspot.com/2014/01/ghost-in-shellcode-2014-trivia.html>
+* <http://yous.be/2014/01/20/ghost-in-the-shellcode-2014-inview-write-up/>
