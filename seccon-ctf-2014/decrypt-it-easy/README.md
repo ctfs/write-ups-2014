@@ -27,3 +27,4 @@ rnd: ELF 32-bit LSB executable, Intel 80386, version 1 (SYSV), dynamically linke
 ## Other write-ups and resources
 
 * <http://tasteless.eu/2014/12/seccon-quals-2014-decrypt-it-easy-crypto200/>
+* <http://blogs.univ-poitiers.fr/e-laize/2014/12/08/seccon-2014-quals-crypto-decrypt-it/>
