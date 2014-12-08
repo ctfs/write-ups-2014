@@ -17,4 +17,4 @@ Readit: (Corel/WP)
 
 ## Other write-ups and resources
 
-* none yet
+* <http://hackitta.net/seccon-ctf-2014-quals-readit/>
