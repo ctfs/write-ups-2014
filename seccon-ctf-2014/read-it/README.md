@@ -4,7 +4,7 @@
 **Points:** 300
 **Description:**
 
-> [`Readit](http://files.quals.seccon.jp/Readit)
+> [`Readit`](http://files.quals.seccon.jp/Readit)
 
 ## Write-up
 
