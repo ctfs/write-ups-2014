@@ -18,6 +18,7 @@
 * [Reverse it](reverse-it)
 * [SECCON Wars: The Flag Awakens](seccon-wars-the-flag-awakens)
 * [Shuffle](shuffle)
+* [The Golden Gate](the-golden-gate)
 * [Welcome to SECCON](welcome-to-seccon)
 
 ## Incomplete write-ups
@@ -35,7 +36,6 @@
 * [Ms. Fortune? Misfortune. 4096-bit RSA](ms-fortune-misfortune-4096-bit-rsa)
 * [QR (Easy)](qr-easy)
 * [Read it](read-it)
-* [The Golden Gate](the-golden-gate)
 * [UnknownFS](unknownfs)
 * [version2](version2)
 * [XSS Bonsai (aka. Hakoniwa XSS Reloaded)](xss-bonsai-aka-hakoniwa-xss-reloaded)
