@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://medium.com/@shanewilton/9447-ctf-2014-hellomike-writeup-ba812f012d5>
