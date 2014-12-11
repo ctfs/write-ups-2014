@@ -96,3 +96,4 @@ The flag is `SECCON{IknewIt!SQLiteAgain!!!}`.
 ## Other write-ups and resources
 
 * <http://tasteless.eu/2014/12/seccon-ctf-2014-online-qualifications-web300-writeup/>
+* <http://lovelydream.gitcafe.com/2014/12/08/seccon/#Web_300_Heartbleed>

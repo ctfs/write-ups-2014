@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://lovelydream.gitcafe.com/2014/12/08/seccon/#Exploitation_500_SH>
