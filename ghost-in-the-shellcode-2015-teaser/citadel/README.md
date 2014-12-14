@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://gnoobz.com/gits-teaser-2015-ctf-citadel-writeup.html>

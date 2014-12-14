@@ -28,4 +28,4 @@ x dontpanicshiftkeying/dontpanicshiftkeying.jpg
 
 ## Other write-ups and resources
 
-* none yet
+* <http://gnoobz.com/gits-teaser-2015-ctf-dont-panic-shift-keying-writeup.html>
