@@ -124,3 +124,4 @@ The `losttotime` file has the following contents:
 ## Other write-ups and resources
 
 * <https://sushant94.github.io/2014/12/15/gits_teaser_writeup/>
+* <https://wwwcip.cs.fau.de/~hu78sapy/pdf/gits_teaser.pdf>
