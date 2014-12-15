@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Write-up by VulnHub CTF team](https://ctf-team.vulnhub.com/9447-ctf-2014-booty/)
