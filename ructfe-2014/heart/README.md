@@ -6,4 +6,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://h4des.org/blog/index.php?/archives/348-RuCTFe-2014-heart-write-up.html>
