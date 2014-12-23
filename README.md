@@ -1,6 +1,6 @@
 # CTF write-ups
 
-There are some problems with CTF write-ups in general:
+There are some problems with [CTF](https://ctftime.org/ctf-wtf/) write-ups in general:
 
 * they’re scattered across the interwebs
 * they don’t usually include the original files needed to solve the challenge
