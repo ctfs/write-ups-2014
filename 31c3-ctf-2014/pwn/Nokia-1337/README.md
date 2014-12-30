@@ -20,5 +20,4 @@
 (TODO)
 
 ## Other write-ups and resources
-
-(TODO)
+[http://blog.dragonsector.pl/2014/12/31c3-ctf-nokia-1337-pwn-30.html](http://blog.dragonsector.pl/2014/12/31c3-ctf-nokia-1337-pwn-30.html)
