@@ -2,9 +2,10 @@
 
 **Category:** pwn
 **Points:** 10
+**Solves:** 76
 **Description:**
 
-> cfy running on 188.40.18.73 3313
+> [cfy](cfy) running on 188.40.18.73 3313
 
 ## Write-up
 

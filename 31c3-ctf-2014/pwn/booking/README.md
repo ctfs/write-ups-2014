@@ -2,6 +2,7 @@
 
 **Category:** pwn
 **Points:** 35
+**Solves:** 6
 **Description:**
 
 > You want to book a hotel?

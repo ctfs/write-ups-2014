@@ -2,6 +2,7 @@
 
 **Category:** pwn
 **Points:** 30
+**Solves:** 6
 **Description:**
 
 > 1) Pwn cfy 2) nc 127.0.0.1 3314
