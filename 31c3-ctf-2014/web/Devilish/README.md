@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 http://0xboogy.blogspot.ch/2014/12/31c3ctf-devilish-writeup.html
+
 (TODO)
