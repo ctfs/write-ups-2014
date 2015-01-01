@@ -6,4 +6,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ben-stock.de/2014/12/ructfe-2014-write-up-pidometer/>
