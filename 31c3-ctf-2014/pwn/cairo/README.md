@@ -7,8 +7,7 @@
 
 > [Draw](http://188.40.18.72:8000/) some nice images
 >
-> [cairo.tar.gz] (cairo.tar.gz)
-
+> [cairo.tar.gz](cairo.tar.gz)
 
 ## Write-up
 
@@ -16,4 +15,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

@@ -5,10 +5,10 @@
 **Solves:** 3
 **Description:**
 
-> Enter the trilogy: pwn this [phone] (fon.tar.gz). Please use only the qemu provided.
-> 
-> Remote instance requires proof of work: nc 188.40.18.78 1024
-> 
+> Enter the trilogy: pwn this [phone](fon.tar.gz). Please use only the qemu provided.
+>
+> Remote instance requires proof of work: `nc 188.40.18.78 1024`
+>
 > creds:
 >
 > mobile/mobile
@@ -20,4 +20,5 @@
 (TODO)
 
 ## Other write-ups and resources
-[http://blog.dragonsector.pl/2014/12/31c3-ctf-nokia-1337-pwn-30.html](http://blog.dragonsector.pl/2014/12/31c3-ctf-nokia-1337-pwn-30.html)
+
+* <http://blog.dragonsector.pl/2014/12/31c3-ctf-nokia-1337-pwn-30.html>

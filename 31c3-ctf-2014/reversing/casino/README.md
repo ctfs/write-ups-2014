@@ -5,7 +5,8 @@
 **Solves:** 180
 **Description:**
 
-> Let's play a [game] (casino.ey)!
+> Let's play a [game](casino.ey)!
+>
 > ```bash
 > nc 188.40.18.77 2000
 > ```
@@ -16,4 +17,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

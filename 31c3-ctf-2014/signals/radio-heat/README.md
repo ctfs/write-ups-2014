@@ -5,7 +5,7 @@
 **Solves:** 1
 **Description:**
 
-> We scratched this file from a harddrive that fell from a Gnu. It may contain a secret... [FILE] (https://31c3ctf.aachen.ccc.de/uploads/radio_heat_29f5ae02d08c6b204.tar.gz)
+> We scratched this file from a harddrive that fell from a Gnu. It may contain a secret… [`radio_heat_29f5ae02d08c6b204.tar.gz` (158.9 MB)](https://mega.co.nz/#!3kJxSIYR!0ybJfl8lRgWLBZegwhZmSDh20x6j35I87uzq1LMrovM)
 
 ## Write-up
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

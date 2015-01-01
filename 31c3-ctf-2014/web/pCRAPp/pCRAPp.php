@@ -1,4 +1,4 @@
-<?php 
+<?php
 show_source(__FILE__);
 $v1=0;$v2=0;$v3=0;$v4=0;
 $a=(array)json_decode(@$_GET['a']);

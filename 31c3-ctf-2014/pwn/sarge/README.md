@@ -5,7 +5,7 @@
 **Solves:** 10
 **Description:**
 
-> [sarge] (sarge.tar) running on 188.40.18.82 1234
+> [sarge](sarge.tar) running on 188.40.18.82 1234
 
 ## Write-up
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

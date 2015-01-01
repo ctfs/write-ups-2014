@@ -5,8 +5,9 @@
 **Solves:** 5
 **Description:**
 
-> Say hello to 188.40.18.83:7872
-> Flag matches [0-9a-f]+
+> Say hello to 188.40.18.83:7872.
+>
+> Flag matches `[0-9a-f]+`.`
 
 ## Write-up
 
@@ -14,4 +15,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

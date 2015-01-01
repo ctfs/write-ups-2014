@@ -5,8 +5,9 @@
 **Solves:** 8
 **Description:**
 
-> Hope you have enough time for this to finish flag calculation...
-> [numeric_bd4a7b7defb41bc30eafb0247a5bb22e.tar.gz]  (numeric_bd4a7b7defb41bc30eafb0247a5bb22e.tar.gz)
+> Hope you have enough time for this to finish flag calculation…
+>
+> [`numeric_bd4a7b7defb41bc30eafb0247a5bb22e.tar.gz`](numeric_bd4a7b7defb41bc30eafb0247a5bb22e.tar.gz)
 
 ## Write-up
 
@@ -14,4 +15,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

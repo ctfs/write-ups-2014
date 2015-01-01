@@ -5,14 +5,13 @@
 **Solves:** 21
 **Description:**
 
-
-> I have seen the admin [logging] (http://188.40.18.91:8000/) in with these credentials:
+> I have seen the admin [logging in](http://188.40.18.91:8000/) with these credentials:
 >
-> - admin
-> - Sup3r&sEc\_/re_p@$$w()rd
-> - 9ae684ca583214d33905000000000000fd635dded0bbb40e162da79fba55ae32
-> somehow, i cannot login... btw. what does otp mean?
-
+> - `admin`
+> - `Sup3r&sEc\_/re_p@$$w()rd`
+> - `9ae684ca583214d33905000000000000fd635dded0bbb40e162da79fba55ae32`
+>
+> Somehow, I cannot login… Btw, what does otp mean?
 
 ## Write-up
 
@@ -20,4 +19,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

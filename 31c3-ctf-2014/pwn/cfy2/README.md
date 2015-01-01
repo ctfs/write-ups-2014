@@ -5,7 +5,8 @@
 **Solves:** 6
 **Description:**
 
-> 1) Pwn cfy 2) nc 127.0.0.1 3314
+> 1. Pwn cfy
+> 2. `nc 127.0.0.1 3314`
 
 ## Write-up
 
@@ -13,4 +14,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

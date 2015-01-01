@@ -5,9 +5,10 @@
 **Solves:** 38
 **Description:**
 
-> Ever imagined compiled stack based perl?
-> It could look like [this] (bor_ey.tar.gz), but maybe this one is even worse, so we start with an easy one.
-> Try to find the flag in this binary, but don't forget to run 
+> Ever imagined compiled stack-based Perl?
+> It could look like [this](bor_ey.tar.gz), but maybe this one is even worse, so we start with an easy one.
+> Try to find the flag in this binary, but don’t forget to run:
+>
 > ```bash
 > objdump -h bor_ey
 > ```
@@ -18,4 +19,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

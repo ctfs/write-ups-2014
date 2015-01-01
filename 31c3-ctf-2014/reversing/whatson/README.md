@@ -5,7 +5,7 @@
 **Solves:** 65
 **Description:**
 
-> [whatson] (whatson)
+> [`whatson`](whatson)
 
 ## Write-up
 
@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

@@ -6,10 +6,12 @@
 **Description:**
 
 > You want to book a hotel?
+>
 > ```bash
 > nc 188.40.18.93 1234
 > ```
-> [booking_9c4d0f3b05123339a27bc411b4df88d3.tar.gz] (booking_9c4d0f3b05123339a27bc411b4df88d3.tar.gz)
+>
+> [booking_9c4d0f3b05123339a27bc411b4df88d3.tar.gz](booking_9c4d0f3b05123339a27bc411b4df88d3.tar.gz)
 
 ## Write-up
 
@@ -17,4 +19,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

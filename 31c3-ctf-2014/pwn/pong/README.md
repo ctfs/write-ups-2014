@@ -5,11 +5,12 @@
 **Solves:** 2
 **Description:**
 
-> To play it, connect to our [server] (pong.tgz) via:
+> To play it, connect to our [server](pong.tgz) via:
 >
 > ```bash
 > socat -,raw,echo=0 TCP:188.40.18.92:2001
 > ```
+>
 > Have fun!
 
 ## Write-up
@@ -18,4 +19,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet

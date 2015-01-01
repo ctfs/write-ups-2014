@@ -5,7 +5,8 @@
 **Solves:** 53
 **Description:**
 
-> We implemented [aes in hardware] (hwaes.py) and saved a lot of memory. Feel free to use our online aes encryption service to secure your data.
+> We implemented [AES in hardware] (hwaes.py) and saved a lot of memory. Feel free to use our online AES encryption service to secure your data.
+>
 > ```bash
 > nc 188.40.18.66 2786
 > ```
@@ -16,4 +17,5 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet
+

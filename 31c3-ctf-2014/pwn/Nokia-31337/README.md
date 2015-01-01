@@ -7,7 +7,9 @@
 
 > Root the phone.
 >
-> Hint: Baseband processors do not have memory protections Note: You need to solve Nokia 1337 first.
+> **Note:** You need to solve Nokia 1337 first.
+>
+> **Hint:** Baseband processors do not have memory protections
 
 ## Write-up
 
@@ -15,4 +17,4 @@
 
 ## Other write-ups and resources
 
-(TODO)
+* none yet
