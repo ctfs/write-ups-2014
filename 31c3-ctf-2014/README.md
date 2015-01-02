@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [sso](crypto/sso)
+* [ls](malware/ls)
 
 ## Incomplete write-ups
 
@@ -13,7 +14,6 @@
 * [hwaes](crypto/hwaes)
 * [otp](crypto/otp)
 * [bindshell](malware/bindshell)
-* [ls](malware/ls)
 * [orbb](malware/orbb)
 * [Rick](malware/rick)
 * [Roll](malware/roll)
