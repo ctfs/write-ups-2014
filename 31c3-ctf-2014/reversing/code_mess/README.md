@@ -13,4 +13,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* Challenge source: [source.tar.gz](source.tar.gz)
+* Challenge solver: [solver.tar.gz](solver.tar.gz)
