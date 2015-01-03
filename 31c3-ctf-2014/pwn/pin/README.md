@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* Challenge exploit: [exploit.py](exploit.py)
