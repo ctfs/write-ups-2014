@@ -5,13 +5,13 @@
 
 ## Completed write-ups
 
+* [hwaes](crypto/hwaes)
 * [sso](crypto/sso)
 * [ls](malware/ls)
 
 ## Incomplete write-ups
 
 * [cipherflag](crypto/cipherflag)
-* [hwaes](crypto/hwaes)
 * [otp](crypto/otp)
 * [bindshell](malware/bindshell)
 * [orbb](malware/orbb)
@@ -24,8 +24,8 @@
 * [Fyltr](pwn/fyltr)
 * [maze](pwn/maze)
 * [mynx](pwn/mynx)
-* [Nokia 1337](pwn/nokia-1337)
-* [Nokia 31337](pwn/nokia-31337)
+* [Nokia 1337](pwn/Nokia-1337)
+* [Nokia 31337](pwn/Nokia-31337)
 * [pin](pwn/pin)
 * [pong](pwn/pong)
 * [saas](pwn/saas)
