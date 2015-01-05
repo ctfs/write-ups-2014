@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: maze
+# 31C3 CTF 2014: maze
 
 **Category:** pwn
 **Points:** 40

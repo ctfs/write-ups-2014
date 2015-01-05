@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: mynx
+# 31C3 CTF 2014: mynx
 
 **Category:** pwn
 **Points:** 30

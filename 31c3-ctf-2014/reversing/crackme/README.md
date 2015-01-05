@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: crackme
+# 31C3 CTF 2014: crackme
 
 **Category:** reversing
 **Points:** 50

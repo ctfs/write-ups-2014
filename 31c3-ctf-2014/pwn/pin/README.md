@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: pin
+# 31C3 CTF 2014: pin
 
 **Category:** pwn
 **Points:** 30

@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: http
+# 31C3 CTF 2014: http
 
 **Category:** web
 **Points:** 15

@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: code_mess
+# 31C3 CTF 2014: code_mess
 
 **Category:** reversing
 **Points:** 20

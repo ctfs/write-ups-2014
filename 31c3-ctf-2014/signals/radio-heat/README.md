@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: radio heat
+# 31C3 CTF 2014: radio heat
 
 **Category:** signals
 **Points:** 25

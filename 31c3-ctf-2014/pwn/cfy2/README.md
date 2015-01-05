@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: cfy2
+# 31C3 CTF 2014: cfy2
 
 **Category:** pwn
 **Points:** 30

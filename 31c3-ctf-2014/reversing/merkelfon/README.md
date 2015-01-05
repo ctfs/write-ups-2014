@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: Merkelfon
+# 31C3 CTF 2014: Merkelfon
 
 **Category:** reversing
 **Points:** 20

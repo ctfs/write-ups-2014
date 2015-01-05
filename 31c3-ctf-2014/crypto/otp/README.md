@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: otp
+# 31C3 CTF 2014: otp
 
 **Category:** crypto
 **Points:** 30

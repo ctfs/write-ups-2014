@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: sarge
+# 31C3 CTF 2014: sarge
 
 **Category:** pwn
 **Points:** 20

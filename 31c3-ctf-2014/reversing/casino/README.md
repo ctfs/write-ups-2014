@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: casino
+# 31C3 CTF 2014: casino
 
 **Category:** reversing
 **Points:** 20

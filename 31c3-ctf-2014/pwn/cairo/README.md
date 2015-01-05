@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: cairo
+# 31C3 CTF 2014: cairo
 
 **Category:** pwn
 **Points:** 30

@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: Nokia 31337
+# 31C3 CTF 2014: Nokia 31337
 
 **Category:** pwn
 **Points:** 50

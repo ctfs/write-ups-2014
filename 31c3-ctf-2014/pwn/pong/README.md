@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: pong
+# 31C3 CTF 2014: pong
 
 **Category:** pwn
 **Points:** 30

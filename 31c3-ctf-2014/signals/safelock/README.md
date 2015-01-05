@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: safelock
+# 31C3 CTF 2014: safelock
 
 **Category:** signals
 **Points:** 20

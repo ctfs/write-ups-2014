@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: numeric
+# 31C3 CTF 2014: numeric
 
 **Category:** reversing
 **Points:** 20

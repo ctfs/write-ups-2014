@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: sso
+# 31C3 CTF 2014: sso
 
 **Category:** crypto
 **Points:** 30
@@ -27,25 +27,25 @@ target = '{"User":"admin","Admin":1}'
 conn = httplib.HTTPConnection('188.40.18.87:5144')
 
 def getvalue(token):
-  conn.request('GET', 'http://188.40.18.87:5144/info.php?token=%s' % (token), '')
-  return conn.getresponse().read()
+	conn.request('GET', 'http://188.40.18.87:5144/info.php?token=%s' % (token), '')
+	return conn.getresponse().read()
 
 # We get this part of the token by simply using a token generated for any user
 token = '69222e97316b9dd8f7'
 
 for j in range(len(token) / 2, len(target)):
-  for i in range(256):
-    h = hex(i)[2:]
-    if len(h) == 1:
-      h = '0' + h
+	for i in range(256):
+		h = hex(i)[2:]
+		if len(h) == 1:
+			h = '0' + h
 
-    r = getvalue(token + h)
+		r = getvalue(token + h)
 
-    if r == target[:len(r)]:
-      token += h
-      break
+		if r == target[:len(r)]:
+			token += h
+			break
 
-  print(token)
+	print(token)
 ```
 
 Then we had to visit `http://188.40.18.87:5144/admin.php?token=INSERT_TOKEN_HERE`.

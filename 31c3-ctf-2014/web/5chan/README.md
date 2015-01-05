@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: 5CHAN
+# 31C3 CTF 2014: 5CHAN
 
 **Category:** web
 **Points:** 15

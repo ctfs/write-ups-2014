@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: Devilish
+# 31C3 CTF 2014: Devilish
 
 **Category:** web
 **Points:** 30

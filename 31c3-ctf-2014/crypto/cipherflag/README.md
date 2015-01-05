@@ -1,4 +1,4 @@
-# 31c3 CTF 2014: cipherflag
+# 31C3 CTF 2014: cipherflag
 
 **Category:** crypto
 **Points:** 20
