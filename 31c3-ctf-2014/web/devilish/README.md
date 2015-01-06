@@ -16,3 +16,4 @@
 
 * <http://0xboogy.blogspot.com/2014/12/31c3ctf-devilish-writeup.html>
 * <http://l4w.io/2014/12/31c3-ctf-writeups/>
+* <http://kitctf.de/writeups/31c3-ctf/devilish/>
