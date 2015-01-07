@@ -8,6 +8,7 @@
 * [hwaes](crypto/hwaes)
 * [sso](crypto/sso)
 * [ls](malware/ls)
+* [Devilish](web/devilish)
 
 ## Incomplete write-ups
 
@@ -40,7 +41,6 @@
 * [radio heat](signals/radio-heat)
 * [safelock](signals/safelock)
 * [5CHAN](web/5chan)
-* [Devilish](web/devilish)
 * [http](web/http)
 * [Page Builder](web/page-builder)
 * [pCRAPp](web/pcrapp)
