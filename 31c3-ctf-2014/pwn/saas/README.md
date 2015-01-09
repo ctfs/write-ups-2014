@@ -11,7 +11,7 @@
 > nc 188.40.18.75 1234
 > ```
 >
-> [saas_5007caf1e0c58894fe6b48020603185f.tar.gz] (saas_5007caf1e0c58894fe6b48020603185f.tar.gz)
+> [saas_5007caf1e0c58894fe6b48020603185f.tar.gz](saas_5007caf1e0c58894fe6b48020603185f.tar.gz)
 
 ## Write-up
 
@@ -19,5 +19,6 @@
 
 ## Other write-ups and resources
 
-* Challenge source: [source.tar.gz](source.tar.gz)
-* Challenge exploit: [exploit.tar.gz](exploit.tar.gz)
+* <http://kitctf.de/writeups/31c3-ctf/saas/>
+* [Challenge source: `source.tar.gz`](source.tar.gz)
+* [Challenge exploit: `exploit.tar.gz`](exploit.tar.gz)
