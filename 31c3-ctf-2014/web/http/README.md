@@ -19,4 +19,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://l4w.io/2014/12/31c3-ctf-writeups/>
