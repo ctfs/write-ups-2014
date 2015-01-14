@@ -24,4 +24,4 @@ flag{esolangs_for_fun_and_profit}
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#can-has-stdio>
