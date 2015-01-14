@@ -59,4 +59,4 @@ received and restored from the server are in ```example-qrs```.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/arkty/asis-ctf-finals-2014-xorqr>
