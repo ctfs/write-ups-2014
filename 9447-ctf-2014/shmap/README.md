@@ -14,3 +14,4 @@
 
 * <http://tasteless.se/2014/12/9447-security-society-ctf-2014-future-and-shmap-writeup/>
 * <https://maltekraus.de/blog/ctf/english/2014/12/01/9447-ctf-shmap-writeup.html>
+* <http://blog.dul.ac/2014/12/9447CTF14/>
