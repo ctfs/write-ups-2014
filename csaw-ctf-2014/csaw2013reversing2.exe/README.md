@@ -40,3 +40,4 @@ Running this patched executable gives us a dialog box with the flag:
 ## Other write-ups and resources
 
 * <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---csaw2013reversing2exe-200pts-writeup>
+* <https://ucs.fbi.h-da.de/writeup-csaw-csaw2013reversing2-exe/>
