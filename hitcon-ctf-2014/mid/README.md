@@ -32,4 +32,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://puu.sh/aXd9p/44f33626e7.txt>

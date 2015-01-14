@@ -26,4 +26,4 @@ The flag is `HITCON{you are super lucky OAQ!}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/anonymous/c03c72829af36757eddb>

@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/superbacker/09e38d114cf8fbe32543>, related [notes]()

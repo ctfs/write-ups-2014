@@ -60,4 +60,4 @@ The flag is `HITCON{QRMAZEISCOOL!}`.
 
 ## Other write-ups and resources
 
-* none yet
+* [source](https://github.com/hitcon2014ctf/ctf/tree/master/maze)

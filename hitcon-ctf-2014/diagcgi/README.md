@@ -312,4 +312,5 @@ The flag is `HITCON{a755be06b165ed8fc4710d3544fce942}`.
 
 ## Other write-ups and resources
 
-http://givemesecurity.info/2014/08/18/diagcgi-writeup-hitcon-2014/
+* <http://givemesecurity.info/2014/08/18/diagcgi-writeup-hitcon-2014/>
+* <https://gist.github.com/connection/f90a01c09601c600a332>, related [notes](http://cuby.hu/hitcon-lol-notes-then-not-writeups.txt)

@@ -13,4 +13,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastie.org/9482170>
+* <http://pastie.org/private/wqfyttp1msepodg4ovx9g>
+* <http://pastie.org/private/mpabofsscu6m2dpablxcag>

@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* http://acez.re/ctf-writeup-hitcon-ctf-2014-callme-rsbo-ty-sh41lcode/
+* <http://acez.re/ctf-writeup-hitcon-ctf-2014-callme-rsbo-ty-sh41lcode/>
+* <https://gist.github.com/g05u/f7d8b6cb045cbb65ab80> -- related [notes]<http://cuby.hu/hitcon-lol-notes-then-not-writeups.txt>

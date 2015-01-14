@@ -101,4 +101,5 @@ The flag is `HITCON{24_GAme_15_FUN}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/gnomus/4a119910a616b703620a>
+* <https://gist.github.com/csferng/cfc18104d9adfa25224f>
