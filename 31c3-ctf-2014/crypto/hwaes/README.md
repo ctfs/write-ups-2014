@@ -92,5 +92,4 @@ The flag is `31C3_0748a7b8be603056aa9c391e`.
 
 ## Other write-ups and resources
 
-* none yet
-
+* <https://github.com/VMXh/write-ups/blob/master/31C3%20CTF/hwaes/README.md>
