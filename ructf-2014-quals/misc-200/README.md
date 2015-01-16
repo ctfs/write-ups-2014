@@ -5,3 +5,4 @@
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-misc-200/>
+* <http://ctfwriteups.blogspot.in/2014/03/ructf-2014-quals-misc-100-shredder-misc.html#more>

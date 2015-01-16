@@ -6,3 +6,4 @@
 
 * <http://translate.google.com/translate?sl=ko&tl=en&u=http://blackcon.tistory.com/97>
 * <http://h34dump.com/2014/03/ructf-quals-2014-misc-300/>
+* [Korean](http://blackcon.tistory.com/97)
