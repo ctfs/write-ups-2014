@@ -6,3 +6,4 @@
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-ppc-300/>
+* <https://ctfcrew.org/writeup/50>

@@ -8,3 +8,4 @@
 * <http://tasteless.se/2014/03/ructf-quals-2014-vuln100-and-recon300-writeup/>
 * <http://h34dump.com/2014/03/ructf-quals-2014-vuln-100/>
 * <http://blog.0xdeffbeef.com/2014/03/ructf-quals-2014-guess-flag-vuln-100.html>
+* <https://ctfcrew.org/writeup/45>

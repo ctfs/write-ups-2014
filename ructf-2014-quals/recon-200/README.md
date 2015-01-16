@@ -7,3 +7,4 @@
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-recon-200/>
+* <https://ctfcrew.org/writeup/43>

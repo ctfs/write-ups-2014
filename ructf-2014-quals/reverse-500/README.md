@@ -6,3 +6,4 @@
 ## Other write-ups and resources
 
 * <http://piggybird.net/2014/03/ructf-2014-quals-reverse-500-arcfour/>
+* <https://ctfcrew.org/writeup/47>

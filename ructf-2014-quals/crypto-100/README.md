@@ -19,3 +19,4 @@
 ## Other write-ups and resources
 
 * <http://xrekkusu.hatenablog.jp/entry/2014/03/11/214753>
+* <https://ctfcrew.org/writeup/54>

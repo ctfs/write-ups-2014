@@ -8,3 +8,4 @@
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-recon-100/>
 * <http://onthesystemsoftheworld.blogspot.in/2014/03/ructf-2014-qualifiers-recon-100300400.html>
+* <https://ctfcrew.org/writeup/42>

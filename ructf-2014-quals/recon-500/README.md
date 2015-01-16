@@ -6,4 +6,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctfcrew.org/writeup/44>

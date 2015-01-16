@@ -13,3 +13,4 @@ The flag is `RUCTF_TO_SHRED_IS_NOT_ENOUGH`.
 ## Other write-ups and resources
 
 * <http://nullify-ctf.blogspot.in/2014/03/ructf-quals-misc-100-shredder-writeup.html>
+* <https://ctfcrew.org/writeup/40>
