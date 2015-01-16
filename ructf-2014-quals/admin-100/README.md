@@ -6,3 +6,4 @@
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-admin-100/>
+* <http://lights-out-ctf.ghost.io/ructf-quals-2014-admn-100-iip/>

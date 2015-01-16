@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://xrekkusu.hatenablog.jp/entry/2014/03/11/214753>

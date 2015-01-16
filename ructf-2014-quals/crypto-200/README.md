@@ -5,3 +5,5 @@
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-crypto-200/>
+* <http://quangntenemy.blogspot.in/2014/03/ructf-quals-2014.html>
+* [Japanese](http://xrekkusu.hatenablog.jp/entry/2014/03/11/224338)

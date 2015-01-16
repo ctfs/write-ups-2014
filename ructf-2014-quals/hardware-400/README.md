@@ -4,4 +4,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://stratum0.org/blog/posts/2014/03/11/ructf-quals-2014-microcontroller/>

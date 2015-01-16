@@ -5,4 +5,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.dragonsector.pl/2014/03/ructf-2014-quals-tls-crypto-300.html>
