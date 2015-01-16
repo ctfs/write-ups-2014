@@ -6,3 +6,4 @@
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-stegano-100/>
+* <http://nullify-ctf.blogspot.in/2014/03/ructf-quals-2014-stegano-100-cats-eye.html>
