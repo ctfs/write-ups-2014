@@ -4,4 +4,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Japanese](http://d.hatena.ne.jp/waidotto/20140310/1394481816)

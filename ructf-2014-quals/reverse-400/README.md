@@ -5,3 +5,4 @@
 ## Other write-ups and resources
 
 * <https://ctfcrew.org/writeup/53>
+* [Japanese](http://d.hatena.ne.jp/kusano_k/20140310)

@@ -5,4 +5,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://sibears.ru/labs/ructf_2014_quals_admin_400_write_up/>
