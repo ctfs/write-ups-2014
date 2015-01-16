@@ -6,4 +6,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://v0ids3curity.blogspot.in/2014/03/ructf-quals-2014-aggregator-vuln-200.html>
