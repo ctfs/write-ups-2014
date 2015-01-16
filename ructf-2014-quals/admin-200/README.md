@@ -7,3 +7,4 @@
 
 * <http://tasteless.se/2014/03/ructf-quals-2014-for200-and-admin200-writeup/>
 * <http://h34dump.com/2014/03/ructf-quals-2014-admin-200/>
+* <http://lights-out-ctf.ghost.io/ructf-2014-quals-admin-200-troubleshooting/>

@@ -4,4 +4,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://delimitry.blogspot.de/2014/03/ructf-quals-2014-stegano-400-writeup.html>

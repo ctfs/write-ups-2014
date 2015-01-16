@@ -9,3 +9,5 @@
 * <http://h34dump.com/2014/03/ructf-quals-2014-recon-200/>
 * <https://ctfcrew.org/writeup/43>
 * [Japanese](http://xrekkusu.hatenablog.jp/entry/2014/03/11/143840)
+* <http://singularityctf.blogspot.jp/2014/03/ructf-quals-2014-writeup-recon-200_19.html>
+* <http://logic.stypr.com/ctf/2014/RuCTF_solutions.zip>

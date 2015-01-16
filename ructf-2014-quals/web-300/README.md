@@ -7,3 +7,5 @@
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-web-300/>
 * [Japanese](http://mage-ctf-writeup.blogspot.jp/2014/03/ructf-quals-2014-web300.html)
+* <http://www.tsg.ne.jp/nolze/blog/RuCTF_Quals_2014.html#web-300-messengerrr>
+* <http://akaminsky.net/plaidctf-quals-2014-web-300-whatscat/>

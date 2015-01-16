@@ -6,3 +6,4 @@
 ## Other write-ups and resources
 
 * <http://piggybird.net/2014/03/ructf-2014-quals-misc-500-gsm-writeup/>
+* <http://sibears.ru/labs/RuCTF-2014-Quals-Misc-500-GSM-Write-up/>
