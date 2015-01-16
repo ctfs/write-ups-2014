@@ -5,4 +5,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://lights-out-ctf.ghost.io/ructf-2014-quals-stegano-300-nyan-task/>

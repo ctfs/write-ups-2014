@@ -7,3 +7,4 @@
 ## Other write-ups and resources
 
 * <https://rdot.org/forum/showthread.php?t=3053&langid=1>
+* <https://github.com/dscheg/ructf-2014-quals-web400-writeup/>

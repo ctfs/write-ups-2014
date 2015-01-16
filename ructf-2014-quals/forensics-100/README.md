@@ -8,3 +8,4 @@
 * <http://peterpen-ctf.net/?p=915>
 * <http://ctfwriteups.blogspot.in/2014/03/ructf-2014-quals-forensics-100-secret.html>
 * <https://ctfcrew.org/writeup/49>
+* <http://nullify-ctf.blogspot.in/2014/03/ructf-quals-2014-stegano-100-cats-eye.html>
