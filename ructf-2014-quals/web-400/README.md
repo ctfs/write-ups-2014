@@ -6,4 +6,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://rdot.org/forum/showthread.php?t=3053&langid=1>

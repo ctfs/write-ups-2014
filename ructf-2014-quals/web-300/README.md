@@ -6,3 +6,4 @@
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-web-300/>
+* [Japanese](http://mage-ctf-writeup.blogspot.jp/2014/03/ructf-quals-2014-web300.html)
