@@ -1,13 +1,26 @@
 # RuCTF 2014 Quals write-ups
 
 [RuCTF Quals](http://quals.ructf.org/)
+
 [RuCTF Tasks](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks)
 
-## Completed write-ups
+## Links: Missing write-ups
+* [Admin 300](admin-300)
+* [Crypto 400](crypto-400)
+* [Forensics 300](forensics-300)
+* [Hardware 300](hardware-300)
+* [Reverse 100](reverse-100)
+* [Stegano 500](stegano-500)
+* [Vuln 400](vuln-400)
+* [Vuln 500](vuln-500)
+* [Web 500](web-500)
+
+
+## Repo: Completed write-ups
 
 * [Misc 100](misc-100)
 
-## Incomplete write-ups
+## Repo: Incomplete write-ups
 
 * [Admin 100](admin-100)
 * [Admin 200](admin-200)
