@@ -1,7 +1,7 @@
-# RuCTF 2014 Quals: Forensics 100
+# RuCTF 2014 Quals: Forensics 100 - [Openvpn\_dump](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/openvpn_dump)
 
-(TODO)
+> We intercepted [configs and dump](openvpn.5df2789228a89cdcd1ff58e3e650df0f.7z). What were they hide on [http://10.100.0.1/](http://10.100.0.1/)?
 
 ## Other write-ups and resources
 
-* none yet
+* <http://h34dump.com/2014/03/ructf-quals-2014-forensics-100/>

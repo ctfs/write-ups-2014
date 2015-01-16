@@ -1,7 +1,9 @@
-# RuCTF 2014 Quals: Recon 200
+# RuCTF 2014 Quals: Recon 200 - [Stolen camera](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/stolen_camera)
 
-(TODO)
+> Have you ever met Olimpiada Balalaykina?
+> She is a young girl who likes to chat and dreams to meet Pavel Durov.
+> Сould name the city where her camera was stolen.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://h34dump.com/2014/03/ructf-quals-2014-recon-200/>

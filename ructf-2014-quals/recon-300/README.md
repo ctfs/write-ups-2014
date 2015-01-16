@@ -1,7 +1,11 @@
-# RuCTF 2014 Quals: Recon 300
+# RuCTF 2014 Quals: Recon 300 - [Text me](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/text_me)
 
-(TODO)
+> Have you ever met Olimpiada Balalaykina?
+> She is a young girl who likes to chat and dreams to meet Pavel Durov.
+> Somebody is telegraphing her strange messages with secret password. Could you find that?
+> Flag format is "RUCTF\_.\*"
 
 ## Other write-ups and resources
 
 * <http://tasteless.se/2014/03/ructf-quals-2014-vuln100-and-recon300-writeup/>
+* <http://h34dump.com/2014/03/933/>
