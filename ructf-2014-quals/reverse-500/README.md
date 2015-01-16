@@ -5,4 +5,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://piggybird.net/2014/03/ructf-2014-quals-reverse-500-arcfour/>
