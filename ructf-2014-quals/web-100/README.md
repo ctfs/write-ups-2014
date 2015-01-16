@@ -1,6 +1,6 @@
-# RuCTF 2014 Quals: Web 100
+# RuCTF 2014 Quals: Web 100 - [PHP](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/php)
 
-(TODO)
+> [Find the key](http://w1.quals.ructf.org/).
 
 ## Other write-ups and resources
 
