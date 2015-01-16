@@ -1,6 +1,6 @@
-# RuCTF 2014 Quals: Hardware 100
+# RuCTF 2014 Quals: Hardware 100 - [IR dump](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/ir_dump)
 
-(TODO)
+> What credit card number has been typed? [Dump](dump.fcca5cbe12a7115b74c550c3ee09a2f7.zip)
 
 ## Other write-ups and resources
 
