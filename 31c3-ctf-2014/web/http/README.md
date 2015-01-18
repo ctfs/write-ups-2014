@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <http://l4w.io/2014/12/31c3-ctf-writeups/>
+* <http://www.crimsonagents.com/2014/12/31c3ctf-web-http.html>

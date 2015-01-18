@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.crimsonagents.com/2014/12/31c3ctf-web-5chan.html>

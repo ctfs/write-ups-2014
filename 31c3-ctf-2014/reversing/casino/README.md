@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://l4w.io/2014/12/31c3-ctf-writeups/>
+* <http://www.crimsonagents.com/2015/01/31c3ctf-reversing-casino.html>

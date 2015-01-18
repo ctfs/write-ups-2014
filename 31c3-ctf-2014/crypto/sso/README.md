@@ -52,4 +52,4 @@ Then we had to visit `http://188.40.18.87:5144/admin.php?token=INSERT_TOKEN_HERE
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.crimsonagents.com/2015/01/31c3ctf-crypto-sso.html>
