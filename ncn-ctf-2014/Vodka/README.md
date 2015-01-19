@@ -15,3 +15,7 @@ Note: the linked writeup contains a small error, here's the correct flag:
 ![Screenshot with the flag](screenshot.png)
 
 Flag: NCNdeadb6adec4c77a40c23e04770924d3c5b18face
+
+## Other write-ups and resources
+
+* <https://ctfcrew.org/writeup/90>
