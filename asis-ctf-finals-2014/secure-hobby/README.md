@@ -126,3 +126,4 @@ The output of the script is:
 ## Other write-ups and resources
 
 * [Alternative Exploit in Python](http://pastebin.com/b2QVFK2U)
+* [French](https://t0x0sh.org/asis-ctf-finals-hobby-pownable-250.html)
