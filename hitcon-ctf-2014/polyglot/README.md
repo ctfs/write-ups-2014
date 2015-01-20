@@ -162,3 +162,4 @@ p("cat flag");
 
 * <http://tasteless.se/2014/08/hitcon2014-polyglot-crazy500/>
 * <http://www.hxp.io/blog/7/HITCON+CTF+2014%3A+crazy500+%22polyglot%22>
+* <http://v0ids3curity.blogspot.in/2014/08/hitcon-ctf-2014-polyglot-crazy-500.html>

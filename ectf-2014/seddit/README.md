@@ -8,7 +8,7 @@
 >
 > [`seddit.tar.gz`](seddit.tar.gz)
 >
-> **Hint:** A pinch of ____
+> **Hint:** A pinch of \_\_\_\_
 >
 > `nc 212.71.235.214 6000`
 

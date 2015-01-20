@@ -17,4 +17,5 @@
 
 ## Other write-ups and resources
 
-* http://acez.re/ctf-writeup-hitcon-ctf-2014-callme-rsbo-ty-sh41lcode/
+* <http://acez.re/ctf-writeup-hitcon-ctf-2014-callme-rsbo-ty-sh41lcode/>
+* <http://v0ids3curity.blogspot.in/2014/08/hitcon-ctf-2014-rsbo-pwnable-150-team.html>

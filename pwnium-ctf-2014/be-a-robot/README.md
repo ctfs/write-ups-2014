@@ -10,4 +10,4 @@
 
 ## Other write-ups and resources
 
-
+* <http://v0ids3curity.blogspot.in/2014/07/pwnium-ctf-2014-pwn-200-team-segfault.html>

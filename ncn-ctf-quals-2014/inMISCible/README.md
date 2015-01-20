@@ -299,3 +299,7 @@ So it's not hard to guess we need to calculate the flag, since we know other fla
 >>> "NCN"+hashlib.sha1('What is the air-speed velocity of an unladen swallow?').hexdigest()
 'NCN6ceeeff26e72a40b71e6029a7149ad0626fcf310'
 ```
+
+## Other write-ups and resources
+
+* <http://v0ids3curity.blogspot.in/2014/09/no-con-name-ctf-quals-2014-immiscible.html>
