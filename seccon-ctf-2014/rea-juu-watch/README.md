@@ -22,8 +22,8 @@ $ curl http://reajuu.pwn.seccon.jp/users/chk/1
 {"username":"rea-juu","password":"way_t0_f1ag","point":99999}
 ```
 
-After logging in on <http://reajuu.pwn.seccon.jp/> with username `rea-juu` and password `way_t0_f1ag` and finishing the quiz, the flag is revealed: `SECCON{REA_JUU_Ji8A_NYAN}`.
+After logging in on <http://reajuu.pwn.seccon.jp/> with username `rea-juu` and password `way\_t0\_f1ag` and finishing the quiz, the flag is revealed: `SECCON{REA\_JUU\_Ji8A\_NYAN}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/S42X/CTF/blob/master/SECCON/ReaJuuWatch.md>

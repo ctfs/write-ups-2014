@@ -39,3 +39,4 @@ The flag is `SECCON{Programming is so fun!}`.
 ## Other write-ups and resources
 
 * <http://blogs.univ-poitiers.fr/e-laize/2014/12/07/seccon-2014-quals-prog-choose-number/>
+* <https://github.com/S42X/CTF/blob/master/SECCON/ChooseTheNumber.md>
