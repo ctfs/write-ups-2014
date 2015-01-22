@@ -12,9 +12,8 @@
 * [Make similar](make-similar)
 * [Trivial](trivial)
 
-## Incomplete write-ups
+## External write-ups only
 
-* [20lines](20lines)
 * [Aski](aski)
 * [Echof](echof)
 * [Elf Quest 2](elf-quest-2)
@@ -27,10 +26,14 @@
 * [LHC](lhc)
 * [mic](mic)
 * [Out there](out-there)
-* [PRITSLAMA](pritslama)
-* [Remote Shellcoding Appliance](remote-shellcoding-appliance)
 * [RPC](rpc)
 * [Welcome to Forensics](welcome-to-forensics)
 * [xnginx](xnginx)
 * [zbin](zbin)
 * [zpwn](zpwn)
+
+## Missing write-ups
+
+* [20lines](20lines)
+* [PRITSLAMA](pritslama)
+* [Remote Shellcoding Appliance](remote-shellcoding-appliance)
