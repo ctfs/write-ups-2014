@@ -9,8 +9,9 @@
 ## Completed write-ups
 
 * [curlcore](curlcore)
-* [doge_stege](doge-stege)
+* [doge\_stege](doge-stege)
 * [g++](g)
+* [graphs](graphs)
 * [halphow2js](halphow2js)
 * [Heartbleed](heartbleed)
 * [kpop](kpop)
@@ -23,19 +24,17 @@
 * [twenty](twenty)
 * [WhatsCat](whatscat)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [bbos](bbos)
 * [bronies](bronies)
 * [ezhp](ezhp)
 * [freya](freya)
 * [gcc](gcc)
-* [graphs](graphs)
 * [harry-potter](harry-potter)
 * [hudak](hudak)
 * [jackshit](jackshit)
 * [kappa](kappa)
-* [moscow](moscow)
 * [nightmares](nightmares)
 * [parlor](parlor)
 * [reeekeeeeee](reeekeeeeee)
@@ -45,3 +44,7 @@
 * [tiffany](tiffany)
 * [wheeeee](wheeeee)
 * [zfs](zfs)
+
+## Missing write-ups
+
+* [moscow](moscow)
