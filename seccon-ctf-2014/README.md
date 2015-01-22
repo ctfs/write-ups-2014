@@ -7,6 +7,7 @@
 
 ## Completed write-ups
 
+* [Binary Karuta](binary-karuta)
 * [Bleeding “Heartbleed” Test Web](bleeding-heartbleed-test-web)
 * [Choose the number](choose-the-number)
 * [Easy Cipher](easy-cipher)
@@ -21,21 +22,23 @@
 * [The Golden Gate](the-golden-gate)
 * [Welcome to SECCON](welcome-to-seccon)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [Advanced RISC Machine](advanced-risc-machine)
-* [BBQR](bbqr)
-* [Binary Karuta](binary-karuta)
-* [Confused analyte](confused-analyte)
 * [Decrypt it (Easy)](decrypt-it-easy)
+* [Japanese super micro-controller](japanese-super-micro-controller)
+* [Let’s disassemble](lets-disassemble)
+* [QR (Easy)](qr-easy)
+* [Read it](read-it)
+* [XSS Bonsai (aka. Hakoniwa XSS Reloaded)](xss-bonsai-aka-hakoniwa-xss-reloaded)
+
+## Missing write-ups
+
+* [BBQR](bbqr)
+* [Confused analyte](confused-analyte)
 * [Decrypt it (Hard)](decrypt-it-hard)
 * [Holy shellcode](holy-shellcode)
 * [Impossible](rop-impossible)
-* [Japanese super micro-controller](japanese-super-micro-controller)
-* [Let’s disassemble](lets-disassemble)
 * [Ms. Fortune? Misfortune. 4096-bit RSA](ms-fortune-misfortune-4096-bit-rsa)
-* [QR (Easy)](qr-easy)
-* [Read it](read-it)
 * [UnknownFS](unknownfs)
 * [version2](version2)
-* [XSS Bonsai (aka. Hakoniwa XSS Reloaded)](xss-bonsai-aka-hakoniwa-xss-reloaded)
