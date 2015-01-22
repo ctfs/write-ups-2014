@@ -5,12 +5,15 @@
 
 ## Completed write-ups
 
-* [Stolen prototype](stolen-prototype)
 * [Hidden](hidden)
+* [Stolen prototype](stolen-prototype)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [Bajutsu](bajutsu)
+
+## Missing write-ups
+
 * [cryptod](cryptod)
 * [Easydroid](easydroid)
 * [GOREX](gorex)
