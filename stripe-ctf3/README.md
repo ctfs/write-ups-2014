@@ -11,7 +11,11 @@
 * [level1](level1)
 * [level2](level2)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [level3](level3)
 * [level4](level4)
+
+## Missing write-ups
+
+* none
