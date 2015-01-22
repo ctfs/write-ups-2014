@@ -9,7 +9,7 @@
 * [Nightly Auth](nightly-auth)
 * [Onion Rings](onion-rings)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [Abitbol](abitbol)
 * [Another One](another-one)
@@ -23,4 +23,7 @@
 * [Titanoreine](titanoreine)
 * [Windows Forensics](windows-forensics)
 * [Worthless](worthless)
+
+## Missing write-ups
+
 * [Yutu](yutu)
