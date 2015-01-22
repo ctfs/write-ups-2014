@@ -18,7 +18,7 @@
 * [Wanted: Translator](wanted-translator)
 * [Wiener](wiener)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [Big Jim’s Map](big-jims-map)
 * [breakout](breakout)
@@ -26,15 +26,18 @@
 * [Cryptochief](cryptochief)
 * [Dalton’s Corporate Security Safe for Business](daltons-corporate-security-safe-for-business)
 * [douchemac](douchemac)
-* [Get your gatling at Garrettling! (Part 1)](get-your-gatling-at-garrettling-part-1)
-* [Get your gatling at Garrettling! (Part 2)](get-your-gatling-at-garrettling-part-2)
 * [Guess the Flag](guess-the-flag)
 * [Gunslinger Joe’s Gold Stash](gunslinger-joes-gold-stash)
 * [Holy Moses](holy-moses)
-* [ionpuke](ionpuke)
 * [JonahHex](jonahhex)
 * [Killy the Bit](killy-the-bit)
 * [Mario](mario)
 * [OREO](oreo)
 * [Peace Pipe](peace-pipe)
 * [Personnel Database](personnel-database)
+
+## Missing write-ups
+
+* [Get your gatling at Garrettling! (Part 1)](get-your-gatling-at-garrettling-part-1)
+* [Get your gatling at Garrettling! (Part 2)](get-your-gatling-at-garrettling-part-2)
+* [ionpuke](ionpuke)
