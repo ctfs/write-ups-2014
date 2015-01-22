@@ -26,6 +26,10 @@ All flags have a format of `flag{%s} % (funny_key_here)`.
 * [What is Loopy landscapes?](what-is-loopy-landscapes)
 * [WTC RSA BBQ](wtc-rsa-bbq)
 
-## Incomplete write-ups
+## External write-ups only
+
+* none
+
+## missing write-ups
 
 * [Valet!](valet)
