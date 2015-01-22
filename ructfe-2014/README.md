@@ -16,12 +16,15 @@ All flags match this regular expression: `/^\w{31}=$/`.
 
 * none yet
 
-## Incomplete write-ups
+## External write-ups only
+
+* [Heart](heart)
+* [Pidometer](pidometer)
+
+## Missing write-ups
 
 * [Glass](glass)
-* [Heart](heart)
 * [ISS](iss)
 * [Jetpack](jetpack)
-* [Pidometer](pidometer)
 * [VoiceBox](voicebox)
 * [VWS](vws)
