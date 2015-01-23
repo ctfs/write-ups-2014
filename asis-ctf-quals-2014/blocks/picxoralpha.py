@@ -1,7 +1,7 @@
 from PIL import Image
 
 # Picture is 19*19 pixels wide and 19*19 pixel high
-img = Image.open('stego_100_e62586adf1bcc7de668fa562955c0aa5f')
+img = Image.open('stego_100_f78a3acde659adf7ceef546380e49e5f')
 m1 = m2 = ''
 
 # Each 19x19 block represents 1 (white) or 0 (black)
