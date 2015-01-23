@@ -20,14 +20,16 @@
 * [Web 200](web-200)
 * [Web 400](web-400)
 
+## External write-ups only
+
+* [Bonus 200](bonus-200)
+* [Exploit 400](exploit-400)
+* [Web 300](web-300)
+
 ## Incomplete write-ups
 
 * [Bonus 100](bonus-100)
-* [Bonus 200](bonus-200)
 * [Exploit 200](exploit-200)
-* [Exploit 400](exploit-400)
 * [Network 300](network-300)
 * [Network 400](network-400)
 * [Quest 200](quest-200)
-* [Web 300](web-300)
-
