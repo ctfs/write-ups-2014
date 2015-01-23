@@ -30,7 +30,11 @@
 * [What you see?](what-you-see)
 * [XORQR](xorqr)
 
-## Incomplete write-ups
+## External write-ups only
+
+* none yet
+
+## Missing write-ups
 
 * [Antenna](antenna)
 * [Square](square)
