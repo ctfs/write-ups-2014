@@ -11,29 +11,32 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 ## Completed write-ups
 
 * [bashful](bashful)
-* [insanity_check](insanity_check)
+* [insanity\_check](insanity_check)
 * [ramble](ramble)
 * [tumorous](tumorous)
 
-## Incomplete write-ups
+## External write-ups only
 
-* [blockchain](blockchain)
 * [booty](booty)
 * [classy](classy)
 * [coffee](coffee)
 * [coor coor](coor-coor)
-* [doom6](doom6)
 * [europe01](europe01)
 * [europe02](europe02)
 * [europe03](europe03)
 * [fuckpyjails](fuckpyjails)
 * [future](future)
-* [geocap](geocap)
 * [hellomike](hellomike)
 * [johnlions](johnlions)
 * [no strings attached](no-strings-attached)
 * [nosql](nosql)
-* [polydata](polydata)
 * [rolling](rolling)
 * [securestore](securestore)
 * [shmap](shmap)
+
+## Missing write-ups
+
+* [blockchain](blockchain)
+* [doom6](doom6)
+* [geocap](geocap)
+* [polydata](polydata)
