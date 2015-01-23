@@ -26,17 +26,20 @@
 * [why not sftp?](why-not-sftp)
 * [xorcise](xorcise)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [aerosol can](aerosol-can)
 * [cfbsum](cfbsum)
 * [Feal](feal)
 * [greenhornd](greenhornd)
 * [ish](ish)
-* [Not NYSEC](not-nysec)
-* [pop pop](pop-pop)
 * [psifer school](psifer-school)
 * [s3](s3)
 * [saturn](saturn)
-* [Silk Goat](silk-goat)
 * [wololo](wololo)
+
+## Incomplete write-ups
+
+* [Not NYSEC](not-nysec)
+* [pop pop](pop-pop)
+* [Silk Goat](silk-goat)
