@@ -17,7 +17,7 @@ stego_100_e62586adf1bcc7de668fa562955c0aa5f: PNG image data, 361 x 361, 8-bit/co
 
 We open the picture and see this:
 
-![](stego_100_e62586adf1bcc7de668fa562955c0aa5)
+![](stego_100_e62586adf1bcc7de668fa562955c0aa5f)
 
 There are `19x19` black or white blocks, which are each again `19x19` pixels wide and high.
 We suggest that a black/white block represents a `0`/`1`.
