@@ -22,9 +22,12 @@
 * [web-300](web-300)
 * [web-400](web-400)
 
-## Incomplete write-ups
+## External write-ups only
+
+* [crypto-400](crypto-400)
+
+## Missing write-ups
 
 * [crypto-300](crypto-300)
-* [crypto-400](crypto-400)
 * [misc-400](misc-400)
 * [web-100](web-100)
