@@ -9,7 +9,7 @@
 * [Meet the Team](meet-the-team)
 * [Pixel Princess](pixel-princess)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [A knotty problem](a-knotty-problem)
 * [Can You Be the Admin](can-you-be-the-admin)
@@ -20,13 +20,16 @@
 * [I’m the Batman](im-the-batman)
 * [Login Please](login-please)
 * [Low Key](low-key)
-* [NRUG](nrug)
 * [Potter](potter)
 * [Python](python)
 * [Seddit](seddit)
-* [T_1000](t_1000)
+* [T\_1000](t_1000)
 * [The Annoying Admin](the-annoying-admin)
 * [The Beginner](the-beginner)
 * [The Sleepy Coder](the-sleepy-coder)
 * [We Hate Engineering](we-hate-engineering)
 * [Your ID, Your passwd](your-id-your-passwd)
+
+## Missing write-ups
+
+* [NRUG](nrug)
