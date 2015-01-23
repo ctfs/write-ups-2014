@@ -7,8 +7,12 @@
 
 * none yet
 
-## Incomplete write-ups
+## External write-ups only
 
 * [Citadel](citadel)
 * [Don’t Panic! Shift Keying!](dont-panic-shift-keying)
 * [Lost to Time](lost-to-time)
+
+## Incomplete write-ups
+
+* none yet
