@@ -9,8 +9,11 @@
 * [Stegano50](stegano50)
 * [Crypto100](crypto100)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [Pwnable200](pwnable200)
+* [Web400](web400)
+
+## Incomplete write-ups
+
 * [Reverse300](reverse300)
-* [Web400](web400) (partial write-up for now)
