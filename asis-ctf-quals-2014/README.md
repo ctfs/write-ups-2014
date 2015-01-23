@@ -7,6 +7,7 @@
 ## Completed write-ups
 
 * [Archaic](archaic)
+* [Blocks](blocks)
 * [forensic](forensic)
 * [Hidden flag](hidden-flag)
 * [Image](image)
@@ -22,7 +23,6 @@
 
 ## External write-ups only
 
-* [Blocks](blocks)
 * [Gas stations](gas-stations)
 * [Plough](plough)
 * [Serial number](serial-number)
