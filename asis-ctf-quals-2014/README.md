@@ -13,16 +13,26 @@
 * [prying ears](prying-ears)
 * [Random Image](random-image)
 * [Sound Zoo](sound-zoo)
+* [Toq-Toq](toq-toq)
 * [Trivia 1](trivia-1)
 * [Trivia 2](trivia-2)
 * [Undistorted History](undistorted-history)
 * [White noise](white-noise)
 * [Winner](winner)
 
-## Incomplete write-ups
+## External write-ups only
+
+* [Blocks](blocks)
+* [Gas stations](gas-stations)
+* [Plough](plough)
+* [Serial number](serial-number)
+* [Spy Paper](spy-paper)
+* [Strange](strange)
+* [Tortureous sound](tortureous-sound)
+
+## Missing write-ups
 
 * [Auth](auth)
-* [Blocks](blocks)
 * [Bomb](bomb)
 * [Bonus](bonus)
 * [Censored array](censored-array)
@@ -30,17 +40,10 @@
 * [ECC](ecc)
 * [Forensic 100](forensic-100)
 * [Forensic 2](forensic-2)
-* [Gas stations](gas-stations)
 * [Hurdling](hurdling)
 * [Impenetrable](impenetrable)
 * [Malware](malware)
 * [MESA system](mesa-system)
 * [Milad Tower](milad-tower)
-* [Plough](plough)
-* [Serial number](serial-number)
-* [Spy Paper](spy-paper)
-* [Strange](strange)
-* [Teleport](teleport)
-* [Toq-Toq](toq-toq)
-* [Tortureous sound](tortureous-sound)
+* [Teleport](teleport) TODO
 * [weak password](weak-password)
