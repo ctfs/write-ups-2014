@@ -22,4 +22,4 @@ One possible solution is:
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.incertia.net/blog/csaw-ctf-quals-2014-fuzyll/>

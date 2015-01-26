@@ -111,3 +111,7 @@ So this just calculates the SHA1 hash from flag.txt. We run it and get the flag:
 $ ./s.py
 NCN4dd992213ae6b76f27d7340f0dde1222888df4d3
 ```
+
+## Other write-ups and resources
+
+* <http://www.incertia.net/blog/noc0nname-quals-2014-miscall-100/>

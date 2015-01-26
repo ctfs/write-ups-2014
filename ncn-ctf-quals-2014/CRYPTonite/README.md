@@ -12,4 +12,8 @@ A shorter writeup: <http://ctfcrew.org/writeup/66>
 
 A more detailed writeup: <http://givemesecurity.info/2014/09/15/no-con-name-ctf-quals-2014-cryptonite-writeup/>
 
-Flag: ncn_deadbeafcafebadbabefeeddefacedbedfadedec
+Flag: `ncn\_deadbeafcafebadbabefeeddefacedbedfadedec`
+
+## Other write-ups and resources
+
+* <http://www.incertia.net/blog/noc0nname-quals-2014-cryptonite-100/>

@@ -46,7 +46,7 @@ This prints the contents of the `key` file:
 flag{definitely_not_intro_python}
 ```
 
-The flag is `definitely_not_intro_python`.
+The flag is `definitely\_not\_intro\_python`.
 
 ## Other write-ups and resources
 
@@ -55,3 +55,4 @@ The flag is `definitely_not_intro_python`.
 * <https://hexplo.it/escaping-the-csawctf-python-sandbox/>
 * <http://sugarstack.io/csaw2014-pybabbies/>
 * [_Escaping Python sandboxes_](https://isisblogs.poly.edu/2012/10/26/escaping-python-sandboxes/)
+* <http://www.incertia.net/blog/csaw-ctf-quals-2014-pybabies/>
