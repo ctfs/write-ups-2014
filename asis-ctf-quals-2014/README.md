@@ -14,6 +14,7 @@
 * [prying ears](prying-ears)
 * [Random Image](random-image)
 * [Sound Zoo](sound-zoo)
+* [Strange](strange)
 * [Toq-Toq](toq-toq)
 * [Trivia 1](trivia-1)
 * [Trivia 2](trivia-2)
@@ -27,7 +28,6 @@
 * [Plough](plough)
 * [Serial number](serial-number)
 * [Spy Paper](spy-paper)
-* [Strange](strange)
 * [Tortureous sound](tortureous-sound)
 
 ## Missing write-ups

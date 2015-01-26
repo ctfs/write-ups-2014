@@ -90,8 +90,8 @@ $ cat strange.bin.b64
 /hi+all/+this+is+a+strange+message+that+you+have+not+seen+before/+the+flag+is+ASIS+underscore+4b84151f17+0d07224+957ea8ea+ea4af0
 ```
 
-We had luck. As the original writeup states, the last character of the flag `AIS\_4b84151f170d07224+957ea8eaea4af0` is missing and had to be reconstructed. Read more [here](http://blogs.univ-poitiers.fr/e-laize/2014/05/11/asis-2014-strange/).
+We had luck. As the original writeup states, the last character of the flag `ASIS\_4b84151f170d07224957ea8eaea4af0` is missing and had to be reconstructed. Read more [here](http://blogs.univ-poitiers.fr/e-laize/2014/05/11/asis-2014-strange/).
 
 ## Other write-ups and resources
 
-* http://blogs.univ-poitiers.fr/e-laize/2014/05/11/asis-2014-strange/
+* <http://blogs.univ-poitiers.fr/e-laize/2014/05/11/asis-2014-strange/>
