@@ -6,3 +6,4 @@
 ## Other write-ups and resources
 
 * <http://lights-out-ctf.ghost.io/ructf-2014-quals-stegano-300-nyan-task/>
+* <http://quangntenemy.blogspot.de/2014/03/ructf-quals-2014.html>

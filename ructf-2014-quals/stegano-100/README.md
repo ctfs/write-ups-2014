@@ -9,3 +9,4 @@
 * <http://nullify-ctf.blogspot.in/2014/03/ructf-quals-2014-stegano-100-cats-eye.html>
 * <https://ctfcrew.org/writeup/51>
 * <http://www.tsg.ne.jp/nolze/blog/RuCTF_Quals_2014.html#stegano-100-cats-eye>
+* <http://quangntenemy.blogspot.de/2014/03/ructf-quals-2014.html>
