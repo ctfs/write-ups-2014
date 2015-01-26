@@ -18,8 +18,8 @@ stego_75_5ecb5b98aa04033a9855416daed603c8: xz compressed data
 
 So, we extract the file using the built-in `xz` or `unxz` commands:
 
-* `xz -dc < stego_75_5ecb5b98aa04033a9855416daed603c8 > stego_75`
-* `unxz < stego_75_5ecb5b98aa04033a9855416daed603c8 > stego_75`
+* `xz -dc < stego\_75\_5ecb5b98aa04033a9855416daed603c8 > stego\_75`
+* `unxz < stego\_75\_5ecb5b98aa04033a9855416daed603c8 > stego\_75`
 
 Alternatively, extract the provided file using [p7zip](http://p7zip.sourceforge.net/):
 
@@ -54,5 +54,6 @@ Opening the file in Audacity reveals that it is indeed an audio file with 6 chan
 
 ## Other write-ups and resources
 
-* http://blog.squareroots.de/en/2014/05/asis-ctf-2014-tortureous-sound/
-* http://www.incertia.net/blog/asis-2014-quals-tortureous-sound/
+* <http://blog.squareroots.de/en/2014/05/asis-ctf-2014-tortureous-sound/>
+* <http://www.incertia.net/blog/asis-2014-quals-tortureous-sound/>
+* [Persian](http://xploit.ir/asis-quals-2014-%D8%B5%D8%AF%D8%A7%DB%8C-%DA%AF%D9%88%D8%B4-%D8%AE%D8%B1%D8%A7%D8%B4/)

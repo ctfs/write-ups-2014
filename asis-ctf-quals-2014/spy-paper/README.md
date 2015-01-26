@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* http://tasteless.se/2014/05/asis2014-stego-100-spy-paper/
+* <http://tasteless.se/2014/05/asis2014-stego-100-spy-paper/>
+* <http://quangntenemy.blogspot.de/2014/05/asis-ctf-quals-2014.html>
