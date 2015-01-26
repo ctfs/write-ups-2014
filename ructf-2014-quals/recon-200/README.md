@@ -11,3 +11,4 @@
 * [Japanese](http://xrekkusu.hatenablog.jp/entry/2014/03/11/143840)
 * <http://singularityctf.blogspot.jp/2014/03/ructf-quals-2014-writeup-recon-200_19.html>
 * <http://logic.stypr.com/ctf/2014/RuCTF_solutions.zip>
+* [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-200.html)

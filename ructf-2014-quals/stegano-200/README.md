@@ -5,3 +5,4 @@
 ## Other write-ups and resources
 
 * <https://stratum0.org/blog/posts/2014/03/10/ructf-quals-2014-HP/>
+* [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-stegano-200-hp.html)

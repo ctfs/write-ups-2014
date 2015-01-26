@@ -8,3 +8,4 @@
 
 * <https://ctfcrew.org/writeup/44>
 * <http://singularityctf.blogspot.jp/2014/03/ructf-quals-2014-writeup-recon-500-card_19.html>
+* [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-500-card.html)

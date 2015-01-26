@@ -8,3 +8,4 @@
 * <http://h34dump.com/2014/03/ructf-quals-2014-ppc-300/>
 * <https://ctfcrew.org/writeup/50>
 * <http://lights-out-ctf.ghost.io/ructf-2014-quals-ppc-300-secret-string/>
+* [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-ppc-300-secret.html)

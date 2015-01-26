@@ -9,3 +9,5 @@
 * <http://h34dump.com/2014/03/940/>
 * <http://onthesystemsoftheworld.blogspot.in/2014/03/ructf-2014-qualifiers-recon-100300400.html>
 * <https://ctfcrew.org/writeup/41>
+* <http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-400_19.html>
+* [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-400.html)

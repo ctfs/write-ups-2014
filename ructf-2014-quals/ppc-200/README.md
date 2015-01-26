@@ -7,3 +7,4 @@
 * <http://h34dump.com/2014/03/ructf-quals-2014-ppc-200/>
 * <http://nullify-ctf.blogspot.in/2014/03/ructf-quals-2014-ppc-200-maze.html>
 * <https://ctfcrew.org/writeup/39>
+* [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-ppc-200-maze.html)

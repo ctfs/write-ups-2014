@@ -5,3 +5,4 @@
 ## Other write-ups and resources
 
 * [Japanese](http://d.hatena.ne.jp/waidotto/20140310/1394477767)
+* [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-hardware-100.html)

@@ -10,3 +10,5 @@
 * <http://onthesystemsoftheworld.blogspot.in/2014/03/ructf-2014-qualifiers-recon-100300400.html>
 * <https://ctfcrew.org/writeup/42>
 * [Japanese](http://xrekkusu.hatenablog.jp/entry/2014/03/11/143840)
+* <http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-100_19.html>
+* [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-100.html)
