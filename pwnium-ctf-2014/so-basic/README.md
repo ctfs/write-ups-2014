@@ -10,6 +10,7 @@
 
 ## Other write-ups and resources
 
-* https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-so-basic/
-* http://scrubsec.com/2014/07/06/pwnium-ctf-so-basic-75-pts/
-* https://ctftime.org/writeup/1159
+* <https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-so-basic/>
+* <http://scrubsec.com/2014/07/06/pwnium-ctf-so-basic-75-pts/>
+* <https://ctftime.org/writeup/1159>
+* <http://blog.dul.ac/2014/07/PWNIUM14/>

@@ -20,4 +20,5 @@ Source: https://ctftime.org/writeup/1177
 
 ## Other write-ups and resources
 
-* http://pastebin.com/kr6uDrN3
+* <http://blog.dul.ac/2014/07/PWNIUM14/>
+* <http://pastebin.com/kr6uDrN3>

@@ -7,8 +7,9 @@
 
 ## Write-up
 
+(TODO)
 
 ## Other write-ups and resources
 
-Written by P3t3rp4rk3r : 
-https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-find-the-owner/
+* <http://blog.dul.ac/2014/07/PWNIUM14/>
+* <https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-find-the-owner/>
