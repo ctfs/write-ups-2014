@@ -74,3 +74,4 @@ Alternatively, [the `knock` command-line utility](http://www.zeroflux.org/projec
 ## Other write-ups and resources
 
 * <http://blog.dul.ac/2014/05/ASISCTF14/>
+* [Indonesian](http://blog.rentjong.net/2014/05/toq-toq-forensic100.html)

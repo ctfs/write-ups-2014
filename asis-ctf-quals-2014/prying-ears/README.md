@@ -61,3 +61,4 @@ The PNG file contained the flag.
 ## Other write-ups and resources
 
 * <http://tasteless.se/2014/05/asis2014-forensics-175-prying-ears/>
+* <http://blog.dul.ac/2014/05/ASISCTF14/>

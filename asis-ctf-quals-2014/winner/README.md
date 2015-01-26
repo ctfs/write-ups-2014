@@ -17,4 +17,4 @@ Cheetah, Lane and Tangle were all entrants to the competition though they did no
 
 ## Other write-ups and resources
 
-* none yet
+* <http://singularityctf.blogspot.de/2014/05/asis-ctf-quals-2014-writeup-winner.html>

@@ -69,4 +69,6 @@ We give each of these 2 cases a different color. Pixels matching their `get\_pix
 
 * <http://blog.squareroots.de/en/2014/05/asis-ctf-2014-color-crypto/>
 * <http://www.incertia.net/blog/asis-2014-quals-random-image/>
-* <http://blogs.univ-poitiers.fr/e-laize/2014/05/10/asis-2014-randomimage/>
+* <http://blogs.univ-poitiers.fr/e-laize/2014/05/10/asis-2014-randomimage/>A
+* <http://quangntenemy.blogspot.de/2014/05/asis-ctf-quals-2014.html>
+* [Persian](http://xploit.ir/asis-2014-qulas-random-image/)
