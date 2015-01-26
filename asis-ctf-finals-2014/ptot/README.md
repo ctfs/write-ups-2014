@@ -70,7 +70,7 @@ numbers from our challenge image (only the ones on an incorrect position):
 94  15                              51  62
 ```
 
-Note that 43 elements are in the wrong place BUT if you include the two elements that had an `*` next to their number, that totals up to 45 elements. Even more curious is they are on the positions coresponding to the first 45 elements. So the elements going from `1` to `45` of the original image are replaced by a different element (with a different number) in our given image.
+Note that 43 elements are in the wrong place BUT if you include the two elements that had an `\*` next to their number, that totals up to 45 elements. Even more curious is they are on the positions coresponding to the first 45 elements. So the elements going from `1` to `45` of the original image are replaced by a different element (with a different number) in our given image.
 
 Then we got the idea of making a large string. At position `1` is number `3`, at position `2` we would have `24`, number `87` is at position `3` and so on. This gives us the following string:
 
@@ -92,8 +92,8 @@ $ xxd -r -p <<< '415349535f63396131636432316462356433383932333536326663636162626
 ASIS_c9a1cd21db5d38923562fccabbca808c
 ```
 
-The flag is `ASIS_c9a1cd21db5d38923562fccabbca808c`.
+The flag is `ASIS\_c9a1cd21db5d38923562fccabbca808c`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blogs.univ-poitiers.fr/e-laize/2014/10/13/asis-2014-ptot/>

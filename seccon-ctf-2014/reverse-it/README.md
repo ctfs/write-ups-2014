@@ -21,7 +21,7 @@ The result is a JPEG image that displays a horizontally flipped (“reversed”)
 
 ![](reversed.jpg)
 
-The flag is `SECCON{6in_tex7}`.
+The flag is `SECCON{6in\_tex7}`.
 
 ## Other write-ups and resources
 
