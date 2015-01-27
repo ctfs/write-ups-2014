@@ -23,4 +23,6 @@ which is the flag.
 
 ## Other write-ups and resources
 
-
+* <https://ctftime.org/writeup/1154>
+* <http://krebsco.de/writeups/crack-me.html>
+* <https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-break-me/>

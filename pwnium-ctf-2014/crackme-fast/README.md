@@ -7,7 +7,9 @@
 
 ## Write-up
 
+(TODO)
 
 ## Other write-ups and resources
 
-
+* <https://s0beit.me/reverse-engineering/pwnium-write-up-1-crackme-fast/>
+* <http://krebsco.de/writeups/crackme-fast.html>

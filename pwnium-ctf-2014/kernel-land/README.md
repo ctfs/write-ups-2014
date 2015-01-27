@@ -29,3 +29,4 @@ print "".join(map(chr, flag_data))
 ## Other write-ups and resources
 
 * <http://blog.randomguys.fr/pwnium2014-kernel-land.html>
+* <https://in3o.wordpress.com/2014/07/06/pwnium-ctf-2014-reverse-150-kernel-land/>

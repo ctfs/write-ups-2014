@@ -7,7 +7,10 @@
 
 ## Write-up
 
+(TODO)
 
 ## Other write-ups and resources
 
-* https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-usb-so-fun/
+* <https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-usb-so-fun/>
+* <https://ctftime.org/writeup/1155>
+* <http://krebsco.de/writeups/for1-usb-dump.html>

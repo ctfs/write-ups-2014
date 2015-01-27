@@ -33,4 +33,5 @@ Pwnium{361a8212dda49824b8fdb70ce48f2f60}
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctftime.org/writeup/1157>
+* <https://crazybulletctfwriteups.wordpress.com/2014/07/07/pwnium-ctf-2014-look-closer/>
