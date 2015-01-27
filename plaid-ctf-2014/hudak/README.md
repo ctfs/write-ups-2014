@@ -13,3 +13,4 @@
 ## Other write-ups and resources
 
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/reversing/hudak)
+* [Russian](https://forum.reverse4you.org/showthread.php?t=1682)

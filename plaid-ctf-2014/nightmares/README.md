@@ -17,3 +17,4 @@
 * [Write-up by fail0verflow](https://fail0verflow.com/blog/2014/plaidctf2014-pwn375-__nightmares__.html)
 * [Solution by the Pwnies team](https://gist.github.com/IdolfHatler/8ba6f93472b3834d00c7)
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/pwnables/__nightmares__)
+* <http://rootfoo.org/ctf/2014-plaid-nightmares-375>

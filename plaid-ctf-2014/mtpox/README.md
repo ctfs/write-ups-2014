@@ -283,3 +283,5 @@ Query failed: Duplicate entry ':gcy:flag{phpPhPphpPPPphpcoin}:vup:1' for key 'gr
 * <http://achatz.me/plaid-ctf-mt-pox/>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/mtpox)
 * <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/mtpox/WRITEUP-arthurdent.md>
+* [Indonese](http://blog.rentjong.net/2014/04/plaidctf2014-write-up-mtpox-web150.html)
+* [Russian](http://blog.nostr.ru/2014/04/mtpox-web-150-pts-plague-has-traveled.html)

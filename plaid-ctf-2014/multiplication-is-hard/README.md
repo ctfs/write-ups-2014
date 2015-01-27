@@ -17,3 +17,4 @@ The flag is `100000`.
 ## Other write-ups and resources
 
 * <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/multiplication-is-hard/WRITEUP-pipecork.md>
+* <http://csrc.tamuc.edu/css/?p=152>

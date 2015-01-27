@@ -33,3 +33,5 @@ The flag is `sincenewcryptomighthavensabackdoorsiuseoldcrypto`.
 * <http://csrc.tamuc.edu/css/?p=169>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/crypto/twenty)
 * <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/twenty/WRITEUP-arthurdent.md>
+* <https://ucs.fbi.h-da.de/writeup-plaidctf-2014-twenty/>
+* [Indonese](http://blog.rentjong.net/2014/04/plaidctf2014-write-up-twenty-crypto20.html)

@@ -78,3 +78,5 @@ The flag is `3veryb0dy_poops~`.
 
 * <https://fail0verflow.com/blog/2014/plaidctf2014-crypto200-graphs.html>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/crypto/graphs)
+* [Russian](https://forum.reverse4you.org/showthread.php?t=1684)
+* <http://piggybird.net/2014/04/plaidctf-2014-reversing-300-paris/>

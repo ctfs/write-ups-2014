@@ -19,3 +19,5 @@
 * <https://fail0verflow.com/blog/2014/plaidctf2014-pwn200-ezhp.html>
 * [Solution in Python](https://github.com/t00sh/ctf/blob/master/plaidctf_2014/ezhp.pl)
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/pwnables/ezhp)
+* <http://tasteless.eu/2014/04/plaidctf-2014-ezhp-writeup/>
+* <https://docs.google.com/document/d/19Tpc7skiAJCof-rQgwQQN1uZ6baq0KW4Ag910RybCC4/edit?pli=1>
