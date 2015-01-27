@@ -5,7 +5,7 @@
 **Author:** vos
 **Description:**
 
-> Hack the Planet_
+> Hack the Planet\_
 
 ## Write-up
 
@@ -16,3 +16,4 @@ This is the same thing. In this case, the missing character is the `!` at the en
 ## Other write-ups and resources
 
 * <https://www.youtube.com/watch?v=drJWxMLrpE0>
+* <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>

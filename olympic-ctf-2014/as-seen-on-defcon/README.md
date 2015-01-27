@@ -41,4 +41,4 @@ The answer is `00000014`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>

@@ -21,4 +21,4 @@ The flag is ‘sochi’.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
