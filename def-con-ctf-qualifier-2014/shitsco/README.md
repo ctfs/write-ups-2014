@@ -196,3 +196,4 @@ disconnect(s)
 * <https://blog.skullsecurity.org/2014/defcon-quals-writeup-for-shitsco-use-after-free-vuln>
 * <http://www.endgame.com/blog/defcon-capture-the-flag-qualification-challenge-1.html>
 * <http://v0ids3curity.blogspot.in/2014/05/defcon-quals-2014-gynophage-shitsco-use.html>
+* <http://tasteless.eu/2014/05/def-con-ctf-qualifier-2014-shitsco/>

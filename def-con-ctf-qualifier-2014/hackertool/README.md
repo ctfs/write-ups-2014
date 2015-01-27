@@ -36,3 +36,4 @@ root@kali:~# python ip.py | md5sum
 
 * [Matir’s writeup](https://systemoverlord.com/blog/2014/05/19/def-con-22-ctf-quals-hackertool/)
 * <https://hackucf.org/blog/hackertool/>
+* <http://delogrand.blogspot.de/2014/05/defcon-2014-quals-hackertool.html>
