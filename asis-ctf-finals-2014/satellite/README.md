@@ -36,3 +36,4 @@ Using [the `solve.py` script](solve.py), we solve all the SAT formulas and get t
 ## Other write-ups and resources
 
 * <http://tasteless.se/2014/10/asis-ctf-finals-2014-sattelite-ppc-200/>
+* <https://ctfcrew.org/writeup/81>

@@ -146,3 +146,4 @@ Hence the flag is `ASIS_e4e6417b4baebb748da67e33f6e091d5`.
 ## Other write-ups and resources
 
 * Write-up by [tasteless](http://tasteless.se/2014/10/asis-ctf-finals-2014-a-familiar-system/)
+* <https://beagleharrier.wordpress.com/2014/10/13/asis-ctf-finals-2014a-familiar-system-writeup/>

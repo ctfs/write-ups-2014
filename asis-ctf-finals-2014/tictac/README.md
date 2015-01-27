@@ -89,3 +89,4 @@ ASIS_6d54a67659e45edbe63bbf909e6b183a
 
 * <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---tictac-200pts-writeup>
 * <http://shankaraman.wordpress.com/2014/10/14/asis-ctf-2014-finals-tictac-writeup/>
+* <http://tasteless.eu/2014/10/asis-ctf-finals-2014-tictac-forensics-200/>

@@ -35,3 +35,4 @@ Running the script gave us the flag: `ASIS_28ca740e382225131fc0501d38cf5d30`.
 
 * <http://blog.squareroots.de/en/2014/10/asis-finals-2014-match-the-pair-webppc-200/>
 * <https://github.com/psmitty7373/ctf-writeups/tree/master/ASIS-2014/match_the_pair#readme>
+* <http://tasteless.eu/2014/10/asis-ctf-finals-2014-match-the-pairs/>

@@ -197,4 +197,4 @@ decoded: PNG image data, 111 x 111, 1-bit colormap, non-interlaced
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/10/asis-ctf-finals-2014-lion-club/>
