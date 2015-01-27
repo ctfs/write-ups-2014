@@ -11,3 +11,4 @@
 * <https://ctfcrew.org/writeup/41>
 * <http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-400_19.html>
 * [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-400.html)
+* <https://hackucf.org/blog/recon-400/>
