@@ -14,3 +14,4 @@
 
 * <http://tasteless.se/2014/04/plaidctf-2014-reeekeeeeee-writeup/>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/reekee)
+* <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/reeekeeeeee/WRITEUP-pipecork.md>

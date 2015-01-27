@@ -39,3 +39,4 @@ The flag is `91e02cd2b8621d0c05197f645668c5c4` (which, by the way, happens to be
 * <http://bt3gl.github.io/csaw-ctf-2014-forensics-200-why-not-sftp.html>
 * <https://ucs.fbi.h-da.de/writeup-csaw-why-not-sftp/>
 * <http://www.incertia.net/blog/csaw-ctf-quals-2014-why-not-sftp/>
+* <https://github.com/hackerclub/writeups/blob/master/csaw-2014/why-not-sftp/WRITEUP-clampz.md>

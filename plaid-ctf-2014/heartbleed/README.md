@@ -49,3 +49,4 @@ The flag is `flag{hey_guise_we_made_a_heartbleed}`.
 ## Other write-ups and resources
 
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/heartbleed)
+* <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/Heartbleed/WRITEUP-pipecork.md>

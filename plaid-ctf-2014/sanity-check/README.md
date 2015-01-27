@@ -12,4 +12,4 @@ They aren’t kidding. The flag is literally `poop`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/hackerclub/writeups/tree/master/plaidctf-2014/Sanity-check>

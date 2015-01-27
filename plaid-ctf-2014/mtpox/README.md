@@ -282,3 +282,4 @@ Query failed: Duplicate entry ':gcy:flag{phpPhPphpPPPphpcoin}:vup:1' for key 'gr
 * <https://blog.skullsecurity.org/2014/plaidctf-web-150-mtpox-hash-extension-attack>
 * <http://achatz.me/plaid-ctf-mt-pox/>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/mtpox)
+* <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/mtpox/WRITEUP-arthurdent.md>

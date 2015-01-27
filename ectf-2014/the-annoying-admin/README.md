@@ -18,4 +18,4 @@
 
 * <http://captnemo.in/blog/2014/10/20/ectf-web400-writeup/>
 * <http://s0beit.me/ctf/ectf-2014-writeup-annoying-admin/>
-
+* <https://github.com/hackerclub/writeups/blob/master/ectf-2014/Annoying-Admin-400/WRITEUP-mike_pizza.md>
