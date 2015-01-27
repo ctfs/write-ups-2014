@@ -15,13 +15,16 @@
 ## External write-ups only
 
 * [2048](2048)
+* [Baybe Crackme](baybe-crackme)
 * [Be a robot](be-a-robot)
 * [Breakpoints](breakpoints)
+* [Crackme Fast](crackme-fast)
 * [Find the owner](find-the-owner)
 * [Guest Book](guest-book)
 * [Matter of combination](matter-of-combination)
 * [NoDebug](nodebug)
 * [Old World](old-world)
+* [pwn100](pwn100)
 * [ROT](rot)
 * [So basic](so-basic)
 * [USB is fun](usb-is-fun)
@@ -29,9 +32,6 @@
 
 ## Missing write-ups
 
-* [Baybe Crackme](baybe-crackme)
-* [Crackme Fast](crackme-fast)
 * [is\_empty ?](is_empty)
 * [Numbers and sh\*t](numbers-and-sh*t)
-* [pwn100](pwn100)
 * [Remote KG](remote-kg)
