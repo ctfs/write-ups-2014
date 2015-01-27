@@ -7,7 +7,8 @@
 
 ## Write-up
 
+(TODO)
 
 ## Other write-ups and resources
 
-Written by *OpenToAll* : https://ctftime.org/writeup/1160
+* [*OpenToAll*](https://ctftime.org/writeup/1160)

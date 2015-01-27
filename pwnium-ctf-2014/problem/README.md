@@ -14,4 +14,4 @@ As reported by Tasteless on <https://ctftime.org/writeup/1178>:
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctftime.org/writeup/1178>

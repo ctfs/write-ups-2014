@@ -7,8 +7,9 @@
 
 ## Write-up
 
+(TODO)
 
 ## Other write-ups and resources
 
-
-Spanish write-up by Amn3s1a team : https://infotomb.com/z0xp5
+* [Spanish](https://infotomb.com/z0xp5)
+* [Chinese](http://loccs.sjtu.edu.cn/typecho/index.php/archives/239/)

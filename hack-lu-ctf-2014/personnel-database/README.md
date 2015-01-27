@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * [Exploit in Python by @TheJH](thejh_exploit.py)
+* <https://ctfcrew.org/writeup/84>

@@ -19,3 +19,4 @@
 
 * [Write up by Rogdham](http://r.rogdham.net/24)
 * [Exploit in Python by @TheJH](thejh_exploit.py)
+* <https://ctfcrew.org/writeup/85>
