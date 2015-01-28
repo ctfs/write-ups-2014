@@ -7,7 +7,9 @@
 
 ## Write-up
 
-(TODO)
+> Lock at the color and fill in the color code ... but don't be to slow
+>
+> http://IP/
 
 ## Other write-ups and resources
 

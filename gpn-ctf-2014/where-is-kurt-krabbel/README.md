@@ -7,7 +7,7 @@
 
 ## Write-up
 
-(TODO)
+> Where is Waldo? … Um … Sorry we are looking for Kurt… 
 
 ## Other write-ups and resources
 
