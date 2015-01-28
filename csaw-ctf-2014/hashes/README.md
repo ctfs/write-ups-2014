@@ -48,3 +48,4 @@ The flag is `these_browser_bots_are_annoying`.
 
 * <http://zoczus.blogspot.com/2014/09/csaw-ctf-web300-writeup.html>
 * <http://tasteless.se/2014/09/csaw-2014-quals-hashes-web300/>
+* <http://blog.squareroots.de/en/2014/09/csaw14-hashes/>

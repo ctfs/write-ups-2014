@@ -23,3 +23,4 @@
 
 * <http://ctfwriteups.wordpress.com/2014/10/24/hack-lu-ctf-2014-web-200-killy-the-bit/>
 * <https://securimag.org/wp/challenges/hack-lu-killy-the-bit/> blind SQLi way
+* <http://blog.squareroots.de/en/2014/10/hack-lu-ctf-2014-killy-the-bit-web200/>

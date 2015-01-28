@@ -43,4 +43,4 @@ After puzzling the real image together we can see a piece of the flag. Now it is
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.squareroots.de/en/2014/08/hitcon-ctf-2014-puzzle/>

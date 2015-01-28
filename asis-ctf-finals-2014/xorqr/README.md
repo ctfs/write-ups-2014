@@ -60,3 +60,4 @@ received and restored from the server are in ```example-qrs```.
 ## Other write-ups and resources
 
 * <https://github.com/arkty/asis-ctf-finals-2014-xorqr>
+* <http://blog.squareroots.de/en/2014/10/asis-finals-2014-xoror-ppc-150/>
