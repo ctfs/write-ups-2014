@@ -44,3 +44,4 @@ The flag is `SECCON{Basic\_NW\_Challenge\_Done!}`.`
 ## Other write-ups and resources
 
 * <https://shankaraman.wordpress.com/2014/12/07/seccon-2014-writeups-networking-100-and-programming-100/>
+* <http://icheernoom.blogspot.de/2014/12/seccon-ctf-2014-get-key-network-write-up.html>

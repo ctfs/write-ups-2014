@@ -82,4 +82,4 @@ The flag is `SECCON{@]NL7n+-s75FrET]vU=7Z}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://icheernoom.blogspot.de/2014/12/seccon-ctf-2014-get-keytxt-forensics.html>
