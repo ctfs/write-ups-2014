@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * <http://thejh.net/written-stuff/defcon-quals-2014-sftp-writeup>
+* http://idabook.com/ctf/sftp_walkthrough.txt
