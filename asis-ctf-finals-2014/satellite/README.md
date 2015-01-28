@@ -31,9 +31,10 @@ After transforming the input format into a format that `picosat` can read, we go
 
 The only problem left is that sometimes, not all variables are used in the clauses (such as in our case the variable `x2`). We need to do a manual adjustment for that… First of all, if a missing variable has a lower number then the largest variable, this is not a problem, as `picosat` can solve that for itself. If a missing variable is larger then the largest variable, we need to append the result with some more ones or zeroes.
 
-Using [the `solve.py` script](solve.py), we solve all the SAT formulas and get the flag `ASIS_5b5e15ec25479ac8b743c6e818d75464`.
+Using [the `solve.py` script](solve.py), we solve all the SAT formulas and get the flag `ASIS\_5b5e15ec25479ac8b743c6e818d75464`.
 
 ## Other write-ups and resources
 
 * <http://tasteless.se/2014/10/asis-ctf-finals-2014-sattelite-ppc-200/>
 * <https://ctfcrew.org/writeup/81>
+* <http://bruce30262.logdown.com/posts/237394-asis-ctf-finals-2014-satellite>

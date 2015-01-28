@@ -26,3 +26,5 @@
 * <http://www.spectrix.tn/csaw-ctf-2014-pwn400-saturn-writeup/>
 * <http://buffered.io/posts/csaw-2014-saturn/>
 * [Exploit written in Python by @ebeip90](https://gist.github.com/ebeip90/7594329043e911e3b2f9)
+* <http://bruce30262.logdown.com/posts/234986-csaw-ctf-2014-exploitation-400-saturn>
+* <http://rce4fun.blogspot.de/2014/09/csaw-ctf-2014-saturn-exploitation-400.html>

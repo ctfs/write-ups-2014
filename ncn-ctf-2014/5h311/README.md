@@ -10,4 +10,8 @@ Connect to the service listening at 10.210.8.1:6969 and get the flag.
 
 <http://ctfcrew.org/writeup/89>
 
-Flag: Yahoooo_its_my_flag
+Flag: `Yahoooo\_its\_my\_flag`
+
+## Other write-ups and resources
+
+* [Spanish](http://testpurposes.net/2014/11/01/write-up-5h311-final-ctf-ncn-2014/)

@@ -51,10 +51,11 @@ Refreshing the page now reveals the following message:
 > Anyone who has visited our site is the 1234567890th Special prizes are awarded.
 > the flag is: ASIS_9f1af649f25108144fc38a01f8767c0c
 
-And indeed, `ASIS_9f1af649f25108144fc38a01f8767c0c` is the flag.
+And indeed, `ASIS\_9f1af649f25108144fc38a01f8767c0c` is the flag.
 
 ## Other write-ups and resources
 * <http://dhanvi1.wordpress.com/2014/10/24/lottery-asis-ctf-2014-web-100-writeup/>
 * <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---lottery-100pts-writeup>
 * <https://hackucf.org/blog/asis-2014-web-100-lottery/>
 * <https://beagleharrier.wordpress.com/2014/10/13/asis-ctf-finals-2014lottery-writeup/>
+* <http://bruce30262.logdown.com/posts/237386-asis-ctf-finals-2014-how-much-exactly-lottery>

@@ -19,10 +19,11 @@ $ md5 -s '274'
 MD5 ("274") = d947bf06a885db0d477d707121934ff8
 ```
 
-The flag is `ASIS_d947bf06a885db0d477d707121934ff8`.
+The flag is `ASIS\_d947bf06a885db0d477d707121934ff8`.
 
 ## Other write-ups and resources
 
 * <http://dhanvi1.wordpress.com/2014/10/23/how-much-exactly-asis-2014-trivia-25-writeup/>
 * <https://hackucf.org/blog/asis-2014-trivia-25-how-much-exactly/>
 * <http://www.mrt-prodz.com/blog/view/2014/10/asis-ctf-finals-2014---how-much-exactly-25pts-writeup>
+* <http://bruce30262.logdown.com/posts/237386-asis-ctf-finals-2014-how-much-exactly-lottery>

@@ -19,3 +19,4 @@ Flag: NCNdeadb6adec4c77a40c23e04770924d3c5b18face
 ## Other write-ups and resources
 
 * <https://ctfcrew.org/writeup/90>
+* [Spanish](http://testpurposes.net/2014/11/07/write-up-vodka-final-ctf-ncn-2014/)
