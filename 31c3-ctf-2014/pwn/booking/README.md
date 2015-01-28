@@ -15,7 +15,7 @@
 
 ## Write-up
 
-(TODO)
+* https://rzhou.org/~ricky/31c3/booking/
 
 ## Other write-ups and resources
 
