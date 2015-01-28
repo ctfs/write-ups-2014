@@ -254,7 +254,7 @@ Among the things my messy script produced was:
 ('_', ('A', ('w', ('3', ('s', ('0', ('m', ('3', None))))))))))))))))))))))))))))
 ```
 
-Well, it was missing the last `!` character, but meh. The flag was `V1rTu4L_M4ch1n3s_4r3_Aw3s0m3!`.
+Well, it was missing the last `!` character, but meh. The flag was `V1rTu4L\_M4ch1n3s\_4r3\_Aw3s0m3!`.
 
 ## Other write-ups and resources
 

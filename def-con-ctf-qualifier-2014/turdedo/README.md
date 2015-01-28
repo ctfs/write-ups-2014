@@ -15,4 +15,4 @@
 ## Other write-ups and resources
 
 * <http://acez.re/ctf-writeup-defcon-quals-2014-turdedo/>
-* http://idabook.com/ctf/turdedo_writeup.txt
+* <http://idabook.com/ctf/turdedo_writeup.txt>

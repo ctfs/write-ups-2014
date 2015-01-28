@@ -16,4 +16,4 @@
 * <http://pastie.org/9482170>
 * <http://pastie.org/private/wqfyttp1msepodg4ovx9g>
 * <http://pastie.org/private/mpabofsscu6m2dpablxcag>
-* http://www.idabook.com/ctf/hop_writeup.txt
+* <http://www.idabook.com/ctf/hop_writeup.txt>
