@@ -147,7 +147,7 @@ One_of_our_favorite_songs_is_bubble_pop
 …
 ```
 
-The flag is `One_of_our_favorite_songs_is_bubble_pop`.
+The flag is `One\_of\_our\_favorite\_songs\_is\_bubble\_pop`.
 
 ## Other write-ups and resources
 
@@ -155,3 +155,4 @@ The flag is `One_of_our_favorite_songs_is_bubble_pop`.
 * <http://akaminsky.net/plaidctf-quals-2014-web-200-kpop/>
 * [Solution in PHP by @manhluat93](https://gist.github.com/anonymous/31bfc4eea34fb213e4bc)
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/kPOP)
+* <http://blog.dragonsector.pl/2014/04/plaidctf-2014-kpop-and-reeekeee.html>

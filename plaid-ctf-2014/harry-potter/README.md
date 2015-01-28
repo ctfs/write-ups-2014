@@ -15,3 +15,4 @@
 * <http://eindbazen.net/2014/04/plaidctf-2014-harry_potter-300/>
 * <http://blog.accuvant.com/jdrakeaccuvant/plaid-ctf-2014-harry_potter-challenge/>
 * <http://blog.yancomm.net/2014/04/plaidctf-2014-harry-potter-pwn300.html>
+* <http://j00ru.vexillium.org/dump/ctf/harry_potter.zip>
