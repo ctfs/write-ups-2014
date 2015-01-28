@@ -42,3 +42,4 @@ The answer is `00000014`.
 ## Other write-ups and resources
 
 * <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
+* <https://ctftime.org/writeup/927>
