@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * <http://blog.dragonsector.pl/2014/12/31c3-ctf-nokia-1337-pwn-30.html>
+* https://rzhou.org/~ricky/31c3/nokia1337/
