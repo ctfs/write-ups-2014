@@ -240,4 +240,4 @@ It’s indeed a null-terminated string that contains the flag `SECCON{Welcome to
 
 ## Other write-ups and resources
 
-* none yet
+* [Portuguese](https://ctf-br.org/wiki/seccon/seccon2014/r100-shuffle/)

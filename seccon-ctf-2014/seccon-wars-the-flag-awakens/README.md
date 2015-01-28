@@ -56,3 +56,4 @@ The flag is `SECCON{M4Y 7H3 F0RC3 83 W17H U}`.
 ## Other write-ups and resources
 
 * <http://blog.pnuts.tk/2014/12/seccon-qr300.html>
+* [Portuguese](https://ctf-br.org/wiki/seccon/seccon2014/f300-seccon-wars-the-flag-awakens/)

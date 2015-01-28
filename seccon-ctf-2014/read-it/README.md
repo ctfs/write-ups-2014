@@ -18,3 +18,4 @@ Readit: (Corel/WP)
 ## Other write-ups and resources
 
 * <http://hackitta.net/seccon-ctf-2014-quals-readit/>
+* [Portoguese](https://ctf-br.org/wiki/seccon/seccon2014/f300-readit/)

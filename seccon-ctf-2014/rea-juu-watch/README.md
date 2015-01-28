@@ -27,3 +27,4 @@ After logging in on <http://reajuu.pwn.seccon.jp/> with username `rea-juu` and p
 ## Other write-ups and resources
 
 * <https://github.com/S42X/CTF/blob/master/SECCON/ReaJuuWatch.md>
+* [Portuguese](https://ctf-br.org/wiki/seccon/seccon2014/w200-rea-juu-watch/)
