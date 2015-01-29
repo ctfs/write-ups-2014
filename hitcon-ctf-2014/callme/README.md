@@ -21,3 +21,4 @@
 * <https://gist.github.com/g05u/f7d8b6cb045cbb65ab80> -- related [notes]<http://cuby.hu/hitcon-lol-notes-then-not-writeups.txt>
 * <http://www.idabook.com/ctf/callme_writeup.txt>
 * <https://rzhou.org/~ricky/hitcon2014/callme/>
+* <http://tasteless.eu/2014/08/hitcon-ctf-2014-callme-exploiting-350/>

@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <http://blog.tyage.net/?p=829>
+* <http://tasteless.eu/2014/12/31c3-ctf-page-builder-writeup/>

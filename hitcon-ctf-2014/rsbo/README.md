@@ -21,3 +21,4 @@
 * <http://v0ids3curity.blogspot.in/2014/08/hitcon-ctf-2014-rsbo-pwnable-150-team.html>
 * <http://www.idabook.com/ctf/rsbo_writeup.txt>
 * <https://rzhou.org/~ricky/hitcon2014/rsbo/>
+* <http://tasteless.eu/2014/08/hitcon2014-rsbo-pwn150/>

@@ -182,3 +182,4 @@ The flag is `31c3_Th3r3_4R3_D3v1li5h_Th0ght5_ev3N_1N_th3_M0sT_4ng3l1c_M1nd5`.
 * <http://0xboogy.blogspot.com/2014/12/31c3ctf-devilish-writeup.html>
 * <http://l4w.io/2014/12/31c3-ctf-writeups/>
 * <http://kitctf.de/writeups/31c3-ctf/devilish/>
+* <http://tasteless.eu/2014/12/31c3-ctf-devilish-writeup/>

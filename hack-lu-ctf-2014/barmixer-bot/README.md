@@ -51,3 +51,4 @@ The flag is `GfeBNmN5XjwDvQB64qoqaEEeYogk4rGH3ikZ0qtc3B3HKLDoAH`.
 
 * <http://akaminsky.net/hack-lu-ctf-2014-misc-200-barmixing-bot/>
 * <https://ctfcrew.org/writeup/88>
+* <http://tasteless.eu/2014/10/hack-lu-ctf-2014-barmixing-bot/>
