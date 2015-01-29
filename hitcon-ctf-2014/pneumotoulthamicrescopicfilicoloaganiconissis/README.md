@@ -46,4 +46,4 @@ HITCON{This flag is longestestestestestestestestestestestestestestestestestestes
 ## Other write-ups and resources
 
 * <https://ucs.fbi.h-da.de/writeup-hitcon-pneumo/>
-* https://rzhou.org/~ricky/hitcon2014/pneumotoulthamicrescopicfilicoloaganiconissis/
+* <https://rzhou.org/~ricky/hitcon2014/pneumotoulthamicrescopicfilicoloaganiconissis/>

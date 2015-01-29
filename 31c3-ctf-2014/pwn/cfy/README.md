@@ -14,4 +14,4 @@
 ## Other write-ups and resources
 
 * <http://l4w.io/2014/12/31c3-ctf-writeups/>
-* https://rzhou.org/~ricky/31c3/cfy/exp.py
+* <https://rzhou.org/~ricky/31c3/cfy/exp.py>

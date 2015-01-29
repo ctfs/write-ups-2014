@@ -17,4 +17,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/superbacker/09e38d114cf8fbe32543>, related [notes]()
-* https://rzhou.org/~ricky/hitcon2014/ducky/
+* <https://rzhou.org/~ricky/hitcon2014/ducky/>

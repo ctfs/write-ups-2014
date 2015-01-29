@@ -24,5 +24,5 @@
 
 ## Other write-ups and resources
 
-* http://acez.re/ctf-writeup-hitcon-ctf-2014-stkof-or-modern-heap-overflow/
-* https://rzhou.org/~ricky/hitcon2014/stkof/
+* <http://acez.re/ctf-writeup-hitcon-ctf-2014-stkof-or-modern-heap-overflow/>
+* <https://rzhou.org/~ricky/hitcon2014/stkof/>

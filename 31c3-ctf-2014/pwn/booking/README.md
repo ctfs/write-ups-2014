@@ -15,9 +15,10 @@
 
 ## Write-up
 
-* https://rzhou.org/~ricky/31c3/booking/
+(TODO)
 
 ## Other write-ups and resources
 
 * Challenge source: [source.tar.gz](source.tar.gz)
 * Challenge exploit: [exploit.py](exploit.py)
+* <https://rzhou.org/~ricky/31c3/booking/>

@@ -69,4 +69,4 @@ The flag is `HITCON{RSA is a really secure algorithm, right?}`.
 
 ## Other write-ups and resources
 
-* https://rzhou.org/~ricky/hitcon2014/rsaha/
+* <https://rzhou.org/~ricky/hitcon2014/rsaha/>

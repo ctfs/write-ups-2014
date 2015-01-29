@@ -147,11 +147,12 @@ Did you forget to catch the flag?
 Bye!
 ```
 
-The flag is `HITCON{0ld_7rick5_alw4y5_workS!!}`.
+The flag is
+> `HITCON{0ld\_7rick5\_alw4y5\_workS!!}`.
 
 ## Other write-ups and resources
 
 * <http://givemesecurity.info/2014/08/18/overthere-writeup-hitcon-2014/>
 * [Unix Wildcards Gone Wild](http://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt)
 * <https://gist.github.com/anthraxx/fe4984780a9f284dee08>
-* https://rzhou.org/~ricky/hitcon2014/overthere/
+* <https://rzhou.org/~ricky/hitcon2014/overthere/>

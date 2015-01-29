@@ -29,4 +29,4 @@
 
 * [Write-up and exploit by @jhector](https://github.com/jhector/breakout)
 * [Exploit in Perl by @_cutz](exploit-by-cutz.pl)
-* https://rzhou.org/~ricky/hacklu2014/breakout/
+* <https://rzhou.org/~ricky/hacklu2014/breakout/>

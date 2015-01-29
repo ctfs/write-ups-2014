@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* https://rzhou.org/~ricky/31c3/cfy2/
+* <https://rzhou.org/~ricky/31c3/cfy2/>
