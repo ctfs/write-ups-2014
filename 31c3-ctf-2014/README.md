@@ -22,6 +22,7 @@
 * [mynx](pwn/mynx)
 * [Nokia 1337](pwn/nokia-1337)
 * [pin](pwn/pin)
+* [Rick](malware/rick)
 * [saas](pwn/saas)
 * [casino](reversing/casino)
 * [code\_mess](reversing/code_mess)
@@ -35,7 +36,6 @@
 
 * [cipherflag](crypto/cipherflag)
 * [bindshell](malware/bindshell)
-* [Rick](malware/rick)
 * [Roll](malware/roll)
 * [Fyltr](pwn/fyltr)
 * [Nokia 31337](pwn/nokia-31337)
