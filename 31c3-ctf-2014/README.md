@@ -31,6 +31,7 @@
 * [http](web/http)
 * [Page Builder](web/page-builder)
 * [pCRAPp](web/pcrapp)
+* [whatson](reversing/whatson)
 
 ## Missing write-ups
 
@@ -44,6 +45,5 @@
 * [bor ey](reversing/bor-ey)
 * [crackme](reversing/crackme)
 * [Merkelfon](reversing/merkelfon)
-* [bor ey](reversing/whatson)
 * [radio heat](signals/radio-heat)
 * [safelock](signals/safelock)

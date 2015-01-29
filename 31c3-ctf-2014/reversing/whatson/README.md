@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/12/31c3-ctf-whatson-writeup/>
