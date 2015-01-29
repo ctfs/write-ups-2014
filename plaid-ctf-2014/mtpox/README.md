@@ -285,3 +285,4 @@ Query failed: Duplicate entry ':gcy:flag{phpPhPphpPPPphpcoin}:vup:1' for key 'gr
 * <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/mtpox/WRITEUP-arthurdent.md>
 * [Indonese](http://blog.rentjong.net/2014/04/plaidctf2014-write-up-mtpox-web150.html)
 * [Russian](http://blog.nostr.ru/2014/04/mtpox-web-150-pts-plague-has-traveled.html)
+* <https://systemoverlord.com/blog/2014/04/14/plaidctf-mtpox/>

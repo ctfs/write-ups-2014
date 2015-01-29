@@ -18,3 +18,4 @@
 * <http://security.cs.pub.ro/hexcellents/wiki/writeups/pctf2014_reekee>
 * <https://fail0verflow.com/blog/2014/plaidctf2014-web200-reeekeeeeee.html>
 * <http://blog.dragonsector.pl/2014/04/plaidctf-2014-kpop-and-reeekeee.html>
+* <https://systemoverlord.com/blog/2014/04/14/plaidctf-2014-reekeeeee/>
