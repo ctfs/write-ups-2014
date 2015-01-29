@@ -7,7 +7,7 @@
 
 > Download: [`aski`](aski)
 >
-> HINT1: Check 10 + 25*i
+> HINT1: Check 10 + 25\*i
 >
 > HINT2: pzbitskiy@aski:~$ cat /etc/issue
 >

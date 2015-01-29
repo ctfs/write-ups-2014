@@ -11,7 +11,7 @@
 > nc 109.233.61.11 3120
 > ```
 >
-> Service source code: [`mic_server.py`](mic_server.py)
+> Service source code: [mic_server.py](mic_server.py)
 >
 > _Flag format: `CTF{..32 hexes..}`_
 
