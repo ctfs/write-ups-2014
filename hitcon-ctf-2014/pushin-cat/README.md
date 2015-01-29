@@ -46,4 +46,4 @@ In conclusion, a lot of the difficulity of this challenge came from the multiple
 
 ## Other write-ups and resources
 
-* none yet
+* https://rzhou.org/~ricky/hitcon2014/pushin_cat/
