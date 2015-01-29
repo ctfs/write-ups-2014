@@ -88,8 +88,9 @@ As you can see, we didn’t need to inverse the key schedule core. Now we need t
 
 Combining the code we created in the previous step with some code to interact with the service results in [this included Python file](solve.py). Running that script gives us the flag we wanted!
 
-The flag is `31C3_0748a7b8be603056aa9c391e`.
+The flag is `31C3\_0748a7b8be603056aa9c391e`.
 
 ## Other write-ups and resources
 
 * <https://github.com/VMXh/write-ups/blob/master/31C3%20CTF/hwaes/README.md>
+* <http://vnsecurity.net/ctf%20-%20clgt%20crew/2014/12/30/31C3CTF-crypto-hwaes-writeup.html>

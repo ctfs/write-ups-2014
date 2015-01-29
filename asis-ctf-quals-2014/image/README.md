@@ -61,3 +61,4 @@ We do not need to play the game to get to second (or in that matter to any) leve
 * [Indonesian](http://blog.rentjong.net/2014/05/asis-quals-2014-image-trivia-50.html)
 * <http://quangntenemy.blogspot.de/2014/05/asis-ctf-quals-2014.html>
 * [Persian](http://xploit.ir/asis-2014-quals-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87/)
+* <http://apelord.net/posts/asis-ctf-quals-2014-trivia-50>

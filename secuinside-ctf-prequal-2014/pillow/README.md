@@ -32,3 +32,4 @@
 * <http://atdog.logdown.com/posts/2014/06/02/secuinside-2014-ctf-crypto-200>
 * <http://hxp.io/blog/6/SECUINSIDE+CTF+Quals+2014:+crypto200+%22pillow%22/>
 * <https://www.dropbox.com/sh/ytfak01xhkjkiwp/AADhpnghprgulAAneBLdAZbSa/writeup-pillow.pdf>
+* <https://blog.inexplicity.de/secuinside-2014-pillow-writeup.html>

