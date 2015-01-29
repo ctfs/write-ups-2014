@@ -3,6 +3,10 @@
 > [Find the key](task.gif).
 > Format is "RUCTF\_.\*"
 
+## Writeup
+
+(TODO)
+
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/ructf-quals-2014-stegano-100/>

@@ -3,6 +3,10 @@
 > [Crack me](arcfour.zip) please.
 > Flag format is "RUCTF\_.\*"
 
+## Writeup
+
+(TODO)
+
 ## Other write-ups and resources
 
 * <http://piggybird.net/2014/03/ructf-2014-quals-reverse-500-arcfour/>

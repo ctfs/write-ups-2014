@@ -115,3 +115,4 @@ NCN4dd992213ae6b76f27d7340f0dde1222888df4d3
 ## Other write-ups and resources
 
 * <http://www.incertia.net/blog/noc0nname-quals-2014-miscall-100/>
+* <https://ctfcrew.org/writeup/67>

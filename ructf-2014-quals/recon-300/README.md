@@ -5,6 +5,10 @@
 > Somebody is telegraphing her strange messages with secret password. Could you find that?
 > Flag format is "RUCTF\_.\*"
 
+## Writeup
+
+(TODO)
+
 ## Other write-ups and resources
 
 * <http://tasteless.se/2014/03/ructf-quals-2014-vuln100-and-recon300-writeup/>

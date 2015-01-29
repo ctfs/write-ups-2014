@@ -98,3 +98,4 @@ Remark: the problem we encountered when directly calling `system(cmd)` was that 
 * [Write-up by ekse](http://solution-36.blogspot.com/2014/09/csaw-2014-exploit-500-writeup-xorcise.html)
 * [Write-up by tasteless](http://tasteless.se/2014/09/xorcise-csaw-2014-exploiting-500/)
 * [Excellent PoC by Henry Sanchez](https://gist.github.com/g05u/9e1ae04ad1252f709bb7)
+* <https://ctfcrew.org/writeup/69>

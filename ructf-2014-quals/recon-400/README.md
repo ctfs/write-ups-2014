@@ -4,6 +4,10 @@
 > She is a young girl who likes to chat and dreams to meet Pavel Durov.
 > Could name her landlord's name.
 
+## Writeup
+
+(TODO)
+
 ## Other write-ups and resources
 
 * <http://h34dump.com/2014/03/940/>

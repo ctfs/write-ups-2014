@@ -8,8 +8,6 @@ No hints :( just go and get the flag.
 
 ## Write-up
 
-(Here's a shorter writeup by the Balalaika crew: <http://ctfcrew.org/writeup/65>)
-
 The file has no extension, but using the "file" command we find out it's a gzip archive and the original name is "ctf.py.gz".
 
 ```
@@ -302,4 +300,5 @@ So it's not hard to guess we need to calculate the flag, since we know other fla
 
 ## Other write-ups and resources
 
+* <http://ctfcrew.org/writeup/65>)
 * <http://v0ids3curity.blogspot.in/2014/09/no-con-name-ctf-quals-2014-immiscible.html>

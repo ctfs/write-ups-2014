@@ -4,6 +4,10 @@
 > She is a young girl who likes to chat and dreams to meet Pavel Durov.
 > And what about her bad ass friend? Could you get his credit card number?
 
+## Writeup
+
+(TODO)
+
 ## Other write-ups and resources
 
 * <https://ctfcrew.org/writeup/44>

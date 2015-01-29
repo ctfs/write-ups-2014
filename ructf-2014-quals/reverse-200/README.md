@@ -2,6 +2,10 @@
 
 > ... but it may be a little bit harder to find an md5 digest of the biggest file from harm.dat of harm0597 discmag.
 
+## Writeup
+
+(TODO)
+
 ## Other write-ups and resources
 
 * <https://ctfcrew.org/writeup/52>
