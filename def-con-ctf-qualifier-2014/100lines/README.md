@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/05/def-con-quals-2014-100lines-writeup.html>
+* [Japanese](http://epsilondelta.hatenablog.jp/entry/2014/05/20/014011)

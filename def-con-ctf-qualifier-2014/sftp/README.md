@@ -18,3 +18,4 @@
 
 * <http://thejh.net/written-stuff/defcon-quals-2014-sftp-writeup>
 * <http://idabook.com/ctf/sftp_walkthrough.txt>
+* [Japanese](http://epsilondelta.hatenablog.jp/entry/2014/05/20/014011)
