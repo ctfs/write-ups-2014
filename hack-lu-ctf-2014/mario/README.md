@@ -20,3 +20,4 @@
 
 * <http://lovelydream.gitcafe.com/2014/11/26/mario/>
 * [Exploit in Python by @TheJH](thejh_exploit.py)
+* https://rzhou.org/~ricky/hacklu2014/mario/
