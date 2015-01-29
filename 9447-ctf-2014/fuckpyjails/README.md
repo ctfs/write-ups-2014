@@ -26,7 +26,7 @@ Traceback (most recent call last):
 NameError: name 'x' is not defined
 ```
 
-It seems our input is evaluated. Its result is then compared to the return value of the `get_key()` function. Any exceptions are displayed along with a stack trace; the line on which the error occurs is printed as well. Let’s try to view the source code for this challenge located at `/home/ctf/fuckpyjails.py`:
+It seems our input is evaluated. Its result is then compared to the return value of the `get\_key()` function. Any exceptions are displayed along with a stack trace; the line on which the error occurs is printed as well. Let’s try to view the source code for this challenge located at `/home/ctf/fuckpyjails.py`:
 
 ```bash
 $ nc fuckpyjails.9447.plumbing 9447

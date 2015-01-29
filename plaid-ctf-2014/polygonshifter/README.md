@@ -60,7 +60,7 @@ We wrote a [PhantomJS](http://phantomjs.org/) script for this named [`client.js`
 $ phantomjs client.js "(password like 'a%')"
 ```
 
-After some testing, we find that the flag is `n0b0t5_C4n_bYpa5s_p0lYm0rph1Sm`.
+After some testing, we find that the flag is `n0b0t5\_C4n\_bYpa5s\_p0lYm0rph1Sm`.
 
 ## Other write-ups and resources
 

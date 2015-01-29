@@ -13,3 +13,4 @@
 ## Other write-ups and resources
 
 * <http://atdog.logdown.com/posts/2014/06/02/secuinside-2014-ctf-misc-7>
+* <https://ucs.fbi.h-da.de/writeup-secuinside-ctf-quals-2014-speed-games/>

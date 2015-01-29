@@ -29,3 +29,4 @@ on the Array:
 * [Matir's write-up](https://systemoverlord.com/blog/2014/06/02/secuinside-quals-2014-javascript-jail/)
 * [Cugu's write-up](http://blog.cugu.eu/write-up-secuinside-ctf-2014-javascript-jail/)
 * <http://blog.dul.ac/2014/06/SECUINSIDE_14/>
+* <https://ucs.fbi.h-da.de/writeup-secuinside-ctf-quals-2014-jsjail/>
