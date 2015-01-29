@@ -12,4 +12,4 @@ The final solution that resulted in the flag `flag{itoldunaathisisnotSQLinjectio
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/03/defkthon-ctf-2014-web200-web300-and-web400-writeup/>

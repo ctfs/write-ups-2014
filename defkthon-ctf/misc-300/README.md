@@ -70,4 +70,4 @@ done;
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/03/defkthon-ctf-2014-rev200-misc200-recon200-misc300/>

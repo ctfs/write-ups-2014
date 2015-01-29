@@ -78,8 +78,8 @@ stdClass Object
 )
 ```
 
-The flag is `here_you_go_nice_solving_webChalLenges`.
+The flag is `here\_you\_go\_nice\_solving\_webChalLenges`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/03/defkthon-ctf-2014-web200-web300-and-web400-writeup/>

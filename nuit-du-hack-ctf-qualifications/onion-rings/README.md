@@ -187,3 +187,4 @@ The IP address is clearly `212.83.153.197`. Visiting `http://212.83.153.197/` sh
 
 * <http://csrc.tamuc.edu/css/?p=116>
 * <http://sigint.ru/nuitduhack2014/>
+* <http://tasteless.eu/2014/04/nuit-du-hack-ctf-quals-2014-misc150-and-misc200-writeup/>
