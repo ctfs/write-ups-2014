@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * Challenge exploit: [exploit.py](exploit.py)
+* https://rzhou.org/~ricky/31c3/pin/
