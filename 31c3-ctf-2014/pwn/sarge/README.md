@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* http://gnoobz.com/31c3-ctf-sarge-writeup.html
+* <http://gnoobz.com/31c3-ctf-sarge-writeup.html>
