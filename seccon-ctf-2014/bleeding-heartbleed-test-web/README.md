@@ -99,3 +99,4 @@ The flag is `SECCON{IknewIt!SQLiteAgain!!!}`.
 * <http://lovelydream.gitcafe.com/2014/12/08/seccon/#Web_300_Heartbleed>
 * <https://github.com/S42X/CTF/blob/master/SECCON/Bleeding_Heartbleed.md>
 * [Portuguese](https://ctf-br.org/wiki/seccon/seccon2014/w300-bleeding-heartbleed-test-web/)
+* [Thai Video](https://www.youtube.com/watch?v=AmcWJSr-4C8)
