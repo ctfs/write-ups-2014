@@ -18,4 +18,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://singularityctf.blogspot.ru/2014/04/volgactf-quals-2014-writeup-crypto-300.html>
+* <http://lights-out-ctf.ghost.io/volgactf-2014-quals-crypto-300/>

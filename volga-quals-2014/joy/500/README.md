@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://juicy-media.ru/dv_team/writeups/index.php?cnt=VolgaCTF&cat=Joy&prc=500>
+* <http://singularityctf.blogspot.ru/2014/04/volgactf-quals-2014-writeup-joy-500-eng.html>

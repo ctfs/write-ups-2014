@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctfwriteups.wordpress.com/2014/03/31/volga-ctf-2014-stegano-200-writeup/>

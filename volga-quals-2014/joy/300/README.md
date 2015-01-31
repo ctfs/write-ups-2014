@@ -16,4 +16,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://singularityctf.blogspot.ru/2014/04/volgactf-quals-2014-writeup-joy-300-eng.html>
+* <http://ctfwriteups.blogspot.de/2014/03/volga-ctf-2014-quals-joy-300.html>

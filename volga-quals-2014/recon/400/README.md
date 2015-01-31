@@ -12,4 +12,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://singularityctf.blogspot.ru/2014/04/volgactf-quals-2014-writeup-recon-400.html>

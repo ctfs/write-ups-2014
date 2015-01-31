@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://singularityctf.blogspot.ru/2014/05/volgactf-quals-2014-writeup-recon-300.html>
+* <http://juicy-media.ru/dv_team/writeups/index.php?cnt=VolgaCTF&cat=Recon&prc=300>

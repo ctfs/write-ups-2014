@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://singularityctf.blogspot.ru/2014/03/volgactf-quals-2014-writeup-joy-200-eng.html>

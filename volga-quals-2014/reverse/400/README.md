@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://zku.github.io/CTF/ctf/reversing/2014/03/31/volgactf-quals-2014-reversing-400.html>

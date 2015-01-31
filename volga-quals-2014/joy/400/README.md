@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://lights-out-ctf.ghost.io/volgactf-2014-quals-joy-400/>
