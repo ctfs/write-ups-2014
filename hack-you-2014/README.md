@@ -2,6 +2,7 @@
 
 * <http://hackyou.ctf.su/>
 * [Scoreboard](http://hackyou.ctf.su/scoreboard)
+* [Statistics](http://hackyou.ctf.su/stats)
 
 ## Completed write-ups
 
