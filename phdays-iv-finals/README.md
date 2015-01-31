@@ -14,4 +14,17 @@
 
 ## Missing write-ups
 
-* none yet
+* [breadcrumbs](breadcrumbs)
+* [crackme](crackme)
+* [doubleshizo](doubleshizo)
+* [holygrail](holygrail)
+* [homepage](homepage)
+* [mars2](mars2)
+* [mooditter](mooditter)
+* [musicforsoul](musicforsoul)
+* [myfavoritesequel](myfavoritesequel)
+* [packit9000](packit9000)
+* [pythonisback](pythonisback)
+* [schoolmath](schoolmath)
+* [tera](tera)
+* [wolfram\_epta](wolfram\_epta)

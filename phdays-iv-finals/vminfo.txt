@@ -1,0 +1,19 @@
+most of tasks are launched automatically on VM start
+
+holygrail:
+    hacker/phd4finals
+homepage:
+    user/phd4finals
+    to launch execute /home/task/phd_bot/start.sh
+mars2:
+    hacker/phd4finals
+mooditter:
+    phd/phd4finals
+myfavoritesequel:
+    hacker/phd4finals
+pyhtonisback:
+    user/??? (you can always reset it ;)
+tera:
+    the production version was running under Windows because it uses Windows Nod32 antivirus. Sources are attached, this should be enough for you.
+wolfram_epta:
+    phd/phd4finals
