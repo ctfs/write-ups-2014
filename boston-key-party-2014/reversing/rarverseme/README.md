@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/zachriggle/9302481#file-rarverseme-readme-txt>

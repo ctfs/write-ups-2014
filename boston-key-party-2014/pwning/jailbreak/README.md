@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://rzhou.org/~ricky/bkpctf2014/jailbreak/>
