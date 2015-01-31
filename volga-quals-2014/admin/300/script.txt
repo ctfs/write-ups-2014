@@ -1,0 +1,8 @@
+set serveroutput on
+DECLARE 
+x number := &in;
+res number
+BEGINselect sum(FLOOR(POWER(cos(3.14*MOD(foo+1, nn+1)),2)))into resfrom (select tab2.n nn, round(exp(sum(ln(tab1.n)))) foofrom( select level nfrom dualconnect by level <= x-1) tab1,(select level nfrom dualconnect by level <= x-1) tab2where tab1.n <= tab2.ngroup by tab2.n);
+dbms_output.put_line(res);
+END;
+/
