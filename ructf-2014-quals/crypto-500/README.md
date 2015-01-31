@@ -19,3 +19,4 @@
 * <https://rdot.org/forum/showthread.php?t=3053&langid=1>
 * <http://ahack.ru/write-ups/ructf-quals-14.htm>
 * <http://hxp.io/blog/1/RuCTF%20Quals%202014:%20crypto500%20%22decrypt%20message%22/>
+* <http://www.suslopas.pw/2014/03/ructf-crypto-500-decrypt-message.html>

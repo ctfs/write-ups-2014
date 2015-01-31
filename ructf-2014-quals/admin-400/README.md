@@ -6,3 +6,4 @@
 ## Other write-ups and resources
 
 * <http://sibears.ru/labs/ructf_2014_quals_admin_400_write_up/>
+* <http://www.suslopas.pw/2014/03/ructf-admin-400-compile.html>

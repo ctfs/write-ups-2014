@@ -22,3 +22,4 @@
 * <https://ctfcrew.org/writeup/54>
 * [Japanese](http://d.hatena.ne.jp/kusano_k/20140310/1394471922)
 * <http://lights-out-ctf.ghost.io/ructf-2014-quals-crypto-100-md5/>
+* <http://www.suslopas.pw/2014/03/ructf-crypto-100-md5.html>

@@ -5,3 +5,4 @@
 ## Other write-ups and resources
 
 * [Japanese](http://d.hatena.ne.jp/waidotto/20140310/1394481816)
+* [Russian](http://www.suslopas.pw/2014/03/ructf-hwreverse.html)

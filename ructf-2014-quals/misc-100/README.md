@@ -18,3 +18,4 @@ The flag is `RUCTF_TO_SHRED_IS_NOT_ENOUGH`.
 * <https://ctfcrew.org/writeup/40>
 * [Japanese](http://d.hatena.ne.jp/kusano_k/20140310/1394471922)
 * <http://lights-out-ctf.ghost.io/ructf-2014-quals-misc-100-shredder-misc-200-ructf-radio/>
+* <http://www.suslopas.pw/2014/03/ructf-misc-100.html>
