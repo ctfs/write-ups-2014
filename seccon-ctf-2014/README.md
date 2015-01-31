@@ -26,6 +26,8 @@
 
 * [Advanced RISC Machine](advanced-risc-machine)
 * [Decrypt it (Easy)](decrypt-it-easy)
+* [Holy shellcode](holy-shellcode)
+* [Impossible](rop-impossible)
 * [Japanese super micro-controller](japanese-super-micro-controller)
 * [Let’s disassemble](lets-disassemble)
 * [QR (Easy)](qr-easy)
@@ -37,8 +39,6 @@
 * [BBQR](bbqr)
 * [Confused analyte](confused-analyte)
 * [Decrypt it (Hard)](decrypt-it-hard)
-* [Holy shellcode](holy-shellcode)
-* [Impossible](rop-impossible)
 * [Ms. Fortune? Misfortune. 4096-bit RSA](ms-fortune-misfortune-4096-bit-rsa)
 * [UnknownFS](unknownfs)
 * [version2](version2)
