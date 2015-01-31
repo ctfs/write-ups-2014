@@ -14,4 +14,4 @@ The flag is `VFN5g96J49oZz4DcXgkI68SvK6JWC4JYu778ca`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://h0n3yp0t.ru/?p=286>

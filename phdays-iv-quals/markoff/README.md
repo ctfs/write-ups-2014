@@ -16,4 +16,4 @@ The flag is `quas_wex_exort`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctfcrew.org/writeup/13>

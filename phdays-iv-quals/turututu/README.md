@@ -14,4 +14,4 @@ The flag is `HenryDorsettCase`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.ztrix.me/blog/2014/01/29/phdays-quals-2014-turututu/>

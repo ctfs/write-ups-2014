@@ -14,4 +14,4 @@ The flag is `Nic3_Bl1nd_h4ck_x5s_n1Nj4`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://paul-axe.blogspot.ru/2014/01/phdays-2014-quals-dtvcs-writeup.html>

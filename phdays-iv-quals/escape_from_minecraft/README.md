@@ -16,4 +16,4 @@ The flag is `3549`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.dragonsector.pl/2014/02/ph4quals-escape-from-minecraft.html>

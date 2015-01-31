@@ -17,4 +17,4 @@ The flag is `b8641ac83fc85e4e44bc`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctfcrew.org/writeup/6>

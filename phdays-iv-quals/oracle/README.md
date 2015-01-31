@@ -15,4 +15,5 @@ The flag is `9l5_q24y_2g7_r18_6g4`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://balidani.blogspot.hu/2014/01/phdays-ctf-quals-oracle-writeup.html>
+* <http://tasteless.eu/2014/01/phd-ctf-quals-2014-oracle-writeup/>

@@ -16,4 +16,6 @@ The flag is `50M37IM35_Y0U_D0_N07_N33D_A_K3Y_70_D3CRYP7_AES`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://docs.google.com/document/d/1j2lQg-yNdyBOXMKpahB7AM8m-Scx0cf2bH8kIgQqXSA/edit?pli=1>
+* <http://www.nops.re/2014-01-28-phddays-2014-stand-back.html>
+* <http://www.sorokin-pf.blogspot.ru/2014/01/phdays-ctf-quals.html>

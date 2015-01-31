@@ -14,4 +14,4 @@ The flag is `i_hate_ucucuga`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://quangntenemy.blogspot.de/2014/01/phdays-ctf-quals-2014.html>
