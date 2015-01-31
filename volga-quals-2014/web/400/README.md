@@ -13,4 +13,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://blog.orange.tw/2014/03/volgactf-2014-web-400-write-up.html)
