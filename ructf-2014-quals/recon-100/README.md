@@ -17,3 +17,4 @@
 * <http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-100_19.html>
 * [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-100.html)
 * <https://hackucf.org/blog/recon-100/>
+* <http://lights-out-ctf.ghost.io/ructf-quals-2014-recon-100-favourite-book/>

@@ -16,3 +16,4 @@
 * <http://singularityctf.blogspot.jp/2014/03/ructf-quals-2014-writeup-recon-200_19.html>
 * <http://logic.stypr.com/ctf/2014/RuCTF_solutions.zip>
 * [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-200.html)
+* <http://lights-out-ctf.ghost.io/ructf-2014-quals-recon-200-stolen-camera/>

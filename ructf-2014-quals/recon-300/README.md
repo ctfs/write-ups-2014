@@ -17,3 +17,4 @@
 * <https://ctfcrew.org/writeup/46>
 * <http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-300-get_19.html>
 * [Russian](http://singularityctf.blogspot.de/2014/03/ructf-quals-2014-writeup-recon-300-get.html)
+* <http://lights-out-ctf.ghost.io/ructf-2014-quals-recon-300-get-the-message/>

@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://ctftime.org/writeup/997>
+* <http://forum4hackers.blogspot.de/2014/07/volga-ctf-quals-2014.html>

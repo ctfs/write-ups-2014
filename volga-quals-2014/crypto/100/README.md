@@ -20,3 +20,4 @@
 ## Other write-ups and resources
 
 * <http://lights-out-ctf.ghost.io/volgactf-2014-quals-crypto-100/>
+* <http://sigint.ru/writeups/2014/04/07/volga-ctf-2014-writeups/#crypto-100>

@@ -12,3 +12,4 @@
 * <https://hackucf.org/blog/wp-content/uploads/RuCTF-2014_Web200_Knightsec.pdf>, PDF
 * <https://ctfcrew.org/writeup/48>
 * [Japanese](http://d.hatena.ne.jp/kusano_k/20140310)
+* <http://lights-out-ctf.ghost.io/ructf-2014-quals-web-200-es-2/>
