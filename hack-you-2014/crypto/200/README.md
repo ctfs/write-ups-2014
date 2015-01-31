@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://hackyou.ctf.su/files/irc_writeups.html>
