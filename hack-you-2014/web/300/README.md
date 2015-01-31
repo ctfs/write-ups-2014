@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/01/hack-you-2014-web300-writeup/>
