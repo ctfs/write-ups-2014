@@ -1,0 +1,19 @@
+# PHDays Quals CTF 2014: FreeBDSM
+
+**Category:** ?
+**Points:** 4000
+**Description:**
+
+> [Someone](http://ctfarchive.phdays.com/phd4quals/FreeBDSM%20%284000%29/FreeBDSM.ova.da08db9fdb5bf0f945bac8eb5bebcc2e) is hiding at 12345 port, try to understand who and pass it's auth.
+>
+> Note: this is a task from PHDays CTF III Finals which was not opened by any team.
+> [alternative link](http://ctfarchive.phdays.com/phd4quals/FreeBDSM%20%284000%29/FreeBDSM.ova.da08db9fdb5bf0f945bac8eb5bebcc2e.torrent)
+
+## Write-up
+
+(TODO)
+The flag is `Lady_3Jane`.
+
+## Other write-ups and resources
+
+* none yet
