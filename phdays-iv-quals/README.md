@@ -11,6 +11,7 @@
 
 * [dt\_vcs](dt_vcs)
 * [escape\_from\_minecraft](escape_from_minecraft)
+* [freeBDSM](freeBDSM)
 * [lostandfound](lostandfound)
 * [markoff](markoff)
 * [mp3\_me](mp3_me)
@@ -25,7 +26,6 @@
 ## Missing write-ups
 
 * [botnet](botnet)
-* [freeBDSM](freeBDSM)
 * [mars](mars)
 * [metal\_gear\_felix](metal_gear_felix)
 * [miXer](miXer)

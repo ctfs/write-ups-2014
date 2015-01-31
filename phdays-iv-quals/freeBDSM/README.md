@@ -16,4 +16,4 @@ The flag is `Lady_3Jane`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.nops.re/2014-01-27-phddays-2014-freebdsm.html>
