@@ -43,3 +43,4 @@ The flag is `SECCON{Programming is so fun!}`.
 * [Portuguese](https://ctf-br.org/wiki/seccon/seccon2014/p100-choose-the-number/)
 * <https://shankaraman.wordpress.com/2014/12/07/seccon-2014-writeups-networking-100-and-programming-100/>
 * <http://icheernoom.blogspot.de/2014/12/seccon-ctf-2014-choose-number.html>
+* <https://rzhou.org/~ricky/seccon2014/number/test.py>

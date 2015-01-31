@@ -33,4 +33,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://rzhou.org/~ricky/seccon2014/holy_shellcode/>

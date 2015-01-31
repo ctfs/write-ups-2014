@@ -32,3 +32,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/tyage/e813031d14b39bfe3133>
+* <https://rzhou.org/~ricky/seccon2014/xss_bonsai/>

@@ -21,3 +21,4 @@ The website displays:
 ## Other write-ups and resources
 
 * <http://lovelydream.gitcafe.com/2014/12/08/seccon/#Exploitation_300_arm>
+* <https://rzhou.org/~ricky/seccon2014/arm/test.py>
