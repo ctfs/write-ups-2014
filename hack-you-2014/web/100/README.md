@@ -1,4 +1,4 @@
-# Hack You CTF 2014: 
+# Hack You CTF 2014: Voting
 
 **Category:** Web
 **Points:** 100
