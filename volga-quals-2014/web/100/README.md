@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://forum4hackers.blogspot.in/2014/07/volga-ctf-quals-2014.html>
+* <http://ctfwriteups.blogspot.de/2014/03/volga-ctf-2014-quals-web-100.html>

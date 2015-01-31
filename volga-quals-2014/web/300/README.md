@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://juicy-media.ru/dv_team/writeups/index.php?cnt=VolgaCTF&cat=Web&prc=300>

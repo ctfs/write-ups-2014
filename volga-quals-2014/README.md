@@ -47,3 +47,8 @@
 * [stegasic300](stegasic/300)
 * [stegasic400](stegasic/400)
 * [stegasic500](stegasic/500)
+* [web100](web/100)
+* [web200](web/200)
+* [web300](web/300)
+* [web400](web/400)
+* [web500](web/500)
