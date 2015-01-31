@@ -198,3 +198,4 @@ disconnect(s)
 * <http://v0ids3curity.blogspot.in/2014/05/defcon-quals-2014-gynophage-shitsco-use.html>
 * <http://tasteless.eu/2014/05/def-con-ctf-qualifier-2014-shitsco/>
 * [Japanese](http://epsilondelta.hatenablog.jp/entry/2014/05/20/014011)
+* <http://sigint.ru/writeups/2014/05/19/defcon-2014-quals--shitsco/>

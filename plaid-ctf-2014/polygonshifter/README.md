@@ -68,3 +68,4 @@ After some testing, we find that the flag is `n0b0t5\_C4n\_bYpa5s\_p0lYm0rph1Sm`
 * <https://ucs.fbi.h-da.de/writeup-plaidctf-2014-polygonshifter/>
 * <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-web-100-blind-sql-injection>
 * <http://eindbazen.net/2014/04/plaidctf-2014-polygonshifter-100/>
+* <http://sigint.ru/writeups/2014/04/13/plaidctf-2014-writeups/#web-100---polygonshifter>
