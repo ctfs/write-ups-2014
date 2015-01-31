@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://tasteless.eu/2014/01/hack-you-2014-web300-writeup/>
+* <http://www.pwntester.com/blog/2014/01/15/hackyou2014-web300-write-up/>

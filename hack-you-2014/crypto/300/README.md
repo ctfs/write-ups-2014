@@ -16,3 +16,5 @@
 ## Other write-ups and resources
 
 * <http://hackyou.ctf.su/files/irc_writeups.html>
+* <http://rikaard.blogspot.de/2014/01/hackyou-2014-crypto300-matrix.html>
+* <http://www.pwntester.com/blog/2014/01/16/hackyou2014-crypto300-write-up/>

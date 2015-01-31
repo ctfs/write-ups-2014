@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <http://hackyou.ctf.su/files/irc_writeups.html>
+* <http://www.pwntester.com/blog/2014/01/16/hackyou2014-crypto200-write-up/>

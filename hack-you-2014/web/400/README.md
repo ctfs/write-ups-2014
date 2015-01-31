@@ -17,3 +17,4 @@
 
 * <http://hackyou.ctf.su/files/irc_writeups.html>
 * <http://tasteless.eu/2014/01/hack-you-2014-web400-writeup/>
+* <http://www.pwntester.com/blog/2014/01/17/hackyou2014-web400-write-up/>
