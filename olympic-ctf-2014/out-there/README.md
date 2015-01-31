@@ -20,3 +20,4 @@ The flag is `CTF{7a0dd6d4556a7ed60e6f7686eae0590d}`.
 * <http://maroueneboubakri.blogspot.com/2014/02/olympic-ctf-sochi-2014-curling100.html>
 * <https://ctftime.org/writeup/928>
 * <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
+* <http://delimitry.blogspot.ru/2014/02/olympic-ctf-2014-writeups.html>

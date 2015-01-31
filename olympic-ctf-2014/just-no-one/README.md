@@ -32,3 +32,4 @@ The flag is `ILOVEREADINGEULAS`.
 * <http://maroueneboubakri.blogspot.com/2014/02/olympic-ctf-sochi-2014-binathlon-10.html>
 * <https://ctftime.org/writeup/926>
 * <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
+* <http://delimitry.blogspot.ru/2014/02/olympic-ctf-2014-writeups.html>

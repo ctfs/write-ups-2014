@@ -14,3 +14,4 @@
 ## Other write-ups and resources
 
 * <http://tasteless.eu/2014/01/hack-you-2014-rev-200-writeup/>
+* <http://delimitry.blogspot.ru/2014/01/hack-you-2014-writeups.html>

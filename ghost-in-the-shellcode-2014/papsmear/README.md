@@ -15,3 +15,4 @@ The flag is `ThesePrimesAreNotIllegal`.
 ## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-papsmear-writeup.html>
+* [Russian](http://h0n3yp0t.ru/?p=226)

@@ -18,3 +18,4 @@ This is the same thing. In this case, the missing character is the `!` at the en
 * <https://www.youtube.com/watch?v=drJWxMLrpE0>
 * <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
 * <https://ctftime.org/writeup/929>
+* <http://delimitry.blogspot.ru/2014/02/olympic-ctf-2014-writeups.html>

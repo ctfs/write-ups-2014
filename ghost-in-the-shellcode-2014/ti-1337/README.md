@@ -18,3 +18,4 @@ The flag is `WhyDidTheChickenCrossTheMobiusStrip`.
 * <https://blog.skullsecurity.org/2014/ghost-in-the-shellcode-ti-1337-pwnable-100>
 * <http://delogrand.blogspot.com/2014/01/ghost-in-shellcode-2014-ti-1337.html>
 * <https://gist.github.com/withzombies/8514659>
+* [Russian](http://h0n3yp0t.ru/?p=207)

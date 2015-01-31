@@ -24,3 +24,4 @@ The flag is ‘sochi’.
 * <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
 * <http://maroueneboubakri.blogspot.de/2014/02/olympic-ctf-sochi-2014-crypt-100-writeup.html>
 * <http://onthesystemsoftheworld.blogspot.de/2014/02/olympic-ctf-sochi-2014-crypting-10.html>
+* <http://delimitry.blogspot.ru/2014/02/olympic-ctf-2014-writeups.html>
