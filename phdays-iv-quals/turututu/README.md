@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Turututu
 
-**Category:** ?
+**Category:** Reverse
 **Points:** 2500
 **Description:**
 

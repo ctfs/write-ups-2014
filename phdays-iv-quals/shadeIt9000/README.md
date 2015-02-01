@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: ShadeIt9000
 
-**Category:** ?
+**Category:** Forensics, Reverse
 **Points:** 3000
 **Description:**
 

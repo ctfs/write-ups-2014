@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: RBox
 
-**Category:** ?
+**Category:** Ucucuga, Crypto
 **Points:** 1500
 **Description:**
 

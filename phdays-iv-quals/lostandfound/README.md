@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: LostandFound
 
-**Category:** ?
+**Category:** Admin, PPC
 **Points:** 2000 and 3300
 **Description:**
 

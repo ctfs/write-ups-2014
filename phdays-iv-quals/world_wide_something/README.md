@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: World Wide Something
 
-**Category:** ?
+**Category:** Forensics, Network
 **Points:** 4000
 **Description:**
 

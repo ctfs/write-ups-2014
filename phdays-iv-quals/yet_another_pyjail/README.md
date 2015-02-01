@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Yet Another PyJail
 
-**Category:** ?
+**Category:** PPC, Pwn
 **Points:** 3900
 **Description:**
 

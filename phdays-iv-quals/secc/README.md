@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Secc
 
-**Category:** ?
+**Category:** Crypto
 **Points:** 3500
 **Description:**
 

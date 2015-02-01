@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Snowdgen Gadget
 
-**Category:** ?
+**Category:** Forensics, Network
 **Points:** 3500
 **Description:**
 

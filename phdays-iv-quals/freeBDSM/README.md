@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: FreeBDSM
 
-**Category:** ?
+**Category:** Forensics
 **Points:** 4000
 **Description:**
 

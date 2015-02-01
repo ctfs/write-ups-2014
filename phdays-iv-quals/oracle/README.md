@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Oracle
 
-**Category:** ?
+**Category:** Web
 **Points:** 3600
 **Description:**
 

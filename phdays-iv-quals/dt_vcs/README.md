@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: dt\_vcs
 
-**Category:** ?
+**Category:** Web
 **Points:** 3800
 **Description:**
 

@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Botnet
 
-**Category:** ?
+**Category:** Web, Forensics
 **Points:** 3600
 **Description:**
 

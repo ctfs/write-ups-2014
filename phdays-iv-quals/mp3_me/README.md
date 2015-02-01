@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Mp3\_me
 
-**Category:** ?
+**Category:** Ucucuga
 **Points:** 1400
 **Description:**
 

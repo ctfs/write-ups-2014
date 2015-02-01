@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Metal Gear Felix
 
-**Category:** ?
+**Category:** Ucucuga
 **Points:** 1100
 **Description:**
 

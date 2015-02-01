@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Escape from Minecraft
 
-**Category:** ?
+**Category:** Electronics
 **Points:** 3800
 **Description:**
 

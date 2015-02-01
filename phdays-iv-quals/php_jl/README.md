@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: PHP\_JL
 
-**Category:** ?
+**Category:** Web
 **Points:** 3800
 **Description:**
 

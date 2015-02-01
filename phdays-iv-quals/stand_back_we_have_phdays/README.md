@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Stand back we have PHDays
 
-**Category:** ?
+**Category:** Web, Crypto
 **Points:** 2700
 **Description:**
 

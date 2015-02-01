@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: MiXer
 
-**Category:** ?
+**Category:** Reverse, Crypto
 **Points:** 2000
 **Description:**
 

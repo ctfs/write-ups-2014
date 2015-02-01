@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Mars
 
-**Category:** ?
+**Category:** Crypto
 **Points:** 2500
 **Description:**
 

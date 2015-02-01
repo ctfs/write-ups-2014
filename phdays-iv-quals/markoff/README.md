@@ -1,6 +1,6 @@
 # PHDays Quals CTF 2014: Markoff
 
-**Category:** ?
+**Category:** Ucucuga, PPC
 **Points:** 2800
 **Description:**
 
