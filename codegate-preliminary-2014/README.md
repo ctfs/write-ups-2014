@@ -13,4 +13,18 @@
 
 ## Missing write-ups
 
-* none yet
+* [120](120)
+* [4stone](4stone)
+* [angrydoraemon](angrydoraemon)
+* [automata](automata)
+* [chronological](chronological)
+* [clonetechnique](clonetechnique)
+* [dodocrackme](dodocrackme)
+* [dodosandbox](dodosandbox)
+* [hypercat](hypercat)
+* [koreanrestaurant](koreanrestaurant)
+* [membership](membership)
+* [minibomb](minibomb)
+* [webproxy](webproxy)
+* [weirdshark](weirdshark)
+* [weirdsnus](weirdsnus)
