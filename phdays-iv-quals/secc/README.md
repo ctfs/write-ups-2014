@@ -19,3 +19,4 @@ The flag is `ecc_is_too_s3cure`.
 ## Other write-ups and resources
 
 * <https://ctfcrew.org/writeup/8>
+* <http://pastebin.com/BF1L94gr>

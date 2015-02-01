@@ -16,4 +16,4 @@ The flg is `YoU_d0_No7_n33d_Func7ionZ_to_h4ck_PHP`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blogs.tunelko.com/2014/01/27/phdays-2014-quals-php_jl-writeup/>

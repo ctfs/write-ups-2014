@@ -17,3 +17,6 @@ The flag is `9l5_q24y_2g7_r18_6g4`.
 
 * <http://balidani.blogspot.hu/2014/01/phdays-ctf-quals-oracle-writeup.html>
 * <http://tasteless.eu/2014/01/phd-ctf-quals-2014-oracle-writeup/>
+* <http://pastebin.com/wXuAqPNc>
+* <http://pastebin.com/Hj2qgxn2>
+* [Japanese](http://m-shiraishi.hatenadiary.com/entry/2014/01/27/172457)
