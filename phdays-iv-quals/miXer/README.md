@@ -14,4 +14,7 @@ The flag is `y0ur.f1rst.fl4g`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.dragonsector.pl/2014/01/phdquals-2014-mixer.html>
+* <http://digitaloperatives.blogspot.de/2014/01/phdays-ctf-quals-2014-write-up-mixer.html>
+* [Korean](http://daehee87.tistory.com/337)
+* [Russian](http://nightsite.info/blog/12936-phdays-2014-quals-all-reverse-writeup.html)

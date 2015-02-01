@@ -15,4 +15,4 @@ The flag is `696427659143`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/01/phd-ctf-quals-2014-rbox-and-metal-gear-felix-writeup/>

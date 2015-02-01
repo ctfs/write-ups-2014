@@ -14,4 +14,4 @@ The flag is `I LOV3 $HADERS!`.
 
 ## Other write-ups and resources
 
-* none yet
+* [Russian](http://nightsite.info/blog/12936-phdays-2014-quals-all-reverse-writeup.html)

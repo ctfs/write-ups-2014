@@ -18,3 +18,5 @@ The flag is `b8641ac83fc85e4e44bc`.
 ## Other write-ups and resources
 
 * <https://ctfcrew.org/writeup/6>
+* <http://tasteless.eu/2014/01/phd-ctf-quals-2014-rbox-and-metal-gear-felix-writeup/>
+* <http://pastebin.com/MuX5FAV1>
