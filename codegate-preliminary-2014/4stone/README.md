@@ -14,4 +14,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastebin.com/7YJXhzwh>
+* <https://github.com/maraud3rs/writeups/tree/master/codegate_4stone>
+* [Korean](http://blackcon.tistory.com/90)

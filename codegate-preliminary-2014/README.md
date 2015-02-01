@@ -9,10 +9,6 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
 * [120](120)
 * [4stone](4stone)
 * [angrydoraemon](angrydoraemon)
@@ -20,11 +16,14 @@
 * [chronological](chronological)
 * [clonetechnique](clonetechnique)
 * [dodocrackme](dodocrackme)
-* [dodosandbox](dodosandbox)
 * [hypercat](hypercat)
-* [koreanrestaurant](koreanrestaurant)
 * [membership](membership)
 * [minibomb](minibomb)
 * [webproxy](webproxy)
 * [weirdshark](weirdshark)
 * [weirdsnus](weirdsnus)
+
+## Missing write-ups
+
+* [dodosandbox](dodosandbox)
+* [koreanrestaurant](koreanrestaurant)

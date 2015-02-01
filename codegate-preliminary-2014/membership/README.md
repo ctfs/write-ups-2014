@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://www.bpak.org/blog/2014/02/codegate-2014-membership-800pt-pwnable-write-up/>

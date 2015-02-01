@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://mslc.ctf.su/wp/codegate-2014-quals-minibomb-pwn-400/>
+* <http://pastie.org/private/iyxcb3y9odssaq81baivfa>

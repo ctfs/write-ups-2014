@@ -14,4 +14,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctfcrew.org/writeup/27>
+* <http://rep.github.io/codegate-2014-automata-re400.html>
+* <http://www.blue-lotus.net/2014-02-25-codegate-ctf-quals-2014-automata-writeup/>

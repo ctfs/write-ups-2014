@@ -12,4 +12,8 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.0xdeffbeef.com/2014/02/codegate-ctf-2014-web-proxy-web-200.html>
+* <http://tasteless.eu/2014/02/codegate-ctf-preliminary-2014-web-proxy-writeup/>
+* [German](https://f00l.de/blog/codegate-ctf-2014-web-proxy/)
+* <http://www.blue-lotus.net/2014-02-25-codegate-ctf-quals-2014-web_proxy-writeup/>
+* [Korean](http://pgnsc.tistory.com/340)

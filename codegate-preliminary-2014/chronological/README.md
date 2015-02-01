@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.blue-lotus.net/2014-02-25-codegate-ctf-quals-2014-chrono-writeup/>
+* <http://pastie.org/pastes/8790402>

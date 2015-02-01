@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.blue-lotus.net/2014-02-25-codegate-ctf-quals-2014-weird_snus-writeup/>
+* [Korean](http://blog.jinmo123.pe.kr/entry/Codegate-2014-weirdsnus-writeup)

@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/eggpod/d5e53078809fded1a2a4>
