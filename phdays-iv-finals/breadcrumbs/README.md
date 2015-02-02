@@ -14,4 +14,4 @@ The flag is `Not_hansel_nor_gretel!`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.scrt.ch/2014/05/26/phdays-finals-2014-homepage-breadcrumbs-tasks-writeup/>
