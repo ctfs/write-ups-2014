@@ -15,3 +15,4 @@ The flag is `i_hate_ucucuga`.
 ## Other write-ups and resources
 
 * <http://quangntenemy.blogspot.de/2014/01/phdays-ctf-quals-2014.html>
+* <http://hacktracking.blogspot.de/2014/01/phdays-ctf-quals-2k14-mp3-me-1400-points.html>

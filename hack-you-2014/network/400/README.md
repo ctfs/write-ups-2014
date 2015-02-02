@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * <http://hackyou.ctf.su/files/irc_writeups.html>
+* <http://codezen.fr/2014/01/15/hackyou-2014-net400-gsmd-sh-write-up/>

@@ -19,3 +19,6 @@
 
 * <http://hackyou.ctf.su/files/irc_writeups.html>
 * <http://www.pwntester.com/blog/2014/01/17/hackyou2014-crypto400-write-up/>
+* <http://codezen.fr/2014/01/16/hackyou-2014-crypto-400-cryptonet/>
+* <http://v0ids3curity.blogspot.jp/2014/01/hack-you-ctf-2014-crypto-400-cryptonet.html>
+* [Japanese](http://akiym.hateblo.jp/entry/2014/01/16/111012)

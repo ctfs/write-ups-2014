@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://hackyou.ctf.su/files/irc_writeups.html>
+* <http://hacktracking.blogspot.jp/2014/01/hackyou-2k14-ppc-play-with-me-200-points.html>

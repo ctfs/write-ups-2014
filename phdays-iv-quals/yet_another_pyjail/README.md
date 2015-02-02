@@ -20,3 +20,4 @@ The flag is `7hE_0w15_4R3_n07_wh47_7h3Y_533m--7hEr3_15_4_m4n_1n_a_5m111n9_649`.
 * <https://ctfcrew.org/writeup/14>
 * <http://www.suslopas.pw/2014/01/phdays-2014-quals-yet-another-pyjail.html>
 * <http://tasteless.eu/2014/01/phd-ctf-quals-2014-pyjail/>
+* <http://hacktracking.blogspot.de/2014/01/phdays-ctf-quals-2k14-yet-another.html>
