@@ -19,3 +19,5 @@ This is the same thing. In this case, the missing character is the `!` at the en
 * <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
 * <https://ctftime.org/writeup/929>
 * <http://delimitry.blogspot.ru/2014/02/olympic-ctf-2014-writeups.html>
+* [Chinese](http://ddaa.logdown.com/posts/178446-olympic-ctf-2014-10-point-summary)
+* [French](http://troll-me.fr/ctf-olympic-ctf-2014-quelques-writeups/)
