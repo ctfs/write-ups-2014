@@ -14,4 +14,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://www.kizhakkinan.com/?p=168>
+* <http://blog.delroth.net/2014/03/boston-key-party-crackme300-hypercube-writeup/>
+* <http://piggybird.net/2014/03/boston-key-party-ctf-2014-reversing-200-hypercube/>

@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://balidani.blogspot.jp/2014/03/boston-key-party-r3v3-writeup.html>

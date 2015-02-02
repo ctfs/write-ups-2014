@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://gist.github.com/zachriggle/9302481#file-rarverseme-readme-txt>
+* <http://www.kizhakkinan.com/?p=175>

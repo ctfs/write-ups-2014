@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://mslc.ctf.su/wp/boston-key-party-ctf-differential-power-crypto-400/>

@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.0xdeffbeef.com/2014/03/boston-key-party-dantes-inferno-write-up.html>
+* <http://tasteless.eu/2014/03/boston-key-party-ctf-2014-dantes-inferno/>

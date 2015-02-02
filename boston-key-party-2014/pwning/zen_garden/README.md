@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://blog.frizn.fr/bkpctf-2014/pwn-300-zengarden>

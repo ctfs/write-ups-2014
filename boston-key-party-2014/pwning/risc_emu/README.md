@@ -15,3 +15,6 @@
 ## Other write-ups and resources
 
 * <https://rzhou.org/~ricky/bkpctf2014/risc_emu/exploit.py>
+* <http://blog.0xdeffbeef.com/2014/03/boston-key-party-ctf-2014-riscemu.html>
+* [French](http://blog.frizn.fr/bkpctf-2014/pwn-100-risc_emu)
+* [Chinese](http://217.logdown.com/posts/183020-boston-key-party-ctf-2014-risc-emu)

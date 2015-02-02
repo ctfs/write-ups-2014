@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://piggybird.net/2014/03/boston-key-party-ctf-2014-reversing-300-vm/>

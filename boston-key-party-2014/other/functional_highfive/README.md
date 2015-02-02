@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+ <http://tasteless.eu/2014/03/boston-key-party-ctf-2014-web200-writeup/>

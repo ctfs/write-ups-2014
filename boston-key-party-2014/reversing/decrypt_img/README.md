@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* [Chinese](http://217.logdown.com/posts/183027-boston-key-party-ctf-2014-decrypt-img)
+* <http://piggybird.net/2014/03/boston-key-party-ctf-2014-reversing-200-decrypt-img/>
