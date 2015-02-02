@@ -32,3 +32,4 @@ The flag is `Power overwhelming? Back in my day cheats did not have spaces.`.
 * <http://delogrand.blogspot.com/2014/01/ghost-in-shellcode-2014-trivia.html>
 * <http://tasteless.se/2014/01/gits-2014-lugkist-trivia-150>
 * <https://systemoverlord.com/blog/2014/01/19/ghost-in-the-shellcode-2014-lugkist/>
+* [Chinese](http://ddaa.logdown.com/posts/176382-gits-2014-trivia-150-lugkist)

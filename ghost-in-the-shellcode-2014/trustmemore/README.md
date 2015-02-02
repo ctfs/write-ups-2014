@@ -16,3 +16,4 @@ The flag is `OnlyDDTEKWouldDoSomethingThisEvil`.
 
 * <http://blog.zachorr.com/trustmemore/>
 * [Source code for this challenge](https://gist.github.com/anonymous/8508605) (released after the CTF)
+* <https://gist.github.com/withzombies/8514724>
