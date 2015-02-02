@@ -14,4 +14,4 @@ The flag is `its_n0t_ab0ut_p4dd1ng`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://pastebin.com/fNYvNein>

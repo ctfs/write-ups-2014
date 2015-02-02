@@ -14,6 +14,7 @@
 * [freeBDSM](freeBDSM)
 * [lostandfound](lostandfound)
 * [markoff](markoff)
+* [mars](mars)
 * [metal\_gear\_felix](metal_gear_felix)
 * [miXer](miXer)
 * [mp3\_me](mp3_me)
@@ -31,5 +32,4 @@
 ## Missing write-ups
 
 * [botnet](botnet)
-* [mars](mars)
 * [snowden\_gadget](snowden_gadget)

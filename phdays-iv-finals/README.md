@@ -10,11 +10,10 @@
 
 ## External write-ups only
 
-* none yet
+* [breadcrumbs](breadcrumbs)
 
 ## Missing write-ups
 
-* [breadcrumbs](breadcrumbs)
 * [crackme](crackme)
 * [doubleshizo](doubleshizo)
 * [holygrail](holygrail)
