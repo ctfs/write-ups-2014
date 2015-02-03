@@ -22,3 +22,4 @@
 ## Other write-ups and resources
 
 * <http://www.pwntester.com/blog/2014/02/14/olympic-ctf-curling500-write-up/>
+* <http://penthackon.wechall.net/ctf_writeups/Olympic%20CTF%202014/HFMS.htm>
