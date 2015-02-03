@@ -96,3 +96,4 @@ The flag is `31C3\_0748a7b8be603056aa9c391e`.
 * <http://vnsecurity.net/ctf%20-%20clgt%20crew/2014/12/30/31C3CTF-crypto-hwaes-writeup.html>
 * <http://tasteless.eu/2014/12/31c3-ctf-hwaes/>
 * <http://hxp.io/blog/8/31C3%20CTF:%20crypto10%20%22hwaes%22/>
+* <http://www.kizhakkinan.com/?p=187>
