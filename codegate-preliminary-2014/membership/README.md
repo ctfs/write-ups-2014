@@ -15,3 +15,4 @@
 ## Other write-ups and resources
 
 * <https://www.bpak.org/blog/2014/02/codegate-2014-membership-800pt-pwnable-write-up/>
+* <http://ppp.cylab.cmu.edu/wordpress/?p=1165>
