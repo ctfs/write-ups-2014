@@ -21,3 +21,4 @@ The flag is `CTF{A394F49FA76CC8D09AA2C7770F5FFEAE}`.
 * <https://www.youtube.com/watch?v=XWozhb1ZOyM>
 * <http://blog.dragonsector.pl/2014/02/olympic-ctf-2014-binathlon-400-podcast.html>
 * <http://gynvael.coldwind.pl/?id=527>
+* <http://penthackon.wechall.net/ctf_writeups/Olympic%20CTF%202014/HackMe.htm>
