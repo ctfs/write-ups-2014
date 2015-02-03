@@ -21,3 +21,4 @@
 
 * Challenge source: [source.tar.gz](source.tar.gz)
 * Challenge solver: [solver.py](solver.py)
+* <http://www.kizhakkinan.com/?p=193>
