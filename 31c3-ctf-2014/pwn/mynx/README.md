@@ -17,3 +17,4 @@
 * <http://kitctf.de/writeups/31c3-ctf/mynx/>
 * <http://blog.dragonsector.pl/2015/01/31c3-ctf-mynx-pwn-30.html>
 * <https://rzhou.org/~ricky/31c3/mynx/>
+* <http://pastebin.com/bvkMhDSy>

@@ -16,3 +16,4 @@
 * <http://l4w.io/2014/12/31c3-ctf-writeups/>
 * <https://rzhou.org/~ricky/31c3/cfy/exp.py>
 * <http://gnoobz.com/31c3-ctf-cfy-writeup.html>
+* <http://pastebin.com/qwhUBLMx>
