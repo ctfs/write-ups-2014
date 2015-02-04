@@ -95,5 +95,7 @@ In other words, it always jumps to `\_nope\_not\_this`, because it’s a hardcod
 
 ## Other write-ups and resources
 
-* <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-segmentation-fault.html>
+* <http://blog.0xdeffbeef.com/2014/03/defkthon-ctf-2014-segmentation-fault.html>
 * <http://tasteless.eu/2014/03/defkthon-ctf-2014-rev200-misc200-recon200-misc300/>
+* [Japanese](http://hority-ctf.blogspot.jp/2014/03/defkthon-ctf-2014-write-up.html)
+* [Russian](http://reu.org.ua/ctf/write-up-defkthon-ctf-2014-rev-200.html)

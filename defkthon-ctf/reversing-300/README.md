@@ -38,3 +38,4 @@ As you can see, it stores the password in obfuscated form. Then it uses the key 
 ## Other write-ups and resources
 
 * <http://rce4fun.blogspot.com/2014/03/defkthon-ctf-2014-reversing-300-writeup.html>
+* [Japanese](http://hority-ctf.blogspot.jp/2014/03/defkthon-ctf-2014-write-up.html)

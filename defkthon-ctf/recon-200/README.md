@@ -22,3 +22,4 @@ The flag is `djangounchained`.
 ## Other write-ups and resources
 
 * <http://tasteless.eu/2014/03/defkthon-ctf-2014-rev200-misc200-recon200-misc300/>
+* <http://ctfwriteups.blogspot.in/2014_03_01_archive.html>

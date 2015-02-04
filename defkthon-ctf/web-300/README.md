@@ -78,5 +78,6 @@ The flag is `w00tkitk@t`.
 
 ## Other write-ups and resources
 
-* <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-we-love-it-web-300.html>
+* <http://blog.0xdeffbeef.com/2014/03/defkthon-ctf-2014-we-love-it-web-300.html>
 * <http://tasteless.eu/2014/03/defkthon-ctf-2014-web200-web300-and-web400-writeup/>
+* [Japanese](http://wataamectf.blogspot.jp/2014/03/defkthon-ctf-writeup.html)

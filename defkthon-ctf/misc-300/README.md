@@ -72,3 +72,4 @@ done;
 
 * <http://tasteless.eu/2014/03/defkthon-ctf-2014-rev200-misc200-recon200-misc300/>
 * <http://juicy-media.ru/dv_team/writeups/index.php?cnt=DEFKTHON&cat=Misc&prc=300.
+* <https://shankaraman.wordpress.com/2014/03/05/defkthon-ctf-misc-300-writeup/>
