@@ -31,6 +31,7 @@
 * [http](web/http)
 * [Page Builder](web/page-builder)
 * [pCRAPp](web/pcrapp)
+* [pong](pwn/pong)
 * [sarge](pwn/sarge)
 * [whatson](reversing/whatson)
 
@@ -41,7 +42,6 @@
 * [Roll](malware/roll)
 * [Fyltr](pwn/fyltr)
 * [Nokia 31337](pwn/nokia-31337)
-* [pong](pwn/pong)
 * [bor ey](reversing/bor-ey)
 * [crackme](reversing/crackme)
 * [Merkelfon](reversing/merkelfon)
