@@ -22,3 +22,4 @@ The website displays:
 
 * <http://lovelydream.gitcafe.com/2014/12/08/seccon/#Exploitation_300_arm>
 * <https://rzhou.org/~ricky/seccon2014/arm/test.py>
+* <http://pastebin.com/63GHE3Nu>

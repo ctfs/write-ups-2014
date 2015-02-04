@@ -17,3 +17,4 @@
 ## Other write-ups and resources
 
 * [Exploit in Perl by @_cutz](exploit-by-cutz.pl)
+* <http://pastebin.com/9vq38BYH>

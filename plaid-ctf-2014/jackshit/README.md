@@ -15,3 +15,4 @@
 ## Other write-ups and other resources
 
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/pwnables/jackshit)
+* <http://pastebin.com/eVZeRgyE>

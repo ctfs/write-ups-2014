@@ -14,3 +14,4 @@
 
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/pwnables/sass)
 * <http://j00ru.vexillium.org/dump/ctf/sass.py>
+* <http://pastebin.com/zXeUKdNG>

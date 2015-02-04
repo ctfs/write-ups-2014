@@ -34,3 +34,4 @@
 ## Other write-ups and resources
 
 * <https://rzhou.org/~ricky/seccon2014/holy_shellcode/>
+* <http://pastebin.com/Fau8A3La>
