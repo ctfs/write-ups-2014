@@ -20,3 +20,4 @@
 * <https://gist.github.com/IdolfHatler/d952bf797a4d71cddbba>
 * [Japanese](http://epsilondelta.hatenablog.jp/entry/2014/05/20/014011)
 * <http://vnsecurity.net/ctf%20-%20clgt%20crew/uncategorized/2014/05/22/defcon-2014-polyglot.html>
+* <http://pastebin.com/9cRWa1EC>
