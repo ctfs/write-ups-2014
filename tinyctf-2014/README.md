@@ -28,8 +28,8 @@ All flags have a format of `flag{%s} % (funny_key_here)`.
 
 ## External write-ups only
 
-* none
-
-## missing write-ups
-
 * [Valet!](valet)
+
+## Missing write-ups
+
+* none yet
