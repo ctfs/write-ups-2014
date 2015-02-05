@@ -69,7 +69,7 @@ The flag is `flag{python_sandboxing:_harder_than_teaching_your_mom_dota}`.
 
 ## Other write-ups and resources
 
-* <http://sugarstack.io/tinyctf-exp200/>
+* <http://sugarstack.io/tinyctf-exp-200.html>
 * <https://poerhiza.github.io/ctf/2014/10/05/tinyCTF-write_ups-not_exactly_alcatraz/>
 * [_Escaping Python sandboxes_](https://isisblogs.poly.edu/2012/10/26/escaping-python-sandboxes/)
 * <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#not-exactly-alcatraz>

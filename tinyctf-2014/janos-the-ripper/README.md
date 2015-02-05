@@ -64,5 +64,5 @@ flag{ev3n::y0u::bru7us?!}
 
 ## Other write-ups and resources
 
-* <http://sugarstack.io/tinyctf-misc100/>
+* <http://sugarstack.io/tinyctf-misc-100.html>
 * <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#j%C3%A1nos-the-ripper>

@@ -25,5 +25,5 @@ The flag is `flag{hello_world}`.
 
 ## Other write-ups and resources
 
-* <http://sugarstack.io/tinyctf-misc10/>
+* <http://sugarstack.io/tinyctf-misc-10.html>
 * <https://poerhiza.github.io/ctf/2014/10/05/tinyCTF-write_ups-test_flag_please_ignore/>
