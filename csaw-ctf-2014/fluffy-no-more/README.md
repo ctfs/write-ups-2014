@@ -109,7 +109,7 @@ The flag is `Those Fluffy Bunnies Make Tummy Bumpy`.
 ## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/09/csaw14-fluffy-no-more-writeup.html>
-* <http://sugarstack.io/csaw2014-fluffy-no-more/>
+* <http://sugarstack.io/csaw-2014-fluffy-no-more.html>
 * <https://hackucf.org/blog/csaw-2014-forensics-300-fluffy-no-more/>
 * <http://bt3gl.github.io/csaw-ctf-2014-forensics-300-fluffy-no-more.html>
 * <http://blog.squareroots.de/en/2014/09/csaw14-fluffy-no-more/>

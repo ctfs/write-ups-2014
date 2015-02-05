@@ -20,3 +20,4 @@
 * <http://www.mrt-prodz.com/blog/view/2014/10/hacklu-ctf-2014---dalton-corporate-security-safe-for-business-200pts-writeup/>
 * [Exploit written in Python by @H4rryp0tt3r](exploit.py)
 * <http://tasteless.eu/2014/10/hack-lu-ctf-2014-daltons-corporate-security-safe-for-business/>
+* <http://sugarstack.io/hacklu-daltons-corporate-security-safe.html>
