@@ -67,4 +67,4 @@ The flag is `flag{unroll_those_loops}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/jesstess/tinyctf/blob/master/loopy/loopy.md>

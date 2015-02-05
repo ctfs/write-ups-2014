@@ -97,4 +97,4 @@ This prints the flag.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/jesstess/tinyctf/blob/master/batman/batman.md>

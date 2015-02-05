@@ -78,4 +78,4 @@ Running it on `rockyou.txt.gz` eventually revealed the flag as well.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/jesstess/tinyctf/blob/master/elrond32/elrond32.md>

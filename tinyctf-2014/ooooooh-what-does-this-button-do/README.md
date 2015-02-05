@@ -88,3 +88,4 @@ The flag is `flag{w4nn4_j4r_my_d3x}`.
 
 * <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#ooooooh-what-does-this-button-do>
 * <http://sugarstack.io/tinyctf-rev-200.html>
+* <https://github.com/jesstess/tinyctf/blob/master/button/button.md>

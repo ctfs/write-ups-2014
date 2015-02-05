@@ -185,4 +185,4 @@ Congratulations! Here is a treat for you: flag{how_d0_you_7urn_this_0n?}
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/jesstess/tinyctf/blob/master/rsa/rsa.md>

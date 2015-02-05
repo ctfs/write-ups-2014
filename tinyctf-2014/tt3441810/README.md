@@ -69,3 +69,4 @@ The flag is `flag{poppopret}`.
 * <https://poerhiza.github.io/ctf/2014/10/05/tinyCTF-write_ups-tt3441810/>
 * <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#tt3441810>
 * <https://gist.github.com/balidani/9022f29dce228c9cd296>
+* <https://github.com/jesstess/tinyctf/blob/master/tt3441810/tt3441810.md>

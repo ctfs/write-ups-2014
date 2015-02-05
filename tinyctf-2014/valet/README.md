@@ -47,4 +47,4 @@ Select an option:
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/jesstess/tinyctf/blob/master/valet/valet.md>
