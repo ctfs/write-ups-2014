@@ -1,11 +1,14 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: 2048
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Reverse
+**Points:** 200
+**Solves** 60
 **Description:**
 
-> 
+> What is the ip of the victim?
+>
+> Falg is: md5(ip)
+> [Download](2048.tar.gz)
 
 ## Write-up
 
