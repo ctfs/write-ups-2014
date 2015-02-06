@@ -1,8 +1,8 @@
 # Sharif University Quals CTF 2014: Secure Coding
 
 **Category:** Secure-Coding
-**Points:** 100 | 200
-**Solves** 117 | 37
+**Points:** 100 | 200 | 300
+**Solves** 117 | 37 | 7
 **Description:**
 
 > <http://ctf.sharif.edu:53840>
