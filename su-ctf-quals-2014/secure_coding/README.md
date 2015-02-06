@@ -13,4 +13,6 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ctf.sharif.edu/2014/quals/su-ctf/write-ups/23/>
+* <http://ctf.sharif.edu/2014/quals/su-ctf/write-ups/28/>
+* <http://ctf.sharif.edu/2014/quals/su-ctf/write-ups/35/>

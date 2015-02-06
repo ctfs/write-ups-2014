@@ -9,19 +9,11 @@
 
 ## External write-ups only
 
-* none yet
-
-## Missing write-ups
-
 * <2048>
 * <a_trip_to_sao_paulo>
 * <aes_broken>
 * <avatar>
 * <birthday_of_websites_admin>
-* <cafe-1>
-* <cafe-2>
-* <cafe-3>
-* <cafe-4>
 * <capture_the_spoon>
 * <commercial_application>
 * <decrypt_the_message>
@@ -31,7 +23,6 @@
 * <hooked_api>
 * <huge_key>
 * <iran_pro_league>
-* <mining_your_rs_and_ss>
 * <network_traffic>
 * <old_flag>
 * <our_bank_is_yours>
@@ -43,8 +34,16 @@
 * <secure_coding>
 * <sudoku_image_encryption>
 * <terminate_me>
+* <what_is_this>
+
+## Missing write-ups
+
+* <cafe-1>
+* <cafe-2>
+* <cafe-3>
+* <cafe-4>
+* <mining_your_rs_and_ss>
 * <touran_city-1>
 * <touran_city-2>
 * <touran_city-3>
 * <touran_city-4>
-* <what_is_this>
