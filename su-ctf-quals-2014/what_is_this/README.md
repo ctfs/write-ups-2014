@@ -1,11 +1,13 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: What is this
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Steganography
+**Points:** 20
+**Solves** 308
 **Description:**
 
-> 
+> Find the flag!
+>
+> [Download](what-is-this.tar.gz)
 
 ## Write-up
 

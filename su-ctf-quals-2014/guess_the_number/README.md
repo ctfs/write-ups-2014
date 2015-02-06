@@ -1,11 +1,13 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Guess The Number
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Reverse
+**Points:** 30
+**Solves** 316
 **Description:**
 
-> 
+> Guess the number and find the flag.
+>
+> [Download](guess.jar)
 
 ## Write-up
 
