@@ -1,11 +1,15 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Birthday of Website's Admin
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Web
+**Points:** 400 + 80
+**Solves** 0
 **Description:**
 
-> 
+> This website
+> <http://ctf.sharif.edu:16481/login.php>
+> is more secure than what you may think :)
+>
+> Flag is SHA1(Birthday of website's admin, formatted as YYYYMMDD).
 
 ## Write-up
 

@@ -1,11 +1,13 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Old Flag
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Forensics
+**Points:** 350
+**Solves** 7
 **Description:**
 
-> 
+> Attached file is captured traffic of a person who was reading CTFs' write-ups. What was the flag of challenge that was downloaded by her?
+>
+> [Download](capture.cap.tar.gz)
 
 ## Write-up
 

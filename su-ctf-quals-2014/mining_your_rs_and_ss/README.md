@@ -1,11 +1,13 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Mining Your Rs and Ss
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Cryptography
+**Points:** 500
+**Solves** 6
 **Description:**
 
-> 
+> Mining Your Rs and Ss (instead of Ps and Qs)
+>
+> <https://ctf.sharif.edu:44301/>
 
 ## Write-up
 
