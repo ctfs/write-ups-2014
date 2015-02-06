@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
+* [Writeup by @wapiflapi](http://wapiflapi.github.io/2014/04/30/getting-a-shell-on-fruits-bkpctf-2014/)
 * <https://rzhou.org/~ricky/bkpctf2014/fruits/exploit.py>
