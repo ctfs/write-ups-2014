@@ -1,11 +1,13 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Huge Key
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Cryptography
+**Points:** 100
+**Solves** 119
 **Description:**
 
-> 
+> Find the flag.
+>
+> [Download](hugekey.tar.gz)
 
 ## Write-up
 
