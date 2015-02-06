@@ -1,11 +1,15 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Reverse Me
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Reverse
+**Points:** 200
+**Solves** 89
 **Description:**
 
-> 
+> Reverse me and find a valid serial number!
+>
+> flag : [A valid serial number]
+>
+> [Download](ReverseMe.exe)
 
 ## Write-up
 
