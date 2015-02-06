@@ -1,11 +1,12 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Iran Pro League
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Web
+**Points:** 80
+**Solves** 87
 **Description:**
 
-> 
+> Find the flag! 
+> <http://ctf.sharif.edu:55474>
 
 ## Write-up
 

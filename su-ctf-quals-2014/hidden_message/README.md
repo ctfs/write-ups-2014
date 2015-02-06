@@ -1,11 +1,13 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Hidden Message
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Steganography
+**Points:** 40
+**Solves** 47
 **Description:**
 
-> 
+> What is the hidden message?
+>
+> [Download](hidden-message.pcap)
 
 ## Write-up
 
