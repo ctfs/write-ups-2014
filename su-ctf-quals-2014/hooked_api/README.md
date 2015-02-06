@@ -1,11 +1,15 @@
-# Sharif University Quals CTF 2014: 
+# Sharif University Quals CTF 2014: Hooked API
 
-**Category:** 
-**Points:** 
-**Solves** 
+**Category:** Forensics
+**Points:** 100
+**Solves** 39
 **Description:**
 
-> 
+> Load me and Analyze the memory changes! 
+> flag: MD5[LowerCase[Hooked API's Name]] 
+> Req : Windows 7/8 32 bit
+>
+> [Download](Forensic1.sys)
 
 ## Write-up
 
