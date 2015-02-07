@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [rolling\_hash](rolling_hash)
+* [what\_is\_this](what_is_this)
 
 ## External write-ups only
 
@@ -33,7 +34,6 @@
 * [secure\_coding](secure_coding)
 * [sudoku\_image\_encryption](sudoku_image_encryption)
 * [terminate\_me](terminate_me)
-* [what\_is\_this](what_is_this)
 
 ## Missing write-ups
 
