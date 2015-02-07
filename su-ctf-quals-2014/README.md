@@ -5,7 +5,7 @@
 
 ## Completed write-ups
 
-* none yet
+* [rolling\_hash](rolling_hash)
 
 ## External write-ups only
 
@@ -30,7 +30,6 @@
 * [pwn\_it](pwn_it)
 * [recover\_deleted\_file](recover_deleted_file)
 * [reverse\_me](reverse_me)
-* [rolling\_hash](rolling_hash)
 * [secure\_coding](secure_coding)
 * [sudoku\_image\_encryption](sudoku_image_encryption)
 * [terminate\_me](terminate_me)
