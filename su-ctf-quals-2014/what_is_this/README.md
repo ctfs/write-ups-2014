@@ -11,7 +11,14 @@
 
 ## Write-up
 
-(TODO)
+We are given two pictures:
+
+![](pic1.jpg)
+![](pic2.jpg)
+
+Using a stegonagraphy tool like [stegsolve](http://www.wechall.net/forum/show/thread/527/Stegsolve\_1.3/page-1), we combine both pictures by XORing them. The result is this picture, containing the `AZADI TOWER` flag:
+
+![](azaditower.png)
 
 ## Other write-ups and resources
 
