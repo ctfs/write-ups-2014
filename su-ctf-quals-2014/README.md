@@ -5,6 +5,7 @@
 
 ## Completed write-ups
 
+* [avatar](avatar)
 * [rolling\_hash](rolling_hash)
 * [what\_is\_this](what_is_this)
 
@@ -13,7 +14,6 @@
 * [2048](2048)
 * [a\_trip\_to\_sao\_paulo](a_trip_to_sao_paulo)
 * [aes\_broken](aes_broken)
-* [avatar](avatar)
 * [birthday\_of\_websites\_admin](birthday_of_websites_admin)
 * [capture\_the\_spoon](capture_the_spoon)
 * [commercial\_application](commercial_application)
