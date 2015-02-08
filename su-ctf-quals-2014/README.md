@@ -7,6 +7,7 @@
 
 * [avatar](avatar)
 * [guess\_the\_number](guess_the_number)
+* [hidden\_message](hidden_message)
 * [rolling\_hash](rolling_hash)
 * [what\_is\_this](what_is_this)
 
@@ -20,7 +21,6 @@
 * [commercial\_application](commercial_application)
 * [decrypt\_the\_message](decrypt_the_message)
 * [hear\_with\_your_eyes](hear_with_your_eyes)
-* [hidden\_message](hidden_message)
 * [hooked\_api](hooked_api)
 * [huge\_key](huge_key)
 * [iran\_pro\_league](iran_pro_league)
