@@ -1,0 +1,12 @@
+#!/bin/bash
+mkdir in out result
+for i in {1..9}; do
+	for j in {1..9}; do convert -extract 50x50+$(($((j-1))*50))+$(($((i-1))*50)) image.png in/a$i-$j.png; done
+	COUNT=1
+	sed "${i}q;d" solution | grep --color=none -o . | while read n; do
+		cp in/a$i-$COUNT.png out/a$i-$n.png; COUNT=$((COUNT+1))
+	done
+	convert +append out/a$i-{1..9}.png result/out$i.png
+done
+
+for i in {1..9}; do convert -append result/out{1..9}.png flag.png; done
