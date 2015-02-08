@@ -8,6 +8,7 @@
 * [avatar](avatar)
 * [guess\_the\_number](guess_the_number)
 * [hidden\_message](hidden_message)
+* [recover\_deleted\_file](recover_deleted_file)
 * [rolling\_hash](rolling_hash)
 * [what\_is\_this](what_is_this)
 
@@ -29,7 +30,6 @@
 * [our\_bank\_is\_yours](our_bank_is_yours)
 * [personalized\_captcha](personalized_captcha)
 * [pwn\_it](pwn_it)
-* [recover\_deleted\_file](recover_deleted_file)
 * [reverse\_me](reverse_me)
 * [secure\_coding](secure_coding)
 * [sudoku\_image\_encryption](sudoku_image_encryption)
