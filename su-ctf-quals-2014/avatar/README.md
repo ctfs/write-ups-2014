@@ -11,7 +11,7 @@
 
 ## Write-up
 
-(TODO)
+Using `outguess -r lamb.jpg out`, we retrieve the flag in `out`: `We should blow up the bridge at midnight`.
 
 ## Other write-ups and resources
 
