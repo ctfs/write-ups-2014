@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [avatar](avatar)
+* [guess\_the\_number](guess_the_number)
 * [rolling\_hash](rolling_hash)
 * [what\_is\_this](what_is_this)
 
@@ -18,7 +19,6 @@
 * [capture\_the\_spoon](capture_the_spoon)
 * [commercial\_application](commercial_application)
 * [decrypt\_the\_message](decrypt_the_message)
-* [guess\_the\_number](guess_the_number)
 * [hear\_with\_your_eyes](hear_with_your_eyes)
 * [hidden\_message](hidden_message)
 * [hooked\_api](hooked_api)
