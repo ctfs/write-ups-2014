@@ -7,6 +7,7 @@
 
 * [avatar](avatar)
 * [guess\_the\_number](guess_the_number)
+* [hear\_with\_your_eyes](hear_with_your_eyes)
 * [hidden\_message](hidden_message)
 * [recover\_deleted\_file](recover_deleted_file)
 * [rolling\_hash](rolling_hash)
@@ -22,7 +23,6 @@
 * [capture\_the\_spoon](capture_the_spoon)
 * [commercial\_application](commercial_application)
 * [decrypt\_the\_message](decrypt_the_message)
-* [hear\_with\_your_eyes](hear_with_your_eyes)
 * [hooked\_api](hooked_api)
 * [huge\_key](huge_key)
 * [iran\_pro\_league](iran_pro_league)
