@@ -10,6 +10,7 @@
 * [hidden\_message](hidden_message)
 * [recover\_deleted\_file](recover_deleted_file)
 * [rolling\_hash](rolling_hash)
+* [sudoku\_image\_encryption](sudoku_image_encryption)
 * [what\_is\_this](what_is_this)
 
 ## External write-ups only
@@ -32,7 +33,6 @@
 * [pwn\_it](pwn_it)
 * [reverse\_me](reverse_me)
 * [secure\_coding](secure_coding)
-* [sudoku\_image\_encryption](sudoku_image_encryption)
 * [terminate\_me](terminate_me)
 
 ## Missing write-ups
