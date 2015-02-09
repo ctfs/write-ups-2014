@@ -13,7 +13,7 @@
 
 We are given two files, a `ciphertxt.bin` and a php file `encipher.php`:
 
-![](encipher.php)
+[encipher.php](encipher.php)
 
 It uses a key and a random generated IV to encrypt the contents of the unknown file `flag.txt` with the `MCRYPT_RIJNDAEL_128` cipher, also known as the `AES` cipher.
 
@@ -23,7 +23,7 @@ Therefore we can bruteforce the cleartext by decrypting `ciphertext.bin` with th
 
 The following code decrypts `ciphertext.bin` and prints all cleartexts matching the substring `flag`:
 
-![](rijndael.py)
+[rijndael.py](rijndael.py)
 
 Executing it reveals our flag:
 
