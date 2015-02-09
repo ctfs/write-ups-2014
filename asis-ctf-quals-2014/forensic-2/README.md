@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Indonesian](http://blog.rentjong.net/2014/05/asis-quals-2014-forensic-300.html)>

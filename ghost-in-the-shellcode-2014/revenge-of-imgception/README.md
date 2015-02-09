@@ -28,7 +28,7 @@ The HTML source for that link is:
 </html>
 ```
 
-The `get_image` function generates a number from 1 to 50, and then uses that as part of the URL for an image. The image files don’t have an extension, but looking at the headers it’s obvious they’re JPEGs. So, let’s download them all:
+The `get\_image` function generates a number from 1 to 50, and then uses that as part of the URL for an image. The image files don’t have an extension, but looking at the headers it’s obvious they’re JPEGs. So, let’s download them all:
 
 ```bash
 $ for i in {1..50}; do curl -# "https://2014.ghostintheshellcode.com/roi-0252563f02b4e004978185322f1766b0/${i}" > "${i}.jpg"; done
@@ -50,6 +50,6 @@ The files are two apparently identical greyscale BMP images. The images are not,
 
 The final image contains a congratulatory message and the key: `K00pas@llth3w@yd0wn`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://pastebin.com/q8Lf8M0w>

@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://cedricvb.be/post/reverse-engineering-the-hitb-binary-100-ctf-challenge/>

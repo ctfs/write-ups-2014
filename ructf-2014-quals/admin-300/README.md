@@ -1,7 +1,8 @@
-# RuCTF 2014 Quals: Admin 300
+# RuCTF 2014 Quals: Admin 300 - [Floppy](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/floppy)
 
-(TODO)
+> [Find the key](task.ima).
+> Flag format is "RUCTF\_.\*".
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

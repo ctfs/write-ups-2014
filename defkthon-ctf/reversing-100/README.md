@@ -73,6 +73,6 @@ echo -n "9df54a6411ed678cdc925b26794052a882830c25" | md5sum
 
 The solution is `58b4d49e5489be09fc409e4c0b5e66ad`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://ctfwriteups.blogspot.in/2014/03/defkthon-2014-reversing-100.html>

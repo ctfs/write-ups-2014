@@ -49,7 +49,9 @@ forensic_150_2ca7d28df77ec506efc36dd09a146b13: tcpdump capture file (little-endi
 
 This is a pcap file. Let’s open it in Wireshark and fire up a packet search for the string “flag” in the packet bytes. All results seem to be comments to some HTML/JavaScript code about a boolean variable (a flag) — except for one result, which seems to be the result of a file download called `myfile`. Extracting this file from the pcap and using the Linux `file` command we see that `myfile` is actually another pcap file. However, loading it in Wireshark doesn’t seem to work — the file is broken. We ran `pcapfix` on `myfile` which succesfully repaired it so it could be opened in Wireshark. Investigating this file reveals a file upload to an HP device, most likely a printer. Again, we extract this file which resulted in a PostScript file that contained the flag in ASCII art.
 
-## Other write-ups
+## Other write-ups and resources
 
-* http://blog.squareroots.de/en/2014/05/asis-ctf-2014-forensic/
-* http://tasteless.se/2014/05/asis2014-forensic-150-forensic/
+* <http://blog.squareroots.de/en/2014/05/asis-ctf-2014-forensic/>
+* <http://tasteless.se/2014/05/asis2014-forensic-150-forensic/>
+* <http://blog.dul.ac/2014/05/ASISCTF14/>
+* <http://singularityctf.blogspot.de/2014/05/asis-ctf-quals-2014-writeup-forensic.html>

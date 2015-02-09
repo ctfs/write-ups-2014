@@ -43,9 +43,10 @@ $ nc 54.197.195.247 4321
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blog.mheistermann.de/2014/04/14/plaidctf-2014-parlor-crypto-250-writeup/>
 * <http://mslc.ctf.su/wp/plaidctf-2014-parlor-writeup/>
 * <https://fail0verflow.com/blog/2014/plaidctf2014-crypto250-parlor.html>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/crypto/parlor)
+* <http://blog.ztrix.me/blog/2014/04/14/plaidctf-2014-parlor-writeup/>

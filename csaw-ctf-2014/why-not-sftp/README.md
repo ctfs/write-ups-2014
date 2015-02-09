@@ -32,8 +32,11 @@ flag{91e02cd2b8621d0c05197f645668c5c4}
 
 The flag is `91e02cd2b8621d0c05197f645668c5c4` (which, by the way, happens to be the MD5 hash of the string `network`).
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---why-not-sftp-200pts-writeup>
 * <http://shankaraman.wordpress.com/2014/09/22/csaw-ctf-2014-forensics-200-why-not-sftp-writeup>
-* <https://gist.github.com/bt3gl/996d178dee7be56991db>
+* <http://bt3gl.github.io/csaw-ctf-2014-forensics-200-why-not-sftp.html>
+* <https://ucs.fbi.h-da.de/writeup-csaw-why-not-sftp/>
+* <http://www.incertia.net/blog/csaw-ctf-quals-2014-why-not-sftp/>
+* <https://github.com/hackerclub/writeups/blob/master/csaw-2014/why-not-sftp/WRITEUP-clampz.md>

@@ -149,3 +149,5 @@ The flag is `congratz_you_beat_openssl_as_a_whitebox`.
 * <https://fail0verflow.com/blog/2014/plaidctf2014-for250-curlcore.html>
 * <https://docs.google.com/a/google.com/file/d/0B1Q3-q0eaImNSlNJbTNKVzNtV3c/edit>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/forensics/curlcore)
+* [Indonese](http://blog.rentjong.net/2014/04/plaidctf2014-write-up-curlcore.html)
+* <http://j00ru.vexillium.org/dump/ctf/curlcore.zip>

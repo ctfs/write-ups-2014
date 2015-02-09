@@ -13,6 +13,6 @@ Checking the location on the map view ![Image](undistorted_history.png) revealed
 
 The flag is `Persian Gulf`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -68,7 +68,10 @@ The image, when cropped and flipped, shows the following:
 
 ![flag{ youc@n'tseeme }](flag.jpg)
 
-## Other write-ups
+## Other write-ups and resources
 
-* <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-flag-is-here-misc-200.html>
+* <http://blog.0xdeffbeef.com/2014/03/defkthon-ctf-2014-flag-is-here-misc-200.html>
 * <http://www.cravetocode.com/2014/03/defkthon-ctf-misc-200-writeup.html>
+* <http://tasteless.eu/2014/03/defkthon-ctf-2014-rev200-misc200-recon200-misc300/>
+* <https://shankaraman.wordpress.com/2014/03/05/defkthon-ctf-misc-200-writeup/>
+* [Russian](http://reu.org.ua/ctf/write-up-defkthon-ctf-2014-misc-200.html)

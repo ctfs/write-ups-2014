@@ -15,6 +15,6 @@ The purpose of this cometition was to develop a [SHA-3](http://en.wikipedia.org/
 
 Cheetah, Lane and Tangle were all entrants to the competition though they did not qualify for the final round. The winner was [Keccak](http://en.wikipedia.org/wiki/Keccak) thus the flag for this challenge is Keccak.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://singularityctf.blogspot.de/2014/05/asis-ctf-quals-2014-writeup-winner.html>

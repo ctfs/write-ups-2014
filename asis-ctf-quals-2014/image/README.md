@@ -51,10 +51,14 @@ Later (2014-05-10 01:31) during the competition the image file was [updated](tri
 
 ![Level 2 map altered](level-2-updated.png)
 
-The flag is `8BIT_RULES`.
+The flag is `8BIT\_RULES`.
 
 We do not need to play the game to get to second (or in that matter to any) level. On the level selection screen we can press `X` (bind to `A` button on SNES pad) to change level to 2.
 
-## Other write-ups
+## Other write-ups and resources
 
-* http://nickthefrost.com/2014/05/10/asis-ctf-quals-2014-image/
+* <http://nickthefrost.com/2014/05/10/asis-ctf-quals-2014-image/>
+* [Indonesian](http://blog.rentjong.net/2014/05/asis-quals-2014-image-trivia-50.html)
+* <http://quangntenemy.blogspot.de/2014/05/asis-ctf-quals-2014.html>
+* [Persian](http://xploit.ir/asis-2014-quals-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87/)
+* <http://apelord.net/posts/asis-ctf-quals-2014-trivia-50>

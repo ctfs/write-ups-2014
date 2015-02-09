@@ -18,6 +18,9 @@ to get the flag.
 
 Source: https://ctftime.org/writeup/1177
 
-## Other write-ups
+## Other write-ups and resources
 
-* http://pastebin.com/kr6uDrN3
+* <http://blog.dul.ac/2014/07/PWNIUM14/>
+* <http://pastebin.com/kr6uDrN3>
+* <https://crazybulletctfwriteups.wordpress.com/2014/07/08/pwnium-ctf-2014-alter-code/>
+* <https://ctftime.org/writeup/1177>

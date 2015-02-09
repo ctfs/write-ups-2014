@@ -1,0 +1,114 @@
+import re
+import sys
+import string
+from sys import stdout
+sys.stderr = stdout
+
+
+sanitize = re.compile(
+    r'(?:__|import|globals|locals|exec|eval|join|format|replace|translate|try|except|with|content|frame|back)'
+    ).sub
+
+trusted_builtins = """
+    True False type int
+    """.split()
+
+
+alphabet = ' \n\r0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ(),.:;<=>[]_{}'
+
+t1 = ''.join(chr(code) for code in xrange(256))
+t2 = []
+for i in t1:
+    if i in alphabet:
+        t2.append(i)
+    else:
+        t2.append(' ')
+trans_table = string.maketrans(t1, ''.join(t2))
+
+EXPECTED = 13.37
+
+del alphabet, t1, t2, i, sys, string, re
+
+
+def clear_builtins():
+    orig = __builtins__.__dict__.copy()
+    __builtins__.__dict__.clear()
+    for i in trusted_builtins:
+        __builtins__.__dict__[i] = orig[i]
+
+
+part1_of_flag = '******************'
+part2_of_flag = '******************'
+egg = 'egg'
+
+
+def main():
+
+    if raw_input() != 'leetleetleetleet':
+        return
+
+    print ('Welcome to pyjail!\n\n'
+           'Try to get the flag!\n'
+           'Use ctrl+D or --- to submit your code\n')
+
+    stdout.flush()
+    
+    code = []
+    total_bytes = 0
+    while True:
+        try:
+            value = raw_input()
+            total_bytes += len(value)
+            assert total_bytes < 1337
+            if value == '---':
+                break
+            code.append(value)
+        except EOFError:
+            break
+    
+    code = sanitize("/*ERR*/", '\n'.join(code).translate(trans_table))
+    clear_builtins()
+
+    def sandbox():
+
+        t=r=y = t=o = s=o=l=v=e = t=h=e = d=i=v=i=s=i=o=n = q=u=i=z = 0
+
+        def exec_in_context(ctx):
+            exec code in ctx
+            print 'Flag is',
+            try:
+                assert FLAG != part1_of_flag
+                print FLAG
+            except:
+                print '********************'
+
+        def we_must_be_sure_flag_part1_is_ready():
+            global FLAG
+            FLAG = part1_of_flag
+
+        def we_must_be_sure_flag_part2_is_ready():
+            global FLAG
+            FLAG += part2_of_flag
+
+        def divider(v1):
+            
+            a = "You are lucky!"
+            b = "Try again!"
+
+            def divider(v2):
+                i,t,s,  n,o,t,  s,o,  h,a,r,d
+                if int(v1) / int(v2) == EXPECTED:
+                    print a
+                    we_must_be_sure_flag_part2_is_ready()
+                else:
+                    print b
+            we_must_be_sure_flag_part1_is_ready()
+            return divider
+        
+        exec_in_context({'div': divider})
+
+    sandbox()
+
+
+if __name__ == '__main__':
+    main()

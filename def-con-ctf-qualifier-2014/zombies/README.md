@@ -188,6 +188,7 @@ while(True):
 s.close()
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://sigint.ru/writeups/2014/05/19/defcon-2014-quals---zombies/>
+* [Japanese](http://epsilondelta.hatenablog.jp/entry/2014/05/20/014011)

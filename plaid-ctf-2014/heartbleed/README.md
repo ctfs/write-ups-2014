@@ -44,8 +44,13 @@ Received heartbeat response:
 WARNING: server returned more data than it should; server is vulnerable!
 ```
 
-The flag is `flag{hey_guise_we_made_a_heartbleed}`.
+The flag is `flag{hey\_guise\_we\_made\_a\_heartbleed}`.
 
 ## Other write-ups and resources
 
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/heartbleed)
+* <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/Heartbleed/WRITEUP-pipecork.md>
+* <http://csrc.tamuc.edu/css/?p=152>
+* <https://docs.google.com/document/d/1Y0wGrFkGUsK9Gzqh4sQnMHZDgWfMMvfPUN-vVjPNDfI/edit?pli=1>
+* <http://akaminsky.net/plaidctf-quals-2014-misc-10-heartbleed/>
+* [Spanish](http://crackinglandia.blogspot.com.ar/2014/04/plaidctf-2014-heartbleed-misc-10-pts.html)

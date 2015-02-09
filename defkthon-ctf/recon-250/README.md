@@ -70,6 +70,6 @@ flag { Pretty007G00d007Privacy }
 
 The flag is `Pretty007G00d007Privacy`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-crack-ajins-message.html>
+* <http://blog.0xdeffbeef.com/2014/03/defkthon-ctf-2014-crack-ajins-message.html>

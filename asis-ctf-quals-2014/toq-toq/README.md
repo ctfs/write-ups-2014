@@ -71,6 +71,7 @@ doPortKnocking(ports, 'http://87.107.123.4:8799/last_part_of_flag')
 
 Alternatively, [the `knock` command-line utility](http://www.zeroflux.org/projects/knock) can be used to perform the port knocking.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blog.dul.ac/2014/05/ASISCTF14/>
+* [Indonesian](http://blog.rentjong.net/2014/05/toq-toq-forensic100.html)

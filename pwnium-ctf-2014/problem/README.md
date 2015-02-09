@@ -12,6 +12,6 @@ As reported by Tasteless on <https://ctftime.org/writeup/1178>:
 
 > The flag is the last row in the scoreboard (it is different from  the others because there is no link to the team profile).
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <https://ctftime.org/writeup/1178>

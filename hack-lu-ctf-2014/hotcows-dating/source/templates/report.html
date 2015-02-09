@@ -1,0 +1,26 @@
+<header>
+    <h1>HotCows</h1> - The only problem is your attitude.
+    <button id="btn-logout">logout</button>
+    <button id="btn-overview">cowerview</button>
+</header>
+<h2>Report a problem</h2>
+<form action="report.php" method="post" id="reportform">
+    <div class="form-row">
+        <label for="id-cow_name" maxlength="10">Cow name</label>
+        <input required type="text" id="id-cow_name" name="cow_name">
+    </div>
+    <div class="form-row">
+        <label for="id-area">Problem area</label>
+        <select id="id-area" name="area">
+            <option value="0">Broken functionality</option>
+            <option value="1">Cow not horny enough</option>
+            <option value="2">Cow waaay to horny</option>
+            <option value="3">Something else</option>
+        </select>
+    </div>
+    <div class="form-row">
+        <label for="id-desc">Description</label>
+        <textarea required id="id-desc" name="desc"></textarea>
+    </div>
+    <input type="submit" value="Submit">
+</form>

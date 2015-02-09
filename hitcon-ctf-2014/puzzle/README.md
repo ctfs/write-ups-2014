@@ -41,6 +41,6 @@ As you can see you can give an array as argument to the function and it places t
 
 After puzzling the real image together we can see a piece of the flag. Now it is a matter of manipulating the image untill you see the full flag. I used photoshop and the calculations function. After manipulating for a while and using the hint `HITCON{lllluuul_luul_udd}` where `l` is lowercase and `u` is uppercase I came to the following flag: `HITCON{mounTAIn_jPEg_I01}`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://blog.squareroots.de/en/2014/08/hitcon-ctf-2014-puzzle/>

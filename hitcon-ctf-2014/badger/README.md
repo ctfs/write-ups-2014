@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://cuby.hu/hitcon-lol-notes-then-not-writeups.txt>

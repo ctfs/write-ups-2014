@@ -1,0 +1,53 @@
+net .alg .bufferedEpollServer "+" via
+
+sys .file ":-/" via
+/dev/urandom :-/open
+6000 :-/read 
+" " str .split
+txt .consume .u
+==random
+:-/close
+
+sys .file ":-)" via
+/dev/flag :-)open
+200 :-)read
+==flag
+:-)close
+
+0 ==i
+"go" dump
+{ ":" via <
+  "Welcome to the casino. Your commands are: 'account', 'flag', and 'I bet <1234> and guess <1234>'\n" :write
+  i 1 add _ =i
+  ==j
+  10 ==k
+  { ==input [
+    { input "account\n" eq }
+      { "You have " k txt .produce .u " units\n" cat cat :write }
+    { input "flag\n" eq }
+      { k 1000000 gt { "OK, you won: " flag "\n" cat cat :write } { "No flag for you\nplay the game!\n" :write } ? * }
+    { input "I bet ([0-9]+) and guess ([0-9]+)\n" regex }
+      { txt .consume .u ==bet txt .consume .u ==guess
+        j 1 add =j
+        bet k le {
+          k bet sub =k
+          j random * _ ==result guess eq
+          {
+            k bet 2 mul add =k
+            "you were right!\n" :write
+          }
+          {
+            "you were wrong the number was " result txt .produce .u "\n" cat cat :write
+            k 0 eq { "You lost!\n" :write :finish } rep
+          } ? *
+        } {
+          "you cant bet that much!\n" :write
+        } ? *
+        }
+    { 1 } { "I dont understand\n" :write }
+  ] conds
+  ""
+  } =*in
+  { :close } _ =*end =*err
+> } +accept
+{ 2000 } +port +run

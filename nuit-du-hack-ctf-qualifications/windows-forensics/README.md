@@ -12,6 +12,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* <http://sigint.ru/nuitduhack2014/>
+* <http://sigint.ru/writeups/2014/04/07/nuit-du-hack-2014-writeups/#windows-forensics>

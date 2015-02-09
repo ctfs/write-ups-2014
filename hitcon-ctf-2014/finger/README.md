@@ -24,6 +24,6 @@ Because of a programming error, you can give the program a secret (your hand) wh
 
 The flag is `HITCON{you are super lucky OAQ!}`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/anonymous/c03c72829af36757eddb>

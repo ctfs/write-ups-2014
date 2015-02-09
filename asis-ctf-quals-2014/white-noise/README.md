@@ -89,10 +89,10 @@ When using the first 10000 points as coordinates on a scatter-plot (I used Excel
 
 ![](flag.png)
 
-When rotating this picture the flag becomes visible: `ASIS_329afbd5ba6fc8b1df15e886edbdcc25`.
+When rotating this picture the flag becomes visible: `ASIS\_329afbd5ba6fc8b1df15e886edbdcc25`.
 
 Only 4 teams managed to solve this challenge.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://quangntenemy.blogspot.de/2014/05/asis-ctf-quals-2014.html>

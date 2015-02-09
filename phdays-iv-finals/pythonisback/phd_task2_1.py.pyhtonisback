@@ -1,0 +1,201 @@
+import os, pwd
+import asyncore
+import socket
+from multiprocessing import Process
+from llvm.core import *
+from llvm.passes import *
+from llvm.ee import *
+from llvm_cbuilder import *
+import llvm_cbuilder.shortnames as C
+from ctypes.util import find_library
+import ctypes as ct
+
+import struct
+
+def build_cfg(mod):
+    functype = Type.function(C.char_p, [C.char_p, C.int, C.char_p, C.int])
+    functype_c = Type.function(C.int64, [C.char_p, C.int])
+    func = mod.add_function(functype, 'ewrtgfdsg')
+    func_c = mod.add_function(functype_c, 'dasdfcv')
+
+    cb = CBuilder(func)
+    cb_c = CBuilder(func_c)
+
+    i = cb.var(C.int)
+    j = cb.var(C.int)
+    k = cb.var(C.int)
+    t = cb.var(C.int)
+    T = cb.var(C.int)
+    e_l = cb.args[3]
+    data = cb.args[2]
+    tmp = cb.var(C.int)
+    K = cb.args[0]
+    S = cb.array(C.int, 0x100)
+    L = cb.args[1]
+
+    zero = cb.constant(C.int, 0)
+    one = cb.constant(C.int, 1)
+    eight_64 = cb.constant(C.int64, 8)
+    eight = cb.constant(C.int, 8)
+    limit = cb.constant(C.int, 0x100)
+
+    ptr = cb.builder.malloc_array(C.char, Constant.int(Type.int(), 0x100))
+    result = CArray(cb, ptr)
+
+    zero_c = cb_c.constant(C.int, 0)
+    ptr = cb_c.builder.malloc(C.int)
+    i_c = CVar(cb_c, ptr)
+    k_c = cb_c.args[0]
+    l_c = cb_c.args[1]
+
+    K_c = cb_c.array(C.char, 0x80)
+
+    i_c.assign(zero_c)
+    with cb_c.loop() as loop:
+        with loop.condition() as setcond:
+            setcond(i_c < l_c)
+
+        with loop.body():
+            K_c[i_c + l_c] = k_c[i_c]
+            i_c += one
+
+    cb_c.ret(K_c.cast(C.int64))
+    cb_c.close()
+
+    r = cb.builder.call(func_c, [K.value, L.value])
+    r = CTemp(C.int64, r)
+    r1 = cb.var(C.int64, r)
+
+    i.assign(zero)
+    with cb.loop() as loop:
+        with loop.condition() as setcond:
+            setcond(i < eight)
+
+        with loop.body():
+            result[i] = r1.cast(C.char)
+            r1.assign(r1 >> eight_64)
+            i += one
+    
+    i.assign(zero)
+
+    with cb.loop() as loop:
+        with loop.condition() as setcond:
+            setcond(i < limit)
+
+        with loop.body():
+            S[i] = i
+            i += one
+
+    i.assign(zero)
+    j.assign(zero)
+
+    with cb.loop() as loop:
+        with loop.condition() as setcond:
+            setcond(i < limit)
+
+        with loop.body():
+            j += S[i]
+            j += K[i % L].cast(C.int)
+            j %= limit
+            tmp.assign(S[i])
+            S[i] = S[j]
+            S[j] = tmp
+            i += one
+
+    i.assign(zero)
+    j.assign(zero)
+    k.assign(zero)
+
+    with cb.loop() as loop:
+        with loop.condition() as setcond:
+            setcond(k < e_l)
+
+        with loop.body():
+            i += one
+            i %= limit
+
+            j += S[i]
+            j %= limit
+
+            tmp.assign(S[i])
+            S[i] = S[j]
+            S[j] = tmp
+
+            t = S[i] + S[j]
+            t %= limit
+            T = S[t]
+
+            result[k] = data[k]
+            result[k] ^= T.cast(C.char)
+
+            k += one
+
+    cb.ret(result)
+    cb.close()
+    return (func, func_c)
+
+def trololo(data, handler):
+    os.setresuid(65534, 65534, 65534)
+    try:
+        params = data.split(b":")
+        if len(params) != 2:
+            handler.sendall(b"Wrong args... Pyhton don't know what to do with them:(\n")
+            return
+
+        mod = Module.new("fast")
+
+        enc_foo = build_cfg(mod)
+
+        exe = CExecutor(mod)
+        func = exe.get_ctype_function(enc_foo[0], ct.c_void_p, ct.c_char_p, ct.c_int, ct.c_char_p, ct.c_int)
+
+        key = params[0]
+        key_len = len(key)
+        data = params[1]
+        data_len = len(data)
+
+        mod.verify()
+        resp = func(ct.c_char_p(key), key_len, ct.c_char_p(data), data_len)
+        resp = ct.cast(resp, ct.POINTER(ct.c_ubyte))
+        resp_b = b"Now it's secture "
+        for i in range(data_len + 8):
+            resp_b += b"\\x" + hex(resp[i])[2:].rjust(2, "0").encode()
+        resp_b += b"\n"
+        handler.sendall(resp_b)
+    except Exception as e:
+        print(str(e))
+
+class FunnyHandler(asyncore.dispatcher_with_send):
+    def handle_read(self):
+        data = self.recv(8192)
+        try:
+            proc = Process(target = trololo, args = (data, self))
+            proc.start()
+            proc.join(10)
+            self.sendall(b"Done.")
+        except Exception as e:
+            print("Exception: " + str(e))
+        print("End read")
+        self.close()
+
+class FunnyServer(asyncore.dispatcher):
+    def __init__(self, host, port):
+        asyncore.dispatcher.__init__(self)
+        self.create_socket(socket.AF_INET, socket.SOCK_STREAM)
+        self.set_reuse_addr()
+        self.bind((host, port))
+        self.listen(5)
+
+    def handle_accepted(self, sock, addr):
+        print('Incoming connection from %s' % repr(addr))
+        sock.sendall(b"Welcome to paranoid node at " + str(os.uname()).encode() + b"\n")
+        handler = FunnyHandler(sock)
+
+def main():
+    os.setresuid(1001, 65534, 1001)
+    server = FunnyServer('', 8080)
+    asyncore.loop()
+    print("OMG!")
+
+if __name__ == '__main__':
+    main()

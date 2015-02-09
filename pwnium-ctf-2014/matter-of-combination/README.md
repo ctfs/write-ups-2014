@@ -8,6 +8,6 @@
 ## Write-up
 
 
-## Other write-ups
+## Other write-ups and resources
 
-
+* <http://0xawes0.me/writeups/2014/07/26/stego75-pwnium/>

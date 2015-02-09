@@ -39,6 +39,9 @@ So the 32-bit instruction word for `b` is `0x14000000`. Since ARM64 is little-en
 
 The answer is `00000014`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
+* <https://ctftime.org/writeup/927>
+* <http://ctfwriteups.blogspot.jp/2014/02/olympic-ctf-2014-nopsleigh-10-as-seen.html>
+* [Chinese](http://ddaa.logdown.com/posts/178446-olympic-ctf-2014-10-point-summary)

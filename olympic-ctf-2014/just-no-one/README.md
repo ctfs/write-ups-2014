@@ -27,7 +27,11 @@ And indeed — after running `setup.exe` again and carefully reading the license
 
 The flag is `ILOVEREADINGEULAS`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://maroueneboubakri.blogspot.com/2014/02/olympic-ctf-sochi-2014-binathlon-10.html>
 * <https://ctftime.org/writeup/926>
+* <http://cybersecurity.cci.fsu.edu/olympic-ctf-2014-writeup/>
+* <http://delimitry.blogspot.ru/2014/02/olympic-ctf-2014-writeups.html>
+* <http://ctfwriteups.blogspot.jp/2014/02/olympic-ctf-2014-binathlon-10-just-no.html>
+* [Chinese](http://ddaa.logdown.com/posts/178446-olympic-ctf-2014-10-point-summary)

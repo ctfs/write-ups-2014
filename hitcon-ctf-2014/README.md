@@ -10,6 +10,7 @@
 * [DIAGCGI](diagcgi)
 * [EASYINJ](easyinj)
 * [finger](finger)
+* [ginger](ginger)
 * [LEENODE](leenode)
 * [maze](maze)
 * [overthere](overthere)
@@ -18,26 +19,28 @@
 * [PUSHIN CAT](pushin-cat)
 * [puzzle](puzzle)
 * [rsaha](rsaha)
+* [Tarmful](tarmful)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [badger](badger)
-* [breath](breath)
 * [callme](callme)
-* [de](de)
 * [ducky](ducky)
 * [G8LA](g8la)
-* [ginger](ginger)
 * [girby](girby)
 * [hop](hop)
 * [mid](mid)
 * [PY4H4SHER](py4h4sher)
-* [pycmd](pycmd)
-* [PYFMT](pyfmt)
 * [rsbo](rsbo)
 * [sha1lcode](sha1lcode)
 * [stkof](stkof)
-* [Tarmful](tarmful)
 * [ty](ty)
-* [vash](vash)
 * [wtf6](wtf6)
+
+## Missing write-ups
+
+* [breath](breath)
+* [de](de)
+* [pycmd](pycmd)
+* [PYFMT](pyfmt)
+* [vash](vash)

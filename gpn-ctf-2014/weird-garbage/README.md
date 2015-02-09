@@ -11,6 +11,6 @@ server: [ctf.gpn.entropia.de:50070](ctf.gpn.entropia.de:50070)
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -11,26 +11,29 @@
 ## Completed write-ups
 
 * [3dttt](3dttt)
+* [hackertool](hackertool)
 * [routarded](routarded)
+* [shitsco](shitsco)
 * [zombies](zombies)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [100lines](100lines)
 * [bbgp](bbgp)
-* [blackbox](blackbox)
 * [byhd](byhd)
 * [choripan](choripan)
 * [dosfun4u](dosfun4u)
 * [dosfun4u round 2](dosfun4u-round-2)
 * [fritas](fritas)
-* [hackertool](hackertool)
 * [heap](heap)
 * [medianoche](medianoche)
-* [nonameyet](nonameyet)
 * [polyglot](polyglot)
 * [rebaby](rebaby)
 * [sftp](sftp)
-* [shitsco](shitsco)
-* [sick](sick)
 * [turdedo](turdedo)
+
+## Missing write-ups
+
+* [blackbox](blackbox)
+* [nonameyet](nonameyet)
+* [sick](sick)

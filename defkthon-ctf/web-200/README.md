@@ -10,6 +10,7 @@ The hint [“Not SQL”](https://twitter.com/OpenSecurity_IN/status/440536455614
 
 The final solution that resulted in the flag `flag{itoldunaathisisnotSQLinjection}` was `http://54.201.96.212:888/web200/?userid[$ne]=a&password[$ne]=a`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://tasteless.eu/2014/03/defkthon-ctf-2014-web200-web300-and-web400-writeup/>
+* [Japanese](http://hority-ctf.blogspot.jp/2014/03/defkthon-ctf-2014-write-up.html)

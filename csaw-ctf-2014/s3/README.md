@@ -22,4 +22,6 @@ The flag is `SimplyStupidStorage`.
 
 * <http://choppers.pw/posts/2014/09/21/csaw-quals-2014-s3/>
 * <http://tasteless.se/2014/09/s3-writeup-csaw-2014-exploiting-300/>
+* <http://v0ids3curity.blogspot.in/2014/09/csaw-ctf-quals-2014-s3-exploitation-300.html>
 * [Exploit written in Python by @ebeip90](https://gist.github.com/ebeip90/c6cb842b66fcc1680ea7)
+* <https://ctfcrew.org/writeup/77>

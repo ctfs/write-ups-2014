@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+<a href="/"><img src="/static/logo.jpg" border="0"></a>
+
+
+{% if error %}
+<div class="alert alert-error">{{ error }}</div>
+{% endif %}
+
+<h2>Register</h2>
+<form method="post" action="">
+ <fieldset>
+<label>Login</label> <input type="text" name="username" value="">
+<label>Password</label> <input type="text" name="password" value=""><br/>
+<p>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api/challenge?k={{ public_key }}"></script>
+</p>
+
+<button class="btn btn-large btn-primary">Register</button>
+
+ </fieldset>
+
+</form>
+</div>
+{% endblock %}

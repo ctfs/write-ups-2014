@@ -45,7 +45,8 @@ while True:
 
 The flag is `trust_is_risky`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://www.mrt-prodz.com/blog/view/2014/09/csaw-ctf-quals-2014---eggshells-100pts-writeup>
-* [Write-up by @bt3gl](https://gist.github.com/bt3gl/0247f84ced4fb7d7bf72)
+* <http://bt3gl.github.io/csaw-ctf-2014-reverse-engineering-100-eggshells.html>
+* <http://dhanvi1.wordpress.com/2014/10/07/csaw-ctf-quals-2014-eggshells-100-writeup/>

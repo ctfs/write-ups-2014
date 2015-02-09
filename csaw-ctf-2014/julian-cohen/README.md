@@ -20,6 +20,7 @@ During the CTF, a troll [set up another OkCupid profile that was much easier to 
 
 The CTF organisers counter-trolled by accepting that flag (`flowers_and_wine_will_get_me`) as well.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <https://ucs.fbi.h-da.de/writeup-csaw-julian-cohen/>
+* <http://www.incertia.net/blog/csaw-ctf-quals-2014-julian-cohen/>

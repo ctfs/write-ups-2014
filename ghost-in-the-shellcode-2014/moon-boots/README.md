@@ -19,6 +19,6 @@ That way, it’s possible to jump out of bounds on the regular map, which effect
 
 The flag is `Use a Tab, Space will leave you breathless`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>

@@ -1,0 +1,34 @@
+const net = require \net
+const BufferStream = require \bufferstream
+
+admin_password = (require \fs).readFileSync \admin_password, \utf8
+
+
+server = net.createServer (con) ->
+  console.log 'client connected'
+  con.write 'hello!\n'
+  client_context =
+    is_admin: false
+    token: (require \fs).readFileSync \secret_token, \utf8
+    login: ([password], cb) ->
+      if password == admin_password
+        cb "Authentication successful"
+        @is_admin = true
+      else
+        cb "Authentication failed"
+    get_token: ([], cb) ->
+      if not @is_admin then return cb "You are not authorized to perform this action."
+      cb "The current token is #{@token}"
+  in_stream = new BufferStream {encoding:\utf8, size:\flexible}
+  con.pipe in_stream
+  <- in_stream.split \\n
+  it .= toString \utf8
+  console.log "got line: #{it}"
+  [funcname, ...args] = it.split ' '
+  if typeof client_context[funcname] != \function
+    return con.write "error: unknown function #funcname\n"
+  client_context[funcname] args, ->
+    con.write "#it\n"
+
+server.listen 1408, ->
+  console.log 'server bound'

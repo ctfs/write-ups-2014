@@ -14,3 +14,7 @@
 
 * <https://isisblogs.poly.edu/2014/05/19/babys-first-heap-exploit-defcon-quals-2014/>
 * <http://pastebin.com/iM6wCRqa>
+* <http://v0ids3curity.blogspot.in/2014/05/defcon-quals-2014-babys-first-heap-team.html>
+* <http://tasteless.eu/2014/05/def-con-ctf-qualifier-2014-babys-heap/>
+* [Japanese](http://epsilondelta.hatenablog.jp/entry/2014/05/20/014011)
+* <http://pastebin.com/wqDPJhvv>

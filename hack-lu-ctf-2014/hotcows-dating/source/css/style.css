@@ -1,0 +1,301 @@
+/* http://www.colourlovers.com/palette/759502/Autumns_Glow */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, sans-serif;
+}
+html {
+    background: #FCDEBB;
+}
+body {
+    max-width: 1000px;
+    margin: 20px auto;
+    border-radius: 10px;
+    background: #FAC589;
+    box-shadow: 5px 1px 10px rgba(0, 0, 0, 0.1);
+}
+body::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+.nojs {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: calc(100% - 200px);
+    background: #000;
+    color: #fff;
+    text-align: center;
+    padding-top: 200px;
+}
+header {
+    background: #8C001C;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 10px 20px;
+    color: #eee;
+    font-size: 18px;
+    color: #FCDEBB;
+}
+header button {
+    float: right;
+}
+header h1 {
+    font-size: 18px;
+    display: inline;
+    font-size: 20px;
+    color: #fff;
+    font-weight: normal;
+}
+.cowbox {
+    margin: 12px;
+    background: #fff;
+    background: url(../static/cow_front.jpg);
+    border: 10px solid #fff;
+    border-radius: 12px;
+    height: 637px;
+}
+.cowbox-inner {
+    margin-left: 40px;
+    background: rgba(255, 255, 255, 0.6);
+    width: 300px;
+    height: 100%;
+}
+.cowbox h2 {
+    font-weight: normal;
+    text-align: center;
+    padding: 20px 0 10px;
+    margin-bottom: 40px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    background: rgba(255, 255, 255, 0.2);
+    color: #D94709;
+}
+.hint {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    padding: 5px 10px;
+    font-weight: bold;
+    color: #8C001C;
+}
+.cowbox form {
+    padding-bottom: 20px;
+    text-align: center;
+}
+.cowbox input[type=text], .cowbox input[type=password] {
+    border: 1px solid #000;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 5px 10px;
+    width: 260px;
+    margin-bottom: 5px;
+    outline: 0;
+}
+.cowbox input[type=text]:focus, .cowbox input[type=password]:focus {
+    background: #fff;
+}
+button, input[type=submit] {
+    background: linear-gradient(to bottom, rgba(255,255,255,1) 0%,rgba(246,246,246,1) 47%,rgba(237,237,237,1) 100%);
+    border: 1px solid #ccc;
+    padding: 5px 20px;
+    font-variant: small-caps;
+    border-radius: 3px;
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+}
+.minibox {
+    float: left;
+    background: #8C001C;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 12px;
+    width: 215px;
+    color: #fff;
+    text-align: justify;
+}
+.minibox:first-child {
+    margin: 0;
+}
+.minibox-wrapper {
+    padding: 0 12px 12px;
+}
+.minibox-wrapper::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.minibox h4 {
+    text-align: center;
+}
+.alert {
+    background: rgba(0, 0, 0, 0.4);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.alert p {
+    background: #fff;
+    border-radius: 3px;
+    box-shadow: 2px 1px 3px #000;
+    margin: auto;
+    width: 400px;
+    margin-top: 200px;
+    padding: 12px;
+    text-align: center;
+    font-weight: bold;
+}
+.alert p button {
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+}
+.alert-error p {
+    background: #F5A4A4;
+}
+.moo {
+    float: left;
+    background: #fff;
+    margin: 10px;
+    width: calc(50% - 15px);
+    border-radius: 10px;
+}
+.clickable {
+    cursor: pointer;
+}
+.moo:last-child {
+    margin-left: 0;
+}
+.moo h4 {
+    background: #8C001C;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 5px 10px;
+    color: #eee;
+    font-size: 18px;
+    color: #FCDEBB;
+}
+.cow {
+    width: 481px;
+    height: 360px;
+    border: 2px solid #8C001C;
+    text-align: right;
+    color: #A80022;
+    font-weight: bold;
+    border-top: 0;
+}
+.cow p {
+    text-align: right;
+    padding: 5px;
+    font-size: 20px;
+    text-stroke-width: 1px;
+    text-stroke-color: black;
+}
+h2 {
+    text-align: center;
+    padding: 15px 0 5px;
+    color: #D94709;
+}
+.Rosie {
+    background: url(../static/rosie.jpg);
+}
+.Clara {
+    background: url(../static/clara.jpg);
+}
+.Maggie {
+    background: url(../static/maggie.jpg);
+}
+.Abbie {
+    background: url(../static/abbie.jpg);
+}
+.blink {
+  animation: blink 1s steps(5, start) infinite;
+  -webkit-animation: blink 1s steps(5, start) infinite;
+}
+@keyframes blink {
+  to { visibility: hidden; }
+}
+@-webkit-keyframes blink {
+  to { visibility: hidden; }
+}
+.chat {
+    display: none;
+}
+.chatbox {
+    margin: 10px;
+    margin-bottom: 0;
+    height: 350px;
+    overflow-y: scroll;
+}
+.chatbox p {
+    padding: 2px 5px 2px;
+}
+.chatbox span {
+    font-weight: bold;
+}
+.chatbox .me span {
+    color: #070B82;
+}
+.chatbox .her {
+    background: #eee;
+}
+.chatbox .her span {
+    color: #A80022;
+}
+#chatform input[type=text] {
+    width: 395px;
+    padding: 0 5px;
+    height: 32px;
+    border: 1px solid #ccc;
+    border-right: 0;
+    font-size: 14px;
+    outline: 0;
+    box-sizing: border-box;
+}
+#chatform input[type=submit] {
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    box-sizing: border-box;
+    width: 70px;
+    height: 32px;
+}
+#chatform {
+    padding: 0 10px 10px;
+}
+.cowdesc {
+    padding: 5px;
+    background: #8C001C;
+    color: #FCDEBB;
+}
+#reportform {
+    margin: auto;
+    padding: 15px;
+}
+#reportform label {
+    display: block;
+    float: left;
+    text-align: right;
+    width: 110px;
+    padding-right: 10px;
+}
+#reportform::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.form-row {
+    padding-bottom: 10px;
+}
+.form-row input, .form-row select, .form-row textarea {
+    border: 1px solid #8C001C;
+    padding: 5px;
+    width: calc(100% - 140px);
+    box-sizing: content-box;
+}
+.form-row textarea {
+    height: 150px;
+}
+#reportform input[type=submit] {
+    float: right;
+}

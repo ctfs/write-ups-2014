@@ -55,6 +55,6 @@ bbe60b482d22ea98a4d0ef205f772a8b
 
 Since the CTF rules state that each flag is of the format `ASIS_x` where `x` is an MD5 hash unless explicitly stated otherwise, the flag is `ASIS_bbe60b482d22ea98a4d0ef205f772a8b`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Persian](http://xploit.ir/asis-2014-quals-%D8%A8%D8%A7%D8%BA-%D9%88%D8%AD%D8%B4-%D8%B5%D8%AF%D8%A7/)

@@ -1,7 +1,7 @@
-# RuCTF 2014 Quals: Reverse 10
+# RuCTF 2014 Quals: Reverse 10 - [Harm](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/harm)
 
-(TODO)
+> It sure should be a no problem for you to find an md5 digest of ragger.hsc file from harm0597 discmag.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://h34dump.com/2014/03/ructf-quals-2014-reverse-10/>

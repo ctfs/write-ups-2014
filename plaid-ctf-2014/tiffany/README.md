@@ -16,3 +16,4 @@
 
 * <https://fail0verflow.com/blog/2014/plaidctf2014-re300-tiffany.html>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/reversing/tiffany)
+* <http://blog.dragonsector.pl/2014/04/plaid-ctf-2014-tiffany-writeup.html>

@@ -28,6 +28,6 @@ Using [the Firmware Modification Kit](https://code.google.com/p/firmware-mod-kit
 
 In the file `rootfs/etc/www` we encountered the line `</html>'flag is caputdraconis`. Hence the flag to solve this level is `caputdraconis`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

@@ -1,0 +1,184 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>JavaScript cloze puzzle</title>
+<style>
+body{
+    font-family:'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, sans-serif;
+}
+body{
+    background-color:black;
+    color:white;
+}
+[draggable]{
+  user-select: none;
+  -moz-user-select: none;
+}
+div.token  {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  width: 150px;
+  float: left;
+  border: 1px solid #666666;
+  background-color: #333;
+  border-radius: 10px;
+  text-align: center;
+  cursor: move;
+  font-family: monospace;
+  color:red;
+}
+
+.code{
+    margin: 1em 1em 0.1em 1em;
+    padding: 0.1em 2em 0.1em 2em;
+    border: solid 1px silver;
+    font-family: monospace;
+    white-space: pre;
+    line-height: 2em;
+}
+
+.cloze{
+    display: inline-block;
+    width: 10em;
+    height: 1.6em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    border: solid 1px yellow;
+    margin-left: 0.1em;
+    margin-right: 0.1em;
+    
+    background-color: #288;
+    vertical-align: baseline;
+    text-align: center;
+}
+#tokenpanel{
+    margin: 1em;
+    clear:both;
+}
+
+.answer{
+    margin: 1em;
+    text-align: right;
+}
+
+.eval{
+    margin: 0.1em 1em 1em 1em;
+    text-align: right;
+}
+
+
+</style>
+<script>
+document.addEventListener( "DOMContentLoaded", function(){
+    var i, n, m, s, div, panel;
+    var tokens = ["match", "pattern", "exec", "constructor", "eval", "alert", "debugger", "new", "fromCharCode", "null", "indexOf", "this", "function", "charAt", "Function", "^[w]$", "return", "toLowerCase", "/*^_^*/"];
+
+    var elms = [];
+    var src;
+
+    if( document.querySelectorAll === undefined || document.body.dataset === undefined ){
+        alert( "your browser doesn't support some features to play this puzzle." );
+        return;
+    }
+    for( i = 0; i < 30; i++ ){
+        n = ( Math.random() * tokens.length ) | 0;
+        m = ( Math.random() * tokens.length ) | 0;
+        s = tokens[ n ];
+        tokens[ n ] = tokens[ m ];
+        tokens[ m ] = s;
+    }
+
+    panel = document.getElementById( "tokenpanel" );
+    var calc = function(){
+        var elms = document.querySelectorAll( ".cloze" );
+        var t = "";
+        for( var i = 0; i < elms.length; i++ ){
+            t += elms[ i ].textContent;
+        }
+		document.getElementById( "key" ).value = "SECCON{" + CybozuLabs.SHA1.calc( t ) + "}";
+
+    };
+    for( i = 0; i < tokens.length; i++ ){
+        div = document.createElement( "div" );
+        div.setAttribute( "class", "token" );
+        div.setAttribute( "draggable", "true" );
+        div.dataset.token = tokens[ i ];
+        div.appendChild( document.createTextNode( tokens[ i ] ) );
+        panel.appendChild( div );
+        elms.push( div );
+    }
+
+    for( i = 0; i < elms.length; i++ ){
+        elms[ i ].addEventListener( "dragstart", function( evt ){
+            evt.dataTransfer.setData( "text", this.dataset.token );
+            src = this;
+        }, false );
+        elms[ i ].addEventListener( "dragenter", function( evt ){
+        }, false );
+        elms[ i ].addEventListener( "dragover", function( evt ){
+            if( evt.preventDefault ) evt.preventDefault();
+            evt.dataTransfer.dropEffect = 'move';
+        }, false );
+        elms[ i ].addEventListener( "dragleave", function( evt ){
+        }, false );
+    }
+    elms = document.querySelectorAll( ".cloze" );
+    for( i = 0; i < elms.length; i++ ){
+        elms[ i ].textContent = " ";
+        elms[ i ].addEventListener( "dragenter", function( evt ){
+            evt.preventDefault();
+        }, false );
+        elms[ i ].addEventListener( "dragover", function( evt ){
+            evt.preventDefault();
+        }, false );
+        elms[ i ].addEventListener( "drop", function( evt ){
+            evt.preventDefault();
+            if( this.srcElement !== undefined ){
+                this.srcElement.style.display = "block";
+            }
+            this.srcElement = src;
+            this.textContent = evt.dataTransfer.getData( "text" );
+            src.style.display = "none";
+            calc();
+        }, false );
+    }
+    document.getElementById( "eval" ).addEventListener( "click", function(){
+        var t = document.getElementById( "code" ).textContent;
+        try{
+            eval( t );
+        }catch( e ){
+            alert( e );
+        }
+    }, false );
+}, false );
+</script>
+</head>
+<body>
+<h1>JavaScript cloze puzzle</h1>
+Build JavaScript code to run "alert(1)". Please reload when you make a mistake.
+<div class="answer" id="answerPanel">
+    Flag: <input type="text" value="" id="key" size="80">
+</div>
+<div class="code" id="code">
+"use strict";
+
+({"<span class="cloze"></span>" :function(){
+    this[ "<span class="cloze"></span>" ] = (new Function( "<span class="cloze"></span>" + "<span class="cloze"></span>" + "<span class="cloze"></span>" ))();
+    var pattern = "<span class="cloze"></span>";
+    var r = new RegExp( pattern );
+    this[ r[ "<span class="cloze"></span>" ]( pattern ) ][ "<span class="cloze"></span>" ]( 1 );
+}})[ "<span class="cloze"></span>"[ "<span class="cloze"></span>" ]() ]();
+
+</div>
+<div class="eval">
+<input type="button" value="eval code" id="eval">
+</div>
+<div id="tokenpanel"></div>
+
+<script src="sha1.js"></script>
+</body>
+</html>
+

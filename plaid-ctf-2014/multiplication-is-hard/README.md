@@ -14,6 +14,7 @@ Years ago (“back in time”), [Excel used to have a bug](http://blogs.office.c
 
 The flag is `100000`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/multiplication-is-hard/WRITEUP-pipecork.md>
+* <http://csrc.tamuc.edu/css/?p=152>

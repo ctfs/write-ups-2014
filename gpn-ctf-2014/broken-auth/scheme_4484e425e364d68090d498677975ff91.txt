@@ -1,0 +1,41 @@
+Notation:
+    U: Connecting user.
+    S: Service.
+    Nx: Random nonce, issued by x.
+    Kx: Session specific random symmetric key owned by x.
+    Px: Known public key of x.
+    {x}k: Encrypted message x using public key cryptography and key k.
+    [x]k: Encrypted message x using symmetric cryptography and key k.
+
+
+The authentication protocol is quite simple:
+U   ---------->   S:
+  {Nu}Ps, {Ku}Ps
+
+    <----------
+ Nu, {Ns}Pu, {Ks}Pu
+
+    ---------->
+        Ns
+ 
+After receiving the decrypted nonce, the peer is compelled to verify the correctness and abort the connection if it does not match.
+
+Depending on wether S is Alice or Bernd and if the protocol execution finished successfully (i.e., no participant has aborted the execution preliminary), S is now assuming to communicate with Bernd/Alice accordingly and vice versa. The mutual shared secret for symmetric encryption is then Ka = Ku||Ks (concatenated).
+
+After completion of the authentication protocol S now sends a symmetric encrypted message to U, using AES 128bit in CBC mode and padded according to PKCS7 (see [1]):
+U   <----------   S:
+     IV, [M]Ka
+
+How messages are exchanged:
+    - Public Key Crypto values are encrypted using GPG. Expect a ASCII armored block.
+    - Each single value of the above protocol is base64 encoded and sent on a single line. Even ASCII armored values are base64d again. So the first message consists of two lines of base64 encoded values. The response consists of three individual lines.
+
+
+Some additional definitions:
+    - You _cannot_ break the encryption by yourself. Don't waste your time, you simply don't need to.
+    - You can start an arbitrary number of parallel sessions with the services, but you need far less than 10 to obtain the key. Please don't brute force us, this will probably get you banned.
+    - It is legitimate to abort a session at any time for any reason.
+    - The connection is established over an open communication network. This means that the participants are not able to determine who actually sent a certain message, if it cannot be derived from the content of the message.
+    - Nonces cannot be distinguished from keys. Both keys and nonces are equally distributed random data of the same length: 8 bytes.
+
+[1] http://tools.ietf.org/html/rfc5652#section-6.3

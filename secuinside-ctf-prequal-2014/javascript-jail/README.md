@@ -24,7 +24,12 @@ on the Array:
     Array.apply = function() { return f(30); };
     check(f);
 
-## Other write-ups
+## Other write-ups and resources
 
-- [Matir's write-up](https://systemoverlord.com/blog/2014/06/02/secuinside-quals-2014-javascript-jail/)
-- [Cugu's write-up](http://blog.cugu.eu/write-up-secuinside-ctf-2014-javascript-jail/)
+* [Matir's write-up](https://systemoverlord.com/blog/2014/06/02/secuinside-quals-2014-javascript-jail/)
+* [Cugu's write-up](http://blog.cugu.eu/write-up-secuinside-ctf-2014-javascript-jail/)
+* <http://blog.dul.ac/2014/06/SECUINSIDE_14/>
+* <https://ucs.fbi.h-da.de/writeup-secuinside-ctf-quals-2014-jsjail/>
+* <https://ctfcrew.org/writeup/62>
+* <http://tasteless.eu/2014/06/secuinside-ctf-quals-2014-misc200/>
+* <https://www.dropbox.com/sh/ytfak01xhkjkiwp/AAA06wPsZMQAbWdwcpDgfG37a/writeup-Javascriptjail.pdf>

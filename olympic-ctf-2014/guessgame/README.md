@@ -17,7 +17,8 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://mslc.ctf.su/wp/olympic-ctf-2014-guessgame-300/>
 * <http://pastebin.com/1CGaPkTm>
+* [Chinese](http://217.logdown.com/posts/178428-olympic-ctf-2014-figure-crypting-300-guessgame-writeup)

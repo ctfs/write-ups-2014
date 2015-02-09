@@ -57,6 +57,6 @@ The password is `ktw2z`.
 The flag is HITCON{u_d0nt_f0rg3t_d0uble_3nc0ding!}
 ```
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [notes](http://cuby.hu/hitcon-lol-notes-then-not-writeups.txt)

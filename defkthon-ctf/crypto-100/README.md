@@ -85,6 +85,6 @@ FLAGISJACKHAMMKR
 
 P.S. With the knowledge that `jackhammer` is the correct flag, we can figure out the encryption key that was originally used: `PROCRASTINATORY`. (Apparently this word is not included in the English dictionary used by Cryptool.)
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

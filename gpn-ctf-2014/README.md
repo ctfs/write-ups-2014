@@ -6,6 +6,11 @@
 
 ## Completed write-ups
 
+* none yet
+
+## External write-ups only
+
+* none yet
 
 ## Incomplete write-ups
 
@@ -17,7 +22,7 @@
 * [Colorful life](colorful-life)
 * [Come closer](come-closer)
 * [Do you see the rainbow?](do-you-see-the-rainbow)
-* [Doge_security](doge-security)
+* [Doge\_security](doge-security)
 * [Espionage](espionage)
 * [Gallery](gallery)
 * [H3 programming](h3-programming)

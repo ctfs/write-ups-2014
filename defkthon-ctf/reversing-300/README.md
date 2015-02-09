@@ -35,6 +35,7 @@ else:
 
 As you can see, it stores the password in obfuscated form. Then it uses the key `DEFCON14-CTF-IS` to encrypt both the stored password, and the password entered by the user. We can easily find the password by including the line `print base64.decodestring(xx)`. This prints `easy!asMa@ss`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://rce4fun.blogspot.com/2014/03/defkthon-ctf-2014-reversing-300-writeup.html>
+* [Japanese](http://hority-ctf.blogspot.jp/2014/03/defkthon-ctf-2014-write-up.html)

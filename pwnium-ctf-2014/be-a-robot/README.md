@@ -8,6 +8,8 @@
 ## Write-up
 
 
-## Other write-ups
+## Other write-ups and resources
 
-
+* <http://v0ids3curity.blogspot.in/2014/07/pwnium-ctf-2014-pwn-200-team-segfault.html>
+* <https://takt0rs.wordpress.com/2014/07/09/pwnium-2014-pwn200/>
+* <http://krebsco.de/writeups/be-a-robot.html>

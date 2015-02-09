@@ -58,6 +58,6 @@ Decoding this results in an ASCII art version of the flag:
 
 The flag is `HITCON{QRMAZEISCOOL!}`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [source](https://github.com/hitcon2014ctf/ctf/tree/master/maze)

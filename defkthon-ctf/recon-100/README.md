@@ -16,6 +16,6 @@ The flag is hidden on <http://wiredcreation.blogspot.in/2014/02/nosql-exploitati
 
 The flag is `hmm_try_nosql_dbs_dude`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <http://ctfwriteups.blogspot.in/2014/03/defkthon2014-recon-100.html>

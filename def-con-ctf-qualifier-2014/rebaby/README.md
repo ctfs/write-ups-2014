@@ -10,6 +10,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-* (none yet)
+* <http://pastebin.com/h7XBncLq>

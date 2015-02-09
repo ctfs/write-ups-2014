@@ -35,3 +35,5 @@ Choose an Option:
 * <https://blog.skullsecurity.org/2014/plaidctf-writeup-for-pwn-275-kappa-type-confusion-vuln>
 * <http://eindbazen.net/2014/04/plaidctf-2014-kappa-275/>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/pwnables/kappa)
+* <http://j00ru.vexillium.org/dump/ctf/kappa.py>
+* <http://pastebin.com/VUKdnkLz>

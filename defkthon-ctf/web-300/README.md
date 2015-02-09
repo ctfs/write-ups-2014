@@ -15,7 +15,7 @@ $ d2j-dex2jar web300.apk
 dex2jar web300.apk -> web300-dex2jar.jar
 ```
 
-Now, `*.jar` files are essentially zip files too. We can just rename `web300-dex2jar.jar` to `web300-dex2jar.jar.zip` and unzip it to unpack its contents. Alternatively, this command has the same result:
+Now, `\*.jar` files are essentially zip files too. We can just rename `web300-dex2jar.jar` to `web300-dex2jar.jar.zip` and unzip it to unpack its contents. Alternatively, this command has the same result:
 
 ```bash
 $ jar xf web300-dex2jar.jar
@@ -76,6 +76,8 @@ Flag is: w00tkitk@t
 
 The flag is `w00tkitk@t`.
 
-## Other write-ups
+## Other write-ups and resources
 
-* <http://www.0xdeffbeef.com/2014/03/defkthon-ctf-2014-we-love-it-web-300.html>
+* <http://blog.0xdeffbeef.com/2014/03/defkthon-ctf-2014-we-love-it-web-300.html>
+* <http://tasteless.eu/2014/03/defkthon-ctf-2014-web200-web300-and-web400-writeup/>
+* [Japanese](http://wataamectf.blogspot.jp/2014/03/defkthon-ctf-writeup.html)

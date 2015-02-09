@@ -10,6 +10,7 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://blog.dragonsector.pl/2014/04/plaidctf-2014-gcc-300-and-freya-250.html>
+* <https://gist.github.com/hellok/10723754>

@@ -5,9 +5,12 @@
 
 ## Completed write-ups
 
-* (TODO)
+* none yet
 
-
-## Incomplete write-ups
+## External write-ups only
 
 * [Binary100](bin-100)
+
+## Missing write-ups
+
+* none yet

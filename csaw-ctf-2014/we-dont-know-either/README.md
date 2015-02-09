@@ -10,6 +10,6 @@
 
 The expected solution was `14`. See <https://csaw.isis.poly.edu/careerfair> and <http://www.eventbrite.com/e/csaw-registration-tickets-12262823435>.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

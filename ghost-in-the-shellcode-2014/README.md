@@ -9,7 +9,6 @@
 ## Completed write-ups
 
 * [Ad Subtract](ad-subtract)
-* [Boaring Music](boaring-music)
 * [Cave of Nope](cave-of-nope)
 * [CTF247](ctf247)
 * [DOS Attack](dos-attack)
@@ -20,21 +19,25 @@
 * [Radioactive](radioactive)
 * [Revenge of Imgception](revenge-of-imgception)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [A Boaring Quest](a-boaring-quest)
+* [Boaring Music](boaring-music)
 * [Byte Sexual](byte-sexual)
 * [Dogecrypt](dogecrypt)
 * [Fuzzy](fuzzy)
 * [gitsmsg](gitsmsg)
 * [Gitzino](gitzino)
 * [inview](inview)
-* [Long Live the Queen](long-live-the-queen)
 * [lugkist](lugkist)
 * [PapSmear](papsmear)
 * [Pillowtalk](pillowtalk)
 * [Portal](portal)
-* [Snow Down](snow-down)
 * [TI-1337](ti-1337)
 * [TrustMeMore](trustmemore)
 * [Unbearable](unbearable)
+
+## Incomplete write-ups
+
+* [Long Live the Queen](long-live-the-queen)
+* [Snow Down](snow-down)

@@ -1,7 +1,8 @@
-# RuCTF 2014 Quals: Reverse 300
+# RuCTF 2014 Quals: Reverse 300 - [Erl](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/erl)
 
-(TODO)
+> [Crack me](r.beam)
+> Flag format is "RUCTF\_.\*)
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* [Japanese](http://d.hatena.ne.jp/kusano_k/20140310)

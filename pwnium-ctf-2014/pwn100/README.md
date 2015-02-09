@@ -7,7 +7,8 @@
 
 ## Write-up
 
+(TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
-
+* <https://welovecpteam.wordpress.com/2014/07/06/pwnium-pwn100/>

@@ -61,6 +61,6 @@ HITCON{e80c1f7f81b3d1b0514d2aa24e0eeecb}
 
 The flag is `HITCON{e80c1f7f81b3d1b0514d2aa24e0eeecb}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * none yet

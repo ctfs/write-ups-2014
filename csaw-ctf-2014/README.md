@@ -2,11 +2,13 @@
 
 * <https://csawctf.poly.edu/>
 * [Scoreboard](https://ctf.isis.poly.edu/scoreboard)
+* [CTF VM](https://isisblogs.poly.edu/2014/10/14/csaw-ctf-2014-vm/)
 
 ## Completed write-ups
 
 * [Big Data](big-data)
 * [bo](bo)
+* [csaw2013reversing2.exe](csaw2013reversing2.exe)
 * [dumpster diving](dumpster-diving)
 * [eggshells](eggshells)
 * [Fluffy No More](fluffy-no-more)
@@ -24,18 +26,20 @@
 * [why not sftp?](why-not-sftp)
 * [xorcise](xorcise)
 
-## Incomplete write-ups
+## External write-ups only
 
 * [aerosol can](aerosol-can)
 * [cfbsum](cfbsum)
-* [csaw2013reversing2.exe](csaw2013reversing2.exe)
 * [Feal](feal)
 * [greenhornd](greenhornd)
 * [ish](ish)
-* [Not NYSEC](not-nysec)
-* [pop pop](pop-pop)
 * [psifer school](psifer-school)
 * [s3](s3)
 * [saturn](saturn)
-* [Silk Goat](silk-goat)
 * [wololo](wololo)
+
+## Incomplete write-ups
+
+* [Not NYSEC](not-nysec)
+* [pop pop](pop-pop)
+* [Silk Goat](silk-goat)

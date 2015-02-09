@@ -30,7 +30,7 @@ I tried entering this as the flag but it was not accepted. Googling for it [reve
 
 The correct flag was `5bc925649cb0188f52e617d70929191c` (in lowercase).
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://csrc.tamuc.edu/css/?p=143>
-* <http://sigint.ru/nuitduhack2014/>
+* <http://sigint.ru/writeups/2014/04/07/nuit-du-hack-2014-writeups/#here-kitty-kitty>

@@ -39,11 +39,14 @@ All these images can be found in [`range.tar.gz`](range.tar.gz). In e.g. `range-
 
 ![](range-color-127+54.png)
 
-The flag is `pctf{keep_doge_alive_2014}`.
+The flag is `pctf{keep\_doge\_alive\_2014}`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://ucs.fbi.h-da.de/writeup-plaidctf-2014-doge-stege/>
 * <http://csrc.tamuc.edu/css/?p=156>
 * <https://cesena.ing2.unibo.it/2014/04/14/plaidctf-2014-doge_stege-forensic-100/>
 * <https://fail0verflow.com/blog/2014/plaidctf2014-for100-doge_stege.html>
+* <https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/doge_stege/WRITEUP-pipecork.md>
+* <https://ucs.fbi.h-da.de/writeup-plaidctf-2014-doge-stege/>
+* [Indonese](http://blog.rentjong.net/2014/04/plaidctf2014-write-up-dogestege.html)

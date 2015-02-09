@@ -1,0 +1,49 @@
+VM credentials and details:
+
+pyjail:
+    hacker/pyth0n!master
+rbox, secc:
+    hacker/m00nL1ght!
+standback:
+    hacker/b1ue!Sho3zz
+oracle:
+    OS users:
+        root/ytghjcnjqgfhjkm1
+        oracle/ytghjcnjqgfhjkm1
+
+    DB users:
+        sys/ytghjcnjqgfhjkm1
+        system/ytghjcnjqgfhjkm1
+
+    task startup:
+        as oracle user:
+            lsnrctl start
+            sqlplus sys/ytghjcnjqgfhjkm1 as sysdba
+                (in sqlplus shell): startup
+        as root:
+            service httpd start
+    task shutdown:
+        as oracle user:
+            lsnrctl stop
+            sqlplus sys/ytghjcnjqgfhjkm1 as sysdba
+                (in sqlplus shell): shutdown immediate
+        as root:
+            service httpd stop
+
+    task auth:
+        admin/P@ssw0rd9823_#@!hhqqyi
+
+Botnet:
+    root:phdphdE$R%T^
+    phd:rootrootE$R%T^
+
+PHP_JL:
+    phd:jljlphp^&YUHJ
+
+DT_VCS:
+    root: beedoobeedoo#$%ERT
+    phd: pupuru>?L:OP
+markov:
+    markov:/H=63+t.808Q7]j
+lostandfound:
+    use the livecd:)

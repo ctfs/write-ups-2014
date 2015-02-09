@@ -13,6 +13,6 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://geohot.com/lhcwriteup.html>

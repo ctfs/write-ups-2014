@@ -167,6 +167,7 @@ The lucky number was: 953
 
 The flag is `DSCTF_939da0eec884d9edddbe97b9f9e348dede7211d821a1b56069816d7bad6c0f2e`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://www.pwntester.com/blog/2014/04/27/dragonsector-crypto-100/>
+* <http://blog.dul.ac/2014/04/DSCTF14/>

@@ -17,7 +17,8 @@
 
 (TODO)
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://balidani.blogspot.hu/2014/02/olympic-ctf-pwn300-echof-writeup.html>
 * <http://j00ru.vexillium.org/dump/ctf/echof.py>
+* [Chinese](http://217.logdown.com/posts/178721-olympic-ctf-2014-nopsleigh-300-echof-writeup)

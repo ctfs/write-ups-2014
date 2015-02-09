@@ -92,9 +92,10 @@ This is the code that calls `read_file(sockfd, name)`. When returning from `deci
 
 Remark: the problem we encountered when directly calling `system(cmd)` was that it would overwrite the local buffer used in `decipher` (since it was saved on the stack). Recall that the pointer to this buffer was stored in `eax`. Luckily, in the `read_file` function, the stack is used in such a way so this didn't occur.
 
-## Other write-ups
+## Other write-ups and resources
 
 * [Mirror of the above write-up by Mathy](http://www.mathyvanhoef.com/2014/09/csaw-2014-xorcise-challenge.html)
 * [Write-up by ekse](http://solution-36.blogspot.com/2014/09/csaw-2014-exploit-500-writeup-xorcise.html)
 * [Write-up by tasteless](http://tasteless.se/2014/09/xorcise-csaw-2014-exploiting-500/)
 * [Excellent PoC by Henry Sanchez](https://gist.github.com/g05u/9e1ae04ad1252f709bb7)
+* <https://ctfcrew.org/writeup/69>

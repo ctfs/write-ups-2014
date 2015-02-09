@@ -77,9 +77,10 @@ $ curl --insecure 'https://54.196.246.17:8001/myajax?x=2.0&y=2.00&z=2.000&w=7&ww
 w00t_i_are_mastar_web_hackar
 ```
 
-The flag is `w00t_i_are_mastar_web_hackar`.
+The flag is `w00t\_i\_are\_mastar\_web\_hackar`.
 
 ## Other write-ups and resources
 
 * <http://balidani.blogspot.com/2014/04/plaidctf-halphow2js-writeup.html>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/web/halphow2js)
+* <http://j00ru.vexillium.org/dump/ctf/halphow2js.txt>

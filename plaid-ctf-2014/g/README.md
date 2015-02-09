@@ -174,3 +174,5 @@ These characters match the solution of our bruteforce attack. Note that the Pyth
 * <https://fail0verflow.com/blog/2014/plaidctf2014-re200-gxx.html>
 * <https://docs.google.com/a/google.com/document/d/1jo_taidfAJsCbWUIpU9dYryhtTQr5YLON7BnIr0WN-k/edit>
 * [Source code for this challenge, released after the CTF](https://github.com/pwning/plaidctf2014/tree/master/reversing/g%2B%2B)
+* [Indonese](http://blog.rentjong.net/2014/04/plaidctf2014-write-up-g-reversing200.html)
+* <http://j00ru.vexillium.org/dump/ctf/g++.cc>

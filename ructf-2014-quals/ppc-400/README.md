@@ -1,7 +1,8 @@
-# RuCTF 2014 Quals: PPC 400
+# RuCTF 2014 Quals: PPC 400 - [Minesweeper](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks/minesweeper)
 
-(TODO)
+> Can you crack the world record for solving the old kind [minesweeper](http://saper.quals.ructf.org/)? Several times successively :)
+> Flag format is "RUCTF\_.\*"
 
-## Other write-ups
+## Other write-ups and resources
 
-* none yet
+* <https://gist.github.com/tyage/9466865>

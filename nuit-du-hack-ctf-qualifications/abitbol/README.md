@@ -14,6 +14,7 @@
 
 The flag is `IJustTookaHUGEMySQLDUMP`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <http://www.pwntester.com/blog/2014/04/06/nuitduhack-2014-web-write-ups/>
+* <http://tasteless.eu/2014/04/nuit-du-hack-ctf-quals-2014-web100-and-web300-writeup/>

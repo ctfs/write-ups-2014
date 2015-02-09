@@ -12,7 +12,8 @@
 
 The flag is `ZFS_daTa_1s_s4f35t_d4t4`.
 
-## Other write-ups
+## Other write-ups and resources
 
 * <https://fail0verflow.com/blog/2014/plaidctf2014-for400-zfs.html>
 * <https://ctftime.org/writeup/1083>
+* <https://vanned.info/zfs.html>
