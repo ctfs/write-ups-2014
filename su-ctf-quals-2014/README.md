@@ -6,6 +6,7 @@
 ## Completed write-ups
 
 * [avatar](avatar)
+* [birthday\_of\_websites\_admin](birthday_of_websites_admin)
 * [guess\_the\_number](guess_the_number)
 * [hear\_with\_your_eyes](hear_with_your_eyes)
 * [hidden\_message](hidden_message)
@@ -20,7 +21,6 @@
 * [2048](2048)
 * [a\_trip\_to\_sao\_paulo](a_trip_to_sao_paulo)
 * [aes\_broken](aes_broken)
-* [birthday\_of\_websites\_admin](birthday_of_websites_admin)
 * [capture\_the\_spoon](capture_the_spoon)
 * [commercial\_application](commercial_application)
 * [decrypt\_the\_message](decrypt_the_message)
