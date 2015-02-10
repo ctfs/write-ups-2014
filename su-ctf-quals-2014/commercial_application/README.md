@@ -35,9 +35,10 @@ So let's reverse `suCTF.apk`, e.g. with an advanced decompiler like [jadx](https
 
 In the manifest, we can see the main entry point, which is [MainActivity.java](MainActivity.java).
 
-In this class, we can see two Strings `NOK_LICENCE_MSG` and `OK_LICENCE_MSG`, which are the reponse texts when inserting an incorrect or correct serial number. The corresponding switch code is in line 59-65 of `MainActivity.java`, an onClick function of the Button we have to press when entering a Product key.
+In this class, we can see two Strings `NOK_LICENCE_MSG` and `OK_LICENCE_MSG`, which are the response texts after inserting an incorrect or correct serial number. The corresponding switch code is in line 59-65 of `MainActivity.java`, an onClick function of the Button we have to press, when entering a Product key.
 
 The check is done with another class, [KeyVerifier.java](KeyVerifier.java) using it's `isValidLicenceKey` function, which uses three parameters:
+
 	* The user input `userInput`, which is the proposed serial number
 	* A secret security key
 	* A secret security IV
