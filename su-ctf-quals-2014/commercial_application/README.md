@@ -29,6 +29,8 @@ We can click on various elements named `Picture-0`, `Picture-1` and `Picture-2` 
 
 If we click on the settings button, we have to insert a Product Key, which might be the serial number the description is talking about.
 
+![](key.png)
+
 So let's reverse `suCTF.apk`, e.g. with an advanced decompiler like [jadx](https://github.com/skylot/jadx) for a good dex to java conversion as well as `apktool` to get everything else, e.g. the resources and the manifest [AndroidManifest.xml](AndroidManifest.xml).
 
 In the manifest, we can see the main entry point, which is [MainActivity.java](MainActivity.java).
