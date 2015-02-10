@@ -25,11 +25,11 @@ Success
 
 We can click on various elements named `Picture-0`, `Picture-1` and `Picture-2` and see an alert box (Toast) when clicking on the latter two elements:
 
-<img src="pics.png" style="width=50%;height=50%;"/>
+<img src="pics.png" width="311" height="400"/>
 
 If we click on the settings button, we have to insert a Product Key, which might be the serial number the description is talking about.
 
-<img src="key.png" style="width=50%;height=50%;"/>
+<img src="key.png" width="323" height="400"/>
 
 So let's reverse `suCTF.apk`, e.g. with an advanced decompiler like [jadx](https://github.com/skylot/jadx) for a good dex to java conversion as well as `apktool` to get everything else, e.g. the resources and the manifest [AndroidManifest.xml](AndroidManifest.xml).
 
