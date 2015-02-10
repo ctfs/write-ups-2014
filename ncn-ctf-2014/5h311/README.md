@@ -14,4 +14,5 @@ Flag: `Yahoooo\_its\_my\_flag`
 
 ## Other write-ups and resources
 
+* <https://ctfcrew.org/writeup/89>
 * [Spanish](http://testpurposes.net/2014/11/01/write-up-5h311-final-ctf-ncn-2014/)
