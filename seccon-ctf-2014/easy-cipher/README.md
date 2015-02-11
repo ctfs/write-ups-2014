@@ -20,6 +20,12 @@ Welcome to the SECCON 2014 online CTF.The SECCON is the biggest hacker contest i
 
 The flag is `SECCON{W31C0M 70 7H3 53CC0N ZOIA}`.
 
+You can verify the flag using [this code](decrypt.py):
+
+```bash
+$ python decrypt.py ciphertxt
+```
+
 ## Other write-ups and resources
 
 * <http://yous.be/2014/12/09/seccon-ctf-2014-easy-cipher-write-up/>
