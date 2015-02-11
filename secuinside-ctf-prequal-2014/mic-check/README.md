@@ -17,7 +17,7 @@ $ base64 --decode <<< 'Q2QnT29oUNW0wtWqySDbw2UhvRIkTRrby2Qdx2g0UOjbwCHoTRrpw3E' 
 0000020: dbc0 21e8 4d1a e9                        ..!.M..
 ```
 
-So it might be encrypted with a cipher, lets try the go-to caesar cipher and decode all rot combinations, e.g. using [this code](https://github.com/YASME-Tim/crypto-tools/blob/master/rot/rot.py).
+So it might be encrypted with a cipher, lets try the go-to caesar cipher and decrypt all rot combinations, e.g. using [this code](https://github.com/YASME-Tim/crypto-tools/blob/master/rot/rot.py).
 
 ```bash
 $ for i in {0..52}; do python rot.py $i 'Q2QnT29oUNW0wtWqySDbw2UhvRIkTRrby2Qdx2g0UOjbwCHoTRrpw3E'; done
@@ -30,9 +30,9 @@ P2PnS29oTMV0wtVqyRCbw2ThvQHkSQrby2Pdx2g0TNjbwBGoSQrpw3D
 Q2QnT29oUNW0wtWqySDbw2UhvRIkTRrby2Qdx2g0UOjbwCHoTRrpw3E
 ```
 
-Note that my code tries several options (Rotate lowercase only, rotate uppercase only, rotate seperate from each other or rotate over lower conact upper alphabet).
+Note that my code tries several options (Rotate lowercase only, rotate uppercase only, rotate seperate from each other or rotate over lower concatted with upper alphabet).
 
-After decoding each result, we find that `V2VsY29tZSB0byBvdXIgb2ZmaWNpYWwgd2Vic2l0ZTogbHMtYWwub3J` is the base64 encoded string we are looking for.
+After decrypting each result, we find that `V2VsY29tZSB0byBvdXIgb2ZmaWNpYWwgd2Vic2l0ZTogbHMtYWwub3J` is the base64 encoded string we are looking for.
 
 It yields the flag `Welcome to our official website: ls-al.`.
 ## Other write-ups and resources
