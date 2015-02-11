@@ -5,13 +5,12 @@
 
 ## Completed write-ups
 
-* none yet
+* [mic-check](mic-check)
 
 ## External write-ups only
 
 * [javascript-jail](javascript-jail)
 * [Lupin III](lupin-iii)
-* [mic-check](mic-check)
 * [pillow](pillow)
 * [rarara](rarara)
 * [simple-login](simple-login)
