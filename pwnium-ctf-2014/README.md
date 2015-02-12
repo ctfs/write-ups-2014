@@ -33,5 +33,5 @@
 ## Missing write-ups
 
 * [is\_empty ?](is_empty)
-* [Numbers and sh\*t](numbers-and-sh*t)
+* [Numbers and sh\*t](numbers-and-shit)
 * [Remote KG](remote-kg)
