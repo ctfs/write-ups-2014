@@ -11,6 +11,7 @@
 * [Look Closer](look-closer)
 * [main()](main)
 * [problem ?](problem)
+* [So basic](so-basic)
 
 ## External write-ups only
 
@@ -26,7 +27,6 @@
 * [Old World](old-world)
 * [pwn100](pwn100)
 * [ROT](rot)
-* [So basic](so-basic)
 * [USB is fun](usb-is-fun)
 * [XWebSite](xwebsite)
 
