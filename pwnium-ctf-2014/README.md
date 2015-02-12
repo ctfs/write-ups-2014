@@ -12,6 +12,7 @@
 * [main()](main)
 * [problem ?](problem)
 * [So basic](so-basic)
+* [USB is fun](usb-is-fun)
 
 ## External write-ups only
 
@@ -27,7 +28,6 @@
 * [Old World](old-world)
 * [pwn100](pwn100)
 * [ROT](rot)
-* [USB is fun](usb-is-fun)
 * [XWebSite](xwebsite)
 
 ## Missing write-ups
