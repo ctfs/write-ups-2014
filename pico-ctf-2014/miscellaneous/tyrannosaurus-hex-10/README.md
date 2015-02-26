@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://picoctf.wordpress.com/2014/11/10/tyrannosaurus-hex-10-picoctf-2014-writeup/>
