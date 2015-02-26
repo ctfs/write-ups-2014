@@ -1,0 +1,34 @@
+String Encoding: ASCII
+
+def STR(a):
+    a = str(a)
+    # Yes, this is a little bit silly :-)
+    for i in range(0, len(a) - 1, 2):
+            print(chr(int(a[i:i+2]))),
+
+e.g. STR(7269767679) = "HELLO"
+
+Cryptosystem:
+Elliptic Curve: y^2 â‰¡ x^3 + ax + b mod n
+a = 0
+b = ?
+n = 928669833265826932708591
+
+Encryption: C = e * M mod n
+Decryption: M = d * C mod n
+e = 141597355687225811174313
+d = 87441340171043308346177
+C = (236857987845294655469221, 12418605208975891779391)
+STR(M.x) + STR(M.y) = ?
+
+It seems that the author has written out the parameters for an elliptic curve defined over the
+integers modulo n, where the numbers "wrap around" back to zero upon reaching the modulus, like
+with a clock. However, one of the elliptic curve parameters, b, has been smudged out and is no
+longer visible. Nevertheless, since you know that the given point C satisfies the elliptic curve
+equation, you can substitute it into the elliptic curve equation to determine the value of b.
+
+Although the author has also devised a rudimentary elliptic curve encryption scheme by encoding a
+message as a point using ASCII and multiplying it (repeated addition) by a secret encryption key,
+they apparently forgot to erase both the encryption and decryption keys! To break the encryption,
+you only need to multiply the encrypted message by the decryption key to obtain the original
+message, and then convert the result back into a string.
