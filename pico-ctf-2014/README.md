@@ -53,3 +53,7 @@
 * [hardcore-rop-200](master-challenge/hardcore-rop-200)
 * [rsa-mistakes-200](master-challenge/rsa-mistakes-200)
 * [steves-list-200](master-challenge/steves-list-200)
+* [common-vulnerability-exercise-20](miscellaneous/common-vulnerability-exercise-20)
+* [obo-90](miscellaneous/obo-90)
+* [robo-photo-30](miscellaneous/robo-photo-30)
+* [tyrannosaurus-hex-10](miscellaneous/tyrannosaurus-hex-10)
