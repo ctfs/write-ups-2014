@@ -31,3 +31,4 @@ The flag is `AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKLLLLMMMMOOOOXX`.
 * [Exploit written in Python](https://gist.github.com/zachriggle/3670a74f7f6fd74fdaa5)
 * <http://rce4fun.blogspot.de/2014/09/csaw-ctf-2014-ish-exploitation-300.html>
 * <https://ctfcrew.org/writeup/78>
+* [Chinese](http://ddaa.logdown.com/posts/234516-csaw-ctf-2014-pwn-300-ish)

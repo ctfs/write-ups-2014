@@ -22,3 +22,4 @@
 * <http://www.idabook.com/ctf/rsbo_writeup.txt>
 * <https://rzhou.org/~ricky/hitcon2014/rsbo/>
 * <http://tasteless.eu/2014/08/hitcon2014-rsbo-pwn150/>
+* [Chinese](http://ddaa.logdown.com/posts/221204-hitcon-ctf-2014-pwn-150-rsbo)
