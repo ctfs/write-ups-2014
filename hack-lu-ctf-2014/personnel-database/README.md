@@ -21,3 +21,4 @@
 
 * [Exploit in Python by @TheJH](thejh_exploit.py)
 * <https://ctfcrew.org/writeup/84>
+* <https://johnsupercool.github.io/posts/2014/oct./25/hacklu-2014-ctf-exploit200-personnel-database/>
