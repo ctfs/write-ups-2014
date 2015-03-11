@@ -83,3 +83,4 @@ The flag is `SECCON{@]NL7n+-s75FrET]vU=7Z}`.
 ## Other write-ups and resources
 
 * <http://icheernoom.blogspot.de/2014/12/seccon-ctf-2014-get-keytxt-forensics.html>
+* <http://www.hasnydes.us/2014/12/get-key-txt-seccon-ctf-writeups-100pts/>
