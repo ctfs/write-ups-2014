@@ -27,4 +27,4 @@ The flag is `SECCON{6in\_tex7}`.
 
 * <http://tasteless.eu/2014/12/seccon-ctf-2014-online-qualifications-reverseit-writeup/>
 * <http://blogs.univ-poitiers.fr/e-laize/2014/12/07/seccon-2014-reverseit/>
-* <http://www.hasnydes.us/2014/12/reverseit-binary-seccon-ctf-100pts/>
+* [Indonesian](http://www.hasnydes.us/2014/12/reverseit-binary-seccon-ctf-100pts/)

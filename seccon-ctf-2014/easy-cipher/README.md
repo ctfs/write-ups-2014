@@ -31,4 +31,4 @@ $ python decrypt.py ciphertxt
 * <http://yous.be/2014/12/09/seccon-ctf-2014-easy-cipher-write-up/>
 * <https://github.com/S42X/CTF/blob/master/SECCON/EasyCipher.md>
 * [Portuguese](https://ctf-br.org/wiki/seccon/seccon2014/c100-easy-cipher/)
-* <http://www.hasnydes.us/2014/12/easy-cipher-100pts-crypto-seccon-ctf-2014/>
+* [Indonesian](http://www.hasnydes.us/2014/12/easy-cipher-100pts-crypto-seccon-ctf-2014/)

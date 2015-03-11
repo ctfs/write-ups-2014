@@ -40,8 +40,8 @@ The flag is `SECCON{Programming is so fun!}`.
 
 * <http://blogs.univ-poitiers.fr/e-laize/2014/12/07/seccon-2014-quals-prog-choose-number/>
 * <https://github.com/S42X/CTF/blob/master/SECCON/ChooseTheNumber.md>
-* [Portuguese](https://ctf-br.org/wiki/seccon/seccon2014/p100-choose-the-number/)
 * <https://shankaraman.wordpress.com/2014/12/07/seccon-2014-writeups-networking-100-and-programming-100/>
 * <http://icheernoom.blogspot.de/2014/12/seccon-ctf-2014-choose-number.html>
 * <https://rzhou.org/~ricky/seccon2014/number/test.py>
-* <http://www.hasnydes.us/2014/12/choose-number-100pts-seccon-ctf-2014/>
+* [Portuguese](https://ctf-br.org/wiki/seccon/seccon2014/p100-choose-the-number/)
+* [Indonesian](http://www.hasnydes.us/2014/12/choose-number-100pts-seccon-ctf-2014/)
