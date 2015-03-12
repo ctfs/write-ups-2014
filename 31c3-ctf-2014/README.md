@@ -2,6 +2,7 @@
 
 * <https://31c3ctf.aachen.ccc.de/>
 * [Scoreboard](https://31c3ctf.aachen.ccc.de/scoreboard/)
+* [Number of solves per task](solves.txt)
 
 ## Completed write-ups
 
