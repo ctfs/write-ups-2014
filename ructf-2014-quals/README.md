@@ -1,7 +1,8 @@
 # RuCTF 2014 Quals write-ups
 
-[RuCTF Quals](http://quals.ructf.org/)
-[RuCTF Tasks](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks)
+* [Scoreboard](scoreboard.txt)
+* [RuCTF Quals](http://quals.ructf.org/)
+* [RuCTF Tasks](https://github.com/HackerDom/ructf-2014-quals/tree/master/tasks)
 
 ## Completed write-ups
 

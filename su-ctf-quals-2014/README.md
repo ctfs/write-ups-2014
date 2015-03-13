@@ -1,7 +1,7 @@
 # Sharif University Quals CTF 2014 write-ups
 
 * <http://ctf.sharif.edu/2014/quals/su-ctf/>
-* [Scoreboard](http://ctf.sharif.edu/2014/quals/su-ctf/scoreboard/)
+* [Scoreboard](http://ctf.sharif.edu/2014/quals/su-ctf/scoreboard/) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

@@ -1,7 +1,7 @@
 # Qiwi CTF 2014 write-ups
 
 * <https://qiwictf2014.ru/>
-* [Scoreboard](https://qiwictf2014.ru/scoreboard)
+* [Scoreboard](https://qiwictf2014.ru/scoreboard) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

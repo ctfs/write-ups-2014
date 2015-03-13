@@ -1,6 +1,7 @@
 # NotSoSecure CTF 2014
 
 * [Main website](http://ctf.notsosecure.com/)
+* [Scoreboard](scoreboard.txt)
 * [@NotSoSecure on Twitter](https://twitter.com/NotSoSecure)
 
 ## Completed write-ups

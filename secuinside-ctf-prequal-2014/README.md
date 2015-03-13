@@ -1,7 +1,7 @@
 # 2014 Secuinside CTF Prequal
 
 * [Main website](http://ctf.secuinside.com/)
-* [Scoreboard](http://ctf.secuinside.com/)
+* [Scoreboard](http://ctf.secuinside.com/) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

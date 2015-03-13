@@ -1,0 +1,15 @@
+PPP1                           4000.000
+PPP2                           3500.000
+RPISEC                         3150.000
+1064CBread                     3050.000
+Knightsec                      2700.000
+CISSP Groupies                 2600.000
+Knights of the Lambda Calculus 2400.000
+GNU-E-Ducks                    2200.000
+uiuctf                         1900.000
+Bits for Everyone              1500.000
+Shellphish                     1400.000
+[SEWORKS] Ad Victoriam         900.000 
+SIGINT                         900.000 
+OpenToAll                      600.000 
+DCI-ETS                        500.000 

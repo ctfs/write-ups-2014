@@ -1,7 +1,7 @@
 # RuCTFE 2014 write-ups
 
 * <http://ructf.org/e/2014/>
-* [Scoreboard](http://monitor.e.ructf.org/)
+* [Scoreboard](http://monitor.e.ructf.org/) or [local alternative](scoreboard.txt)
 * [Vulnerable Image](http://ructf.org/e/2014/RuCTFE2014.torrent), password e328df42bfeda24e6b36f60c4b83deb4
 
 ## Info

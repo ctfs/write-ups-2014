@@ -1,7 +1,7 @@
 # 31C3 CTF 2014 write-ups
 
 * <https://31c3ctf.aachen.ccc.de/>
-* [Scoreboard](https://31c3ctf.aachen.ccc.de/scoreboard/)
+* [Scoreboard](https://31c3ctf.aachen.ccc.de/scoreboard/) or [local alternative](scoreboard.txt)
 * [Number of solves per task](solves.txt)
 
 ## Completed write-ups

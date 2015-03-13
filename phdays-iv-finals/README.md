@@ -1,7 +1,7 @@
 # PHDays Finals CTF 2014 write-ups
 
 * <http://www.phdays.com/>
-* [Scoreboard](https://ctftime.org/event/146) (or [here](LPlOqjs81z8.jpg))
+* [Scoreboard](https://ctftime.org/event/146) (or [here](LPlOqjs81z8.jpg)) or [local alternative](scoreboard.txt)
 * [Vulnboxes](http://ctfarchive.phdays.com/phd4finals/vulnbox/)
 
 ## Completed write-ups

@@ -1,7 +1,7 @@
 # Hack.lu CTF 2014 write-ups
 
 * <https://wildwildweb.fluxfingers.net/>
-* [Scoreboard](https://wildwildweb.fluxfingers.net/scoreboard)
+* [Scoreboard](https://wildwildweb.fluxfingers.net/scoreboard) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

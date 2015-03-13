@@ -1,7 +1,7 @@
 # Nuit du Hack CTF Qualifications
 
 * <http://quals.nuitduhack.com/>
-* [Scoreboard](http://quals.nuitduhack.com/users)
+* [Scoreboard](http://quals.nuitduhack.com/users) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

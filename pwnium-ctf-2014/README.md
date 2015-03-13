@@ -1,7 +1,7 @@
 # Pwnium CTF 2014
 
 * [Main website](http:/ctf.pwnium.tn/)
-* [Scoreboard](http://41.231.53.44:8282/scoreboard)
+* [Scoreboard](http://41.231.53.44:8282/scoreboard) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

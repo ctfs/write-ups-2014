@@ -1,7 +1,7 @@
 # Boston Key Party CTF 2014 write-ups
 
 * <http://bostonkeyparty.net/>
-* [Scoreboard](scoreboard.png)
+* [Scoreboard](scoreboard.png) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

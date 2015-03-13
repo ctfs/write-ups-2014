@@ -1,7 +1,7 @@
 # PHDays Quals CTF 2014 write-ups
 
 * <http://quals.phdays.ru/>
-* [Scoreboard](https://ctftime.org/event/116)
+* [Scoreboard](https://ctftime.org/event/116) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

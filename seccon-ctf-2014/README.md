@@ -1,7 +1,7 @@
 # SECCON CTF 2014
 
 * <http://ctf.seccon.jp/>
-* [Scoreboard](http://ctf.seccon.jp/rank/)
+* [Scoreboard](http://ctf.seccon.jp/rank/) or [local alternative for quals](scoreboard_quals.txt) or [local alternative for finals](scoreboard_finals.txt)
 * [Number of solves per challenge](http://pastebin.com/raw.php?i=0aKPTrsY)
 * [@secconctf on Twitter](https://twitter.com/secconctf)
 

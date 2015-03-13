@@ -1,7 +1,7 @@
 # Olympic CTF 2014
 
 * <https://olympic-ctf.ru/>
-* [Scoreboard](https://olympic-ctf.ru/scoreboard)
+* [Scoreboard](https://olympic-ctf.ru/scoreboard) or [local alternative](scoreboard.txt)
 * [Olympic CTF 2014 tasks and write-ups @ CTFTime.org](https://ctftime.org/event/130/tasks/)
 
 ## Completed write-ups

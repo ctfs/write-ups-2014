@@ -1,7 +1,7 @@
 # Codegate Preliminary CTF 2014 write-ups
 
 * <http://ctf.codegate.org/>
-* Scoreboard missing
+* [Scoreboard](scoreboard.txt)
 
 ## Completed write-ups
 

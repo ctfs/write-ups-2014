@@ -1,7 +1,7 @@
 # ASIS Cyber Security Contest Finals 2014 write-ups
 
 * <http://asis-ctf.ir/>
-* [Scoreboard](http://asis-ctf.ir/scoreboard/)
+* [Scoreboard](http://asis-ctf.ir/scoreboard/) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

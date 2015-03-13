@@ -1,7 +1,7 @@
 # HITCON CTF 2014
 
 * [Main website](http://ctf2014.hitcon.org/dashboard)
-* [Scoreboard](http://ctf2014.hitcon.org/scoreboard)
+* [Scoreboard](http://ctf2014.hitcon.org/scoreboard) or [local alternative](scoreboard.txt)
 * [HITCON CTF 2014 @ CTFtime.org](https://ctftime.org/event/148)
 
 ## Completed write-ups

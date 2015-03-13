@@ -1,0 +1,131 @@
+Dragon Sector                  5700.000
+StratumAuhuur                  4600.000
+Lights Out                     4600.000
+dcua                           4200.000
+Plaid Parliament of Pwning     4100.000
+Bushwhackers                   4100.000
+ReallyNonamesFor               3900.000
+Hardc0de                       3800.000
+BalalaikaCr3w                  3800.000
+0x8F                           3500.000
+CRAX                           3400.000
+Singularity                    3400.000
+!SpamAndHex                    3400.000
+Magic Hat                      3300.000
+SUSlo.dump                     3200.000
+RooterX                        3200.000
+Rdot.org                       3100.000
+PUMA                           3100.000
+NYUSEC                         3100.000
+v0rt3x                         2900.000
+GIRAV                          2800.000
+Koibasta Young                 2800.000
+Ctrl-PNZ                       2700.000
+NarwhalRevEng                  2600.000
+Paravozik                      2600.000
+UdSU.FIT                       2300.000
+flush                          2300.000
+k2                             2300.000
+crabs                          2100.000
+Green Bats                     2100.000
+0xFF                           2100.000
+RIGHT BEER                     2100.000
+UDSU-CTF                       2100.000
+Honeypot                       2100.000
+leo                            1900.000
+Noobs4Win                      1900.000
+GreatEvent                     1800.000
+TRex                           1800.000
+CS                             1800.000
+Abr1k0s                        1800.000
+Eindbazen                      1700.000
+brains_404                     1700.000
+botbie                         1600.000
+Natus Vincere                  1500.000
+ITCrowd                        1500.000
+XOROR                          1500.000
+Destructive Voice              1500.000
+LUCKERS                        1500.000
+Crypto Knights                 1400.000
+NULLify                        1400.000
+UscherbGuild                   1400.000
+PeterPEN                       1400.000
+Blue-Whale                     1400.000
+prosto_13ya                    1400.000
+nonbei                         1400.000
+lcmafia                        1300.000
+MeGa_MoSk                      1200.000
+The-X-Team                     1200.000
+guest                          1200.000
+9871                           1200.000
+Access Denied                  1200.000
+playful                        1200.000
+vuls                           1200.000
+Fantastic Four                 1200.000
+ufologists                     1100.000
+SIGINT                         1100.000
+ranD0m                         1100.000
+rt                             1100.000
+IST_TeaM                       1000.000
+Brizz                          1000.000
+r00t                           1000.000
+ОГУ-МОАИС              1000.000
+0day                           900.000 
+Schrodinger&#39;s Nuclear Kittens 900.000 
+teamsku                        900.000 
+Purson                         800.000 
+H4x0rPsch0rr                   800.000 
+JohnDoe                        800.000 
+Snatch The Root                800.000 
+Team Red Ace                   800.000 
+CAT-Security                   800.000 
+rm-rf                          700.000 
+squareroots                    700.000 
+Sandbox                        700.000 
+1338-offbyone                  600.000 
+YetAnotherTeam                 600.000 
+GetToDaChoppa                  600.000 
+m8l8th                         600.000 
+Consuela                       600.000 
+The one team                   600.000 
+ArrBas                         500.000 
+blah                           500.000 
+NullPointerException           500.000 
+mau5                           500.000 
+peanuts                        500.000 
+ASIS                           500.000 
+Classic                        400.000 
+d4d                            400.000 
+ababahalamaha                  400.000 
+SlashDotDash                   400.000 
+HackerDom                      400.000 
+xBh                            400.000 
+utopia                         400.000 
+Yamagi.com                     400.000 
+4tochka                        300.000 
+Серверные олени  300.000 
+QBiT                           200.000 
+KITCTF                         200.000 
+RaZy                           200.000 
+9447                           200.000 
+a3d                            200.000 
+keva                           200.000 
+vzh                            200.000 
+M47RiX                         200.000 
+0x000d3d                       100.000 
+UTACSEC                        100.000 
+PoisonedBytes                  100.000 
+b1n4ry4rms                     100.000 
+Alone                          100.000 
+Caspian                        100.000 
+ctf_aces                       100.000 
+The Cat is #1!!                100.000 
+EpsilonDelta                   100.000 
+Nightingale                    100.000 
+Yozik                          100.000 
+PetitPimouss                   100.000 
+SSEU                           100.000 
+Spectacular Racoon Spire       100.000 
+Equestria Girls                100.000 
+BeArCr4cK                      100.000 
+n0NFL4gs                       100.000 

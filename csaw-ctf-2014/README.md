@@ -1,7 +1,7 @@
 # CSAW CTF 2014 write-ups
 
 * <https://csawctf.poly.edu/>
-* [Scoreboard](https://ctf.isis.poly.edu/scoreboard)
+* [Scoreboard](https://ctf.isis.poly.edu/scoreboard) or [local alternative](scoreboard.txt)
 * [CTF VM](https://isisblogs.poly.edu/2014/10/14/csaw-ctf-2014-vm/)
 
 ## Completed write-ups

@@ -1,7 +1,7 @@
 # Volga Quals CTF 2014 write-ups
 
 * <http://quals.2014.volgactf.ru/>
-* [Scoreboard](scoreboard)
+* [Scoreboard](scoreboard) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

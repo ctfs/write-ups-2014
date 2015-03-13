@@ -1,7 +1,7 @@
 # Plaid CTF 2014
 
 * [Main website](http://play.plaidctf.com/)
-* [Scoreboard](http://play.plaidctf.com/scoreboard)
+* [Scoreboard](http://play.plaidctf.com/scoreboard) or [local alternative](scoreboard.txt)
 * [@PlaidCTF on Twitter](https://twitter.com/PlaidCTF)
 * [Plaid CTF 2014 @ CTFTime.org](https://ctftime.org/event/119)
 * [Source code for some of the challenges](https://github.com/pwning/plaidctf2014) (released after the CTF; not needed to solve the challenges)

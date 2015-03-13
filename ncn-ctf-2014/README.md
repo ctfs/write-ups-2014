@@ -1,6 +1,6 @@
 # NoConName 2014 CTF write-ups
 
-(TODO)
+* [Scoreboard](scoreboard.txt)
 
 ## Completed write-ups
 

@@ -1,7 +1,7 @@
 # Ghost in the Shellcode 2015 teaser write-ups
 
 * <https://2015.ghostintheshellcode.com/>
-* [Final scores](https://2015.ghostintheshellcode.com/final_scores.txt)
+* [Final scores](https://2015.ghostintheshellcode.com/final_scores.txt) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

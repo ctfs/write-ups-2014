@@ -2,7 +2,7 @@
 
 * <http://54.201.96.212/>
 * [Official Twitter account with challenge hints](https://twitter.com/OpenSecurity_IN)
-* [Scoreboard](http://54.201.96.212/Score)
+* [Scoreboard](http://54.201.96.212/Score) or [local alternative](scoreboard.txt)
 
 ## Completed write-ups
 

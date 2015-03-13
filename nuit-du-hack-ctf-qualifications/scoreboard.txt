@@ -1,0 +1,240 @@
+Dragon Sector                  3150.000
+pollypocket                    2550.000
+RAON_ASRT                      2400.000
+StratumAuhuur                  2200.000
+int3pids                       2050.000
+dcua                           2050.000
+Hardc0de                       2050.000
+0x8F                           2000.000
+ENOCHEAT                       1800.000
+w3stormz                       1750.000
+Hexpresso                      1750.000
+!SpamAndHex                    1750.000
+Caspian                        1750.000
+sec0d                          1750.000
+/dev/randoge                   1700.000
+Headump                        1700.000
+HackerDom                      1700.000
+Rdot.org                       1700.000
+H4x0rPsch0rr                   1700.000
+Snatch The Root                1700.000
+CyKOR                          1650.000
+tomcr00se                      1600.000
+Bushwhackers                   1600.000
+Samurai                        1600.000
+The ReiserFS APpreciation Society 1500.000
+on est pas contents            1500.000
+ASIS                           1500.000
+hackgyver                      1450.000
+Disgrace                       1450.000
+penthackon                     1450.000
+PiggyBird                      1350.000
+pwnies                         1300.000
+Keysec                         1300.000
+Honeypot                       1300.000
+More Smoked Leet Chicken       1300.000
+botbie                         1300.000
+ByCode                         1250.000
+Eindbazen                      1200.000
+fapsec                         1200.000
+MojoMaster                     1200.000
+Plaid Parliament of Pwning     1150.000
+0x0                            1150.000
+Spiderz                        1150.000
+Sexypasta                      1050.000
+LesTontonsFappeurs             1050.000
+rm -rf [enter]                 1050.000
+w0pr                           1050.000
+NYUSEC                         1050.000
+leo                            1050.000
+TeamTFH                        1050.000
+Green Bats                     950.000 
+ufologists                     950.000 
+Tasteless                      950.000 
+fixme                          950.000 
+popsku                         900.000 
+TRex                           900.000 
+GIRAV                          850.000 
+peanuts                        850.000 
+squareroots                    850.000 
+GetToDaChoppa                  800.000 
+maf-ia                         800.000 
+dodododo                       750.000 
+LSE                            750.000 
+dosette                        750.000 
+ForbiddenBITS-BW               750.000 
+Shadow Cats                    750.000 
+[TechnoPandas]                 700.000 
+vuls                           700.000 
+EpsilonDelta                   700.000 
+Big-Daddy                      700.000 
+1.26-AM                        700.000 
+SIGINT                         650.000 
+Lost_in_Security               650.000 
+Singularity                    650.000 
+0ops                           650.000 
+NOPS                           650.000 
+b1n4ry4rms                     650.000 
+bamboo                         650.000 
+ReallyNonamesFor               650.000 
+Team Red Ace                   650.000 
+The one team                   600.000 
+Red Alert                      600.000 
+BinaryBandits                  600.000 
+1064CBread                     550.000 
+N00Beergy                      550.000 
+pure                           550.000 
+Hackademics                    550.000 
+Vegan Zombies                  550.000 
+SanityHero                     550.000 
+rentjong                       500.000 
+Team Action Kaktus             500.000 
+jamconcerned                   500.000 
+vdar                           500.000 
+[HEB] HackEnBarra              500.000 
+Crazy Student                  500.000 
+ethical-hacker                 500.000 
+FewGuysOneRouter               450.000 
+1338-offbyone                  450.000 
+[censored]                     450.000 
+IShallPwn1                     450.000 
+fouinux                        450.000 
+BotanyBay                      450.000 
+Pwn                            450.000 
+JmpOnOverflow                  450.000 
+9447                           400.000 
+xoxohaxx                       400.000 
+Zenk-Security                  400.000 
+redsky                         400.000 
+win32virus                     400.000 
+Ponycorn                       400.000 
+ClusterFrack                   400.000 
+PeterPEN                       300.000 
+EPICLYONS                      300.000 
+0x90.avi                       300.000 
+blue-lotus                     300.000 
+MSPTeam                        300.000 
+a3d                            300.000 
+lcmafia                        300.000 
+NarwhalRevEng                  300.000 
+okudo3                         300.000 
+CTF-infinit                    300.000 
+w0lfu1                         300.000 
+Aether Shell                   300.000 
+0x1337                         300.000 
+Toxic Bandits                  300.000 
+p03p0wn                        300.000 
+DagEx                          300.000 
+0x90_n0p                       300.000 
+The Cat is #1!!                300.000 
+torikabuto                     300.000 
+Schrodinger&#39;s Nuclear Kittens 300.000 
+r00t                           300.000 
+Spounchers                     300.000 
+teamsku                        250.000 
+abrabahalamaha                 250.000 
+itsgr                          250.000 
+ArrBas                         250.000 
+SegFault                       250.000 
+LUCKERS                        250.000 
+team fantastico                250.000 
+0xFF                           250.000 
+ISITDTU                        250.000 
+tunteam                        250.000 
+QBiT                           250.000 
+Geek                           250.000 
+Jambon                         200.000 
+h4cktu5                        200.000 
+PRL1                           200.000 
+ttttt                          200.000 
+Les batards de bordeaux        200.000 
+TheAllKoreanRejects            200.000 
+nopple                         200.000 
+TeamZ                          200.000 
+leftteam                       200.000 
+Hopjesvla                      200.000 
+KoiBastard                     200.000 
+nonbei                         200.000 
+XOROR                          200.000 
+SNCF_Prod                      200.000 
+dm1123                         200.000 
+ReSecurity                     200.000 
+Pwnladin                       200.000 
+utopia                         200.000 
+Komod                          200.000 
+km4sutr4                       200.000 
+shuriken                       200.000 
+BSchnitzel                     200.000 
+christina                      200.000 
+w0dka                          200.000 
+PoisonedBytes                  200.000 
+0CooL                          200.000 
+paulis                         150.000 
+Individual Eleven              150.000 
+omnious                        150.000 
+ForFun                         150.000 
+inj3ct0r                       150.000 
+candies                        150.000 
+cl4rin3tt3                     150.000 
+xteam                          100.000 
+Hathackers                     100.000 
+pumpernikiel                   100.000 
+ADOG                           100.000 
+innocentbystanders             100.000 
+Nightingale                    100.000 
+wasamusume                     100.000 
+PetitPoney                     100.000 
+Netronix                       100.000 
+Showned                        100.000 
+AFTeam                         100.000 
+Bullshit Security              100.000 
+brains_404                     100.000 
+omakase                        100.000 
+bcs-team                       100.000 
+goatfucker                     100.000 
+disekt                         100.000 
+bbplus                         100.000 
+Les_Mac_Bernicks               100.000 
+Random Hackcess Memory         50.000  
+pmpt_                          50.000  
+unmchctf                       50.000  
+Porc Scanner                   50.000  
+CCTVVMB                        50.000  
+mau5                           50.000  
+L0rds 0f The N0n Commutative Fi3ld 50.000  
+WeLoveCP                       50.000  
+jam0n                          50.000  
+Big-Boss                       50.000  
+rajaz                          50.000  
+Some Assembly Required         50.000  
+buzzkill                       50.000  
+r3b00+                         50.000  
+lool                           50.000  
+Secret Weapon                  50.000  
+l4m4st1c0t$_FTW                50.000  
+L4ik                           50.000  
+NISNIS                         50.000  
+shelldump                      50.000  
+BalalaikaCr3w                  50.000  
+naka                           50.000  
+INFOGRAM                       50.000  
+enki                           50.000  
+East Infection                 50.000  
+1in9mu                         50.000  
+h0vy0                          50.000  
+Ant89                          50.000  
+Naoy                           50.000  
+LeaveRet                       50.000  
+ihavenoheart                   50.000  
+Wireworqs                      50.000  
+Falcon                         50.000  
+tk1f                           50.000  
+bit0n                          50.000  
+DevCookie                      50.000  
+CureSecure                     50.000  
+GromaCoin                      50.000  
+Hysteria                       50.000  
+Gerbil Matrix                  50.000  
+le_caca                        50.000  
+BRANLIX-DEUX-MILLE-ZENK        50.000  
+spezialexperten                50.000  

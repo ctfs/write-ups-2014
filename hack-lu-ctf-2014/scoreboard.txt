@@ -1,0 +1,395 @@
+Dragon Sector                  8877.000
+0ops                           7636.000
+DatNoobs                       6070.000
+blue-lotus                     5835.000
+H4x0rPsch0rr                   5575.000
+pollypocket                    5470.000
+More Smoked Leet Chicken       5386.000
+Tasteless                      5370.000
+jinmoteam                      5367.000
+Plaid Parliament of Pwning     5260.000
+!SpamAndHex                    5146.000
+dcua                           5136.000
+Samurai                        4735.000
+Hacknam Style                  4716.000
+StratumAuhuur                  4676.000
+HackingForSoju                 4597.000
+217                            4579.000
+CLGT                           4367.000
+BalalaikaCr3w                  4355.000
+captchaflag                    4161.000
+c00kies@venice                 4155.000
+STRONGLAW                      4142.000
+Rdot.org                       4081.000
+Shellphish                     4067.000
+Eindbazen                      3460.000
+PTNPNH                         3375.000
+Men in Black Hats              3265.000
+0x0                            3232.000
+Hexcellents                    3221.000
+KITCTF                         3195.000
+SUSlo.PAS                      3170.000
+AFiniteNumberOfMonkeys         3145.000
+vubar                          3005.000
+ByCode                         2995.000
+fluxrookies                    2975.000
+WE_0WN_Y0U                     2969.000
+Bushwhackers                   2940.000
+3j5myuv                        2880.000
+phdteam                        2840.000
+Hardc0de                       2770.000
+ChocolateMakers                2711.000
+Snatch The Root                2554.000
+botbie                         2550.000
+Team Smudy                     2541.000
+BambooFox                      2540.000
+dodododo                       2540.000
+ngb                            2490.000
+HackerDom                      2490.000
+Hanoiati                       2475.000
+EpsilonDelta                   2396.000
+Securimag                      2391.000
+STT                            2360.000
+Koibasta                       2340.000
+OpenToAll                      2315.000
+Sexypasta                      2270.000
+FAUST                          2270.000
+cyberkastike                   2250.000
+HIGIMT                         2244.000
+Dystopian Narwhals             2200.000
+SIGINT                         2170.000
+nottoworry                     2142.000
+rentjong                       2140.000
+MMA                            2130.000
+RooterX                        2110.000
+Without Proper Instructions    2015.000
+Seductive walrus               1990.000
+heX                            1990.000
+Hopjesvla                      1988.000
+EPICLYONS                      1965.000
+PeterPEN                       1930.000
+1338-offbyone                  1930.000
+GIRAV                          1930.000
+Knightsec                      1895.000
+Honeypot                       1880.000
+Singularity                    1740.000
+Zenk-Security                  1700.000
+WeAreScientists                1700.000
+9447                           1670.000
+Disgrace                       1665.000
+GetToDaChoppa                  1650.000
+X-Men                          1645.000
+r00tiniers                     1632.000
+YetAnotherTeam                 1630.000
+overflowsec                    1630.000
+LosFuzzys                      1630.000
+0x8F                           1630.000
+ClevCode Rising                1625.000
+MapJ                           1610.000
+TeamBackdoor                   1593.000
+lesboverflow                   1590.000
+squareroots                    1550.000
+KoiBastard                     1540.000
+mage                           1520.000
+anesec                         1480.000
+Evilzone                       1445.000
+I Dont Know                    1445.000
+\0AAAA                         1444.000
+The Pacman&#39;s Army          1435.000
+r3b00+                         1435.000
+.hack//spartan                 1430.000
+TheGoonies                     1420.000
+v++                            1400.000
+Worstenbroodjes                1400.000
+theCamelCasers                 1400.000
+mongo                          1373.000
+ra                             1360.000
+NYUSEC                         1360.000
+w0pr                           1360.000
+b01lers                        1350.000
+CISSP Groupies                 1350.000
+TRex                           1340.000
+Marauders                      1325.000
+itsgr                          1303.000
+nopple                         1280.000
+Eaters                         1175.000
+Delusions of Grandeur          1150.000
+A-Team                         1120.000
+Kuddelfleck                    1120.000
+IPFactory                      1120.000
+mop                            1104.000
+G04tzZZ                        1100.000
+Coffeetable                    1080.000
+fixme                          970.000 
+SiBears                        920.000 
+Hexpresso                      920.000 
+AutoBits                       920.000 
+.elite                         920.000 
+kimjongun                      920.000 
+vulnhub-ctf                    900.000 
+Traditional Breakfast          900.000 
+Man In Yellow                  880.000 
+Hopeless                       880.000 
+rootroot.ru                    860.000 
+K-team                         860.000 
+Team Red Ace                   850.000 
+nonbei                         850.000 
+GGG                            850.000 
+Batman&#39;s Kitchen           850.000 
+cat                            850.000 
+pwnies                         850.000 
+Midnighters                    850.000 
+tuat_mcc                       850.000 
+BlueBunnies                    820.000 
+ULIX                           810.000 
+@man                           810.000 
+:D                             810.000 
+SGFk                           810.000 
+HTWG                           789.000 
+FITS Minions                   720.000 
+hackgyver                      690.000 
+Bits for Everyone              690.000 
+SyktGU-InfoSec                 675.000 
+pumpernikiel                   670.000 
+AT07                           670.000 
+KQCQ                           650.000 
+10bps                          650.000 
+DefHackto                      650.000 
+irctf                          650.000 
+unicornpoo                     635.000 
+peanuts                        631.000 
+Pic0wn                         615.000 
+No Internet Access             615.000 
+Escalope!                      611.000 
+NULLify                        610.000 
+Nanerpwn                       600.000 
+Byte                           600.000 
+WhiteHammer                    600.000 
+Glimpses of Grandeur           600.000 
+SecSemCTF                      590.000 
+scimedakcah                    590.000 
+Tcorp                          581.000 
+plsno                          580.000 
+Itemize                        580.000 
+Fedaykin                       580.000 
+OPT                            580.000 
+T-Team                         580.000 
+lonely pigeons                 580.000 
+0x1337                         580.000 
+Yozik                          580.000 
+NuNiX                          580.000 
+TA-CyberOps                    580.000 
+The one team                   580.000 
+Duvel                          580.000 
+hf_c500                        580.000 
+HIMYM                          580.000 
+Bono_jp                        580.000 
+knot                           580.000 
+REU                            560.000 
+Ad Victoriam                   560.000 
+CyberBricks                    550.000 
+Vegan Zombies                  545.000 
+Team SNE                       542.000 
+sbx320                         530.000 
+Sloth Krew                     530.000 
+joker                          530.000 
+Jambon                         510.000 
+JmpOnOverflow                  510.000 
+pwn3rs                         510.000 
+illuminarty                    510.000 
+keva                           430.000 
+The Losers                     420.000 
+Pseudo Random Dudes            420.000 
+Fgyje                          420.000 
+EJC                            416.000 
+OrderZero                      410.000 
+Vorpal                         405.000 
+1Off                           400.000 
+hmrb                           400.000 
+pwn.ro                         400.000 
+HeXA                           390.000 
+rm -rf [enter]                 380.000 
+ufologists                     380.000 
+Double Helix                   380.000 
+bkitsec                        380.000 
+GinVlad                        380.000 
+psuje                          380.000 
+The Eighth Captcha Attempt     380.000 
+NaVi                           380.000 
+tao                            380.000 
+PizzaEaters                    365.000 
+nopnop                         360.000 
+454JKW                         360.000 
+BHAlone                        360.000 
+vols2014                       360.000 
+fLa                            360.000 
+XOROR                          360.000 
+alanlei                        355.000 
+zer0w1re                       350.000 
+Generic Evil CTF Team          340.000 
+North Korean Panty Raid        335.000 
+KCS H@x0rz                     330.000 
+Blackheart                     330.000 
+HackITGuys                     330.000 
+hahaha                         330.000 
+Volunteer Hackers              330.000 
+mrx                            330.000 
+man-db                         330.000 
+m34g41n                        330.000 
+foo                            330.000 
+Wiremask                       330.000 
+mau5                           330.000 
+XVHHV                          330.000 
+Hackyard Security Group        330.000 
+ArrBas                         330.000 
+Rogue Coder                    330.000 
+SummerHackers                  330.000 
+Chusen Ones                    330.000 
+dickjizztra                    330.000 
+sherl0ck                       330.000 
+TeamACL                        330.000 
+Codernate                      330.000 
+top30kret                      330.000 
+ZumZoom                        330.000 
+0x2A                           310.000 
+YouKnowWho                     310.000 
+Thunder                        310.000 
+ISITDTU                        310.000 
+L1ght4Freedom                  300.000 
+Neomant                        290.000 
+J0nny DEP                      280.000 
+electrojustin                  280.000 
+CSIT431                        270.000 
+AllUrBase                      260.000 
+TeamActionKaktus               260.000 
+Forever Alone                  260.000 
+Packet_Monkeys                 260.000 
+batik                          260.000 
+chuck14                        260.000 
+YO                             260.000 
+lazydaemons                    260.000 
+Armageddon                     250.000 
+lone gunmen                    250.000 
+Bert                           240.000 
+k2701                          240.000 
+govols1998                     225.000 
+Team TA                        203.000 
+Hawks                          200.000 
+Dam flud la dusmani            200.000 
+Zzzzz                          165.000 
+tr0gd0r                        165.000 
+fuhgeddaboudit                 165.000 
+Hackamole                      146.000 
+BeatsAndHacking                130.000 
+h4cktu5                        130.000 
+b1n4ry4rms                     130.000 
+Epic Leet Team                 130.000 
+sl0th                          130.000 
+Rich_Chinese                   130.000 
+NoobGirl                       130.000 
+MacBernick                     130.000 
+l0lxtreme                      130.000 
+ProbeSecurity                  130.000 
+kazan71p                       130.000 
+KernelPanic                    130.000 
+Geek                           130.000 
+sags-team                      130.000 
+sec0d                          130.000 
+TeamHoWest                     130.000 
+voidka                         130.000 
+Binary Beauties                130.000 
+ctfs2hard4me                   130.000 
+hexswitch                      130.000 
+Ramrod                         130.000 
+flying sausage                 130.000 
+sense_ph                       130.000 
+LLL                            130.000 
+N00Beergy                      130.000 
+ltett                          130.000 
+VolNinjas4                     130.000 
+JDHoR                          130.000 
+n0nam3                         130.000 
+n0l3ptr                        130.000 
+COINS                          130.000 
+jjjjj                          130.000 
+aether                         130.000 
+Ichiban                        130.000 
+aFancysquirrel                 130.000 
+b33p                           130.000 
+dosette                        130.000 
+daruma                         130.000 
+10111                          130.000 
+help wanted                    130.000 
+ZAP                            130.000 
+X Hunt3r                       130.000 
+PeakChaos                      130.000 
+gctf                           130.000 
+hefnrh                         130.000 
+BashBoyz                       130.000 
+Team UT                        130.000 
+HSbC                           130.000 
+zemisolsol                     130.000 
+CureSecure                     130.000 
+404                            130.000 
+okudo3                         130.000 
+on est pas contents            130.000 
+The DHARMA Initiative          95.000  
+the_isits0rs                   95.000  
+hachune                        73.000  
+MTMOYE                         70.000  
+hdusec                         70.000  
+OGT                            70.000  
+GreyHatGroup                   70.000  
+Keysec                         70.000  
+hexrid3rs                      70.000  
+Desperado                      70.000  
+APT                            70.000  
+SA12 (1)                       70.000  
+garbage                        70.000  
+Morb{H}ack                     70.000  
+N00bSled                       60.000  
+Zenith                         60.000  
+team late                      60.000  
+fun_hackers                    60.000  
+S.A                            60.000  
+TCNET                          60.000  
+Noob                           60.000  
+Toxic Bandits                  60.000  
+Clueless                       60.000  
+Team sParkle                   60.000  
+bim                            60.000  
+penthackon                     60.000  
+p03p0wn                        60.000  
+AfkeSix                        60.000  
+Blue-Whale                     60.000  
+/dev/null                      60.000  
+SpectriX                       60.000  
+CatFanciers                    60.000  
+vdar                           60.000  
+WpCap                          60.000  
+bucsec                         60.000  
+nyanpasu                       60.000  
+usedoils                       60.000  
+AutopsIT                       60.000  
+Not_A_Number                   60.000  
+bit0n                          60.000  
+OneDz                          60.000  
+Vim Appreciation Society       60.000  
+x000                           60.000  
+PoederBlussers                 60.000  
+AssuredSecNinjas               60.000  
+Unhandled_Exception            60.000  
+th3jackers                     60.000  
+soloHasasn                     60.000  
+Frag                           60.000  
+AdopteUnMec                    60.000  
+team phate                     60.000  
+We&#39;re here for the food again 60.000  
+Bread                          60.000  
+Thereisnospoon                 60.000  
+0xFFF0                         60.000  
+dook                           60.000  
+YorkshireAirlines              60.000  
+OnWiRe                         60.000  
+Noway                          60.000  
+KaleYeah                       5.000   
