@@ -12,6 +12,7 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 
 * [bashful](bashful)
 * [insanity\_check](insanity_check)
+* [no strings attached](no-strings-attached)
 * [ramble](ramble)
 * [tumorous](tumorous)
 
@@ -28,7 +29,6 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 * [future](future)
 * [hellomike](hellomike)
 * [johnlions](johnlions)
-* [no strings attached](no-strings-attached)
 * [nosql](nosql)
 * [rolling](rolling)
 * [securestore](securestore)
