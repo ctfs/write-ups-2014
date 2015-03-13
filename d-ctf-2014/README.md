@@ -1,7 +1,7 @@
 # D-CTF 2014 write-ups
 
 * <http://dctf.defcamp.ro/>
-* [Scoreboard](http://dctf.defcamp.ro/ranks) or [local alternative](scoreboard.txt)
+* [Scoreboard](http://dctf.defcamp.ro/ranks)
 
 ## Completed write-ups
 
