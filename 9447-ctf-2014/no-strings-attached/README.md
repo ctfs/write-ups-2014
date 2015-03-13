@@ -17,7 +17,7 @@ Running the binary yields following prompt and requests us for an authentificati
 We can decompile the code in Intel syntax using `objdump -D -M intel no_strings_attached` and find the main calling a suspicious function, `authenticate`:
 
 
-```
+```nasm
 080487a9 <main>:
  80487a9:	55                   	push   ebp
  80487aa:	89 e5                	mov    ebp,esp
@@ -37,7 +37,7 @@ We can decompile the code in Intel syntax using `objdump -D -M intel no_strings_
 
 This `authenticate` later calls a `decrypt` function:
 
-```
+```nasm
 08048708 <authenticate>:
  8048708:	55                   	push   ebp
  8048709:	89 e5                	mov    ebp,esp
