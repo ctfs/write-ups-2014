@@ -2,6 +2,7 @@
 
 **Category:** Exploitation
 **Points:** 420
+**Solves:** 9
 **Description:**
 
 > I'll have a small flat white, cheers mate!

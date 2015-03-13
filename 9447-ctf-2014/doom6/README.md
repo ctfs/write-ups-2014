@@ -2,6 +2,7 @@
 
 **Category:** Misc
 **Points:** 250
+**Solves:** 19
 **Description:**
 
 > Axel Gembe is at it again. This time he's got his hands on Doom6, fresh off the alpha shelf at EA studios. Beat the game to complete the challenge.

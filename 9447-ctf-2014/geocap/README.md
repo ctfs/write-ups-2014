@@ -2,6 +2,7 @@
 
 **Category:** Misc
 **Points:** 213
+**Solves:** 27
 **Description:**
 
 > Some say modern rap lyrics contain hidden messages, but who knows these things…

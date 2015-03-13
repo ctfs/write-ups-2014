@@ -2,6 +2,7 @@
 
 **Category:** Reversing
 **Points:** 400
+**Solves:** 4
 **Description:**
 
 > The flag is `9447{$STR}` where `$STR` is the shortest string that is accepted by this binary. If multiple accepted strings have the same length, you must use the lexicographically least such string.

@@ -2,6 +2,7 @@
 
 **Category:** Exploitation
 **Points:** 120
+**Solves:** 41
 **Description:**
 
 > Submit flag02 here

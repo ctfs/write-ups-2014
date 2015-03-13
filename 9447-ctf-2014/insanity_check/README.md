@@ -2,6 +2,7 @@
 
 **Category:** Reversing
 **Points:** 1
+**Solves:** 521
 **Description:**
 
 > Congrats, you can read!

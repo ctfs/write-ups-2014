@@ -2,6 +2,7 @@
 
 **Category:** Exploitation
 **Points:** 500
+**Solves:** 9
 **Description:**
 
 > After the failing of his InSecureStore (TM), Top Secret Agent Steve wants you to test out his new storage program, securestore. See if you can extract the flag.

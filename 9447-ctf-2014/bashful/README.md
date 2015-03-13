@@ -2,6 +2,7 @@
 
 **Category:** Web
 **Points:** 101
+**Solves:** 157
 **Description:**
 
 > You think that was too easy? Well it was actually harder than I thought, so I made it simple again…

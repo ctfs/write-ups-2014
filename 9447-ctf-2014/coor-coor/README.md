@@ -2,6 +2,7 @@
 
 **Category:** Misc
 **Points:** 400
+**Solves:** 18
 **Description:**
 
 > A 9447 CTF organizer is giving away flags to friends that he trusts. This [memory dump](https://mega.co.nz/#!j1523QbI!8yGkA4_M7bgea4H4sbqdxTgwgielAUWPGK3a3cMve_w) was taken off a competitor’s computer after a raid by the pwnpolice.

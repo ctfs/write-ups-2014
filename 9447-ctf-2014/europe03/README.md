@@ -2,6 +2,7 @@
 
 **Category:** Exploitation
 **Points:** 380
+**Solves:** 27
 **Description:**
 
 > Submit flag03 here. It is in `/home/ctf/`

@@ -2,6 +2,7 @@
 
 **Category:** Exploitation
 **Points:** 150
+**Solves:** 30
 **Description:**
 
 > Remote Code Execution As A Service

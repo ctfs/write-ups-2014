@@ -2,6 +2,7 @@
 
 **Category:** Misc
 **Points:** 160
+**Solves:** 65
 **Description:**
 
 > Hey, I don’t understand how SQL works so I made my own NoSQL startup. And OpenSSL is bloody crap.

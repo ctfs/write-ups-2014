@@ -2,6 +2,7 @@
 
 **Category:** Web
 **Points:** 100
+**Solves:** 224
 **Description:**
 
 > They are following me. They are after my token. I have to hide it somewhere. I’m not very good at hiding.

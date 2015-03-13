@@ -1,8 +1,9 @@
 # 9447 CTF 2014 write-ups
 
 * <https://9447.plumbing/>
-* [Scoreboard](https://9447.plumbing/scores)
+* [Scoreboard](https://9447.plumbing/scores) or [local alternative](scoreboard.txt)
 * [@9447CTF on Twitter](https://twitter.com/9447CTF)
+* [Number of solves per task](solves.txt)
 
 ## Info
 

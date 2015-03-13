@@ -2,6 +2,7 @@
 
 **Category:** Exploitation
 **Points:** 230
+**Solves:** 42
 **Description:**
 
 > Ahoy thar buckos! Do you have what it takes t’ become t’ new PIRATE KING? Prove your strength by defeatin’ all challengers in a mighty arm wrestle! If ye succeed then claim ye treasure map ’n search fer th’ hidden booty!

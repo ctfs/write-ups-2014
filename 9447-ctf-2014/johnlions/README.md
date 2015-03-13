@@ -2,6 +2,7 @@
 
 **Category:** Exploitation
 **Points:** 250
+**Solves:** 28
 **Description:**
 
 > telnet johnlions.9447.plumbing

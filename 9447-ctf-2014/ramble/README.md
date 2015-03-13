@@ -2,6 +2,7 @@
 
 **Category:** Web
 **Points:** 200
+**Solves:** 58
 **Description:**
 
 > [travels of a lonely cloud](http://ramble.9447.plumbing:8888/)

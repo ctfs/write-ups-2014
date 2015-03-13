@@ -2,6 +2,7 @@
 
 **Category:** Reversing
 **Points:** 25
+**Solves:** 166
 **Description:**
 
 > [`no_strings_attached`](no_strings_attached)
@@ -52,11 +53,11 @@ Let's jump to the state after the `decrypt` function call using `gdb`!
 
 ![](registers.png)
 
-Since return values and pointers to memory, where values are located, is saved in the EAX register - as by [x86 C convention](http://en.wikibooks.org/wiki/X86_Disassembly/Calling_Conventions#CDECL), it is a good guess to always look at the content of this register:
+Since return values and pointers to memory, where values are located, is saved in the EAX register - as by [x86 C convention](http://en.wikibooks.org/wiki/X86_Disassembly/Calling_Conventions#CDECL), it is always a good guess to look at the content of this register:
 
 ![](eax_content.png)
 
-The content look like a hexadecimal ASCII string, let's extract it and convert it to a readable character string:
+The content looks like a hexadecimal ASCII string, let's extract it and convert it to a readable character string:
 
 
 ```

@@ -2,6 +2,7 @@
 
 **Category:** Misc
 **Points:** 50
+**Solves:** 53
 **Description:**
 
 > 2400:6180:0000:00d0::0264:7001

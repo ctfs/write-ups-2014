@@ -2,6 +2,7 @@
 
 **Category:** Misc
 **Points:** 100
+**Solves:** 71
 **Description:**
 
 > shmap.9447.plumbing:9447

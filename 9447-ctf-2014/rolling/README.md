@@ -2,6 +2,7 @@
 
 **Category:** Reversing
 **Points:** 100
+**Solves:** 118
 **Description:**
 
 > Rolling your own stuff is pretty good :)

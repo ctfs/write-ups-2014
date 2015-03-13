@@ -2,6 +2,7 @@
 
 **Category:** Misc
 **Points:** 270
+**Solves:** 46
 **Description:**
 
 > polydata.9447.plumbing:13371
