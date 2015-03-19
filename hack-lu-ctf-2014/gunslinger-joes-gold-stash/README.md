@@ -22,3 +22,4 @@
 * <http://edwardsh.in/hack.lu/2014/10/23/hacklu-2014-ctf-write-up-gunslinger-joes-gold-stash/>
 * [Writeup by captchaflag](http://www.captchaflag.com/blog/2014/10/23/hack-dot-lu-2014-gunslinger-joes-gold-stash/)
 * <https://ctfcrew.org/writeup/86>
+* [French](https://securimag.org/wp/challenges/hack-lu-gunslinger-joes-gold-stash/)
