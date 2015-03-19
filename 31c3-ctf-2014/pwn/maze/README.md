@@ -19,5 +19,6 @@
 
 ## Other write-ups and resources
 
+* <http://www.clevcode.org/31c3-ctf-maze-write-up/>
 * Challenge source: [source.tar.gz](source.tar.gz)
 * Challenge exploit: [exploit.py](exploit.py)

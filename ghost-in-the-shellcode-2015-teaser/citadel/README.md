@@ -36,4 +36,5 @@ The flag is `key{Should have used boost::format}`.
 
 * [Write-up by team gn00bz](http://gnoobz.com/gits-teaser-2015-ctf-citadel-writeup.html)
 * [Exploit by team gn00bz](solve.py)
+* <http://www.clevcode.org/ghost-in-the-shellcode-2015-teaser-citadel-solution/>
 * <http://pastebin.com/MS3KG1um>

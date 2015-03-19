@@ -29,3 +29,4 @@ x dontpanicshiftkeying/dontpanicshiftkeying.jpg
 ## Other write-ups and resources
 
 * <http://gnoobz.com/gits-teaser-2015-ctf-dont-panic-shift-keying-writeup.html>
+* <http://www.clevcode.org/ghost-in-the-shellcode-2015-teaser-dont-panic-shift-keying-solution/>
