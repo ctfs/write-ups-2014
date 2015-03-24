@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://cregnec.github.io/blog/2014/11/17/picoctf-2014-writeup.html#baleful>

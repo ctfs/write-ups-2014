@@ -9,25 +9,25 @@
 
 ## External write-ups only
 
-* none yet
+* [baleful-200](master-challenge/baleful-200)
+* [crude-crypt-180](binary-exploitation/crude-crypt-180)
+* [fancy-cache-200](master-challenge/fancy-cache-200)
+* [never-note-180](binary-exploitation/never-note-180)
 
 ## Missing write-ups
 
-* [baleful-200](master-challenge/baleful-200)
 * [basic-asm-60](reverse-engineering/basic-asm-60)
 * [best-shell-160](binary-exploitation/best-shell-160)
 * [bit-puzzle-130](reverse-engineering/bit-puzzle-130)
 * [block-130](crypto/block-130)
 * [caesar-20](crypto/caesar-20)
 * [common-vulnerability-exercise-20](miscellaneous/common-vulnerability-exercise-20)
-* [crude-crypt-180](binary-exploitation/crude-crypt-180)
 * [cyborg-secrets-80](reverse-engineering/cyborg-secrets-80)
 * [delicious-60](web-exploitation/delicious-60)
 * [droid-app-80](forensics/droid-app-80)
 * [easy-overflow-40](binary-exploitation/easy-overflow-40)
 * [ecc-100](crypto/ecc-100)
 * [execute-me-80](binary-exploitation/execute-me-80)
-* [fancy-cache-200](master-challenge/fancy-cache-200)
 * [format-70](binary-exploitation/format-70)
 * [function-address-60](reverse-engineering/function-address-60)
 * [grep-is-still-your-friend-40](forensics/grep-is-still-your-friend-40)
@@ -44,7 +44,6 @@
 * [make-a-face-100](web-exploitation/make-a-face-100)
 * [massive-fail-120](web-exploitation/massive-fail-120)
 * [netsino-120](reverse-engineering/netsino-120)
-* [never-note-180](binary-exploitation/never-note-180)
 * [no-comment-20](web-exploitation/no-comment-20)
 * [no-overflow-140](binary-exploitation/no-overflow-140)
 * [obfusication-150](reverse-engineering/obfusication-150)
