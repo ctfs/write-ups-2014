@@ -12,7 +12,7 @@ No hints :( just get the flag.
 
 Note: the linked writeup contains a small error, here's the correct flag:
 
-![Screenshot with the flag](screenshot.png)
+![Screenshot with the flag](screencap.png)
 
 Flag: NCNdeadb6adec4c77a40c23e04770924d3c5b18face
 
