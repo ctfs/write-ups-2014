@@ -11,7 +11,14 @@
 
 ## Write-up
 
-(TODO)
+We have to convert the hexadecimal number `0x95f48ed9` to decimal and can do that by using `printf`:
+
+```bash
+$ printf "%d\n" 0x95f48ed9
+2515832537
+```
+
+The flag is `2515832537`.
 
 ## Other write-ups and resources
 

@@ -11,7 +11,20 @@
 
 ## Write-up
 
-(TODO)
+We rotate the text using the caesar cipher using [this tool]():
+
+```bash
+$ for i in {0..25}; do python rot.py -l $i espdpncpealddascldptdfvaaychcjplgrehtnqxycvmykpblhr; done
+espdpncpealddascldptdfvaaychcjplgrehtnqxycvmykpblhr
+ftqeqodqfbmeebtdmequegwbbzdidkqmhsfiuoryzdwnzlqcmis
+[...]
+sgdrdbqdsozrrogqzrdhrtjoomqvqxdzufsvhbelmqjamydpzvf
+thesecretpassphraseisukppnrwryeavgtwicfmnrkbnzeqawg
+uiftfdsfuqbttqisbtfjtvlqqosxszfbwhuxjdgnoslcoafrbxh
+[...]
+```
+
+The flag is `ukppnrwryeavgtwicfmnrkbnzeqawg`.
 
 ## Other write-ups and resources
 

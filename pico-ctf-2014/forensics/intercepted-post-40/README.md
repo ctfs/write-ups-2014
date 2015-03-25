@@ -11,7 +11,11 @@
 
 ## Write-up
 
-(TODO)
+Opening the pcap traffic dump with `wireshark`, we look for a HTTP `POST` and find it in the last section of the intercepted packages:
+
+![](password.png)
+
+The flag is `flag{pl$_$$l_y0ur_l0g1n_form$}`.
 
 ## Other write-ups and resources
 

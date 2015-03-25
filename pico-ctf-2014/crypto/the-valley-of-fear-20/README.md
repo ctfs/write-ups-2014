@@ -11,7 +11,25 @@
 
 ## Write-up
 
-(TODO)
+The hint tells us that each of these three numbers might represent a word in a message.
+
+We are given 9 paragraphs in [book.txt]() with up to 17 lines for each sentence and quickly discover that each triple uses following scheme to encodes/hide a word:
+
+```
+(1, 9, 4) === (paragraph, line-in-paragraph, word-in-line) === 4th word in 9th line of first paragraph
+```
+
+That means we get following words:
+
+```
+(1,  9, 4) === the
+(4,  2, 8) === flag
+(4,  8, 3) === is
+(7,  1, 5) === Ceremonial
+(8, 10, 1) === plates
+```
+
+The flag is `Ceremonial plates`.
 
 ## Other write-ups and resources
 

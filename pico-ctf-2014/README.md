@@ -5,7 +5,11 @@
 
 ## Completed write-ups
 
-* none yet
+* [caesar-20](crypto/caesar-20)
+* [droid-app-80](forensics/droid-app-80)
+* [intercepted-post-40](forensics/intercepted-post-40)
+* [the-valley-of-fear-20](crypto/the-valley-of-fear-20)
+* [tyrannosaurus-hex-10](miscellaneous/tyrannosaurus-hex-10)
 
 ## External write-ups only
 
@@ -20,11 +24,9 @@
 * [best-shell-160](binary-exploitation/best-shell-160)
 * [bit-puzzle-130](reverse-engineering/bit-puzzle-130)
 * [block-130](crypto/block-130)
-* [caesar-20](crypto/caesar-20)
 * [common-vulnerability-exercise-20](miscellaneous/common-vulnerability-exercise-20)
 * [cyborg-secrets-80](reverse-engineering/cyborg-secrets-80)
 * [delicious-60](web-exploitation/delicious-60)
-* [droid-app-80](forensics/droid-app-80)
 * [easy-overflow-40](binary-exploitation/easy-overflow-40)
 * [ecc-100](crypto/ecc-100)
 * [execute-me-80](binary-exploitation/execute-me-80)
@@ -37,7 +39,6 @@
 * [injection-2-110](web-exploitation/injection-2-110)
 * [injection-3-130](web-exploitation/injection-3-130)
 * [injection-4-150](web-exploitation/injection-4-150)
-* [intercepted-post-40](forensics/intercepted-post-40)
 * [internet-inspection-30](web-exploitation/internet-inspection-30)
 * [javascript-40](web-exploitation/javascript-40)
 * [low-entropy-110](crypto/low-entropy-110)
@@ -68,12 +69,10 @@
 * [steves-list-200](master-challenge/steves-list-200)
 * [substitution-50](crypto/substitution-50)
 * [supercow-40](forensics/supercow-40)
-* [the-valley-of-fear-20](crypto/the-valley-of-fear-20)
 * [this-is-endian-40](binary-exploitation/this-is-endian-40)
 * [tic-toc-90](reverse-engineering/tic-toc-90)
 * [toaster-control-50](web-exploitation/toaster-control-50)
 * [towers-of-toast-90](reverse-engineering/towers-of-toast-90)
-* [tyrannosaurus-hex-10](miscellaneous/tyrannosaurus-hex-10)
 * [web-interseption-140](crypto/web-interseption-140)
 * [what-the-flag-140](binary-exploitation/what-the-flag-140)
 * [write-right-50](binary-exploitation/write-right-50)
