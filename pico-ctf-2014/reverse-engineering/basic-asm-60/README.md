@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://ehsandev.com/pico2014/reverse_engineering/basic_asm.html>
+* <https://ctf-team.vulnhub.com/picoctf-2014-basic-asm/>

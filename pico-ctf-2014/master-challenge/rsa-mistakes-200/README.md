@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://ehsandev.com/pico2014/cryptography/RSAMistake.html>
+* <https://ctf-team.vulnhub.com/picoctf-2014-rsa-mistakes/>

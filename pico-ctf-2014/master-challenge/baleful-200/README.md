@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <http://cregnec.github.io/blog/2014/11/17/picoctf-2014-writeup.html#baleful>
+* <https://ctf-team.vulnhub.com/picoctf-2014-baleful/>

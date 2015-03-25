@@ -17,3 +17,4 @@ The server is running on vuln2014.picoctf.com:21212.
 ## Other write-ups and resources
 
 * <http://ehsandev.com/pico2014/reverse_engineering/police_records.html>
+* <https://ctf-team.vulnhub.com/picoctf-2014-police-records/>

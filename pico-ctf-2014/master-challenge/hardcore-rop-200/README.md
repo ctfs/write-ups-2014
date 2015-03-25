@@ -20,4 +20,4 @@ NB: This problem is running in a slightly unusual setup to get extra PIE randomn
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/picoctf-2014-hardcore-rop/>
