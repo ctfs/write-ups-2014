@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/forensics/png_or_not.html>

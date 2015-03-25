@@ -16,4 +16,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/cryptography/substitution.html>

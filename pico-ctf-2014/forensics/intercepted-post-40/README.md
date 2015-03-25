@@ -19,4 +19,4 @@ The flag is `flag{pl$_$$l_y0ur_l0g1n_form$}`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/forensics/intercepted_post.html>

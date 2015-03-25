@@ -15,4 +15,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/reverse_engineering/basic_asm.html>

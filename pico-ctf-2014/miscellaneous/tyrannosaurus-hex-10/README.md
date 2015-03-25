@@ -23,3 +23,4 @@ The flag is `2515832537`.
 ## Other write-ups and resources
 
 * <https://picoctf.wordpress.com/2014/11/10/tyrannosaurus-hex-10-picoctf-2014-writeup/>
+* <http://ehsandev.com/pico2014/miscellaneous/tyrannosaurus_hex.html>

@@ -33,4 +33,4 @@ The flag is `Ceremonial plates`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/cryptography/the_valley_of_fear.html>
