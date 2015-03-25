@@ -16,4 +16,5 @@ The last thing we noticed in out network logs show is the attacker downloading t
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/forensics/ssh_backdoor.html>
+* <https://ctf-team.vulnhub.com/picoctf-2014-ssh-backdoor/>

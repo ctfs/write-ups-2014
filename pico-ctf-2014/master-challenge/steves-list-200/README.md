@@ -1,4 +1,4 @@
-# Pico CTF 2014 : Hardcore ROP
+# Pico CTF 2014 : Steves List 
 
 **Category:** Master Challenge
 **Points:** 200
@@ -20,4 +20,5 @@ NB: This problem is running in a slightly unusual setup to get extra PIE randomn
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/web_exploitation/steves_list.html>
+* <https://ctf-team.vulnhub.com/picoctf-2014-steves-list/>

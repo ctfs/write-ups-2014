@@ -28,4 +28,5 @@ The flag is `ukppnrwryeavgtwicfmnrkbnzeqawg`.
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/cryptography/caesar.html>
+* <https://ctf-team.vulnhub.com/picoctf-2014-ceasar/>

@@ -43,4 +43,4 @@ The flag is `what_does_the_logchat_say`.
 
 ## Other write-ups and resources
 
-* none yet
+* <https://ctf-team.vulnhub.com/picoctf-2014-droidapp/>

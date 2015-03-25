@@ -15,4 +15,5 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <http://ehsandev.com/pico2014/forensics/png_or_not.html>
+* <https://ctf-team.vulnhub.com/picoctf-2014-png-or-not/>
