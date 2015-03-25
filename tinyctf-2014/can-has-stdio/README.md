@@ -26,3 +26,4 @@ flag{esolangs_for_fun_and_profit}
 
 * <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#can-has-stdio>
 * <https://github.com/jesstess/tinyctf/blob/master/stdio/stdio.md>
+* <http://barrebas.github.io/blog/2014/10/03/tinyctf/>

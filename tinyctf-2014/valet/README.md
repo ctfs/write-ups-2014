@@ -48,3 +48,4 @@ Select an option:
 ## Other write-ups and resources
 
 * <https://github.com/jesstess/tinyctf/blob/master/valet/valet.md>
+* <http://barrebas.github.io/blog/2014/10/03/tinyctf/>

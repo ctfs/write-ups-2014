@@ -103,3 +103,4 @@ The flag is `flag{no_penguin_here}`.
 ## Other write-ups and resources
 
 * <https://github.com/jesstess/tinyctf/blob/master/ecb/ecb.md>
+* <http://barrebas.github.io/blog/2014/10/03/tinyctf/>

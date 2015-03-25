@@ -54,3 +54,4 @@ The flag is `flag{no_this_is_not_crypto_my_dear}`.
 * <http://sugarstack.io/tinyctf-cry-100.html>
 * <https://github.com/evanowe/TinyCTF2014-writeups/blob/master/README.md#safer-than-rot13>
 * <https://github.com/jesstess/tinyctf/blob/master/rot13/rot13.md>
+* <http://barrebas.github.io/blog/2014/10/03/tinyctf/>

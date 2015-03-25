@@ -125,5 +125,6 @@ The output of the script is:
 
 ## Other write-ups and resources
 
+* <http://barrebas.github.io/blog/2014/10/31/asis-ctf-secure-hobby/>
 * [Alternative Exploit in Python](http://pastebin.com/b2QVFK2U)
 * [French](https://t0x0sh.org/asis-ctf-finals-hobby-pownable-250.html)

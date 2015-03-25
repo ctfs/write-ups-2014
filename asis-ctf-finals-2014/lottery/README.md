@@ -59,3 +59,4 @@ And indeed, `ASIS\_9f1af649f25108144fc38a01f8767c0c` is the flag.
 * <https://hackucf.org/blog/asis-2014-web-100-lottery/>
 * <https://beagleharrier.wordpress.com/2014/10/13/asis-ctf-finals-2014lottery-writeup/>
 * <http://bruce30262.logdown.com/posts/237386-asis-ctf-finals-2014-how-much-exactly-lottery>
+* <http://barrebas.github.io/blog/2014/10/31/asis-ctf-lottery/>

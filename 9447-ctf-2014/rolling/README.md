@@ -24,3 +24,4 @@
 * <http://theevilbit.blogspot.com/2014/12/9447-ctf-2014-writeup-reversing-125100.html>
 * <https://ph0sec.github.io/blog/2014/12/21/9447-ctf-100-rolling-writeup/>
 * <http://cregnec.github.io/blog/2014/12/01/9447-ctf-the-challenge-that-ruined-my-day.html>
+* <http://barrebas.github.io/blog/2014/12/02/9447-ctf-rolling/>
