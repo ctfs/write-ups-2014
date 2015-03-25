@@ -31,3 +31,4 @@
 
 * <http://cregnec.github.io/blog/2014/11/17/picoctf-2014-writeup.html#fancy-cache>
 * <https://ctf-team.vulnhub.com/picoctf-2014-fancy-cache/>
+* <http://barrebas.github.io/blog/2014/11/06/picoctf-fancy-cache/>

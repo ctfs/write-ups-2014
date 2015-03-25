@@ -17,3 +17,4 @@
 
 * <http://ehsandev.com/pico2014/cryptography/web_interception.html>
 * <https://ctf-team.vulnhub.com/picoctf-2014-web-interception/>
+* <http://barrebas.github.io/blog/2014/11/06/picoctf-write-ups/>

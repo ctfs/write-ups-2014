@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * <https://ctf-team.vulnhub.com/picoctf-2014-netsino/>
+* <http://barrebas.github.io/blog/2014/11/06/picoctf-write-ups/>

@@ -18,3 +18,4 @@ Their source, and our intercepted message, are here. The key generation service 
 
 * <http://ehsandev.com/pico2014/cryptography/low_entropy.html>
 * <https://ctf-team.vulnhub.com/picoctf-2014-low-entropy/>
+* <http://barrebas.github.io/blog/2014/11/06/picoctf-write-ups/>

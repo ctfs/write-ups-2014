@@ -35,3 +35,4 @@ The flag is `Ceremonial plates`.
 
 * <http://ehsandev.com/pico2014/cryptography/the_valley_of_fear.html>
 * <https://ctf-team.vulnhub.com/picoctf-2014-the-valley-of-fear/>
+* <https://github.com/PizzaEaters/picoCTF-2014/tree/master/valley>
