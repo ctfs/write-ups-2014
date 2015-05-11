@@ -36,3 +36,4 @@ Looks like our flag is `e3565503fb4be929a214a9e719830d4e`.
 ## Other write-ups and resources
 
 * <http://ctf.sharif.edu/2014/quals/su-ctf/write-ups/21/>
+* [Vietnamese](https://13c5.wordpress.com/2014/09/28/su-ctf-quals-2014-huge-key/)

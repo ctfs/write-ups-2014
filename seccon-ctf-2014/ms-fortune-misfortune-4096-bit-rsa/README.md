@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://neg9.org/news/2015/3/9/seccon-ctf-2014-crypto-400-msfortune-4096-bit-rsa>

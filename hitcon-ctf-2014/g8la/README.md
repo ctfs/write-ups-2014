@@ -14,4 +14,5 @@
 
 ## Other write-ups and resources
 
+* <http://lockboxx.blogspot.de/2014/08/hitcon-2014-ctf-writeup-g8la-forensics.html>
 * [notes](http://cuby.hu/hitcon-lol-notes-then-not-writeups.txt)
