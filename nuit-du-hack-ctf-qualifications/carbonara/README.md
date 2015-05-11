@@ -22,3 +22,4 @@
 
 * <http://sigint.ru/writeups/2014/04/07/nuit-du-hack-2014-writeups/#carbonara>
 * <http://www.pwntester.com/blog/2014/04/06/nuitduhack-2014-crypto-write-ups/>
+* <http://fadec0d3.blogspot.de/2014/04/nuit-du-hack-quals-ctf-writeup-2014.html>
