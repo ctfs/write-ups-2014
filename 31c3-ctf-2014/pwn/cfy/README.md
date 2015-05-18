@@ -16,5 +16,6 @@
 * <http://l4w.io/2014/12/31c3-ctf-writeups/>
 * <http://gnoobz.com/31c3-ctf-cfy-writeup.html>
 * <http://barrebas.github.io/blog/2014/12/29/31c3-ctf-cfy/>
+* [Vietnamese](https://babyphd.net/2015/01/write-up-31c3-cfy/)
 * <https://rzhou.org/~ricky/31c3/cfy/exp.py>
 * <http://pastebin.com/qwhUBLMx>

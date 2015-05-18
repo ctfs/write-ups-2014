@@ -20,4 +20,5 @@ The flag is `CTF{b15ffee30a117f418d1cede6faa57778}`.
 * <http://blog.dragonsector.pl/2014/02/olympic-ctf-2014-rpc-400.html>
 * <http://tasteless.se/2014/02/olympic-ctf-sochi-2014-rpc-writeup/>
 * <http://www.pwntester.com/blog/2014/02/09/olympic-ctf-curling-tasks/#curling400rpc>
+* <http://lokalhost.pl/ctf/olympic2014_rpc.txt>
 * [Chinese](http://blog.orange.tw/2014/02/olympic-ctf-2014-curling-400-write-up.html)
