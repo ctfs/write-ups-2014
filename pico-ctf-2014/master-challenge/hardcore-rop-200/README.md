@@ -23,3 +23,4 @@ NB: This problem is running in a slightly unusual setup to get extra PIE randomn
 * <https://ctf-team.vulnhub.com/picoctf-2014-hardcore-rop/>
 * <https://github.com/PizzaEaters/picoCTF-2014/tree/master/hardcore_rop>
 * <http://barrebas.github.io/blog/2014/11/06/picoctf-hardcore-rop/>
+* <https://www.whitehatters.academy/picoctf-hardcore-rop/>
