@@ -7,4 +7,3 @@
 * <http://h34dump.com/2014/03/ructf-quals-2014-crypto-200/>
 * <http://quangntenemy.blogspot.in/2014/03/ructf-quals-2014.html>
 * [Japanese](http://xrekkusu.hatenablog.jp/entry/2014/03/11/224338)
-* <http://v0ids3curity.blogspot.de/2013/03/ructf-2013-quals-crypto-200-team-xbios.html>
