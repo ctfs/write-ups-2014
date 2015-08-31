@@ -2,7 +2,11 @@
 
 * <https://csawctf.poly.edu/>
 * [Scoreboard](https://ctf.isis.poly.edu/scoreboard) or [local alternative for Quals](scoreboard_quals.txt) or [local alternative for Finals](scoreboard_finals.txt)
-* [CTF VM](https://isisblogs.poly.edu/2014/10/14/csaw-ctf-2014-vm/)
+* CTF VM
+ - [CTF VM MIRROR 0](http://captf.com/2014/csaw-quals/) 
+ - [CTF VM MIRROR 1](https://isisblogs.poly.edu/2014/10/14/csaw-ctf-2014-vm/) 
+ - [CTF VM MIRROR 2](https://ctf.isis.poly.edustatic/uploads/csaw_quals_2014.zip) 
+ - [CTF VM MIRROR 3](http://128.238.66.100/csaw_quals_2014.zip)
 
 ## Completed write-ups
 
