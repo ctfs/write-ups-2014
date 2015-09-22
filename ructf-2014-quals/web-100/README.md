@@ -8,6 +8,6 @@
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/03/ructf-quals-2014-web100-and-web200-writeup/>
+* <http://tasteless.eu/2014/03/ructf-quals-2014-web100-and-web200-writeup/>
 * <http://nullify-ctf.blogspot.in/2014/03/ructf-quals-2014-web-100-php.html>
 * <http://www.suslopas.pw/2014/03/ructf-web-100-php.html>

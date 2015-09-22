@@ -21,7 +21,7 @@ The flag is `SimplyStupidStorage`.
 ## Other write-ups and resources
 
 * <http://choppers.pw/posts/2014/09/21/csaw-quals-2014-s3/>
-* <http://tasteless.se/2014/09/s3-writeup-csaw-2014-exploiting-300/>
+* <http://tasteless.eu/2014/09/s3-writeup-csaw-2014-exploiting-300/>
 * <http://v0ids3curity.blogspot.in/2014/09/csaw-ctf-quals-2014-s3-exploitation-300.html>
 * <https://ctfcrew.org/writeup/77>
 * <http://barrebas.github.io/blog/2014/09/25/CSAW-s3/>

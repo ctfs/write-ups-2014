@@ -18,5 +18,5 @@
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/12/9447-ctf-2014-nosql/>
+* <http://tasteless.eu/2014/12/9447-ctf-2014-nosql/>
 * <http://blog.dul.ac/2014/12/9447CTF14/>

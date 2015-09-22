@@ -17,4 +17,4 @@
 
 ## Other write-ups and resources
 
-* [Write-up by tasteless](http://tasteless.se/2014/10/hack-lu-ctf-2014-peace-pipe/)
+* [Write-up by tasteless](http://tasteless.eu/2014/10/hack-lu-ctf-2014-peace-pipe/)

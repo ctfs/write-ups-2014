@@ -11,7 +11,7 @@
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/03/ructf-quals-2014-vuln100-and-recon300-writeup/>
+* <http://tasteless.eu/2014/03/ructf-quals-2014-vuln100-and-recon300-writeup/>
 * <http://h34dump.com/2014/03/933/>
 * <http://onthesystemsoftheworld.blogspot.in/2014/03/ructf-2014-qualifiers-recon-100300400.html>
 * <https://ctfcrew.org/writeup/46>

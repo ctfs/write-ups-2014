@@ -83,5 +83,5 @@ The challenge server says:  Sorry, your file did not pass all the checks.
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/09/csaw-2014-quals-wololo-rev300/>
+* <http://tasteless.eu/2014/09/csaw-2014-quals-wololo-rev300/>
 * [Exploit written in Python by @ebeip90](https://gist.github.com/ebeip90/d167b9a52cb55fbffeb2#file-wololo-py)

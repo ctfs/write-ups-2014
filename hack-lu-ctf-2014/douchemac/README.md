@@ -15,5 +15,5 @@
 
 ## Other write-ups and resources
 
-* [Write-up by tasteless](http://tasteless.se/2014/10/hack-lu-ctf-2014-douchemac/)
+* [Write-up by tasteless](http://tasteless.eu/2014/10/hack-lu-ctf-2014-douchemac/)
 * [Write-up by captchaflag](http://www.captchaflag.com/blog/2014/10/24/hack-dot-lu-2014-douchemac/)

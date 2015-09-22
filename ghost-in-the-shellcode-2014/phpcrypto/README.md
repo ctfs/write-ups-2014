@@ -92,4 +92,4 @@ ThisWasAStupidTestKeyThatBecameARealBoy
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/01/gits-2014-phpcrypto-recon-100/>
+* <http://tasteless.eu/2014/01/gits-2014-phpcrypto-recon-100/>

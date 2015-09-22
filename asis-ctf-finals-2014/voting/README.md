@@ -61,4 +61,4 @@ Putting these pieces together results in `ASIS_1dc337d61dac5cb910eb5b8c17c52fef1
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/10/asis-ctf-finals-2014-voting/>
+* <http://tasteless.eu/2014/10/asis-ctf-finals-2014-voting/>
