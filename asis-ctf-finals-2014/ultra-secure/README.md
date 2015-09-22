@@ -128,7 +128,7 @@ The flag is `ASIS_85c9febd4c15950ab1f19a6bd7a94f85`.
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/10/asis-ctf-finals-2014-ultra-secure-crypto-400/>
+* <http://tasteless.eu/2014/10/asis-ctf-finals-2014-ultra-secure-crypto-400/>
 * <http://bt3gl.github.io/on-paillier-binary-search-and-the-asis-ctf-2014.html>
 * <http://blog.dragonsector.pl/2014/10/asis-ctf-finals-2014-ultra-secure.html>
 * [Exploit written in Python](http://pastebin.com/LsMRp71Y)

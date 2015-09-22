@@ -52,6 +52,6 @@ This is a pcap file. Let’s open it in Wireshark and fire up a packet search fo
 ## Other write-ups and resources
 
 * <http://blog.squareroots.de/en/2014/05/asis-ctf-2014-forensic/>
-* <http://tasteless.se/2014/05/asis2014-forensic-150-forensic/>
+* <http://tasteless.eu/2014/05/asis2014-forensic-150-forensic/>
 * <http://blog.dul.ac/2014/05/ASISCTF14/>
 * <http://singularityctf.blogspot.de/2014/05/asis-ctf-quals-2014-writeup-forensic.html>

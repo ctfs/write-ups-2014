@@ -19,7 +19,7 @@
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/08/hitcon2014-sha1lcode-shellcode300/>
+* <http://tasteless.eu/2014/08/hitcon2014-sha1lcode-shellcode300/>
 * <http://acez.re/ctf-writeup-hitcon-ctf-2014-callme-rsbo-ty-sh41lcode/>
 * <http://www.idabook.com/ctf/sha1lcode_writeup.txt>
 * <http://blog.0x80.org/hitcon-writeup-shellcode/>

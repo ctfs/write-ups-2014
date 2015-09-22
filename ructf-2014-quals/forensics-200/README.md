@@ -4,6 +4,6 @@
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/03/ructf-quals-2014-for200-and-admin200-writeup/>
+* <http://tasteless.eu/2014/03/ructf-quals-2014-for200-and-admin200-writeup/>
 * <http://h34dump.com/2014/03/ructf-quals-2014-forensics-200/>
 * [Russian](http://akaminsky.net/ructf-2014-forensics-200-nosql/)

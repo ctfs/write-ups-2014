@@ -14,6 +14,6 @@ The flag is `ZombieProcessesWillEatYourBrains`.
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/01/gits-2014-a-boaring-quest-pwn-adventure-150/>
+* <http://tasteless.eu/2014/01/gits-2014-a-boaring-quest-pwn-adventure-150/>
 * <http://quangntenemy.blogspot.de/2014/01/ghost-in-shellcode-2014.html>
 * <http://balidani.blogspot.de/2014/01/ghost-in-shellcode-2014-pwn-adventure-2.html>

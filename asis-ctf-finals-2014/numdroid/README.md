@@ -397,4 +397,4 @@ That was a lot more fun than just running the Java code on my computer ;).
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/10/asis-ctf-finals-2014-numdroid/>
+* <http://tasteless.eu/2014/10/asis-ctf-finals-2014-numdroid/>

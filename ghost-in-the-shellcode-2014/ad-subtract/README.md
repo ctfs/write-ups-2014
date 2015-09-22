@@ -22,4 +22,4 @@ After restarting the game, the ads are now transparent/invisible. This reveals t
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/01/gits-2014-ad-substract-pwn-adventure-75>
+* <http://tasteless.eu/2014/01/gits-2014-ad-substract-pwn-adventure-75>

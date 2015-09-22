@@ -18,5 +18,5 @@ The flags are:
 
 ## Other write-ups and resources
 
-* <http://tasteless.se/2014/01/phd-ctf-quals-2014-lost-and-found-part-2/>
+* <http://tasteless.eu/2014/01/phd-ctf-quals-2014-lost-and-found-part-2/>
 * <http://h0n3yp0t.ru/?p=252>

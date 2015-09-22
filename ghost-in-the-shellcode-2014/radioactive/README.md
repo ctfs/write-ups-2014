@@ -114,4 +114,4 @@ The flag is `Welcom3ToTheNewAgeItsARevolutionISuppose`.
 ## Other write-ups and resources
 
 * <https://systemoverlord.com/blog/2014/01/19/ghost-in-the-shellcode-2014-radioactive/>
-* <http://tasteless.se/2014/01/gits-2014-radioactive-crypto-250/>
+* <http://tasteless.eu/2014/01/gits-2014-radioactive-crypto-250/>
