@@ -99,3 +99,4 @@ Remark: the problem we encountered when directly calling `system(cmd)` was that 
 * [Write-up by tasteless](http://tasteless.eu/2014/09/xorcise-csaw-2014-exploiting-500/)
 * [Excellent PoC by Henry Sanchez](https://gist.github.com/g05u/9e1ae04ad1252f709bb7)
 * <https://ctfcrew.org/writeup/69>
+* [Korean](http://hackability.kr/entry/2014CSAWCTF-Pwnable-500-Xorcise)

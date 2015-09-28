@@ -57,3 +57,4 @@ The flag is `definitely\_not\_intro\_python`.
 * [_Escaping Python sandboxes_](https://isisblogs.poly.edu/2012/10/26/escaping-python-sandboxes/)
 * <http://www.incertia.net/blog/csaw-ctf-quals-2014-pybabies/>
 * <http://bruce30262.logdown.com/posts/234935-csaw-ctf-2014-exploitation-200-pybabbies>
+* [Korean](http://hackability.kr/entry/2014CSAWCTF-Pwnable-500-Xorcise)
