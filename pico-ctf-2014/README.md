@@ -10,6 +10,7 @@
 * [intercepted-post-40](forensics/intercepted-post-40)
 * [the-valley-of-fear-20](crypto/the-valley-of-fear-20)
 * [tyrannosaurus-hex-10](miscellaneous/tyrannosaurus-hex-10)
+* [this-is-endian-40](binary-exploitation/this-is-endian-40)
 
 ## External write-ups only
 
@@ -76,4 +77,3 @@
 
 * [injection-3-130](web-exploitation/injection-3-130)
 * [supercow-40](forensics/supercow-40)
-* [this-is-endian-40](binary-exploitation/this-is-endian-40)
