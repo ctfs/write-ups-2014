@@ -18,4 +18,4 @@
 
 ## Other write-ups and resources
 
-* [Write-up + exploit by Ricky Zhou](https://rzhou.org/~ricky/9447_2014/securestore/leak.py)
+* [Write-up + exploit by Ricky Zhou](https://rzhou.org/~ricky/9447_2014/securestore/leak.py) or [here](https://github.com/pwning/public-writeup/blob/master/9447ctf2014/exploitation/securestore/leak.py)

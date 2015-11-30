@@ -41,3 +41,4 @@ total 134
 * [Write-up by hypnosec](https://github.com/hypnosec/writeups/blob/master/2014/9447-ctf/exploitation/johnlions.md)
 * <https://github.com/rick2600/writeups/blob/master/9447CTF_2014/johnlions.md>
 * [Write-up + exploit by Ricky Zhou](https://rzhou.org/~ricky/9447_2014/johnlions/)
+* <https://github.com/pwning/public-writeup/blob/master/9447ctf2014/exploitation/johnlions/johnlions.md>

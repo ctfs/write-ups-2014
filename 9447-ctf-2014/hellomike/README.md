@@ -18,3 +18,4 @@
 ## Other write-ups and resources
 
 * <https://medium.com/@shanewilton/9447-ctf-2014-hellomike-writeup-ba812f012d5>
+* <https://github.com/pwning/public-writeup/blob/master/9447ctf2014/reversing/hellomike/hellomike.md>

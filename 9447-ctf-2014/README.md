@@ -19,6 +19,7 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 
 ## External write-ups only
 
+* [blockchain](blockchain)
 * [booty](booty)
 * [classy](classy)
 * [coffee](coffee)
@@ -28,16 +29,15 @@ Flags are of the format `9447{[0-9a-zA-Z_]+}`. Please submit the entire flag, in
 * [europe03](europe03)
 * [fuckpyjails](fuckpyjails)
 * [future](future)
+* [geocap](geocap)
 * [hellomike](hellomike)
 * [johnlions](johnlions)
 * [nosql](nosql)
+* [polydata](polydata)
 * [rolling](rolling)
 * [securestore](securestore)
 * [shmap](shmap)
 
 ## Missing write-ups
 
-* [blockchain](blockchain)
 * [doom6](doom6)
-* [geocap](geocap)
-* [polydata](polydata)

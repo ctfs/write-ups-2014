@@ -16,3 +16,4 @@
 ## Other write-ups and resources
 
 * [Write-up by @bernardomr](http://w00tsec.blogspot.com/2014/11/9447-2014-ctf-write-up-coor-coor.html)
+* <https://github.com/pwning/public-writeup/blob/master/9447ctf2014/misc/coor_coor/coor_coor.md>

@@ -70,3 +70,4 @@ The flag is `9447{you_are_an_international_mystery}`.
 ## Other write-ups and resources
 
 * <http://theevilbit.blogspot.com/2014/12/9447-ctf-2014-writeup-reversing-125100.html>
+* <https://github.com/pwning/public-writeup/blob/master/9447ctf2014/reversing/no_strings_attached/no_strings_attached.md>

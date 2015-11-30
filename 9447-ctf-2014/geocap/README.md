@@ -20,4 +20,4 @@
 
 ## Other write-ups and resources
 
-* none yet
+* <https://github.com/pwning/public-writeup/blob/master/9447ctf2014/misc/geocap/geocap.md>
