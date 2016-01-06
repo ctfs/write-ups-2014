@@ -14,4 +14,4 @@
 
 ## Other write-ups and resources
 
-* [Solution in Python by IdolfHatler](https://gist.github.com/IdolfHatler/d952bf797a4d71cddbba)
+* [Solution in Python by IdolfHatler](https://gist.github.com/Idolf/d952bf797a4d71cddbba)
