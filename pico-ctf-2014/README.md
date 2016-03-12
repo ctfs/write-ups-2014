@@ -12,6 +12,7 @@
 * [tyrannosaurus-hex-10](miscellaneous/tyrannosaurus-hex-10)
 * [this-is-endian-40](binary-exploitation/this-is-endian-40)
 * [supercow-40](forensics/supercow-40)
+* [snapcat-80](forensics/snapcat-80)
 
 ## External write-ups only
 
@@ -61,7 +62,6 @@
 * [rsa-80](crypto/rsa-80)
 * [rsa-mistakes-200](master-challenge/rsa-mistakes-200)
 * [secure-page-service-100](web-exploitation/secure-page-service-100)
-* [snapcat-80](forensics/snapcat-80)
 * [spoof-proof-60](forensics/spoof-proof-60)
 * [ssh-backdoor-100](forensics/ssh-backdoor-100)
 * [steves-list-200](master-challenge/steves-list-200)
