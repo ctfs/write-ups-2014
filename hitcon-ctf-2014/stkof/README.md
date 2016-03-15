@@ -26,3 +26,4 @@
 
 * <http://acez.re/ctf-writeup-hitcon-ctf-2014-stkof-or-modern-heap-overflow/>
 * <https://rzhou.org/~ricky/hitcon2014/stkof/>
+* <http://rex.sex/ctf/2014/hitcon/stkof/ex.py>
