@@ -19,3 +19,4 @@
 * [Exploit in Perl by @_cutz](exploit-by-cutz.pl)
 * [Writeup by @wapiflapi](http://wapiflapi.github.io/2014/11/17/hacklu-oreo-with-ret2dl-resolve/)
 * <http://pastebin.com/9vq38BYH>
+* <http://rex.sex/ctf/2014/hack.lu/oreo/ex.py>
