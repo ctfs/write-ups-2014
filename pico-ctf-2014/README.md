@@ -12,6 +12,7 @@
 * [tyrannosaurus-hex-10](miscellaneous/tyrannosaurus-hex-10)
 * [this-is-endian-40](binary-exploitation/this-is-endian-40)
 * [supercow-40](forensics/supercow-40)
+* [snapcat-80](forensics/snapcat-80)
 
 ## External write-ups only
 
@@ -35,6 +36,7 @@
 * [hardcore-rop-200](master-challenge/hardcore-rop-200)
 * [injection-1-90](web-exploitation/injection-1-90)
 * [injection-2-110](web-exploitation/injection-2-110)
+* [injection-3-130](web-exploitation/injection-3-130)
 * [injection-4-150](web-exploitation/injection-4-150)
 * [internet-inspection-30](web-exploitation/internet-inspection-30)
 * [javascript-40](web-exploitation/javascript-40)
@@ -61,7 +63,6 @@
 * [rsa-80](crypto/rsa-80)
 * [rsa-mistakes-200](master-challenge/rsa-mistakes-200)
 * [secure-page-service-100](web-exploitation/secure-page-service-100)
-* [snapcat-80](forensics/snapcat-80)
 * [spoof-proof-60](forensics/spoof-proof-60)
 * [ssh-backdoor-100](forensics/ssh-backdoor-100)
 * [steves-list-200](master-challenge/steves-list-200)
@@ -73,8 +74,4 @@
 * [what-the-flag-140](binary-exploitation/what-the-flag-140)
 * [web-interseption-140](crypto/web-interseption-140)
 * [xor-50](crypto/xor-50)
-
-## Missing write-ups
-
-* [injection-3-130](web-exploitation/injection-3-130)
 
