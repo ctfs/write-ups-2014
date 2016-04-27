@@ -36,6 +36,7 @@
 * [hardcore-rop-200](master-challenge/hardcore-rop-200)
 * [injection-1-90](web-exploitation/injection-1-90)
 * [injection-2-110](web-exploitation/injection-2-110)
+* [injection-3-130](web-exploitation/injection-3-130)
 * [injection-4-150](web-exploitation/injection-4-150)
 * [internet-inspection-30](web-exploitation/internet-inspection-30)
 * [javascript-40](web-exploitation/javascript-40)
@@ -73,8 +74,4 @@
 * [what-the-flag-140](binary-exploitation/what-the-flag-140)
 * [web-interseption-140](crypto/web-interseption-140)
 * [xor-50](crypto/xor-50)
-
-## Missing write-ups
-
-* [injection-3-130](web-exploitation/injection-3-130)
 
